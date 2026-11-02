@@ -1,0 +1,14 @@
+[project]
+name = "superchat"
+version = "1.0.0"
+description = "A grounded, multilingual assistant for flights, shopping and cinema."
+requires-python = ">=3.11,<3.14"
+dependencies = ["fastapi>=0.115,<1", "uvicorn>=0.34,<1", "pydantic>=2.10,<3", "python-multipart>=0.0.20", "httpx>=0.28,<1", "pillow>=11", "python-dotenv>=1"]
+
+[project.optional-dependencies]
+vision = ["transformers>=4.48,<5", "torch>=2.6,<3"]
+dev = ["pytest>=8,<10"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["."]

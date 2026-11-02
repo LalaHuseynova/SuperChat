@@ -1,0 +1,20 @@
+{
+  "headphones_photo": {
+    "label": "headphones",
+    "confidence": 0.9209,
+    "margin": 0.8443,
+    "engine": "local-clip",
+    "accepted": true
+  },
+  "blank_image": {
+    "label": "other",
+    "confidence": 0.2461,
+    "margin": 0.0496,
+    "engine": "local-clip",
+    "accepted": false
+  },
+  "source": "https://commons.wikimedia.org/wiki/File:Headphones.jpg",
+  "author": "Atorero (Alexander Kozlov)",
+  "license": "CC BY-SA 3.0",
+  "image_distributed": false
+}

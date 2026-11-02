@@ -1,0 +1,792 @@
+{
+  "total": 106,
+  "correct": 102,
+  "accuracy": 0.9622641509433962,
+  "results": [
+    {
+      "text": "Find flights from Baku to Istanbul on Friday",
+      "expected": "flights",
+      "lang": "en",
+      "actual": "flights",
+      "correct": true
+    },
+    {
+      "text": "Flights to Dubai tomorrow",
+      "expected": "flights",
+      "lang": "en",
+      "actual": "flights",
+      "correct": true
+    },
+    {
+      "text": "Show direct flights to Moscow",
+      "expected": "flights",
+      "lang": "en",
+      "actual": "flights",
+      "correct": true
+    },
+    {
+      "text": "How much baggage on F001?",
+      "expected": "flights",
+      "lang": "en",
+      "actual": "flights",
+      "correct": true
+    },
+    {
+      "text": "Compare F001 and F002",
+      "expected": "flights",
+      "lang": "en",
+      "actual": "flights",
+      "correct": true
+    },
+    {
+      "text": "Reserve F003",
+      "expected": "flights",
+      "lang": "en",
+      "actual": "flights",
+      "correct": true
+    },
+    {
+      "text": "Caspian Air flights on Saturday",
+      "expected": "flights",
+      "lang": "en",
+      "actual": "flights",
+      "correct": true
+    },
+    {
+      "text": "Find me business class flights",
+      "expected": "flights",
+      "lang": "en",
+      "actual": "flights",
+      "correct": true
+    },
+    {
+      "text": "Show me laptops",
+      "expected": "shopping",
+      "lang": "en",
+      "actual": "shopping",
+      "correct": true
+    },
+    {
+      "text": "Wireless headphones under 100 AZN",
+      "expected": "shopping",
+      "lang": "en",
+      "actual": "shopping",
+      "correct": true
+    },
+    {
+      "text": "Add P010 to my cart",
+      "expected": "shopping",
+      "lang": "en",
+      "actual": "shopping",
+      "correct": true
+    },
+    {
+      "text": "Remove P001 from the cart",
+      "expected": "shopping",
+      "lang": "en",
+      "actual": "shopping",
+      "correct": true
+    },
+    {
+      "text": "Show products from Sonivo",
+      "expected": "shopping",
+      "lang": "en",
+      "actual": "shopping",
+      "correct": true
+    },
+    {
+      "text": "Compare P003 and P004",
+      "expected": "shopping",
+      "lang": "en",
+      "actual": "shopping",
+      "correct": true
+    },
+    {
+      "text": "Do you have black running shoes?",
+      "expected": "shopping",
+      "lang": "en",
+      "actual": "shopping",
+      "correct": true
+    },
+    {
+      "text": "Find a gift under 50 AZN",
+      "expected": "shopping",
+      "lang": "en",
+      "actual": "shopping",
+      "correct": true
+    },
+    {
+      "text": "What is playing tonight?",
+      "expected": "cinema",
+      "lang": "en",
+      "actual": "cinema",
+      "correct": true
+    },
+    {
+      "text": "English sci-fi films this Saturday",
+      "expected": "cinema",
+      "lang": "en",
+      "actual": "cinema",
+      "correct": true
+    },
+    {
+      "text": "Any seats for Orbit Zero?",
+      "expected": "cinema",
+      "lang": "en",
+      "actual": "cinema",
+      "correct": true
+    },
+    {
+      "text": "Reserve two tickets for S001",
+      "expected": "cinema",
+      "lang": "en",
+      "actual": "cinema",
+      "correct": true
+    },
+    {
+      "text": "Showtimes at CinemaPlus 28 Mall",
+      "expected": "cinema",
+      "lang": "en",
+      "actual": "cinema",
+      "correct": true
+    },
+    {
+      "text": "Films rated above 8",
+      "expected": "cinema",
+      "lang": "en",
+      "actual": "cinema",
+      "correct": true
+    },
+    {
+      "text": "Flights to Istanbul and a backpack for my trip",
+      "expected": "mixed",
+      "lang": "en",
+      "actual": "mixed",
+      "correct": true
+    },
+    {
+      "text": "Headphones and cinema tickets",
+      "expected": "mixed",
+      "lang": "en",
+      "actual": "mixed",
+      "correct": true
+    },
+    {
+      "text": "A flight, a laptop and a movie",
+      "expected": "mixed",
+      "lang": "en",
+      "actual": "mixed",
+      "correct": true
+    },
+    {
+      "text": "Show me something good",
+      "expected": "ambiguous",
+      "lang": "en",
+      "actual": "ambiguous",
+      "correct": true
+    },
+    {
+      "text": "Book two seats",
+      "expected": "ambiguous",
+      "lang": "en",
+      "actual": "ambiguous",
+      "correct": true
+    },
+    {
+      "text": "What is the weather in Ganja?",
+      "expected": "out_of_scope",
+      "lang": "en",
+      "actual": "out_of_scope",
+      "correct": true
+    },
+    {
+      "text": "Write Python code",
+      "expected": "out_of_scope",
+      "lang": "en",
+      "actual": "out_of_scope",
+      "correct": true
+    },
+    {
+      "text": "The cheaper one",
+      "expected": "follow_up",
+      "active": [
+        "flights"
+      ],
+      "lang": "en",
+      "actual": "follow_up",
+      "correct": true
+    },
+    {
+      "text": "And for Saturday?",
+      "expected": "follow_up",
+      "active": [
+        "cinema"
+      ],
+      "lang": "en",
+      "actual": "follow_up",
+      "correct": true
+    },
+    {
+      "text": "The second one",
+      "expected": "follow_up",
+      "active": [
+        "shopping"
+      ],
+      "lang": "en",
+      "actual": "follow_up",
+      "correct": true
+    },
+    {
+      "text": "Book it",
+      "expected": "ambiguous",
+      "active": [
+        "flights",
+        "cinema"
+      ],
+      "lang": "en",
+      "actual": "ambiguous",
+      "correct": true
+    },
+    {
+      "text": "Cümə günü Bakıdan İstanbula uçuş tap",
+      "expected": "flights",
+      "lang": "az",
+      "actual": "flights",
+      "correct": true
+    },
+    {
+      "text": "Sabah Dubaya uçuş var?",
+      "expected": "flights",
+      "lang": "az",
+      "actual": "flights",
+      "correct": true
+    },
+    {
+      "text": "Moskvaya birbaşa uçuş göstər",
+      "expected": "flights",
+      "lang": "az",
+      "actual": "flights",
+      "correct": true
+    },
+    {
+      "text": "F001 baqaj limiti nədir?",
+      "expected": "flights",
+      "lang": "az",
+      "actual": "flights",
+      "correct": true
+    },
+    {
+      "text": "F001 və F002 müqayisə et",
+      "expected": "flights",
+      "lang": "az",
+      "actual": "flights",
+      "correct": true
+    },
+    {
+      "text": "F003 bron et",
+      "expected": "flights",
+      "lang": "az",
+      "actual": "flights",
+      "correct": true
+    },
+    {
+      "text": "Şənbə günü təyyarə bileti",
+      "expected": "flights",
+      "lang": "az",
+      "actual": "flights",
+      "correct": true
+    },
+    {
+      "text": "Uçuşları qiymətə görə sırala",
+      "expected": "flights",
+      "lang": "az",
+      "actual": "flights",
+      "correct": true
+    },
+    {
+      "text": "Noutbukları göstər",
+      "expected": "shopping",
+      "lang": "az",
+      "actual": "shopping",
+      "correct": true
+    },
+    {
+      "text": "100 manatdan ucuz simsiz qulaqlıq",
+      "expected": "shopping",
+      "lang": "az",
+      "actual": "shopping",
+      "correct": true
+    },
+    {
+      "text": "P010 səbətə əlavə et",
+      "expected": "shopping",
+      "lang": "az",
+      "actual": "shopping",
+      "correct": true
+    },
+    {
+      "text": "P001 səbətdən sil",
+      "expected": "shopping",
+      "lang": "az",
+      "actual": "shopping",
+      "correct": true
+    },
+    {
+      "text": "Sonivo məhsullarını göstər",
+      "expected": "shopping",
+      "lang": "az",
+      "actual": "shopping",
+      "correct": true
+    },
+    {
+      "text": "P003 və P004 müqayisə et",
+      "expected": "shopping",
+      "lang": "az",
+      "actual": "shopping",
+      "correct": true
+    },
+    {
+      "text": "Qara qaçış ayaqqabısı var?",
+      "expected": "shopping",
+      "lang": "az",
+      "actual": "shopping",
+      "correct": true
+    },
+    {
+      "text": "50 manatdan ucuz hədiyyə tap",
+      "expected": "shopping",
+      "lang": "az",
+      "actual": "shopping",
+      "correct": true
+    },
+    {
+      "text": "Bu axşam kinoda nə var?",
+      "expected": "cinema",
+      "lang": "az",
+      "actual": "cinema",
+      "correct": true
+    },
+    {
+      "text": "Şənbə üçün fantastik film",
+      "expected": "cinema",
+      "lang": "az",
+      "actual": "cinema",
+      "correct": true
+    },
+    {
+      "text": "Orbit Zero üçün yer var?",
+      "expected": "cinema",
+      "lang": "az",
+      "actual": "cinema",
+      "correct": true
+    },
+    {
+      "text": "S001 üçün iki bilet bron et",
+      "expected": "cinema",
+      "lang": "az",
+      "actual": "cinema",
+      "correct": true
+    },
+    {
+      "text": "CinemaPlus 28 Mall seansları",
+      "expected": "cinema",
+      "lang": "az",
+      "actual": "cinema",
+      "correct": true
+    },
+    {
+      "text": "Reytinqi 8-dən yuxarı filmlər",
+      "expected": "cinema",
+      "lang": "az",
+      "actual": "cinema",
+      "correct": true
+    },
+    {
+      "text": "İstanbula uçuş və səfər üçün çanta",
+      "expected": "mixed",
+      "lang": "az",
+      "actual": "mixed",
+      "correct": true
+    },
+    {
+      "text": "Qulaqlıq və kino bileti",
+      "expected": "mixed",
+      "lang": "az",
+      "actual": "mixed",
+      "correct": true
+    },
+    {
+      "text": "Uçuş, noutbuk və film",
+      "expected": "mixed",
+      "lang": "az",
+      "actual": "mixed",
+      "correct": true
+    },
+    {
+      "text": "Mənə yaxşı bir şey göstər",
+      "expected": "ambiguous",
+      "lang": "az",
+      "actual": "ambiguous",
+      "correct": true
+    },
+    {
+      "text": "İki yer bron et",
+      "expected": "ambiguous",
+      "lang": "az",
+      "actual": "ambiguous",
+      "correct": true
+    },
+    {
+      "text": "Gəncədə hava necədir?",
+      "expected": "out_of_scope",
+      "lang": "az",
+      "actual": "out_of_scope",
+      "correct": true
+    },
+    {
+      "text": "Python kodu yaz",
+      "expected": "out_of_scope",
+      "lang": "az",
+      "actual": "out_of_scope",
+      "correct": true
+    },
+    {
+      "text": "Ucuz olanı",
+      "expected": "follow_up",
+      "active": [
+        "flights"
+      ],
+      "lang": "az",
+      "actual": "follow_up",
+      "correct": true
+    },
+    {
+      "text": "Bəs şənbə günü?",
+      "expected": "follow_up",
+      "active": [
+        "cinema"
+      ],
+      "lang": "az",
+      "actual": "follow_up",
+      "correct": true
+    },
+    {
+      "text": "İkinci olanı",
+      "expected": "follow_up",
+      "active": [
+        "shopping"
+      ],
+      "lang": "az",
+      "actual": "follow_up",
+      "correct": true
+    },
+    {
+      "text": "Onu bron et",
+      "expected": "ambiguous",
+      "active": [
+        "flights",
+        "cinema"
+      ],
+      "lang": "az",
+      "actual": "ambiguous",
+      "correct": true
+    },
+    {
+      "text": "Найди рейс из Баку в Стамбул в пятницу",
+      "expected": "flights",
+      "lang": "ru",
+      "actual": "flights",
+      "correct": true
+    },
+    {
+      "text": "Рейсы в Дубай завтра",
+      "expected": "flights",
+      "lang": "ru",
+      "actual": "flights",
+      "correct": true
+    },
+    {
+      "text": "Прямые рейсы в Москву",
+      "expected": "flights",
+      "lang": "ru",
+      "actual": "flights",
+      "correct": true
+    },
+    {
+      "text": "Какой багаж на F001?",
+      "expected": "flights",
+      "lang": "ru",
+      "actual": "flights",
+      "correct": true
+    },
+    {
+      "text": "Сравни F001 и F002",
+      "expected": "flights",
+      "lang": "ru",
+      "actual": "flights",
+      "correct": true
+    },
+    {
+      "text": "Забронируй F003",
+      "expected": "flights",
+      "lang": "ru",
+      "actual": "flights",
+      "correct": true
+    },
+    {
+      "text": "Авиабилеты на субботу",
+      "expected": "flights",
+      "lang": "ru",
+      "actual": "flights",
+      "correct": true
+    },
+    {
+      "text": "Рейсы по цене",
+      "expected": "flights",
+      "lang": "ru",
+      "actual": "flights",
+      "correct": true
+    },
+    {
+      "text": "Покажи ноутбуки",
+      "expected": "shopping",
+      "lang": "ru",
+      "actual": "shopping",
+      "correct": true
+    },
+    {
+      "text": "Беспроводные наушники до 100 AZN",
+      "expected": "shopping",
+      "lang": "ru",
+      "actual": "shopping",
+      "correct": true
+    },
+    {
+      "text": "Добавь P010 в корзину",
+      "expected": "shopping",
+      "lang": "ru",
+      "actual": "shopping",
+      "correct": true
+    },
+    {
+      "text": "Удали P001 из корзины",
+      "expected": "shopping",
+      "lang": "ru",
+      "actual": "shopping",
+      "correct": true
+    },
+    {
+      "text": "Товары Sonivo",
+      "expected": "shopping",
+      "lang": "ru",
+      "actual": "shopping",
+      "correct": true
+    },
+    {
+      "text": "Сравни P003 и P004",
+      "expected": "shopping",
+      "lang": "ru",
+      "actual": "shopping",
+      "correct": true
+    },
+    {
+      "text": "Чёрные беговые кроссовки",
+      "expected": "shopping",
+      "lang": "ru",
+      "actual": "shopping",
+      "correct": true
+    },
+    {
+      "text": "Подарок до 50 AZN",
+      "expected": "shopping",
+      "lang": "ru",
+      "actual": "shopping",
+      "correct": true
+    },
+    {
+      "text": "Что идёт в кино сегодня вечером?",
+      "expected": "cinema",
+      "lang": "ru",
+      "actual": "cinema",
+      "correct": true
+    },
+    {
+      "text": "Фантастика на английском в субботу",
+      "expected": "cinema",
+      "lang": "ru",
+      "actual": "cinema",
+      "correct": true
+    },
+    {
+      "text": "Есть места на Orbit Zero?",
+      "expected": "cinema",
+      "lang": "ru",
+      "actual": "cinema",
+      "correct": true
+    },
+    {
+      "text": "Забронируй два билета S001",
+      "expected": "cinema",
+      "lang": "ru",
+      "actual": "cinema",
+      "correct": true
+    },
+    {
+      "text": "Сеансы CinemaPlus 28 Mall",
+      "expected": "cinema",
+      "lang": "ru",
+      "actual": "cinema",
+      "correct": true
+    },
+    {
+      "text": "Фильмы с рейтингом выше 8",
+      "expected": "cinema",
+      "lang": "ru",
+      "actual": "cinema",
+      "correct": true
+    },
+    {
+      "text": "Рейс в Стамбул и рюкзак для поездки",
+      "expected": "mixed",
+      "lang": "ru",
+      "actual": "mixed",
+      "correct": true
+    },
+    {
+      "text": "Наушники и билеты в кино",
+      "expected": "mixed",
+      "lang": "ru",
+      "actual": "mixed",
+      "correct": true
+    },
+    {
+      "text": "Рейс, ноутбук и фильм",
+      "expected": "mixed",
+      "lang": "ru",
+      "actual": "mixed",
+      "correct": true
+    },
+    {
+      "text": "Покажи что-нибудь хорошее",
+      "expected": "ambiguous",
+      "lang": "ru",
+      "actual": "ambiguous",
+      "correct": true
+    },
+    {
+      "text": "Забронируй два места",
+      "expected": "ambiguous",
+      "lang": "ru",
+      "actual": "ambiguous",
+      "correct": true
+    },
+    {
+      "text": "Какая погода в Гяндже?",
+      "expected": "out_of_scope",
+      "lang": "ru",
+      "actual": "out_of_scope",
+      "correct": true
+    },
+    {
+      "text": "Напиши код на Python",
+      "expected": "out_of_scope",
+      "lang": "ru",
+      "actual": "out_of_scope",
+      "correct": true
+    },
+    {
+      "text": "Тот, что дешевле",
+      "expected": "follow_up",
+      "active": [
+        "flights"
+      ],
+      "lang": "ru",
+      "actual": "follow_up",
+      "correct": true
+    },
+    {
+      "text": "А в субботу?",
+      "expected": "follow_up",
+      "active": [
+        "cinema"
+      ],
+      "lang": "ru",
+      "actual": "follow_up",
+      "correct": true
+    },
+    {
+      "text": "Второй вариант",
+      "expected": "follow_up",
+      "active": [
+        "shopping"
+      ],
+      "lang": "ru",
+      "actual": "follow_up",
+      "correct": true
+    },
+    {
+      "text": "Забронируй его",
+      "expected": "ambiguous",
+      "active": [
+        "flights",
+        "cinema"
+      ],
+      "lang": "ru",
+      "actual": "ambiguous",
+      "correct": true
+    },
+    {
+      "text": "Friday uçuş Istanbul və black backpack",
+      "expected": "mixed",
+      "lang": "mixed",
+      "actual": "mixed",
+      "correct": true
+    },
+    {
+      "text": "Наушники under 100 AZN",
+      "expected": "shopping",
+      "lang": "mixed",
+      "actual": "shopping",
+      "correct": true
+    },
+    {
+      "text": "Sabah кино var?",
+      "expected": "cinema",
+      "lang": "mixed",
+      "actual": "cinema",
+      "correct": true
+    },
+    {
+      "text": "Looking for cans for my commute",
+      "expected": "shopping",
+      "lang": "en",
+      "challenge": true,
+      "actual": "ambiguous",
+      "correct": false
+    },
+    {
+      "text": "I want to catch a flick",
+      "expected": "cinema",
+      "lang": "en",
+      "challenge": true,
+      "actual": "ambiguous",
+      "correct": false
+    },
+    {
+      "text": "Мне нужен перелёт в Париж",
+      "expected": "flights",
+      "lang": "ru",
+      "challenge": true,
+      "actual": "ambiguous",
+      "correct": false
+    },
+    {
+      "text": "Mənə qulaq üçün yaxşı bir cihaz lazımdır",
+      "expected": "shopping",
+      "lang": "az",
+      "challenge": true,
+      "actual": "ambiguous",
+      "correct": false
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "status": "passed",
+  "static_http": 200,
+  "messages": 7,
+  "image_api": {
+    "label": "headphones",
+    "confidence": 0.9209,
+    "margin": 0.8443,
+    "engine": "local-clip",
+    "accepted": true
+  },
+  "log_events": 9
+}
