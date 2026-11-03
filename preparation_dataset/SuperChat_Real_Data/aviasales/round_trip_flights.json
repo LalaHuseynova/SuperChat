@@ -1,0 +1,2894 @@
+[
+  {
+    "id": "AV-67d74e583e95b4fa",
+    "airline": "Ajet",
+    "flight_number": null,
+    "origin": {
+      "code": "BAK",
+      "city": "Baku",
+      "code_type": "city",
+      "timezone": "Asia/Baku",
+      "country_code": "AZ",
+      "airport_code": null,
+      "scope": "search_location"
+    },
+    "destination": {
+      "code": "IST",
+      "city": "Istanbul",
+      "code_type": "city",
+      "timezone": "Europe/Istanbul",
+      "country_code": "TR",
+      "airport_code": null,
+      "scope": "search_location"
+    },
+    "source_route": {
+      "origin": {
+        "code": "BAK",
+        "city": "Baku",
+        "code_type": "city",
+        "timezone": "Asia/Baku",
+        "country_code": "AZ",
+        "airport_code": null,
+        "scope": "city"
+      },
+      "destination": {
+        "code": "IST",
+        "city": "Istanbul",
+        "code_type": "city",
+        "timezone": "Europe/Istanbul",
+        "country_code": "TR",
+        "airport_code": null,
+        "scope": "city"
+      }
+    },
+    "departure_local": "2026-11-26T05:50",
+    "arrival_local": "2026-11-26T08:05",
+    "duration_min": 195,
+    "stops": 0,
+    "via": null,
+    "price_azn": 263.01,
+    "cabin": null,
+    "baggage_kg": null,
+    "seats_available": null,
+    "currency": "AZN",
+    "trip_type": "round_trip",
+    "price_scope": "entire_round_trip",
+    "baggage_included": null,
+    "fare_label": "Ən ucuz",
+    "airlines": [
+      {
+        "code": "VF",
+        "name": "Ajet",
+        "logo_url": "https://img.avs.io/pics/al_square/VF@avif?rs=fit:64:64"
+      }
+    ],
+    "return_date": "2026-11-29",
+    "departure_utc": "2026-11-26T01:50:00+00:00",
+    "arrival_utc": "2026-11-26T05:05:00+00:00",
+    "arrival_time_displayed": "08:05",
+    "arrival_date_source": "derived_from_displayed_duration_and_timezones",
+    "return_leg": {
+      "origin": {
+        "code": "IST",
+        "city": "Istanbul",
+        "code_type": "city",
+        "timezone": "Europe/Istanbul",
+        "country_code": "TR",
+        "airport_code": null,
+        "scope": "search_location"
+      },
+      "destination": {
+        "code": "BAK",
+        "city": "Baku",
+        "code_type": "city",
+        "timezone": "Asia/Baku",
+        "country_code": "AZ",
+        "airport_code": null,
+        "scope": "search_location"
+      },
+      "departure_local": "2026-11-29T07:40",
+      "arrival_local": "2026-11-29T11:35",
+      "departure_utc": "2026-11-29T04:40:00+00:00",
+      "arrival_utc": "2026-11-29T07:35:00+00:00",
+      "arrival_time_displayed": "11:35",
+      "duration_min": 175,
+      "stops": 0,
+      "via": null,
+      "airlines": [
+        {
+          "code": "VF",
+          "name": "Ajet",
+          "logo_url": "https://img.avs.io/pics/al_square/VF@avif?rs=fit:64:64"
+        }
+      ],
+      "arrival_date_source": "derived_from_displayed_duration_and_timezones",
+      "data_warnings": []
+    },
+    "location_scope": "city_route_area_not_confirmed_airports",
+    "search_route": {
+      "origin": {
+        "code": "BAK",
+        "city": "Baku",
+        "code_type": "city",
+        "timezone": "Asia/Baku",
+        "country_code": "AZ",
+        "airport_code": null,
+        "scope": "search_location"
+      },
+      "destination": {
+        "code": "IST",
+        "city": "Istanbul",
+        "code_type": "city",
+        "timezone": "Europe/Istanbul",
+        "country_code": "TR",
+        "airport_code": null,
+        "scope": "search_location"
+      }
+    },
+    "nearby_airport_search": false,
+    "search_url": "https://www.aviasales.az/search/BAK2611IST29111?t=VF17956722001795680300000195GYDSAW17959380001795952100000175SAWGYD_ac4e720c26267bebfef86eca363b2ef2_12551&search_date=02112026&expected_price_uuid=01a19d16-808e-8030-e519-fa00ba692a16&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=yVIxz7vdqgNVmBiD75uReQ&expected_price_source=share&expected_price_currency=azn&expected_price=263",
+    "price_kind": "cached_advertised_fare",
+    "live_price_verified": false,
+    "source_search_date": "2026-11-02",
+    "fetched_at": "2026-11-02T21:25:14.663635+04:00",
+    "source_url": "https://www.aviasales.az/routes/bak/ist",
+    "source": "aviasales.az",
+    "source_card_text": "Ən ucuz 263,01 ₼ 26 Noy, Cüm.a 05:50 – 08:05 Yolda: 3 saat 15 dəq. / birbaşa 29 Noy, Baz 07:40 – 11:35 Yolda: 2 saat 55 dəq. / birbaşa",
+    "data_warnings": [],
+    "missing_fields": [
+      "flight_number",
+      "cabin",
+      "baggage_kg",
+      "seats_available",
+      "confirmed_airports"
+    ]
+  },
+  {
+    "id": "AV-a89912013ee8218a",
+    "airline": "Ajet",
+    "flight_number": null,
+    "origin": {
+      "code": "BAK",
+      "city": "Baku",
+      "code_type": "city",
+      "timezone": "Asia/Baku",
+      "country_code": "AZ",
+      "airport_code": null,
+      "scope": "search_location"
+    },
+    "destination": {
+      "code": "IST",
+      "city": "Istanbul",
+      "code_type": "city",
+      "timezone": "Europe/Istanbul",
+      "country_code": "TR",
+      "airport_code": null,
+      "scope": "search_location"
+    },
+    "source_route": {
+      "origin": {
+        "code": "BAK",
+        "city": "Baku",
+        "code_type": "city",
+        "timezone": "Asia/Baku",
+        "country_code": "AZ",
+        "airport_code": null,
+        "scope": "city"
+      },
+      "destination": {
+        "code": "IST",
+        "city": "Istanbul",
+        "code_type": "city",
+        "timezone": "Europe/Istanbul",
+        "country_code": "TR",
+        "airport_code": null,
+        "scope": "city"
+      }
+    },
+    "departure_local": "2026-12-10T05:50",
+    "arrival_local": "2026-12-10T08:05",
+    "duration_min": 195,
+    "stops": 0,
+    "via": null,
+    "price_azn": 359.79,
+    "cabin": null,
+    "baggage_kg": null,
+    "seats_available": null,
+    "currency": "AZN",
+    "trip_type": "round_trip",
+    "price_scope": "entire_round_trip",
+    "baggage_included": true,
+    "fare_label": "Baqaj daxil ən ucuz",
+    "airlines": [
+      {
+        "code": "VF",
+        "name": "Ajet",
+        "logo_url": "https://img.avs.io/pics/al_square/VF@avif?rs=fit:64:64"
+      }
+    ],
+    "return_date": "2026-12-13",
+    "departure_utc": "2026-12-10T01:50:00+00:00",
+    "arrival_utc": "2026-12-10T05:05:00+00:00",
+    "arrival_time_displayed": "08:05",
+    "arrival_date_source": "derived_from_displayed_duration_and_timezones",
+    "return_leg": {
+      "origin": {
+        "code": "IST",
+        "city": "Istanbul",
+        "code_type": "city",
+        "timezone": "Europe/Istanbul",
+        "country_code": "TR",
+        "airport_code": null,
+        "scope": "search_location"
+      },
+      "destination": {
+        "code": "BAK",
+        "city": "Baku",
+        "code_type": "city",
+        "timezone": "Asia/Baku",
+        "country_code": "AZ",
+        "airport_code": null,
+        "scope": "search_location"
+      },
+      "departure_local": "2026-12-13T07:40",
+      "arrival_local": "2026-12-13T11:35",
+      "departure_utc": "2026-12-13T04:40:00+00:00",
+      "arrival_utc": "2026-12-13T07:35:00+00:00",
+      "arrival_time_displayed": "11:35",
+      "duration_min": 175,
+      "stops": 0,
+      "via": null,
+      "airlines": [
+        {
+          "code": "VF",
+          "name": "Ajet",
+          "logo_url": "https://img.avs.io/pics/al_square/VF@avif?rs=fit:64:64"
+        }
+      ],
+      "arrival_date_source": "derived_from_displayed_duration_and_timezones",
+      "data_warnings": []
+    },
+    "location_scope": "city_route_area_not_confirmed_airports",
+    "search_route": {
+      "origin": {
+        "code": "BAK",
+        "city": "Baku",
+        "code_type": "city",
+        "timezone": "Asia/Baku",
+        "country_code": "AZ",
+        "airport_code": null,
+        "scope": "search_location"
+      },
+      "destination": {
+        "code": "IST",
+        "city": "Istanbul",
+        "code_type": "city",
+        "timezone": "Europe/Istanbul",
+        "country_code": "TR",
+        "airport_code": null,
+        "scope": "search_location"
+      }
+    },
+    "nearby_airport_search": false,
+    "search_url": "https://www.aviasales.az/search/BAK1012IST13121?t=VF17968818001796889900000195GYDSAW17971476001797161700000175SAWGYD_13df72b869968c09ff2e4bfc5f24935d_17206&search_date=02112026&expected_price_uuid=01a19d2e-d916-8030-e7cf-a1ffde83fcdf&static_fare_key=TY%7CP1%7CH0%7CL1_1_5%7CCH1%7CR0%7CTBC1&itinerary_key=yVIxz7vdqgNVmBiD75uReQ&expected_price_source=share&expected_price_currency=azn&expected_price=360",
+    "price_kind": "cached_advertised_fare",
+    "live_price_verified": false,
+    "source_search_date": "2026-11-02",
+    "fetched_at": "2026-11-02T21:25:14.663635+04:00",
+    "source_url": "https://www.aviasales.az/routes/bak/ist",
+    "source": "aviasales.az",
+    "source_card_text": "Baqaj daxil ən ucuz 359,79 ₼ 10 Dek, Cüm.a 05:50 – 08:05 Yolda: 3 saat 15 dəq. / birbaşa 13 Dek, Baz 07:40 – 11:35 Yolda: 2 saat 55 dəq. / birbaşa",
+    "data_warnings": [],
+    "missing_fields": [
+      "flight_number",
+      "cabin",
+      "baggage_kg",
+      "seats_available",
+      "confirmed_airports"
+    ]
+  },
+  {
+    "id": "AV-34cf1a61481645c0",
+    "airline": "Ajet",
+    "flight_number": null,
+    "origin": {
+      "code": "IST",
+      "city": "Istanbul",
+      "code_type": "city",
+      "timezone": "Europe/Istanbul",
+      "country_code": "TR",
+      "airport_code": null,
+      "scope": "search_location"
+    },
+    "destination": {
+      "code": "BAK",
+      "city": "Baku",
+      "code_type": "city",
+      "timezone": "Asia/Baku",
+      "country_code": "AZ",
+      "airport_code": null,
+      "scope": "search_location"
+    },
+    "source_route": {
+      "origin": {
+        "code": "IST",
+        "city": "Istanbul",
+        "code_type": "city",
+        "timezone": "Europe/Istanbul",
+        "country_code": "TR",
+        "airport_code": null,
+        "scope": "city"
+      },
+      "destination": {
+        "code": "BAK",
+        "city": "Baku",
+        "code_type": "city",
+        "timezone": "Asia/Baku",
+        "country_code": "AZ",
+        "airport_code": null,
+        "scope": "city"
+      }
+    },
+    "departure_local": "2026-11-27T07:40",
+    "arrival_local": "2026-11-27T11:35",
+    "duration_min": 175,
+    "stops": 0,
+    "via": null,
+    "price_azn": 263.02,
+    "cabin": null,
+    "baggage_kg": null,
+    "seats_available": null,
+    "currency": "AZN",
+    "trip_type": "round_trip",
+    "price_scope": "entire_round_trip",
+    "baggage_included": null,
+    "fare_label": "Ən ucuz",
+    "airlines": [
+      {
+        "code": "VF",
+        "name": "Ajet",
+        "logo_url": "https://img.avs.io/pics/al_square/VF@avif?rs=fit:64:64"
+      }
+    ],
+    "return_date": "2026-11-30",
+    "departure_utc": "2026-11-27T04:40:00+00:00",
+    "arrival_utc": "2026-11-27T07:35:00+00:00",
+    "arrival_time_displayed": "11:35",
+    "arrival_date_source": "derived_from_displayed_duration_and_timezones",
+    "return_leg": {
+      "origin": {
+        "code": "BAK",
+        "city": "Baku",
+        "code_type": "city",
+        "timezone": "Asia/Baku",
+        "country_code": "AZ",
+        "airport_code": null,
+        "scope": "search_location"
+      },
+      "destination": {
+        "code": "IST",
+        "city": "Istanbul",
+        "code_type": "city",
+        "timezone": "Europe/Istanbul",
+        "country_code": "TR",
+        "airport_code": null,
+        "scope": "search_location"
+      },
+      "departure_local": "2026-11-30T05:50",
+      "arrival_local": "2026-11-30T08:05",
+      "departure_utc": "2026-11-30T01:50:00+00:00",
+      "arrival_utc": "2026-11-30T05:05:00+00:00",
+      "arrival_time_displayed": "08:05",
+      "duration_min": 195,
+      "stops": 0,
+      "via": null,
+      "airlines": [
+        {
+          "code": "VF",
+          "name": "Ajet",
+          "logo_url": "https://img.avs.io/pics/al_square/VF@avif?rs=fit:64:64"
+        }
+      ],
+      "arrival_date_source": "derived_from_displayed_duration_and_timezones",
+      "data_warnings": []
+    },
+    "location_scope": "city_route_area_not_confirmed_airports",
+    "search_route": {
+      "origin": {
+        "code": "IST",
+        "city": "Istanbul",
+        "code_type": "city",
+        "timezone": "Europe/Istanbul",
+        "country_code": "TR",
+        "airport_code": null,
+        "scope": "search_location"
+      },
+      "destination": {
+        "code": "BAK",
+        "city": "Baku",
+        "code_type": "city",
+        "timezone": "Asia/Baku",
+        "country_code": "AZ",
+        "airport_code": null,
+        "scope": "search_location"
+      }
+    },
+    "nearby_airport_search": false,
+    "search_url": "https://www.aviasales.az/search/IST2711BAK30111?t=VF17957652001795779300000175SAWGYD17960178001796025900000195GYDSAW_caa0d3b37d7d9d9e554ac9ef8105ca31_12495&search_date=02112026&expected_price_uuid=01a19a78-0eee-8040-a443-684a203c0e16&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=v1I5Oz7ZlStAg_mZmsa0kQ&expected_price_source=share&expected_price_currency=azn&expected_price=263",
+    "price_kind": "cached_advertised_fare",
+    "live_price_verified": false,
+    "source_search_date": "2026-11-02",
+    "fetched_at": "2026-11-02T21:25:15.635043+04:00",
+    "source_url": "https://www.aviasales.az/routes/ist/bak",
+    "source": "aviasales.az",
+    "source_card_text": "Ən ucuz 263,02 ₼ 27 Noy, Cüm 07:40 – 11:35 Yolda: 2 saat 55 dəq. / birbaşa 30 Noy, Baz.e 05:50 – 08:05 Yolda: 3 saat 15 dəq. / birbaşa",
+    "data_warnings": [],
+    "missing_fields": [
+      "flight_number",
+      "cabin",
+      "baggage_kg",
+      "seats_available",
+      "confirmed_airports"
+    ]
+  },
+  {
+    "id": "AV-ee7e23084d13081b",
+    "airline": "Ajet",
+    "flight_number": null,
+    "origin": {
+      "code": "IST",
+      "city": "Istanbul",
+      "code_type": "city",
+      "timezone": "Europe/Istanbul",
+      "country_code": "TR",
+      "airport_code": null,
+      "scope": "search_location"
+    },
+    "destination": {
+      "code": "BAK",
+      "city": "Baku",
+      "code_type": "city",
+      "timezone": "Asia/Baku",
+      "country_code": "AZ",
+      "airport_code": null,
+      "scope": "search_location"
+    },
+    "source_route": {
+      "origin": {
+        "code": "IST",
+        "city": "Istanbul",
+        "code_type": "city",
+        "timezone": "Europe/Istanbul",
+        "country_code": "TR",
+        "airport_code": null,
+        "scope": "city"
+      },
+      "destination": {
+        "code": "BAK",
+        "city": "Baku",
+        "code_type": "city",
+        "timezone": "Asia/Baku",
+        "country_code": "AZ",
+        "airport_code": null,
+        "scope": "city"
+      }
+    },
+    "departure_local": "2026-11-25T07:35",
+    "arrival_local": "2026-11-25T11:30",
+    "duration_min": 175,
+    "stops": 0,
+    "via": null,
+    "price_azn": 341.6,
+    "cabin": null,
+    "baggage_kg": null,
+    "seats_available": null,
+    "currency": "AZN",
+    "trip_type": "round_trip",
+    "price_scope": "entire_round_trip",
+    "baggage_included": true,
+    "fare_label": "Baqaj daxil ən ucuz",
+    "airlines": [
+      {
+        "code": "VF",
+        "name": "Ajet",
+        "logo_url": "https://img.avs.io/pics/al_square/VF@avif?rs=fit:64:64"
+      }
+    ],
+    "return_date": "2026-11-30",
+    "departure_utc": "2026-11-25T04:35:00+00:00",
+    "arrival_utc": "2026-11-25T07:30:00+00:00",
+    "arrival_time_displayed": "11:30",
+    "arrival_date_source": "derived_from_displayed_duration_and_timezones",
+    "return_leg": {
+      "origin": {
+        "code": "BAK",
+        "city": "Baku",
+        "code_type": "city",
+        "timezone": "Asia/Baku",
+        "country_code": "AZ",
+        "airport_code": null,
+        "scope": "search_location"
+      },
+      "destination": {
+        "code": "IST",
+        "city": "Istanbul",
+        "code_type": "city",
+        "timezone": "Europe/Istanbul",
+        "country_code": "TR",
+        "airport_code": null,
+        "scope": "search_location"
+      },
+      "departure_local": "2026-11-30T05:50",
+      "arrival_local": "2026-11-30T08:05",
+      "departure_utc": "2026-11-30T01:50:00+00:00",
+      "arrival_utc": "2026-11-30T05:05:00+00:00",
+      "arrival_time_displayed": "08:05",
+      "duration_min": 195,
+      "stops": 0,
+      "via": null,
+      "airlines": [
+        {
+          "code": "VF",
+          "name": "Ajet",
+          "logo_url": "https://img.avs.io/pics/al_square/VF@avif?rs=fit:64:64"
+        }
+      ],
+      "arrival_date_source": "derived_from_displayed_duration_and_timezones",
+      "data_warnings": []
+    },
+    "location_scope": "city_route_area_not_confirmed_airports",
+    "search_route": {
+      "origin": {
+        "code": "IST",
+        "city": "Istanbul",
+        "code_type": "city",
+        "timezone": "Europe/Istanbul",
+        "country_code": "TR",
+        "airport_code": null,
+        "scope": "search_location"
+      },
+      "destination": {
+        "code": "BAK",
+        "city": "Baku",
+        "code_type": "city",
+        "timezone": "Asia/Baku",
+        "country_code": "AZ",
+        "airport_code": null,
+        "scope": "search_location"
+      }
+    },
+    "nearby_airport_search": false,
+    "search_url": "https://www.aviasales.az/search/IST2511BAK30111?t=VF17955921001795606200000175SAWGYD17960178001796025900000195GYDSAW_9f35f509ec5ffb597916e81a9c43ff6f_16136&search_date=01112026&expected_price_uuid=01a19694-5cf1-8030-a869-d1d48b297736&static_fare_key=TY%7CP0%7CH0%7CL1_1_10%7CCH1%7CR0%7CTBC1&itinerary_key=86wO0irAPVqYTxdKwyfQQQ&expected_price_source=share&expected_price_currency=azn&expected_price=342",
+    "price_kind": "cached_advertised_fare",
+    "live_price_verified": false,
+    "source_search_date": "2026-11-01",
+    "fetched_at": "2026-11-02T21:25:15.635043+04:00",
+    "source_url": "https://www.aviasales.az/routes/ist/bak",
+    "source": "aviasales.az",
+    "source_card_text": "Baqaj daxil ən ucuz 341,6 ₼ 25 Noy, Çər 07:35 – 11:30 Yolda: 2 saat 55 dəq. / birbaşa 30 Noy, Baz.e 05:50 – 08:05 Yolda: 3 saat 15 dəq. / birbaşa",
+    "data_warnings": [],
+    "missing_fields": [
+      "flight_number",
+      "cabin",
+      "baggage_kg",
+      "seats_available",
+      "confirmed_airports"
+    ]
+  },
+  {
+    "id": "AV-3cc93e8595edc44e",
+    "airline": "Air Arabia",
+    "flight_number": null,
+    "origin": {
+      "code": "BAK",
+      "city": "Baku",
+      "code_type": "city",
+      "timezone": "Asia/Baku",
+      "country_code": "AZ",
+      "airport_code": null,
+      "scope": "search_location"
+    },
+    "destination": {
+      "code": "SHJ",
+      "city": "Sharjah",
+      "code_type": "city",
+      "timezone": "Asia/Dubai",
+      "country_code": "AE",
+      "airport_code": null,
+      "scope": "search_location"
+    },
+    "source_route": {
+      "origin": {
+        "code": "BAK",
+        "city": "Baku",
+        "code_type": "city",
+        "timezone": "Asia/Baku",
+        "country_code": "AZ",
+        "airport_code": null,
+        "scope": "city"
+      },
+      "destination": {
+        "code": "DXB",
+        "city": "Dubai",
+        "code_type": "city",
+        "timezone": "Asia/Dubai",
+        "country_code": "AE",
+        "airport_code": null,
+        "scope": "city"
+      }
+    },
+    "departure_local": "2026-11-29T16:50",
+    "arrival_local": "2026-11-29T20:55",
+    "duration_min": 245,
+    "stops": 0,
+    "via": null,
+    "price_azn": 598.14,
+    "cabin": null,
+    "baggage_kg": null,
+    "seats_available": null,
+    "currency": "AZN",
+    "trip_type": "round_trip",
+    "price_scope": "entire_round_trip",
+    "baggage_included": null,
+    "fare_label": "Ən ucuz",
+    "airlines": [
+      {
+        "code": "G9",
+        "name": "Air Arabia",
+        "logo_url": "https://img.avs.io/pics/al_square/G9@avif?rs=fit:64:64"
+      }
+    ],
+    "return_date": "2026-12-03",
+    "departure_utc": "2026-11-29T12:50:00+00:00",
+    "arrival_utc": "2026-11-29T16:55:00+00:00",
+    "arrival_time_displayed": "20:55",
+    "arrival_date_source": "derived_from_displayed_duration_and_timezones",
+    "return_leg": {
+      "origin": {
+        "code": "SHJ",
+        "city": "Sharjah",
+        "code_type": "city",
+        "timezone": "Asia/Dubai",
+        "country_code": "AE",
+        "airport_code": null,
+        "scope": "search_location"
+      },
+      "destination": {
+        "code": "BAK",
+        "city": "Baku",
+        "code_type": "city",
+        "timezone": "Asia/Baku",
+        "country_code": "AZ",
+        "airport_code": null,
+        "scope": "search_location"
+      },
+      "departure_local": "2026-12-03T02:45",
+      "arrival_local": "2026-12-03T14:30",
+      "departure_utc": "2026-12-02T22:45:00+00:00",
+      "arrival_utc": "2026-12-03T10:30:00+00:00",
+      "arrival_time_displayed": "14:30",
+      "duration_min": 705,
+      "stops": 1,
+      "via": null,
+      "airlines": [
+        {
+          "code": "PC",
+          "name": "Pegasus Airlines",
+          "logo_url": "https://img.avs.io/pics/al_square/PC@avif?rs=fit:64:64"
+        }
+      ],
+      "arrival_date_source": "derived_from_displayed_duration_and_timezones",
+      "data_warnings": []
+    },
+    "location_scope": "city_route_area_not_confirmed_airports",
+    "search_route": {
+      "origin": {
+        "code": "BAK",
+        "city": "Baku",
+        "code_type": "city",
+        "timezone": "Asia/Baku",
+        "country_code": "AZ",
+        "airport_code": null,
+        "scope": "search_location"
+      },
+      "destination": {
+        "code": "SHJ",
+        "city": "Sharjah",
+        "code_type": "city",
+        "timezone": "Asia/Dubai",
+        "country_code": "AE",
+        "airport_code": null,
+        "scope": "search_location"
+      }
+    },
+    "nearby_airport_search": true,
+    "search_url": "https://www.aviasales.az/search/BAK2911SHJ03121?t=PC17959710001795985700000245GYDSHJ17962659001796308200000705DXBAYTGYD_75a5fbef6e34a3b86278639bcbb835b1_28509&search_date=02112026&expected_price_uuid=01a19be7-b138-8031-652f-4d8fda06cb22&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=l7K9dXHol51RZMEXfr1sfQ&expected_price_source=share&expected_price_currency=azn&expected_price=598",
+    "price_kind": "cached_advertised_fare",
+    "live_price_verified": false,
+    "source_search_date": "2026-11-02",
+    "fetched_at": "2026-11-02T21:25:16.534292+04:00",
+    "source_url": "https://www.aviasales.az/routes/bak/dxb",
+    "source": "aviasales.az",
+    "source_card_text": "Ən ucuz 598,14 ₼ 29 Noy, Baz 16:50 – 20:55 Yolda: 4 saat 5 dəq. / birbaşa 3 Dek, Cüm.a 02:45 – 14:30 Yolda: 11 saat 45 dəq. / 1 tranzit",
+    "data_warnings": [
+      "The search link uses a nearby/different city or airport; check search_route before displaying destinations."
+    ],
+    "missing_fields": [
+      "flight_number",
+      "cabin",
+      "baggage_kg",
+      "seats_available",
+      "confirmed_airports"
+    ]
+  },
+  {
+    "id": "AV-3faf92e33fab8821",
+    "airline": "Air Arabia",
+    "flight_number": null,
+    "origin": {
+      "code": "BAK",
+      "city": "Baku",
+      "code_type": "city",
+      "timezone": "Asia/Baku",
+      "country_code": "AZ",
+      "airport_code": null,
+      "scope": "search_location"
+    },
+    "destination": {
+      "code": "SHJ",
+      "city": "Sharjah",
+      "code_type": "city",
+      "timezone": "Asia/Dubai",
+      "country_code": "AE",
+      "airport_code": null,
+      "scope": "search_location"
+    },
+    "source_route": {
+      "origin": {
+        "code": "BAK",
+        "city": "Baku",
+        "code_type": "city",
+        "timezone": "Asia/Baku",
+        "country_code": "AZ",
+        "airport_code": null,
+        "scope": "city"
+      },
+      "destination": {
+        "code": "DXB",
+        "city": "Dubai",
+        "code_type": "city",
+        "timezone": "Asia/Dubai",
+        "country_code": "AE",
+        "airport_code": null,
+        "scope": "city"
+      }
+    },
+    "departure_local": "2026-11-11T16:50",
+    "arrival_local": "2026-11-11T20:55",
+    "duration_min": 245,
+    "stops": 0,
+    "via": null,
+    "price_azn": 610.92,
+    "cabin": null,
+    "baggage_kg": null,
+    "seats_available": null,
+    "currency": "AZN",
+    "trip_type": "round_trip",
+    "price_scope": "entire_round_trip",
+    "baggage_included": null,
+    "fare_label": "Rahat",
+    "airlines": [
+      {
+        "code": "G9",
+        "name": "Air Arabia",
+        "logo_url": "https://img.avs.io/pics/al_square/G9@avif?rs=fit:64:64"
+      }
+    ],
+    "return_date": "2026-11-15",
+    "departure_utc": "2026-11-11T12:50:00+00:00",
+    "arrival_utc": "2026-11-11T16:55:00+00:00",
+    "arrival_time_displayed": "20:55",
+    "arrival_date_source": "derived_from_displayed_duration_and_timezones",
+    "return_leg": {
+      "origin": {
+        "code": "SHJ",
+        "city": "Sharjah",
+        "code_type": "city",
+        "timezone": "Asia/Dubai",
+        "country_code": "AE",
+        "airport_code": null,
+        "scope": "search_location"
+      },
+      "destination": {
+        "code": "BAK",
+        "city": "Baku",
+        "code_type": "city",
+        "timezone": "Asia/Baku",
+        "country_code": "AZ",
+        "airport_code": null,
+        "scope": "search_location"
+      },
+      "departure_local": "2026-11-15T02:45",
+      "arrival_local": "2026-11-15T14:05",
+      "departure_utc": "2026-11-14T22:45:00+00:00",
+      "arrival_utc": "2026-11-15T10:05:00+00:00",
+      "arrival_time_displayed": "14:05",
+      "duration_min": 680,
+      "stops": 1,
+      "via": null,
+      "airlines": [
+        {
+          "code": "PC",
+          "name": "Pegasus Airlines",
+          "logo_url": "https://img.avs.io/pics/al_square/PC@avif?rs=fit:64:64"
+        }
+      ],
+      "arrival_date_source": "derived_from_displayed_duration_and_timezones",
+      "data_warnings": []
+    },
+    "location_scope": "city_route_area_not_confirmed_airports",
+    "search_route": {
+      "origin": {
+        "code": "BAK",
+        "city": "Baku",
+        "code_type": "city",
+        "timezone": "Asia/Baku",
+        "country_code": "AZ",
+        "airport_code": null,
+        "scope": "search_location"
+      },
+      "destination": {
+        "code": "SHJ",
+        "city": "Sharjah",
+        "code_type": "city",
+        "timezone": "Asia/Dubai",
+        "country_code": "AE",
+        "airport_code": null,
+        "scope": "search_location"
+      }
+    },
+    "nearby_airport_search": true,
+    "search_url": "https://www.aviasales.az/search/BAK1111SHJ15111?t=PC17944158001794430500000245GYDSHJ17947107001794751500000680DXBAYTGYD_bbd192772f345f7221f1d950bb23f9a2_28980&search_date=02112026&expected_price_uuid=01a19af7-8327-8030-a8d0-050e22791306&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=sKAHKlHiMMc7VnSkLd0POA&expected_price_source=share&expected_price_currency=azn&expected_price=611",
+    "price_kind": "cached_advertised_fare",
+    "live_price_verified": false,
+    "source_search_date": "2026-11-02",
+    "fetched_at": "2026-11-02T21:25:16.534292+04:00",
+    "source_url": "https://www.aviasales.az/routes/bak/dxb",
+    "source": "aviasales.az",
+    "source_card_text": "Rahat 610,92 ₼ 11 Noy, Çər 16:50 – 20:55 Yolda: 4 saat 5 dəq. / birbaşa 15 Noy, Baz 02:45 – 14:05 Yolda: 11 saat 20 dəq. / 1 tranzit",
+    "data_warnings": [
+      "The search link uses a nearby/different city or airport; check search_route before displaying destinations."
+    ],
+    "missing_fields": [
+      "flight_number",
+      "cabin",
+      "baggage_kg",
+      "seats_available",
+      "confirmed_airports"
+    ]
+  },
+  {
+    "id": "AV-22661e7883010587",
+    "airline": "Air Arabia",
+    "flight_number": null,
+    "origin": {
+      "code": "BAK",
+      "city": "Baku",
+      "code_type": "city",
+      "timezone": "Asia/Baku",
+      "country_code": "AZ",
+      "airport_code": null,
+      "scope": "search_location"
+    },
+    "destination": {
+      "code": "SHJ",
+      "city": "Sharjah",
+      "code_type": "city",
+      "timezone": "Asia/Dubai",
+      "country_code": "AE",
+      "airport_code": null,
+      "scope": "search_location"
+    },
+    "source_route": {
+      "origin": {
+        "code": "BAK",
+        "city": "Baku",
+        "code_type": "city",
+        "timezone": "Asia/Baku",
+        "country_code": "AZ",
+        "airport_code": null,
+        "scope": "city"
+      },
+      "destination": {
+        "code": "DXB",
+        "city": "Dubai",
+        "code_type": "city",
+        "timezone": "Asia/Dubai",
+        "country_code": "AE",
+        "airport_code": null,
+        "scope": "city"
+      }
+    },
+    "departure_local": "2026-11-12T12:55",
+    "arrival_local": "2026-11-12T17:00",
+    "duration_min": 245,
+    "stops": 0,
+    "via": null,
+    "price_azn": 652.07,
+    "cabin": null,
+    "baggage_kg": null,
+    "seats_available": null,
+    "currency": "AZN",
+    "trip_type": "round_trip",
+    "price_scope": "entire_round_trip",
+    "baggage_included": null,
+    "fare_label": "Birbaşa",
+    "airlines": [
+      {
+        "code": "G9",
+        "name": "Air Arabia",
+        "logo_url": "https://img.avs.io/pics/al_square/G9@avif?rs=fit:64:64"
+      }
+    ],
+    "return_date": "2026-11-18",
+    "departure_utc": "2026-11-12T08:55:00+00:00",
+    "arrival_utc": "2026-11-12T13:00:00+00:00",
+    "arrival_time_displayed": "17:00",
+    "arrival_date_source": "derived_from_displayed_duration_and_timezones",
+    "return_leg": {
+      "origin": {
+        "code": "SHJ",
+        "city": "Sharjah",
+        "code_type": "city",
+        "timezone": "Asia/Dubai",
+        "country_code": "AE",
+        "airport_code": null,
+        "scope": "search_location"
+      },
+      "destination": {
+        "code": "BAK",
+        "city": "Baku",
+        "code_type": "city",
+        "timezone": "Asia/Baku",
+        "country_code": "AZ",
+        "airport_code": null,
+        "scope": "search_location"
+      },
+      "departure_local": "2026-11-18T12:00",
+      "arrival_local": "2026-11-18T16:25",
+      "departure_utc": "2026-11-18T08:00:00+00:00",
+      "arrival_utc": "2026-11-18T12:25:00+00:00",
+      "arrival_time_displayed": "16:25",
+      "duration_min": 265,
+      "stops": 0,
+      "via": null,
+      "airlines": [
+        {
+          "code": "G9",
+          "name": "Air Arabia",
+          "logo_url": "https://img.avs.io/pics/al_square/G9@avif?rs=fit:64:64"
+        }
+      ],
+      "arrival_date_source": "derived_from_displayed_duration_and_timezones",
+      "data_warnings": []
+    },
+    "location_scope": "city_route_area_not_confirmed_airports",
+    "search_route": {
+      "origin": {
+        "code": "BAK",
+        "city": "Baku",
+        "code_type": "city",
+        "timezone": "Asia/Baku",
+        "country_code": "AZ",
+        "airport_code": null,
+        "scope": "search_location"
+      },
+      "destination": {
+        "code": "SHJ",
+        "city": "Sharjah",
+        "code_type": "city",
+        "timezone": "Asia/Dubai",
+        "country_code": "AE",
+        "airport_code": null,
+        "scope": "search_location"
+      }
+    },
+    "nearby_airport_search": true,
+    "search_url": "https://www.aviasales.az/search/BAK1211SHJ18111?t=G917944881001794502800000245GYDSHJ17950032001795019100000265SHJGYD_40ca434b447ed95fe30dbbfabf554610_31107&search_date=02112026&expected_price_uuid=01a19cab-0236-8031-2304-1599b8a8caf2&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH1%7CR0%7CTBC0&itinerary_key=WOZpmRY59ivQ70G4bdu1ew&expected_price_source=share&expected_price_currency=azn&expected_price=652",
+    "price_kind": "cached_advertised_fare",
+    "live_price_verified": false,
+    "source_search_date": "2026-11-02",
+    "fetched_at": "2026-11-02T21:25:16.534292+04:00",
+    "source_url": "https://www.aviasales.az/routes/bak/dxb",
+    "source": "aviasales.az",
+    "source_card_text": "Birbaşa 652,07 ₼ 12 Noy, Cüm.a 12:55 – 17:00 Yolda: 4 saat 5 dəq. / birbaşa 18 Noy, Çər 12:00 – 16:25 Yolda: 4 saat 25 dəq. / birbaşa",
+    "data_warnings": [
+      "The search link uses a nearby/different city or airport; check search_route before displaying destinations."
+    ],
+    "missing_fields": [
+      "flight_number",
+      "cabin",
+      "baggage_kg",
+      "seats_available",
+      "confirmed_airports"
+    ]
+  },
+  {
+    "id": "AV-4826046f3e76459b",
+    "airline": "Qatar Airways",
+    "flight_number": null,
+    "origin": {
+      "code": "DXB",
+      "city": "Dubai",
+      "code_type": "city",
+      "timezone": "Asia/Dubai",
+      "country_code": "AE",
+      "airport_code": null,
+      "scope": "search_location"
+    },
+    "destination": {
+      "code": "BAK",
+      "city": "Baku",
+      "code_type": "city",
+      "timezone": "Asia/Baku",
+      "country_code": "AZ",
+      "airport_code": null,
+      "scope": "search_location"
+    },
+    "source_route": {
+      "origin": {
+        "code": "DXB",
+        "city": "Dubai",
+        "code_type": "city",
+        "timezone": "Asia/Dubai",
+        "country_code": "AE",
+        "airport_code": null,
+        "scope": "city"
+      },
+      "destination": {
+        "code": "BAK",
+        "city": "Baku",
+        "code_type": "city",
+        "timezone": "Asia/Baku",
+        "country_code": "AZ",
+        "airport_code": null,
+        "scope": "city"
+      }
+    },
+    "departure_local": "2026-11-26T11:55",
+    "arrival_local": "2026-11-27T13:05",
+    "duration_min": 1510,
+    "stops": 1,
+    "via": null,
+    "price_azn": 555.91,
+    "cabin": null,
+    "baggage_kg": null,
+    "seats_available": null,
+    "currency": "AZN",
+    "trip_type": "round_trip",
+    "price_scope": "entire_round_trip",
+    "baggage_included": null,
+    "fare_label": "Ən ucuz",
+    "airlines": [
+      {
+        "code": "QR",
+        "name": "Qatar Airways",
+        "logo_url": "https://img.avs.io/pics/al_square/QR@avif?rs=fit:64:64"
+      }
+    ],
+    "return_date": "2026-12-09",
+    "departure_utc": "2026-11-26T07:55:00+00:00",
+    "arrival_utc": "2026-11-27T09:05:00+00:00",
+    "arrival_time_displayed": "13:05",
+    "arrival_date_source": "derived_from_displayed_duration_and_timezones",
+    "return_leg": {
+      "origin": {
+        "code": "BAK",
+        "city": "Baku",
+        "code_type": "city",
+        "timezone": "Asia/Baku",
+        "country_code": "AZ",
+        "airport_code": null,
+        "scope": "search_location"
+      },
+      "destination": {
+        "code": "DXB",
+        "city": "Dubai",
+        "code_type": "city",
+        "timezone": "Asia/Dubai",
+        "country_code": "AE",
+        "airport_code": null,
+        "scope": "search_location"
+      },
+      "departure_local": "2026-12-09T14:35",
+      "arrival_local": "2026-12-09T21:15",
+      "departure_utc": "2026-12-09T10:35:00+00:00",
+      "arrival_utc": "2026-12-09T17:15:00+00:00",
+      "arrival_time_displayed": "21:15",
+      "duration_min": 400,
+      "stops": 1,
+      "via": null,
+      "airlines": [
+        {
+          "code": "QR",
+          "name": "Qatar Airways",
+          "logo_url": "https://img.avs.io/pics/al_square/QR@avif?rs=fit:64:64"
+        }
+      ],
+      "arrival_date_source": "derived_from_displayed_duration_and_timezones",
+      "data_warnings": []
+    },
+    "location_scope": "city_route_area_not_confirmed_airports",
+    "search_route": {
+      "origin": {
+        "code": "DXB",
+        "city": "Dubai",
+        "code_type": "city",
+        "timezone": "Asia/Dubai",
+        "country_code": "AE",
+        "airport_code": null,
+        "scope": "search_location"
+      },
+      "destination": {
+        "code": "BAK",
+        "city": "Baku",
+        "code_type": "city",
+        "timezone": "Asia/Baku",
+        "country_code": "AZ",
+        "airport_code": null,
+        "scope": "search_location"
+      }
+    },
+    "nearby_airport_search": false,
+    "search_url": "https://www.aviasales.az/search/DXB2611BAK09121?t=QR17956941001795784700001510DXBDOHGYD17968269001796850900000400GYDDOHDXB_1d631501329a9a50af8ccd8ea0164598_26259&search_date=31102026&expected_price_uuid=01a19375-18a5-8030-24d3-cd3926d04c10&static_fare_key=TY%7CP1%7CH1%7CL1_1_25%7CCH0%7CR0%7CTBC1&itinerary_key=v9-O0Jpj79GmhPckMKIVxg&expected_price_source=share&expected_price_currency=azn&expected_price=556",
+    "price_kind": "cached_advertised_fare",
+    "live_price_verified": false,
+    "source_search_date": "2026-10-31",
+    "fetched_at": "2026-11-02T21:25:17.538324+04:00",
+    "source_url": "https://www.aviasales.az/routes/dxb/bak",
+    "source": "aviasales.az",
+    "source_card_text": "Ən ucuz 555,91 ₼ 26 Noy, Cüm.a 11:55 – 13:05 Yolda: 1 Gün 1 saat 10 dəq. / 1 tranzit 9 Dek, Çər 14:35 – 21:15 Yolda: 6 saat 40 dəq. / 1 tranzit",
+    "data_warnings": [],
+    "missing_fields": [
+      "flight_number",
+      "cabin",
+      "baggage_kg",
+      "seats_available",
+      "confirmed_airports",
+      "via"
+    ]
+  },
+  {
+    "id": "AV-230bac2ec0f11e55",
+    "airline": "Qatar Airways",
+    "flight_number": null,
+    "origin": {
+      "code": "SHJ",
+      "city": "Sharjah",
+      "code_type": "city",
+      "timezone": "Asia/Dubai",
+      "country_code": "AE",
+      "airport_code": null,
+      "scope": "search_location"
+    },
+    "destination": {
+      "code": "BAK",
+      "city": "Baku",
+      "code_type": "city",
+      "timezone": "Asia/Baku",
+      "country_code": "AZ",
+      "airport_code": null,
+      "scope": "search_location"
+    },
+    "source_route": {
+      "origin": {
+        "code": "DXB",
+        "city": "Dubai",
+        "code_type": "city",
+        "timezone": "Asia/Dubai",
+        "country_code": "AE",
+        "airport_code": null,
+        "scope": "city"
+      },
+      "destination": {
+        "code": "BAK",
+        "city": "Baku",
+        "code_type": "city",
+        "timezone": "Asia/Baku",
+        "country_code": "AZ",
+        "airport_code": null,
+        "scope": "city"
+      }
+    },
+    "departure_local": "2026-11-15T05:25",
+    "arrival_local": "2026-11-15T13:05",
+    "duration_min": 460,
+    "stops": 1,
+    "via": null,
+    "price_azn": 571.18,
+    "cabin": null,
+    "baggage_kg": null,
+    "seats_available": null,
+    "currency": "AZN",
+    "trip_type": "round_trip",
+    "price_scope": "entire_round_trip",
+    "baggage_included": null,
+    "fare_label": "Rahat",
+    "airlines": [
+      {
+        "code": "QR",
+        "name": "Qatar Airways",
+        "logo_url": "https://img.avs.io/pics/al_square/QR@avif?rs=fit:64:64"
+      }
+    ],
+    "return_date": "2026-11-18",
+    "departure_utc": "2026-11-15T01:25:00+00:00",
+    "arrival_utc": "2026-11-15T09:05:00+00:00",
+    "arrival_time_displayed": "13:05",
+    "arrival_date_source": "derived_from_displayed_duration_and_timezones",
+    "return_leg": {
+      "origin": {
+        "code": "BAK",
+        "city": "Baku",
+        "code_type": "city",
+        "timezone": "Asia/Baku",
+        "country_code": "AZ",
+        "airport_code": null,
+        "scope": "search_location"
+      },
+      "destination": {
+        "code": "SHJ",
+        "city": "Sharjah",
+        "code_type": "city",
+        "timezone": "Asia/Dubai",
+        "country_code": "AE",
+        "airport_code": null,
+        "scope": "search_location"
+      },
+      "departure_local": "2026-11-18T14:35",
+      "arrival_local": "2026-11-18T22:40",
+      "departure_utc": "2026-11-18T10:35:00+00:00",
+      "arrival_utc": "2026-11-18T18:40:00+00:00",
+      "arrival_time_displayed": "22:40",
+      "duration_min": 485,
+      "stops": 1,
+      "via": null,
+      "airlines": [
+        {
+          "code": "QR",
+          "name": "Qatar Airways",
+          "logo_url": "https://img.avs.io/pics/al_square/QR@avif?rs=fit:64:64"
+        }
+      ],
+      "arrival_date_source": "derived_from_displayed_duration_and_timezones",
+      "data_warnings": []
+    },
+    "location_scope": "city_route_area_not_confirmed_airports",
+    "search_route": {
+      "origin": {
+        "code": "SHJ",
+        "city": "Sharjah",
+        "code_type": "city",
+        "timezone": "Asia/Dubai",
+        "country_code": "AE",
+        "airport_code": null,
+        "scope": "search_location"
+      },
+      "destination": {
+        "code": "BAK",
+        "city": "Baku",
+        "code_type": "city",
+        "timezone": "Asia/Baku",
+        "country_code": "AZ",
+        "airport_code": null,
+        "scope": "search_location"
+      }
+    },
+    "nearby_airport_search": true,
+    "search_url": "https://www.aviasales.az/search/SHJ1511BAK18111?t=QR17947203001794747900000460SHJDOHGYD17950125001795041600000485GYDDOHSHJ_5fb78cedd9c41c36cc1656e8a7ef4cdd_26980&search_date=01112026&expected_price_uuid=01a195a8-7e64-8030-2106-d6469d8e6f4a&static_fare_key=TY%7CP1%7CH1%7CL1_1_25%7CCH1%7CR1%7CTBC1&itinerary_key=E9F0xjp4BUhL3060iSeeUw&expected_price_source=share&expected_price_currency=azn&expected_price=571",
+    "price_kind": "cached_advertised_fare",
+    "live_price_verified": false,
+    "source_search_date": "2026-11-01",
+    "fetched_at": "2026-11-02T21:25:17.538324+04:00",
+    "source_url": "https://www.aviasales.az/routes/dxb/bak",
+    "source": "aviasales.az",
+    "source_card_text": "Rahat 571,18 ₼ 15 Noy, Baz 05:25 – 13:05 Yolda: 7 saat 40 dəq. / 1 tranzit 18 Noy, Çər 14:35 – 22:40 Yolda: 8 saat 5 dəq. / 1 tranzit",
+    "data_warnings": [
+      "The search link uses a nearby/different city or airport; check search_route before displaying destinations."
+    ],
+    "missing_fields": [
+      "flight_number",
+      "cabin",
+      "baggage_kg",
+      "seats_available",
+      "confirmed_airports",
+      "via"
+    ]
+  },
+  {
+    "id": "AV-72e7c697916ecb43",
+    "airline": "Air Arabia",
+    "flight_number": null,
+    "origin": {
+      "code": "SHJ",
+      "city": "Sharjah",
+      "code_type": "city",
+      "timezone": "Asia/Dubai",
+      "country_code": "AE",
+      "airport_code": null,
+      "scope": "search_location"
+    },
+    "destination": {
+      "code": "BAK",
+      "city": "Baku",
+      "code_type": "city",
+      "timezone": "Asia/Baku",
+      "country_code": "AZ",
+      "airport_code": null,
+      "scope": "search_location"
+    },
+    "source_route": {
+      "origin": {
+        "code": "DXB",
+        "city": "Dubai",
+        "code_type": "city",
+        "timezone": "Asia/Dubai",
+        "country_code": "AE",
+        "airport_code": null,
+        "scope": "city"
+      },
+      "destination": {
+        "code": "BAK",
+        "city": "Baku",
+        "code_type": "city",
+        "timezone": "Asia/Baku",
+        "country_code": "AZ",
+        "airport_code": null,
+        "scope": "city"
+      }
+    },
+    "departure_local": "2026-11-07T09:20",
+    "arrival_local": "2026-11-07T13:45",
+    "duration_min": 265,
+    "stops": 0,
+    "via": null,
+    "price_azn": 660.83,
+    "cabin": null,
+    "baggage_kg": null,
+    "seats_available": null,
+    "currency": "AZN",
+    "trip_type": "round_trip",
+    "price_scope": "entire_round_trip",
+    "baggage_included": null,
+    "fare_label": "Birbaşa",
+    "airlines": [
+      {
+        "code": "G9",
+        "name": "Air Arabia",
+        "logo_url": "https://img.avs.io/pics/al_square/G9@avif?rs=fit:64:64"
+      }
+    ],
+    "return_date": "2026-11-14",
+    "departure_utc": "2026-11-07T05:20:00+00:00",
+    "arrival_utc": "2026-11-07T09:45:00+00:00",
+    "arrival_time_displayed": "13:45",
+    "arrival_date_source": "derived_from_displayed_duration_and_timezones",
+    "return_leg": {
+      "origin": {
+        "code": "BAK",
+        "city": "Baku",
+        "code_type": "city",
+        "timezone": "Asia/Baku",
+        "country_code": "AZ",
+        "airport_code": null,
+        "scope": "search_location"
+      },
+      "destination": {
+        "code": "SHJ",
+        "city": "Sharjah",
+        "code_type": "city",
+        "timezone": "Asia/Dubai",
+        "country_code": "AE",
+        "airport_code": null,
+        "scope": "search_location"
+      },
+      "departure_local": "2026-11-14T12:55",
+      "arrival_local": "2026-11-14T17:00",
+      "departure_utc": "2026-11-14T08:55:00+00:00",
+      "arrival_utc": "2026-11-14T13:00:00+00:00",
+      "arrival_time_displayed": "17:00",
+      "duration_min": 245,
+      "stops": 0,
+      "via": null,
+      "airlines": [
+        {
+          "code": "G9",
+          "name": "Air Arabia",
+          "logo_url": "https://img.avs.io/pics/al_square/G9@avif?rs=fit:64:64"
+        }
+      ],
+      "arrival_date_source": "derived_from_displayed_duration_and_timezones",
+      "data_warnings": []
+    },
+    "location_scope": "city_route_area_not_confirmed_airports",
+    "search_route": {
+      "origin": {
+        "code": "SHJ",
+        "city": "Sharjah",
+        "code_type": "city",
+        "timezone": "Asia/Dubai",
+        "country_code": "AE",
+        "airport_code": null,
+        "scope": "search_location"
+      },
+      "destination": {
+        "code": "BAK",
+        "city": "Baku",
+        "code_type": "city",
+        "timezone": "Asia/Baku",
+        "country_code": "AZ",
+        "airport_code": null,
+        "scope": "search_location"
+      }
+    },
+    "nearby_airport_search": true,
+    "search_url": "https://www.aviasales.az/search/SHJ0711BAK14111?t=G917940432001794059100000265SHJGYD17946609001794675600000245GYDSHJ_c088ecf884f2075a7ea3574f7475d1b3_31215&search_date=01112026&expected_price_uuid=01a19756-f08f-8040-2157-61b4f9e7d87c&static_fare_key=TY%7CP0%7CH1%7CL0%7CCH1%7CR0%7CTBC0&itinerary_key=aodxlMOaFRwUCdGoEUq4EA&expected_price_source=share&expected_price_currency=azn&expected_price=661",
+    "price_kind": "cached_advertised_fare",
+    "live_price_verified": false,
+    "source_search_date": "2026-11-01",
+    "fetched_at": "2026-11-02T21:25:17.538324+04:00",
+    "source_url": "https://www.aviasales.az/routes/dxb/bak",
+    "source": "aviasales.az",
+    "source_card_text": "Birbaşa 660,83 ₼ 7 Noy, Şə 09:20 – 13:45 Yolda: 4 saat 25 dəq. / birbaşa 14 Noy, Şə 12:55 – 17:00 Yolda: 4 saat 5 dəq. / birbaşa",
+    "data_warnings": [
+      "The search link uses a nearby/different city or airport; check search_route before displaying destinations."
+    ],
+    "missing_fields": [
+      "flight_number",
+      "cabin",
+      "baggage_kg",
+      "seats_available",
+      "confirmed_airports"
+    ]
+  },
+  {
+    "id": "AV-072810dedceb2857",
+    "airline": "Azerbaijan Airlines",
+    "flight_number": null,
+    "origin": {
+      "code": "BAK",
+      "city": "Baku",
+      "code_type": "city",
+      "timezone": "Asia/Baku",
+      "country_code": "AZ",
+      "airport_code": null,
+      "scope": "search_location"
+    },
+    "destination": {
+      "code": "MOW",
+      "city": "Moscow",
+      "code_type": "city",
+      "timezone": "Europe/Moscow",
+      "country_code": "RU",
+      "airport_code": null,
+      "scope": "search_location"
+    },
+    "source_route": {
+      "origin": {
+        "code": "BAK",
+        "city": "Baku",
+        "code_type": "city",
+        "timezone": "Asia/Baku",
+        "country_code": "AZ",
+        "airport_code": null,
+        "scope": "city"
+      },
+      "destination": {
+        "code": "MOW",
+        "city": "Moscow",
+        "code_type": "city",
+        "timezone": "Europe/Moscow",
+        "country_code": "RU",
+        "airport_code": null,
+        "scope": "city"
+      }
+    },
+    "departure_local": "2026-12-17T09:35",
+    "arrival_local": "2026-12-17T12:05",
+    "duration_min": 210,
+    "stops": 0,
+    "via": null,
+    "price_azn": 449.83,
+    "cabin": null,
+    "baggage_kg": null,
+    "seats_available": null,
+    "currency": "AZN",
+    "trip_type": "round_trip",
+    "price_scope": "entire_round_trip",
+    "baggage_included": null,
+    "fare_label": "Ən ucuz",
+    "airlines": [
+      {
+        "code": "J2",
+        "name": "Azerbaijan Airlines",
+        "logo_url": "https://img.avs.io/pics/al_square/J2@avif?rs=fit:64:64"
+      }
+    ],
+    "return_date": "2026-12-21",
+    "departure_utc": "2026-12-17T05:35:00+00:00",
+    "arrival_utc": "2026-12-17T09:05:00+00:00",
+    "arrival_time_displayed": "12:05",
+    "arrival_date_source": "derived_from_displayed_duration_and_timezones",
+    "return_leg": {
+      "origin": {
+        "code": "MOW",
+        "city": "Moscow",
+        "code_type": "city",
+        "timezone": "Europe/Moscow",
+        "country_code": "RU",
+        "airport_code": null,
+        "scope": "search_location"
+      },
+      "destination": {
+        "code": "BAK",
+        "city": "Baku",
+        "code_type": "city",
+        "timezone": "Asia/Baku",
+        "country_code": "AZ",
+        "airport_code": null,
+        "scope": "search_location"
+      },
+      "departure_local": "2026-12-21T00:55",
+      "arrival_local": "2026-12-21T05:25",
+      "departure_utc": "2026-12-20T21:55:00+00:00",
+      "arrival_utc": "2026-12-21T01:25:00+00:00",
+      "arrival_time_displayed": "05:25",
+      "duration_min": 210,
+      "stops": 0,
+      "via": null,
+      "airlines": [
+        {
+          "code": "J2",
+          "name": "Azerbaijan Airlines",
+          "logo_url": "https://img.avs.io/pics/al_square/J2@avif?rs=fit:64:64"
+        }
+      ],
+      "arrival_date_source": "derived_from_displayed_duration_and_timezones",
+      "data_warnings": []
+    },
+    "location_scope": "city_route_area_not_confirmed_airports",
+    "search_route": {
+      "origin": {
+        "code": "BAK",
+        "city": "Baku",
+        "code_type": "city",
+        "timezone": "Asia/Baku",
+        "country_code": "AZ",
+        "airport_code": null,
+        "scope": "search_location"
+      },
+      "destination": {
+        "code": "MOW",
+        "city": "Moscow",
+        "code_type": "city",
+        "timezone": "Europe/Moscow",
+        "country_code": "RU",
+        "airport_code": null,
+        "scope": "search_location"
+      }
+    },
+    "nearby_airport_search": false,
+    "search_url": "https://www.aviasales.az/search/BAK1712MOW21121?t=J217975001001797509100000210GYDDME17978145001797830700000210VKOGYD_68526df7c4dc98828b40fde877502281_21248&search_date=31102026&expected_price_uuid=01a193e6-c732-8031-296b-baa4aa2ac71c&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=xbqtt6fm-jvqZ9x7r0ERAA&expected_price_source=share&expected_price_currency=azn&expected_price=450",
+    "price_kind": "cached_advertised_fare",
+    "live_price_verified": false,
+    "source_search_date": "2026-10-31",
+    "fetched_at": "2026-11-02T21:25:18.533384+04:00",
+    "source_url": "https://www.aviasales.az/routes/bak/mow",
+    "source": "aviasales.az",
+    "source_card_text": "Ən ucuz 449,83 ₼ 17 Dek, Cüm.a 09:35 – 12:05 Yolda: 3 saat 30 dəq. / birbaşa 21 Dek, Baz.e 00:55 – 05:25 Yolda: 3 saat 30 dəq. / birbaşa",
+    "data_warnings": [],
+    "missing_fields": [
+      "flight_number",
+      "cabin",
+      "baggage_kg",
+      "seats_available",
+      "confirmed_airports"
+    ]
+  },
+  {
+    "id": "AV-c6f0f8e6e2e68451",
+    "airline": "Ural Airlines",
+    "flight_number": null,
+    "origin": {
+      "code": "BAK",
+      "city": "Baku",
+      "code_type": "city",
+      "timezone": "Asia/Baku",
+      "country_code": "AZ",
+      "airport_code": null,
+      "scope": "search_location"
+    },
+    "destination": {
+      "code": "MOW",
+      "city": "Moscow",
+      "code_type": "city",
+      "timezone": "Europe/Moscow",
+      "country_code": "RU",
+      "airport_code": null,
+      "scope": "search_location"
+    },
+    "source_route": {
+      "origin": {
+        "code": "BAK",
+        "city": "Baku",
+        "code_type": "city",
+        "timezone": "Asia/Baku",
+        "country_code": "AZ",
+        "airport_code": null,
+        "scope": "city"
+      },
+      "destination": {
+        "code": "MOW",
+        "city": "Moscow",
+        "code_type": "city",
+        "timezone": "Europe/Moscow",
+        "country_code": "RU",
+        "airport_code": null,
+        "scope": "city"
+      }
+    },
+    "departure_local": "2026-12-20T22:20",
+    "arrival_local": "2026-12-21T00:30",
+    "duration_min": 190,
+    "stops": 0,
+    "via": null,
+    "price_azn": 571.52,
+    "cabin": null,
+    "baggage_kg": null,
+    "seats_available": null,
+    "currency": "AZN",
+    "trip_type": "round_trip",
+    "price_scope": "entire_round_trip",
+    "baggage_included": true,
+    "fare_label": "Baqaj daxil ən ucuz",
+    "airlines": [
+      {
+        "code": "U6",
+        "name": "Ural Airlines",
+        "logo_url": "https://img.avs.io/pics/al_square/U6@avif?rs=fit:64:64"
+      }
+    ],
+    "return_date": "2026-12-28",
+    "departure_utc": "2026-12-20T18:20:00+00:00",
+    "arrival_utc": "2026-12-20T21:30:00+00:00",
+    "arrival_time_displayed": "00:30",
+    "arrival_date_source": "derived_from_displayed_duration_and_timezones",
+    "return_leg": {
+      "origin": {
+        "code": "MOW",
+        "city": "Moscow",
+        "code_type": "city",
+        "timezone": "Europe/Moscow",
+        "country_code": "RU",
+        "airport_code": null,
+        "scope": "search_location"
+      },
+      "destination": {
+        "code": "BAK",
+        "city": "Baku",
+        "code_type": "city",
+        "timezone": "Asia/Baku",
+        "country_code": "AZ",
+        "airport_code": null,
+        "scope": "search_location"
+      },
+      "departure_local": "2026-12-28T01:25",
+      "arrival_local": "2026-12-28T05:45",
+      "departure_utc": "2026-12-27T22:25:00+00:00",
+      "arrival_utc": "2026-12-28T01:45:00+00:00",
+      "arrival_time_displayed": "05:45",
+      "duration_min": 200,
+      "stops": 0,
+      "via": null,
+      "airlines": [
+        {
+          "code": "U6",
+          "name": "Ural Airlines",
+          "logo_url": "https://img.avs.io/pics/al_square/U6@avif?rs=fit:64:64"
+        }
+      ],
+      "arrival_date_source": "derived_from_displayed_duration_and_timezones",
+      "data_warnings": []
+    },
+    "location_scope": "city_route_area_not_confirmed_airports",
+    "search_route": {
+      "origin": {
+        "code": "BAK",
+        "city": "Baku",
+        "code_type": "city",
+        "timezone": "Asia/Baku",
+        "country_code": "AZ",
+        "airport_code": null,
+        "scope": "search_location"
+      },
+      "destination": {
+        "code": "MOW",
+        "city": "Moscow",
+        "code_type": "city",
+        "timezone": "Europe/Moscow",
+        "country_code": "RU",
+        "airport_code": null,
+        "scope": "search_location"
+      }
+    },
+    "nearby_airport_search": false,
+    "search_url": "https://www.aviasales.az/search/BAK2012MOW28121?t=U617978052001797813000000190GYDZIA17984211001798436700000200ZIAGYD_a094f189973ba3bad37b62483549fe62_27164&search_date=27102026&expected_price_uuid=01a17ae3-a775-8031-61a6-a48f39554891&static_fare_key=TY%7CP1%7CH1%7CL1_1_23%7CCH1%7CR1%7CTBC1&itinerary_key=TbqK8GhFkshciE-yUM8qCQ&expected_price_source=share&expected_price_currency=azn&expected_price=572",
+    "price_kind": "cached_advertised_fare",
+    "live_price_verified": false,
+    "source_search_date": "2026-10-27",
+    "fetched_at": "2026-11-02T21:25:18.533384+04:00",
+    "source_url": "https://www.aviasales.az/routes/bak/mow",
+    "source": "aviasales.az",
+    "source_card_text": "Baqaj daxil ən ucuz 571,52 ₼ 20 Dek, Baz 22:20 – 00:30 Yolda: 3 saat 10 dəq. / birbaşa 28 Dek, Baz.e 01:25 – 05:45 Yolda: 3 saat 20 dəq. / birbaşa",
+    "data_warnings": [],
+    "missing_fields": [
+      "flight_number",
+      "cabin",
+      "baggage_kg",
+      "seats_available",
+      "confirmed_airports"
+    ]
+  },
+  {
+    "id": "AV-426fa1371be7dad6",
+    "airline": "Utair",
+    "flight_number": null,
+    "origin": {
+      "code": "MOW",
+      "city": "Moscow",
+      "code_type": "city",
+      "timezone": "Europe/Moscow",
+      "country_code": "RU",
+      "airport_code": null,
+      "scope": "search_location"
+    },
+    "destination": {
+      "code": "BAK",
+      "city": "Baku",
+      "code_type": "city",
+      "timezone": "Asia/Baku",
+      "country_code": "AZ",
+      "airport_code": null,
+      "scope": "search_location"
+    },
+    "source_route": {
+      "origin": {
+        "code": "MOW",
+        "city": "Moscow",
+        "code_type": "city",
+        "timezone": "Europe/Moscow",
+        "country_code": "RU",
+        "airport_code": null,
+        "scope": "city"
+      },
+      "destination": {
+        "code": "BAK",
+        "city": "Baku",
+        "code_type": "city",
+        "timezone": "Asia/Baku",
+        "country_code": "AZ",
+        "airport_code": null,
+        "scope": "city"
+      }
+    },
+    "departure_local": "2026-12-18T09:50",
+    "arrival_local": "2026-12-18T14:05",
+    "duration_min": 195,
+    "stops": 0,
+    "via": null,
+    "price_azn": 407.08,
+    "cabin": null,
+    "baggage_kg": null,
+    "seats_available": null,
+    "currency": "AZN",
+    "trip_type": "round_trip",
+    "price_scope": "entire_round_trip",
+    "baggage_included": null,
+    "fare_label": "Ən ucuz",
+    "airlines": [
+      {
+        "code": "UT",
+        "name": "Utair",
+        "logo_url": "https://img.avs.io/pics/al_square/UT@avif?rs=fit:64:64"
+      }
+    ],
+    "return_date": "2026-12-23",
+    "departure_utc": "2026-12-18T06:50:00+00:00",
+    "arrival_utc": "2026-12-18T10:05:00+00:00",
+    "arrival_time_displayed": "14:05",
+    "arrival_date_source": "derived_from_displayed_duration_and_timezones",
+    "return_leg": {
+      "origin": {
+        "code": "BAK",
+        "city": "Baku",
+        "code_type": "city",
+        "timezone": "Asia/Baku",
+        "country_code": "AZ",
+        "airport_code": null,
+        "scope": "search_location"
+      },
+      "destination": {
+        "code": "MOW",
+        "city": "Moscow",
+        "code_type": "city",
+        "timezone": "Europe/Moscow",
+        "country_code": "RU",
+        "airport_code": null,
+        "scope": "search_location"
+      },
+      "departure_local": "2026-12-23T15:05",
+      "arrival_local": "2026-12-23T17:35",
+      "departure_utc": "2026-12-23T11:05:00+00:00",
+      "arrival_utc": "2026-12-23T14:35:00+00:00",
+      "arrival_time_displayed": "17:35",
+      "duration_min": 210,
+      "stops": 0,
+      "via": null,
+      "airlines": [
+        {
+          "code": "UT",
+          "name": "Utair",
+          "logo_url": "https://img.avs.io/pics/al_square/UT@avif?rs=fit:64:64"
+        }
+      ],
+      "arrival_date_source": "derived_from_displayed_duration_and_timezones",
+      "data_warnings": []
+    },
+    "location_scope": "city_route_area_not_confirmed_airports",
+    "search_route": {
+      "origin": {
+        "code": "MOW",
+        "city": "Moscow",
+        "code_type": "city",
+        "timezone": "Europe/Moscow",
+        "country_code": "RU",
+        "airport_code": null,
+        "scope": "search_location"
+      },
+      "destination": {
+        "code": "BAK",
+        "city": "Baku",
+        "code_type": "city",
+        "timezone": "Asia/Baku",
+        "country_code": "AZ",
+        "airport_code": null,
+        "scope": "search_location"
+      }
+    },
+    "nearby_airport_search": false,
+    "search_url": "https://www.aviasales.az/search/MOW1812BAK23121?t=UT17975874001797602700000195VKOGYD17980383001798047300000210GYDVKO_ccdbd6375c914de5c009389888c699d6_19229&search_date=01112026&expected_price_uuid=01a19707-c5da-8030-675b-066cca1aa8f2&static_fare_key=TY%7CP0%7CH1%7CL0%7CCH1%7CR0%7CTBC0&itinerary_key=G_AnlFfy5rppmqoSR_VeSw&expected_price_source=share&expected_price_currency=azn&expected_price=407",
+    "price_kind": "cached_advertised_fare",
+    "live_price_verified": false,
+    "source_search_date": "2026-11-01",
+    "fetched_at": "2026-11-02T21:25:19.636280+04:00",
+    "source_url": "https://www.aviasales.az/routes/mow/bak",
+    "source": "aviasales.az",
+    "source_card_text": "Ən ucuz 407,08 ₼ 18 Dek, Cüm 09:50 – 14:05 Yolda: 3 saat 15 dəq. / birbaşa 23 Dek, Çər 15:05 – 17:35 Yolda: 3 saat 30 dəq. / birbaşa",
+    "data_warnings": [],
+    "missing_fields": [
+      "flight_number",
+      "cabin",
+      "baggage_kg",
+      "seats_available",
+      "confirmed_airports"
+    ]
+  },
+  {
+    "id": "AV-6a49f45800365275",
+    "airline": "Utair",
+    "flight_number": null,
+    "origin": {
+      "code": "MOW",
+      "city": "Moscow",
+      "code_type": "city",
+      "timezone": "Europe/Moscow",
+      "country_code": "RU",
+      "airport_code": null,
+      "scope": "search_location"
+    },
+    "destination": {
+      "code": "BAK",
+      "city": "Baku",
+      "code_type": "city",
+      "timezone": "Asia/Baku",
+      "country_code": "AZ",
+      "airport_code": null,
+      "scope": "search_location"
+    },
+    "source_route": {
+      "origin": {
+        "code": "MOW",
+        "city": "Moscow",
+        "code_type": "city",
+        "timezone": "Europe/Moscow",
+        "country_code": "RU",
+        "airport_code": null,
+        "scope": "city"
+      },
+      "destination": {
+        "code": "BAK",
+        "city": "Baku",
+        "code_type": "city",
+        "timezone": "Asia/Baku",
+        "country_code": "AZ",
+        "airport_code": null,
+        "scope": "city"
+      }
+    },
+    "departure_local": "2026-12-18T09:50",
+    "arrival_local": "2026-12-18T14:05",
+    "duration_min": 195,
+    "stops": 0,
+    "via": null,
+    "price_azn": 510.48,
+    "cabin": null,
+    "baggage_kg": null,
+    "seats_available": null,
+    "currency": "AZN",
+    "trip_type": "round_trip",
+    "price_scope": "entire_round_trip",
+    "baggage_included": true,
+    "fare_label": "Baqaj daxil ən ucuz",
+    "airlines": [
+      {
+        "code": "UT",
+        "name": "Utair",
+        "logo_url": "https://img.avs.io/pics/al_square/UT@avif?rs=fit:64:64"
+      }
+    ],
+    "return_date": "2026-12-23",
+    "departure_utc": "2026-12-18T06:50:00+00:00",
+    "arrival_utc": "2026-12-18T10:05:00+00:00",
+    "arrival_time_displayed": "14:05",
+    "arrival_date_source": "derived_from_displayed_duration_and_timezones",
+    "return_leg": {
+      "origin": {
+        "code": "BAK",
+        "city": "Baku",
+        "code_type": "city",
+        "timezone": "Asia/Baku",
+        "country_code": "AZ",
+        "airport_code": null,
+        "scope": "search_location"
+      },
+      "destination": {
+        "code": "MOW",
+        "city": "Moscow",
+        "code_type": "city",
+        "timezone": "Europe/Moscow",
+        "country_code": "RU",
+        "airport_code": null,
+        "scope": "search_location"
+      },
+      "departure_local": "2026-12-23T15:05",
+      "arrival_local": "2026-12-23T17:35",
+      "departure_utc": "2026-12-23T11:05:00+00:00",
+      "arrival_utc": "2026-12-23T14:35:00+00:00",
+      "arrival_time_displayed": "17:35",
+      "duration_min": 210,
+      "stops": 0,
+      "via": null,
+      "airlines": [
+        {
+          "code": "UT",
+          "name": "Utair",
+          "logo_url": "https://img.avs.io/pics/al_square/UT@avif?rs=fit:64:64"
+        }
+      ],
+      "arrival_date_source": "derived_from_displayed_duration_and_timezones",
+      "data_warnings": []
+    },
+    "location_scope": "city_route_area_not_confirmed_airports",
+    "search_route": {
+      "origin": {
+        "code": "MOW",
+        "city": "Moscow",
+        "code_type": "city",
+        "timezone": "Europe/Moscow",
+        "country_code": "RU",
+        "airport_code": null,
+        "scope": "search_location"
+      },
+      "destination": {
+        "code": "BAK",
+        "city": "Baku",
+        "code_type": "city",
+        "timezone": "Asia/Baku",
+        "country_code": "AZ",
+        "airport_code": null,
+        "scope": "search_location"
+      }
+    },
+    "nearby_airport_search": false,
+    "search_url": "https://www.aviasales.az/search/MOW1812BAK23121?t=UT17975874001797602700000195VKOGYD17980383001798047300000210GYDVKO_ccdbd6375c914de5c009389888c699d6_24113&search_date=01112026&expected_price_uuid=01a19707-c5da-8030-675b-066cca1aa8f2&static_fare_key=TY%7CP0%7CH1%7CL1_1_20%7CCH1%7CR0%7CTBC1&itinerary_key=G_AnlFfy5rppmqoSR_VeSw&expected_price_source=share&expected_price_currency=azn&expected_price=510",
+    "price_kind": "cached_advertised_fare",
+    "live_price_verified": false,
+    "source_search_date": "2026-11-01",
+    "fetched_at": "2026-11-02T21:25:19.636280+04:00",
+    "source_url": "https://www.aviasales.az/routes/mow/bak",
+    "source": "aviasales.az",
+    "source_card_text": "Baqaj daxil ən ucuz 510,48 ₼ 18 Dek, Cüm 09:50 – 14:05 Yolda: 3 saat 15 dəq. / birbaşa 23 Dek, Çər 15:05 – 17:35 Yolda: 3 saat 30 dəq. / birbaşa",
+    "data_warnings": [],
+    "missing_fields": [
+      "flight_number",
+      "cabin",
+      "baggage_kg",
+      "seats_available",
+      "confirmed_airports"
+    ]
+  },
+  {
+    "id": "AV-59aa48e3de2de7f7",
+    "airline": "Azerbaijan Airlines",
+    "flight_number": null,
+    "origin": {
+      "code": "BAK",
+      "city": "Baku",
+      "code_type": "city",
+      "timezone": "Asia/Baku",
+      "country_code": "AZ",
+      "airport_code": null,
+      "scope": "search_location"
+    },
+    "destination": {
+      "code": "TBS",
+      "city": "Tbilisi",
+      "code_type": "city",
+      "timezone": "Asia/Tbilisi",
+      "country_code": "GE",
+      "airport_code": null,
+      "scope": "search_location"
+    },
+    "source_route": {
+      "origin": {
+        "code": "BAK",
+        "city": "Baku",
+        "code_type": "city",
+        "timezone": "Asia/Baku",
+        "country_code": "AZ",
+        "airport_code": null,
+        "scope": "city"
+      },
+      "destination": {
+        "code": "TBS",
+        "city": "Tbilisi",
+        "code_type": "city",
+        "timezone": "Asia/Tbilisi",
+        "country_code": "GE",
+        "airport_code": null,
+        "scope": "city"
+      }
+    },
+    "departure_local": "2026-12-19T00:50",
+    "arrival_local": "2026-12-19T02:00",
+    "duration_min": 70,
+    "stops": 0,
+    "via": null,
+    "price_azn": 213.29,
+    "cabin": null,
+    "baggage_kg": null,
+    "seats_available": null,
+    "currency": "AZN",
+    "trip_type": "round_trip",
+    "price_scope": "entire_round_trip",
+    "baggage_included": null,
+    "fare_label": "Ən ucuz",
+    "airlines": [
+      {
+        "code": "J2",
+        "name": "Azerbaijan Airlines",
+        "logo_url": "https://img.avs.io/pics/al_square/J2@avif?rs=fit:64:64"
+      }
+    ],
+    "return_date": "2027-01-01",
+    "departure_utc": "2026-12-18T20:50:00+00:00",
+    "arrival_utc": "2026-12-18T22:00:00+00:00",
+    "arrival_time_displayed": "02:00",
+    "arrival_date_source": "derived_from_displayed_duration_and_timezones",
+    "return_leg": {
+      "origin": {
+        "code": "TBS",
+        "city": "Tbilisi",
+        "code_type": "city",
+        "timezone": "Asia/Tbilisi",
+        "country_code": "GE",
+        "airport_code": null,
+        "scope": "search_location"
+      },
+      "destination": {
+        "code": "BAK",
+        "city": "Baku",
+        "code_type": "city",
+        "timezone": "Asia/Baku",
+        "country_code": "AZ",
+        "airport_code": null,
+        "scope": "search_location"
+      },
+      "departure_local": "2027-01-01T03:00",
+      "arrival_local": "2027-01-01T04:10",
+      "departure_utc": "2026-12-31T23:00:00+00:00",
+      "arrival_utc": "2027-01-01T00:10:00+00:00",
+      "arrival_time_displayed": "04:10",
+      "duration_min": 70,
+      "stops": 0,
+      "via": null,
+      "airlines": [
+        {
+          "code": "J2",
+          "name": "Azerbaijan Airlines",
+          "logo_url": "https://img.avs.io/pics/al_square/J2@avif?rs=fit:64:64"
+        }
+      ],
+      "arrival_date_source": "derived_from_displayed_duration_and_timezones",
+      "data_warnings": []
+    },
+    "location_scope": "city_route_area_not_confirmed_airports",
+    "search_route": {
+      "origin": {
+        "code": "BAK",
+        "city": "Baku",
+        "code_type": "city",
+        "timezone": "Asia/Baku",
+        "country_code": "AZ",
+        "airport_code": null,
+        "scope": "search_location"
+      },
+      "destination": {
+        "code": "TBS",
+        "city": "Tbilisi",
+        "code_type": "city",
+        "timezone": "Asia/Tbilisi",
+        "country_code": "GE",
+        "airport_code": null,
+        "scope": "search_location"
+      }
+    },
+    "nearby_airport_search": false,
+    "search_url": "https://www.aviasales.az/search/BAK1912TBS01011?t=J217976414001797645600000070GYDTBS17987724001798776600000070TBSGYD_664484801f8e4c32f1071f53433afe5a_10075&search_date=31102026&expected_price_uuid=01a19169-9af1-8030-a696-d95b2e2bdbf7&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=Ix1F0aKn6JQr2LQqlJOuig&expected_price_source=share&expected_price_currency=azn&expected_price=213",
+    "price_kind": "cached_advertised_fare",
+    "live_price_verified": false,
+    "source_search_date": "2026-10-31",
+    "fetched_at": "2026-11-02T21:25:20.543504+04:00",
+    "source_url": "https://www.aviasales.az/routes/bak/tbs",
+    "source": "aviasales.az",
+    "source_card_text": "Ən ucuz 213,29 ₼ 19 Dek, Şə 00:50 – 02:00 Yolda: 1 saat 10 dəq. / birbaşa 1 Yan, Cüm 03:00 – 04:10 Yolda: 1 saat 10 dəq. / birbaşa",
+    "data_warnings": [],
+    "missing_fields": [
+      "flight_number",
+      "cabin",
+      "baggage_kg",
+      "seats_available",
+      "confirmed_airports"
+    ]
+  },
+  {
+    "id": "AV-f678efec0b5a7cb1",
+    "airline": "Azerbaijan Airlines",
+    "flight_number": null,
+    "origin": {
+      "code": "BAK",
+      "city": "Baku",
+      "code_type": "city",
+      "timezone": "Asia/Baku",
+      "country_code": "AZ",
+      "airport_code": null,
+      "scope": "search_location"
+    },
+    "destination": {
+      "code": "TBS",
+      "city": "Tbilisi",
+      "code_type": "city",
+      "timezone": "Asia/Tbilisi",
+      "country_code": "GE",
+      "airport_code": null,
+      "scope": "search_location"
+    },
+    "source_route": {
+      "origin": {
+        "code": "BAK",
+        "city": "Baku",
+        "code_type": "city",
+        "timezone": "Asia/Baku",
+        "country_code": "AZ",
+        "airport_code": null,
+        "scope": "city"
+      },
+      "destination": {
+        "code": "TBS",
+        "city": "Tbilisi",
+        "code_type": "city",
+        "timezone": "Asia/Tbilisi",
+        "country_code": "GE",
+        "airport_code": null,
+        "scope": "city"
+      }
+    },
+    "departure_local": "2026-12-19T20:50",
+    "arrival_local": "2026-12-19T22:00",
+    "duration_min": 70,
+    "stops": 0,
+    "via": null,
+    "price_azn": 289.38,
+    "cabin": null,
+    "baggage_kg": null,
+    "seats_available": null,
+    "currency": "AZN",
+    "trip_type": "round_trip",
+    "price_scope": "entire_round_trip",
+    "baggage_included": true,
+    "fare_label": "Baqaj daxil ən ucuz",
+    "airlines": [
+      {
+        "code": "J2",
+        "name": "Azerbaijan Airlines",
+        "logo_url": "https://img.avs.io/pics/al_square/J2@avif?rs=fit:64:64"
+      }
+    ],
+    "return_date": "2027-01-01",
+    "departure_utc": "2026-12-19T16:50:00+00:00",
+    "arrival_utc": "2026-12-19T18:00:00+00:00",
+    "arrival_time_displayed": "22:00",
+    "arrival_date_source": "derived_from_displayed_duration_and_timezones",
+    "return_leg": {
+      "origin": {
+        "code": "TBS",
+        "city": "Tbilisi",
+        "code_type": "city",
+        "timezone": "Asia/Tbilisi",
+        "country_code": "GE",
+        "airport_code": null,
+        "scope": "search_location"
+      },
+      "destination": {
+        "code": "BAK",
+        "city": "Baku",
+        "code_type": "city",
+        "timezone": "Asia/Baku",
+        "country_code": "AZ",
+        "airport_code": null,
+        "scope": "search_location"
+      },
+      "departure_local": "2027-01-01T03:00",
+      "arrival_local": "2027-01-01T04:10",
+      "departure_utc": "2026-12-31T23:00:00+00:00",
+      "arrival_utc": "2027-01-01T00:10:00+00:00",
+      "arrival_time_displayed": "04:10",
+      "duration_min": 70,
+      "stops": 0,
+      "via": null,
+      "airlines": [
+        {
+          "code": "J2",
+          "name": "Azerbaijan Airlines",
+          "logo_url": "https://img.avs.io/pics/al_square/J2@avif?rs=fit:64:64"
+        }
+      ],
+      "arrival_date_source": "derived_from_displayed_duration_and_timezones",
+      "data_warnings": []
+    },
+    "location_scope": "city_route_area_not_confirmed_airports",
+    "search_route": {
+      "origin": {
+        "code": "BAK",
+        "city": "Baku",
+        "code_type": "city",
+        "timezone": "Asia/Baku",
+        "country_code": "AZ",
+        "airport_code": null,
+        "scope": "search_location"
+      },
+      "destination": {
+        "code": "TBS",
+        "city": "Tbilisi",
+        "code_type": "city",
+        "timezone": "Asia/Tbilisi",
+        "country_code": "GE",
+        "airport_code": null,
+        "scope": "search_location"
+      }
+    },
+    "nearby_airport_search": false,
+    "search_url": "https://www.aviasales.az/search/BAK1912TBS01011?t=J217977134001797717600000070GYDTBS17987724001798776600000070TBSGYD_4c49d855f5c1a2443924a5b933ccb63a_13669&search_date=31102026&expected_price_uuid=01a19169-9af1-8030-a696-d95b2e2bdbf7&static_fare_key=TY%7CP1%7CH1%7CL1_1_23%7CCH1%7CR1%7CTBC1&itinerary_key=17vAahuDxlvj-QpkyUz5TA&expected_price_source=share&expected_price_currency=azn&expected_price=289",
+    "price_kind": "cached_advertised_fare",
+    "live_price_verified": false,
+    "source_search_date": "2026-10-31",
+    "fetched_at": "2026-11-02T21:25:20.543504+04:00",
+    "source_url": "https://www.aviasales.az/routes/bak/tbs",
+    "source": "aviasales.az",
+    "source_card_text": "Baqaj daxil ən ucuz 289,38 ₼ 19 Dek, Şə 20:50 – 22:00 Yolda: 1 saat 10 dəq. / birbaşa 1 Yan, Cüm 03:00 – 04:10 Yolda: 1 saat 10 dəq. / birbaşa",
+    "data_warnings": [],
+    "missing_fields": [
+      "flight_number",
+      "cabin",
+      "baggage_kg",
+      "seats_available",
+      "confirmed_airports"
+    ]
+  },
+  {
+    "id": "AV-0ef4d3f812029bca",
+    "airline": "Azerbaijan Airlines",
+    "flight_number": null,
+    "origin": {
+      "code": "TBS",
+      "city": "Tbilisi",
+      "code_type": "city",
+      "timezone": "Asia/Tbilisi",
+      "country_code": "GE",
+      "airport_code": null,
+      "scope": "search_location"
+    },
+    "destination": {
+      "code": "BAK",
+      "city": "Baku",
+      "code_type": "city",
+      "timezone": "Asia/Baku",
+      "country_code": "AZ",
+      "airport_code": null,
+      "scope": "search_location"
+    },
+    "source_route": {
+      "origin": {
+        "code": "TBS",
+        "city": "Tbilisi",
+        "code_type": "city",
+        "timezone": "Asia/Tbilisi",
+        "country_code": "GE",
+        "airport_code": null,
+        "scope": "city"
+      },
+      "destination": {
+        "code": "BAK",
+        "city": "Baku",
+        "code_type": "city",
+        "timezone": "Asia/Baku",
+        "country_code": "AZ",
+        "airport_code": null,
+        "scope": "city"
+      }
+    },
+    "departure_local": "2027-01-01T03:00",
+    "arrival_local": "2027-01-01T04:10",
+    "duration_min": 70,
+    "stops": 0,
+    "via": null,
+    "price_azn": 393.28,
+    "cabin": null,
+    "baggage_kg": null,
+    "seats_available": null,
+    "currency": "AZN",
+    "trip_type": "round_trip",
+    "price_scope": "entire_round_trip",
+    "baggage_included": null,
+    "fare_label": "Ən ucuz",
+    "airlines": [
+      {
+        "code": "J2",
+        "name": "Azerbaijan Airlines",
+        "logo_url": "https://img.avs.io/pics/al_square/J2@avif?rs=fit:64:64"
+      }
+    ],
+    "return_date": "2027-01-06",
+    "departure_utc": "2026-12-31T23:00:00+00:00",
+    "arrival_utc": "2027-01-01T00:10:00+00:00",
+    "arrival_time_displayed": "04:10",
+    "arrival_date_source": "derived_from_displayed_duration_and_timezones",
+    "return_leg": {
+      "origin": {
+        "code": "BAK",
+        "city": "Baku",
+        "code_type": "city",
+        "timezone": "Asia/Baku",
+        "country_code": "AZ",
+        "airport_code": null,
+        "scope": "search_location"
+      },
+      "destination": {
+        "code": "TBS",
+        "city": "Tbilisi",
+        "code_type": "city",
+        "timezone": "Asia/Tbilisi",
+        "country_code": "GE",
+        "airport_code": null,
+        "scope": "search_location"
+      },
+      "departure_local": "2027-01-06T00:50",
+      "arrival_local": "2027-01-06T02:00",
+      "departure_utc": "2027-01-05T20:50:00+00:00",
+      "arrival_utc": "2027-01-05T22:00:00+00:00",
+      "arrival_time_displayed": "02:00",
+      "duration_min": 70,
+      "stops": 0,
+      "via": null,
+      "airlines": [
+        {
+          "code": "J2",
+          "name": "Azerbaijan Airlines",
+          "logo_url": "https://img.avs.io/pics/al_square/J2@avif?rs=fit:64:64"
+        }
+      ],
+      "arrival_date_source": "derived_from_displayed_duration_and_timezones",
+      "data_warnings": []
+    },
+    "location_scope": "city_route_area_not_confirmed_airports",
+    "search_route": {
+      "origin": {
+        "code": "TBS",
+        "city": "Tbilisi",
+        "code_type": "city",
+        "timezone": "Asia/Tbilisi",
+        "country_code": "GE",
+        "airport_code": null,
+        "scope": "search_location"
+      },
+      "destination": {
+        "code": "BAK",
+        "city": "Baku",
+        "code_type": "city",
+        "timezone": "Asia/Baku",
+        "country_code": "AZ",
+        "airport_code": null,
+        "scope": "search_location"
+      }
+    },
+    "nearby_airport_search": false,
+    "search_url": "https://www.aviasales.az/search/TBS0101BAK06011?t=J217987724001798776600000070TBSGYD17991966001799200800000070GYDTBS_4f330b46c1e70824bbcce17df3daaa86_18577&search_date=31102026&expected_price_uuid=01a1923a-e0b1-8030-a32f-478b0726a5dd&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=SnfH9M5z8Gib3Kgu3bWrhA&expected_price_source=share&expected_price_currency=azn&expected_price=393",
+    "price_kind": "cached_advertised_fare",
+    "live_price_verified": false,
+    "source_search_date": "2026-10-31",
+    "fetched_at": "2026-11-02T21:25:21.542742+04:00",
+    "source_url": "https://www.aviasales.az/routes/tbs/bak",
+    "source": "aviasales.az",
+    "source_card_text": "Ən ucuz 393,28 ₼ 1 Yan, Cüm 03:00 – 04:10 Yolda: 1 saat 10 dəq. / birbaşa 6 Yan, Çər 00:50 – 02:00 Yolda: 1 saat 10 dəq. / birbaşa",
+    "data_warnings": [],
+    "missing_fields": [
+      "flight_number",
+      "cabin",
+      "baggage_kg",
+      "seats_available",
+      "confirmed_airports"
+    ]
+  },
+  {
+    "id": "AV-34e5b16311df790d",
+    "airline": "Azerbaijan Airlines",
+    "flight_number": null,
+    "origin": {
+      "code": "TBS",
+      "city": "Tbilisi",
+      "code_type": "city",
+      "timezone": "Asia/Tbilisi",
+      "country_code": "GE",
+      "airport_code": null,
+      "scope": "search_location"
+    },
+    "destination": {
+      "code": "BAK",
+      "city": "Baku",
+      "code_type": "city",
+      "timezone": "Asia/Baku",
+      "country_code": "AZ",
+      "airport_code": null,
+      "scope": "search_location"
+    },
+    "source_route": {
+      "origin": {
+        "code": "TBS",
+        "city": "Tbilisi",
+        "code_type": "city",
+        "timezone": "Asia/Tbilisi",
+        "country_code": "GE",
+        "airport_code": null,
+        "scope": "city"
+      },
+      "destination": {
+        "code": "BAK",
+        "city": "Baku",
+        "code_type": "city",
+        "timezone": "Asia/Baku",
+        "country_code": "AZ",
+        "airport_code": null,
+        "scope": "city"
+      }
+    },
+    "departure_local": "2027-01-01T03:00",
+    "arrival_local": "2027-01-01T04:10",
+    "duration_min": 70,
+    "stops": 0,
+    "via": null,
+    "price_azn": 478.24,
+    "cabin": null,
+    "baggage_kg": null,
+    "seats_available": null,
+    "currency": "AZN",
+    "trip_type": "round_trip",
+    "price_scope": "entire_round_trip",
+    "baggage_included": true,
+    "fare_label": "Baqaj daxil ən ucuz",
+    "airlines": [
+      {
+        "code": "J2",
+        "name": "Azerbaijan Airlines",
+        "logo_url": "https://img.avs.io/pics/al_square/J2@avif?rs=fit:64:64"
+      }
+    ],
+    "return_date": "2027-01-06",
+    "departure_utc": "2026-12-31T23:00:00+00:00",
+    "arrival_utc": "2027-01-01T00:10:00+00:00",
+    "arrival_time_displayed": "04:10",
+    "arrival_date_source": "derived_from_displayed_duration_and_timezones",
+    "return_leg": {
+      "origin": {
+        "code": "BAK",
+        "city": "Baku",
+        "code_type": "city",
+        "timezone": "Asia/Baku",
+        "country_code": "AZ",
+        "airport_code": null,
+        "scope": "search_location"
+      },
+      "destination": {
+        "code": "TBS",
+        "city": "Tbilisi",
+        "code_type": "city",
+        "timezone": "Asia/Tbilisi",
+        "country_code": "GE",
+        "airport_code": null,
+        "scope": "search_location"
+      },
+      "departure_local": "2027-01-06T15:40",
+      "arrival_local": "2027-01-06T16:50",
+      "departure_utc": "2027-01-06T11:40:00+00:00",
+      "arrival_utc": "2027-01-06T12:50:00+00:00",
+      "arrival_time_displayed": "16:50",
+      "duration_min": 70,
+      "stops": 0,
+      "via": null,
+      "airlines": [
+        {
+          "code": "J2",
+          "name": "Azerbaijan Airlines",
+          "logo_url": "https://img.avs.io/pics/al_square/J2@avif?rs=fit:64:64"
+        }
+      ],
+      "arrival_date_source": "derived_from_displayed_duration_and_timezones",
+      "data_warnings": []
+    },
+    "location_scope": "city_route_area_not_confirmed_airports",
+    "search_route": {
+      "origin": {
+        "code": "TBS",
+        "city": "Tbilisi",
+        "code_type": "city",
+        "timezone": "Asia/Tbilisi",
+        "country_code": "GE",
+        "airport_code": null,
+        "scope": "search_location"
+      },
+      "destination": {
+        "code": "BAK",
+        "city": "Baku",
+        "code_type": "city",
+        "timezone": "Asia/Baku",
+        "country_code": "AZ",
+        "airport_code": null,
+        "scope": "search_location"
+      }
+    },
+    "nearby_airport_search": false,
+    "search_url": "https://www.aviasales.az/search/TBS0101BAK06011?t=J217987724001798776600000070TBSGYD17992500001799254200000070GYDTBS_e27b8d0c9fc095cbb368129d275bc82a_22590&search_date=31102026&expected_price_uuid=01a1923a-e0b1-8030-a32f-478b0726a5dd&static_fare_key=TY%7CP1%7CH1%7CL1_1_23%7CCH1%7CR1%7CTBC1&itinerary_key=jjzzI6ChvTiMbux7wyuwLw&expected_price_source=share&expected_price_currency=azn&expected_price=478",
+    "price_kind": "cached_advertised_fare",
+    "live_price_verified": false,
+    "source_search_date": "2026-10-31",
+    "fetched_at": "2026-11-02T21:25:21.542742+04:00",
+    "source_url": "https://www.aviasales.az/routes/tbs/bak",
+    "source": "aviasales.az",
+    "source_card_text": "Baqaj daxil ən ucuz 478,24 ₼ 1 Yan, Cüm 03:00 – 04:10 Yolda: 1 saat 10 dəq. / birbaşa 6 Yan, Çər 15:40 – 16:50 Yolda: 1 saat 10 dəq. / birbaşa",
+    "data_warnings": [],
+    "missing_fields": [
+      "flight_number",
+      "cabin",
+      "baggage_kg",
+      "seats_available",
+      "confirmed_airports"
+    ]
+  },
+  {
+    "id": "AV-032ee81692b01df9",
+    "airline": "Centrum Air",
+    "flight_number": null,
+    "origin": {
+      "code": "BAK",
+      "city": "Baku",
+      "code_type": "city",
+      "timezone": "Asia/Baku",
+      "country_code": "AZ",
+      "airport_code": null,
+      "scope": "search_location"
+    },
+    "destination": {
+      "code": "TAS",
+      "city": "Tashkent",
+      "code_type": "city",
+      "timezone": "Asia/Tashkent",
+      "country_code": "UZ",
+      "airport_code": null,
+      "scope": "search_location"
+    },
+    "source_route": {
+      "origin": {
+        "code": "BAK",
+        "city": "Baku",
+        "code_type": "city",
+        "timezone": "Asia/Baku",
+        "country_code": "AZ",
+        "airport_code": null,
+        "scope": "city"
+      },
+      "destination": {
+        "code": "TAS",
+        "city": "Tashkent",
+        "code_type": "city",
+        "timezone": "Asia/Tashkent",
+        "country_code": "UZ",
+        "airport_code": null,
+        "scope": "city"
+      }
+    },
+    "departure_local": "2026-11-13T22:05",
+    "arrival_local": "2026-11-14T01:30",
+    "duration_min": 145,
+    "stops": 0,
+    "via": null,
+    "price_azn": 466.01,
+    "cabin": null,
+    "baggage_kg": null,
+    "seats_available": null,
+    "currency": "AZN",
+    "trip_type": "round_trip",
+    "price_scope": "entire_round_trip",
+    "baggage_included": null,
+    "fare_label": "Ən ucuz",
+    "airlines": [
+      {
+        "code": "C6",
+        "name": "Centrum Air",
+        "logo_url": "https://img.avs.io/pics/al_square/C6@avif?rs=fit:64:64"
+      }
+    ],
+    "return_date": "2026-11-17",
+    "departure_utc": "2026-11-13T18:05:00+00:00",
+    "arrival_utc": "2026-11-13T20:30:00+00:00",
+    "arrival_time_displayed": "01:30",
+    "arrival_date_source": "derived_from_displayed_duration_and_timezones",
+    "return_leg": {
+      "origin": {
+        "code": "TAS",
+        "city": "Tashkent",
+        "code_type": "city",
+        "timezone": "Asia/Tashkent",
+        "country_code": "UZ",
+        "airport_code": null,
+        "scope": "search_location"
+      },
+      "destination": {
+        "code": "BAK",
+        "city": "Baku",
+        "code_type": "city",
+        "timezone": "Asia/Baku",
+        "country_code": "AZ",
+        "airport_code": null,
+        "scope": "search_location"
+      },
+      "departure_local": "2026-11-17T16:40",
+      "arrival_local": "2026-11-17T18:45",
+      "departure_utc": "2026-11-17T11:40:00+00:00",
+      "arrival_utc": "2026-11-17T14:45:00+00:00",
+      "arrival_time_displayed": "18:45",
+      "duration_min": 185,
+      "stops": 0,
+      "via": null,
+      "airlines": [
+        {
+          "code": "C6",
+          "name": "Centrum Air",
+          "logo_url": "https://img.avs.io/pics/al_square/C6@avif?rs=fit:64:64"
+        }
+      ],
+      "arrival_date_source": "derived_from_displayed_duration_and_timezones",
+      "data_warnings": []
+    },
+    "location_scope": "city_route_area_not_confirmed_airports",
+    "search_route": {
+      "origin": {
+        "code": "BAK",
+        "city": "Baku",
+        "code_type": "city",
+        "timezone": "Asia/Baku",
+        "country_code": "AZ",
+        "airport_code": null,
+        "scope": "search_location"
+      },
+      "destination": {
+        "code": "TAS",
+        "city": "Tashkent",
+        "code_type": "city",
+        "timezone": "Asia/Tashkent",
+        "country_code": "UZ",
+        "airport_code": null,
+        "scope": "search_location"
+      }
+    },
+    "nearby_airport_search": false,
+    "search_url": "https://www.aviasales.az/search/BAK1311TAS17111?t=C617946075001794619800000145GYDTAS17949336001794941100000185TASGYD_4d307f0fb31766f1e17d400eabc5dea3_22238&search_date=02112026&expected_price_uuid=01a19cff-f218-8031-632c-ce9406e9e705&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=xxyxAPkUfFADRqZTdosAzg&expected_price_source=share&expected_price_currency=azn&expected_price=466",
+    "price_kind": "cached_advertised_fare",
+    "live_price_verified": false,
+    "source_search_date": "2026-11-02",
+    "fetched_at": "2026-11-02T21:25:22.554330+04:00",
+    "source_url": "https://www.aviasales.az/routes/bak/tas",
+    "source": "aviasales.az",
+    "source_card_text": "Ən ucuz 466,01 ₼ 13 Noy, Cüm 22:05 – 01:30 Yolda: 2 saat 25 dəq. / birbaşa 17 Noy, Çər.a 16:40 – 18:45 Yolda: 3 saat 5 dəq. / birbaşa",
+    "data_warnings": [],
+    "missing_fields": [
+      "flight_number",
+      "cabin",
+      "baggage_kg",
+      "seats_available",
+      "confirmed_airports"
+    ]
+  },
+  {
+    "id": "AV-9e082d9abc4508bb",
+    "airline": "Centrum Air",
+    "flight_number": null,
+    "origin": {
+      "code": "BAK",
+      "city": "Baku",
+      "code_type": "city",
+      "timezone": "Asia/Baku",
+      "country_code": "AZ",
+      "airport_code": null,
+      "scope": "search_location"
+    },
+    "destination": {
+      "code": "TAS",
+      "city": "Tashkent",
+      "code_type": "city",
+      "timezone": "Asia/Tashkent",
+      "country_code": "UZ",
+      "airport_code": null,
+      "scope": "search_location"
+    },
+    "source_route": {
+      "origin": {
+        "code": "BAK",
+        "city": "Baku",
+        "code_type": "city",
+        "timezone": "Asia/Baku",
+        "country_code": "AZ",
+        "airport_code": null,
+        "scope": "city"
+      },
+      "destination": {
+        "code": "TAS",
+        "city": "Tashkent",
+        "code_type": "city",
+        "timezone": "Asia/Tashkent",
+        "country_code": "UZ",
+        "airport_code": null,
+        "scope": "city"
+      }
+    },
+    "departure_local": "2026-12-24T15:05",
+    "arrival_local": "2026-12-24T18:40",
+    "duration_min": 155,
+    "stops": 0,
+    "via": null,
+    "price_azn": 467.21,
+    "cabin": null,
+    "baggage_kg": null,
+    "seats_available": null,
+    "currency": "AZN",
+    "trip_type": "round_trip",
+    "price_scope": "entire_round_trip",
+    "baggage_included": true,
+    "fare_label": "Baqaj daxil ən ucuz",
+    "airlines": [
+      {
+        "code": "C6",
+        "name": "Centrum Air",
+        "logo_url": "https://img.avs.io/pics/al_square/C6@avif?rs=fit:64:64"
+      }
+    ],
+    "return_date": "2027-01-05",
+    "departure_utc": "2026-12-24T11:05:00+00:00",
+    "arrival_utc": "2026-12-24T13:40:00+00:00",
+    "arrival_time_displayed": "18:40",
+    "arrival_date_source": "derived_from_displayed_duration_and_timezones",
+    "return_leg": {
+      "origin": {
+        "code": "TAS",
+        "city": "Tashkent",
+        "code_type": "city",
+        "timezone": "Asia/Tashkent",
+        "country_code": "UZ",
+        "airport_code": null,
+        "scope": "search_location"
+      },
+      "destination": {
+        "code": "BAK",
+        "city": "Baku",
+        "code_type": "city",
+        "timezone": "Asia/Baku",
+        "country_code": "AZ",
+        "airport_code": null,
+        "scope": "search_location"
+      },
+      "departure_local": "2027-01-05T16:40",
+      "arrival_local": "2027-01-05T18:45",
+      "departure_utc": "2027-01-05T11:40:00+00:00",
+      "arrival_utc": "2027-01-05T14:45:00+00:00",
+      "arrival_time_displayed": "18:45",
+      "duration_min": 185,
+      "stops": 0,
+      "via": null,
+      "airlines": [
+        {
+          "code": "C6",
+          "name": "Centrum Air",
+          "logo_url": "https://img.avs.io/pics/al_square/C6@avif?rs=fit:64:64"
+        }
+      ],
+      "arrival_date_source": "derived_from_displayed_duration_and_timezones",
+      "data_warnings": []
+    },
+    "location_scope": "city_route_area_not_confirmed_airports",
+    "search_route": {
+      "origin": {
+        "code": "BAK",
+        "city": "Baku",
+        "code_type": "city",
+        "timezone": "Asia/Baku",
+        "country_code": "AZ",
+        "airport_code": null,
+        "scope": "search_location"
+      },
+      "destination": {
+        "code": "TAS",
+        "city": "Tashkent",
+        "code_type": "city",
+        "timezone": "Asia/Tashkent",
+        "country_code": "UZ",
+        "airport_code": null,
+        "scope": "search_location"
+      }
+    },
+    "nearby_airport_search": false,
+    "search_url": "https://www.aviasales.az/search/BAK2412TAS05011?t=C617981247001798137600000155GYDTAS17991672001799174700000185TASGYD_fef53ac5bb961a9aae1af6f041285f0d_22331&search_date=29102026&expected_price_uuid=01a18995-ffb8-8030-202e-dc5726dbc0cd&static_fare_key=TY%7CP0%7CH1%7CL1_1_23%7CCH0%7CR0%7CTBC1&itinerary_key=5jpaMdhjGXmTyaMsftO5vQ&expected_price_source=share&expected_price_currency=azn&expected_price=467",
+    "price_kind": "cached_advertised_fare",
+    "live_price_verified": false,
+    "source_search_date": "2026-10-29",
+    "fetched_at": "2026-11-02T21:25:22.554330+04:00",
+    "source_url": "https://www.aviasales.az/routes/bak/tas",
+    "source": "aviasales.az",
+    "source_card_text": "Baqaj daxil ən ucuz 467,21 ₼ 24 Dek, Cüm.a 15:05 – 18:40 Yolda: 2 saat 35 dəq. / birbaşa 5 Yan, Çər.a 16:40 – 18:45 Yolda: 3 saat 5 dəq. / birbaşa",
+    "data_warnings": [],
+    "missing_fields": [
+      "flight_number",
+      "cabin",
+      "baggage_kg",
+      "seats_available",
+      "confirmed_airports"
+    ]
+  }
+]

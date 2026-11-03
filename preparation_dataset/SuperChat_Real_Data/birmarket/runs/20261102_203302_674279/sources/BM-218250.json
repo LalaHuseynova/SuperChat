@@ -1,0 +1,436 @@
+{
+  "product": {
+    "id": 218250,
+    "gtin": "",
+    "mpn": "P4-RD01",
+    "name": "Çiyin çantası Tajezzo P4 Beaborn Waterproof Chest Pack with USB Charging Port Red",
+    "slugged_name_az": "chiyin-chantasi-tajezzo-p4-beaborn-waterproof-chest-pack-with-usb-charging-port-red",
+    "slugged_name_ru": "sumka-na-plecho-tajezzo-p4-beaborn-waterproof-chest-pack-with-usb-charging-port-red",
+    "description": "",
+    "description_outlet": "",
+    "status": "active",
+    "uuid": "a3bd3c07-239c-4f7b-97e1-767058ccfdb9",
+    "variant_code": "VC_218250",
+    "default_offer": {
+      "uuid": "edb9b60a-bd39-4b07-b206-68a1be1d4d8c",
+      "installment_enabled": true,
+      "max_installment_months": 3,
+      "product_offer_labels": [],
+      "old_price": 105,
+      "retail_price": 89,
+      "supplier_id": "9b85c131-e440-4641-8ed0-192b9e4ddcb6",
+      "qty": 0,
+      "seller": {
+        "ext_id": "9b85c131-e440-4641-8ed0-192b9e4ddcb6",
+        "marketing_name": {
+          "id": 2707,
+          "name": "GADGETROOM"
+        },
+        "logo": {
+          "thumbnail": "https://storage.umico.az/cpcustomerprod01/c094f46fdc971b3ab519d822048a736d.jpg"
+        },
+        "vat_payer": false,
+        "rating": 89,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "discount_effective_start_date": "",
+      "discount_effective_end_date": ""
+    },
+    "category_id": 2283,
+    "category": {
+      "id": 2283,
+      "name": "Şəhər bel çantaları"
+    },
+    "brand": {
+      "name": "Tajezzo"
+    },
+    "custom_fields": [
+      {
+        "master_field_id": 625,
+        "values": [
+          "Qırmızı"
+        ]
+      },
+      {
+        "master_field_id": 637,
+        "values": [
+          "Plastik"
+        ]
+      },
+      {
+        "master_field_id": 1412,
+        "values": [
+          "31"
+        ]
+      },
+      {
+        "master_field_id": 1206,
+        "values": [
+          "20"
+        ]
+      },
+      {
+        "master_field_id": 639,
+        "values": [
+          "Zəncirbənd"
+        ]
+      },
+      {
+        "master_field_id": 761,
+        "values": [
+          "Uniseks"
+        ]
+      },
+      {
+        "master_field_id": 638,
+        "values": [
+          "Naxışsız və printsiz"
+        ]
+      },
+      {
+        "master_field_id": 1448,
+        "values": [
+          "8"
+        ]
+      },
+      {
+        "master_field_id": 762,
+        "values": [
+          "1"
+        ]
+      },
+      {
+        "master_field_id": 623,
+        "values": [
+          "Suyadavamlı"
+        ]
+      },
+      {
+        "master_field_id": 618,
+        "values": [
+          "Çin"
+        ]
+      },
+      {
+        "master_field_id": 2210,
+        "values": [
+          "Çin"
+        ]
+      }
+    ],
+    "main_img": {
+      "big": "https://strgimgr.umico.az/sized/1680/218250-2ec4a59dbfbabde196d262530c7a3f1f.jpg",
+      "medium": "https://strgimgr.umico.az/sized/840/218250-2ec4a59dbfbabde196d262530c7a3f1f.jpg",
+      "small": "https://strgimgr.umico.az/sized/280/218250-2ec4a59dbfbabde196d262530c7a3f1f.jpg"
+    },
+    "img_url_thumbnail": "https://strgimgr.umico.az/sized/280/218250-2ec4a59dbfbabde196d262530c7a3f1f.jpg",
+    "main_video": "",
+    "imgs": [
+      {
+        "big": "https://strgimgr.umico.az/sized/1680/218250-2ec4a59dbfbabde196d262530c7a3f1f.jpg",
+        "medium": "https://strgimgr.umico.az/sized/840/218250-2ec4a59dbfbabde196d262530c7a3f1f.jpg",
+        "small": "https://strgimgr.umico.az/sized/280/218250-2ec4a59dbfbabde196d262530c7a3f1f.jpg"
+      }
+    ],
+    "videos": [],
+    "min_qty": 1,
+    "preorder_available": false,
+    "is_assortment": false,
+    "is_bulk_heavy": false,
+    "is_refurbished": false,
+    "is_refundable": true,
+    "is_dangerous": false,
+    "show_tech_description": false,
+    "use_external_content": true,
+    "product_labels": [],
+    "ratings": {
+      "rating_value": 0,
+      "assessment_id": 0,
+      "session_count": 0
+    },
+    "default_show_stock_qty_threshold": 0,
+    "card_type": "public"
+  },
+  "category": {
+    "id": 2283,
+    "name": "Şəhər bel çantaları",
+    "slugged_name_az": "sheher-bel-chantalari",
+    "slugged_name_ru": "ryukzaki-gorodskie",
+    "view_mode": "products",
+    "mobile_visual_mode": "text",
+    "is_variant": false,
+    "depth": 2,
+    "parent_id": 2267,
+    "child_ids": [],
+    "node_type": "NODE",
+    "install_service_needed": false,
+    "fitting_allowed": false,
+    "vat": true,
+    "variations": [
+      {
+        "master_field_id": 638,
+        "name": "Naxışlar və printlər",
+        "variation_tool_type": "default",
+        "has_size_chart": false,
+        "display_variant": false
+      },
+      {
+        "master_field_id": 625,
+        "name": "Rəng",
+        "variation_tool_type": "default",
+        "has_size_chart": false,
+        "display_variant": false
+      }
+    ],
+    "custom_fields": [
+      {
+        "master_field_id": 625,
+        "category_master_field_id": 11134,
+        "name": "Rəng"
+      },
+      {
+        "master_field_id": 637,
+        "category_master_field_id": 11132,
+        "name": "Material"
+      },
+      {
+        "master_field_id": 639,
+        "category_master_field_id": 11141,
+        "name": "Kilid növü"
+      },
+      {
+        "master_field_id": 1412,
+        "category_master_field_id": 11136,
+        "name": "Uzunluğu, sm"
+      },
+      {
+        "master_field_id": 1206,
+        "category_master_field_id": 11137,
+        "name": "Eni, sm"
+      },
+      {
+        "master_field_id": 761,
+        "category_master_field_id": 11133,
+        "name": "Cins"
+      },
+      {
+        "master_field_id": 908,
+        "category_master_field_id": 11143,
+        "name": "Həcm, L"
+      },
+      {
+        "master_field_id": 638,
+        "category_master_field_id": 11135,
+        "name": "Naxışlar və printlər"
+      },
+      {
+        "master_field_id": 1448,
+        "category_master_field_id": 37676,
+        "name": "Dərinliyi, sm"
+      },
+      {
+        "master_field_id": 762,
+        "category_master_field_id": 11139,
+        "name": "Bölmələrin sayı"
+      },
+      {
+        "master_field_id": 623,
+        "category_master_field_id": 11140,
+        "name": "Xüsusiyyətlər"
+      },
+      {
+        "master_field_id": 2637,
+        "category_master_field_id": 11142,
+        "name": "Bel çantasının arxası"
+      },
+      {
+        "master_field_id": 870,
+        "category_master_field_id": 11144,
+        "name": "Çəki, q"
+      },
+      {
+        "master_field_id": 618,
+        "category_master_field_id": 11145,
+        "name": "İstehsalçı ölkə"
+      },
+      {
+        "master_field_id": 2210,
+        "category_master_field_id": 11146,
+        "name": "Brendin ölkəsi"
+      }
+    ],
+    "parent": {
+      "id": 2267,
+      "node_type": "NODE",
+      "name": "Çantalar, pul kisələri və aksessuarlar",
+      "slugged_name": "chantalar-pul-kiseleri-ve-aksessuarlar",
+      "parent": {
+        "id": 3003,
+        "node_type": "NODE",
+        "name": "Geyim,ayaqqabı və aksessuarlar",
+        "slugged_name": "geyim-ve-ayaqqabi",
+        "parent": null
+      }
+    },
+    "is_refundable": true,
+    "is_adult": false,
+    "icons": {
+      "thumbnail": "https://strgimgr.umico.az/img/category/188/4030f9db-3c53-4a51-905b-ab006bb8b9af.jpeg",
+      "original": "https://strgimgr.umico.az/img/category/original/4030f9db-3c53-4a51-905b-ab006bb8b9af.jpeg"
+    },
+    "is_active": true
+  },
+  "offers": [
+    {
+      "uuid": "edb9b60a-bd39-4b07-b206-68a1be1d4d8c",
+      "installment_enabled": true,
+      "max_installment_months": 3,
+      "product_offer_labels": [],
+      "old_price": 105,
+      "retail_price": 89,
+      "supplier_id": "9b85c131-e440-4641-8ed0-192b9e4ddcb6",
+      "seller": {
+        "ext_id": "1d3fadf8-1d42-4204-8426-4fde13b44490",
+        "internal_id": 2707,
+        "marketing_name": {
+          "id": 2707,
+          "name": "GADGETROOM"
+        },
+        "logo": {
+          "thumbnail": "https://storage.umico.az/cpcustomerprod01/c094f46fdc971b3ab519d822048a736d.jpg"
+        },
+        "vat_payer": false,
+        "rating": 89,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "allow_qty": 0
+    },
+    {
+      "uuid": "7d8fb1cd-69fb-4182-9875-dd2508502af3",
+      "installment_enabled": true,
+      "max_installment_months": 3,
+      "product_offer_labels": [],
+      "old_price": 105,
+      "retail_price": 89,
+      "supplier_id": "1ddec096-d98d-44bd-b301-442715957e5d",
+      "seller": {
+        "ext_id": "ffbe35ee-50e6-4896-bfa4-faaf5bb0abb0",
+        "internal_id": 10570,
+        "marketing_name": {
+          "id": 10570,
+          "name": "Case Baku"
+        },
+        "logo": {
+          "thumbnail": "https://storage.umico.az/cpcustomerprod01/3fff27729f5553e98bfde7ca67d1a804.jpg"
+        },
+        "vat_payer": false,
+        "rating": 96,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "allow_qty": 0
+    }
+  ],
+  "variations": [
+    {
+      "id": 218250,
+      "name": "Çiyin çantası Tajezzo P4 Beaborn Waterproof Chest Pack with USB Charging Port Red",
+      "slugged_name": "chiyin-chantasi-tajezzo-p4-beaborn-waterproof-chest-pack-with-usb-charging-port-red",
+      "custom_fields": [
+        {
+          "master_field_id": 638,
+          "values": [
+            "Naxışsız və printsiz"
+          ]
+        },
+        {
+          "master_field_id": 625,
+          "values": [
+            "Qırmızı"
+          ]
+        }
+      ],
+      "main_img": {
+        "big": "https://strgimgr.umico.az/sized/1680/218250-2ec4a59dbfbabde196d262530c7a3f1f.jpg",
+        "medium": "https://strgimgr.umico.az/sized/840/218250-2ec4a59dbfbabde196d262530c7a3f1f.jpg",
+        "small": "https://strgimgr.umico.az/sized/280/218250-2ec4a59dbfbabde196d262530c7a3f1f.jpg"
+      },
+      "status": "active"
+    }
+  ],
+  "size_chart": {},
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "sku": 218250,
+    "mpn": "P4-RD01",
+    "url": "https://birmarket.az/product/218250-chiyin-chantasi-tajezzo-p4-beaborn-waterproof-chest-pack-with-usb-charging-port-red",
+    "name": "Çiyin çantası Tajezzo P4 Beaborn Waterproof Chest Pack with USB Charging Port Red",
+    "image": [
+      "https://strgimgr.umico.az/sized/1680/218250-2ec4a59dbfbabde196d262530c7a3f1f.jpg"
+    ],
+    "description": "Çiyin çantası Tajezzo P4 Beaborn Waterproof Chest Pack with USB Charging Port Red - KREDİTLƏ ayda ◉ 4.56₼-dən ♢Birmarket-dən Bakı və Azərbaycan üzrə çatdırılma",
+    "itemCondition": "https://schema.org/NewCondition",
+    "offers": {
+      "@type": "AggregateOffer",
+      "availability": "https://schema.org/InStock",
+      "offerCount": 2,
+      "highPrice": 89,
+      "lowPrice": 89,
+      "priceCurrency": "AZN",
+      "hasMerchantReturnPolicy": {
+        "applicableCountry": "AZ",
+        "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+        "returnMethod": "https://schema.org/ReturnInStore",
+        "returnFees": "https://schema.org/FreeReturn",
+        "merchantReturnDays": 14
+      },
+      "shippingDetails": {
+        "@type": "OfferShippingDetails",
+        "shippingDestination": {
+          "@type": "DefinedRegion",
+          "addressCountry": "AZ"
+        },
+        "deliveryTime": {
+          "@type": "ShippingDeliveryTime",
+          "handlingTime": {
+            "@type": "QuantitativeValue",
+            "minValue": 0,
+            "maxValue": 1,
+            "unitCode": "DAY"
+          },
+          "transitTime": {
+            "@type": "QuantitativeValue",
+            "minValue": 0,
+            "maxValue": 1,
+            "unitCode": "DAY"
+          },
+          "businessDays": {
+            "@type": "OpeningHoursSpecification",
+            "dayOfWeek": [
+              "https://schema.org/Monday",
+              "https://schema.org/Tuesday",
+              "https://schema.org/Wednesday",
+              "https://schema.org/Thursday",
+              "https://schema.org/Friday",
+              "https://schema.org/Saturday",
+              "https://schema.org/Sunday"
+            ]
+          }
+        },
+        "shippingRate": {
+          "@type": "MonetaryAmount",
+          "value": 0,
+          "currency": "AZN"
+        }
+      }
+    },
+    "brand": {
+      "@type": "Brand",
+      "name": "Tajezzo",
+      "url": "https://birmarket.az/brands/Tajezzo"
+    }
+  }
+}

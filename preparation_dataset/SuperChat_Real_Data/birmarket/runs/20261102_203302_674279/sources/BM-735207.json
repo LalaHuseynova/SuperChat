@@ -1,0 +1,563 @@
+{
+  "product": {
+    "id": 735207,
+    "gtin": "8690842569869",
+    "mpn": "CEP 5302 B",
+    "name": "Qəhvəbişirən Beko CEP 5302 B",
+    "slugged_name_az": "qehvebishiren-beko-cep-5302-b",
+    "slugged_name_ru": "kofevarka-beko-cep-5302-b",
+    "description": "Beko CEP 5302 B modeli 15 barlıq nasos təzyiqi ilə olan buxar qəhvə maşını espresso hazırlamaq üçün nəzərdə tutulub. Rahat ölçüləri (dərinlik 32 sm, en 19.2 sm, hündürlük 31.5 sm) və 3.7 kq çəkisi onu yerləşdirmək və daşımada asanlıq yaradır. Model eyni anda iki fincan qəhvə hazırlamağa imkan verir, bu da vaxt qənaətinə imkan verir. Cihazın 1628 Vt gücü hazırlıq prosesini sürətli edir. 1.1 litr həcmli geniş su rezervuarı onun doldurulma tezliyini azaldır. Qəhvə maşını keyfiyyətli qara plasktikdən hazırlanıb, bu da onun təmizliyini asanlaşdırır. Məhsul istifadə rahatlığı üçün təlimatlarla təchiz olunub və Türkiyədə istehsal edildiyi üçün keyfiyyətə zəmanət verir.",
+    "description_outlet": "",
+    "status": "active",
+    "uuid": "d834a3d3-088e-4b8a-b488-7f0a49b72e1f",
+    "variant_code": "VC_735207",
+    "default_offer": {
+      "uuid": "3e220279-94bb-40a5-b0c1-d91b58201b24",
+      "installment_enabled": true,
+      "max_installment_months": 3,
+      "product_offer_labels": [],
+      "old_price": 427,
+      "retail_price": 259.97,
+      "supplier_id": "6e16a4fb-0b2b-45cd-a8e1-0429ae2142e6",
+      "qty": 0,
+      "seller": {
+        "ext_id": "6e16a4fb-0b2b-45cd-a8e1-0429ae2142e6",
+        "marketing_name": {
+          "id": 4884,
+          "name": "Shark Electronics"
+        },
+        "logo": {
+          "thumbnail": "https://storage.umico.az/cpcustomerprod01/5546149c4608a248883fe5fad50b5b97.jpg"
+        },
+        "vat_payer": false,
+        "rating": 96,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "discount_effective_start_date": "",
+      "discount_effective_end_date": ""
+    },
+    "category_id": 143,
+    "category": {
+      "id": 143,
+      "name": "Qəhvəbişirənlər və qəhvə maşınları"
+    },
+    "brand": {
+      "name": "Beko"
+    },
+    "custom_fields": [
+      {
+        "master_field_id": 973,
+        "values": [
+          "Borulu",
+          "Espresso"
+        ]
+      },
+      {
+        "master_field_id": 798,
+        "values": [
+          "1628"
+        ]
+      },
+      {
+        "master_field_id": 908,
+        "values": [
+          "1.1"
+        ]
+      },
+      {
+        "master_field_id": 817,
+        "values": [
+          "Qara"
+        ]
+      },
+      {
+        "master_field_id": 974,
+        "values": [
+          "Üyüdülmüş"
+        ]
+      },
+      {
+        "master_field_id": 635,
+        "values": [
+          "Məişət"
+        ]
+      },
+      {
+        "master_field_id": 976,
+        "values": [
+          "15"
+        ]
+      },
+      {
+        "master_field_id": 977,
+        "values": [
+          "Bəli"
+        ]
+      },
+      {
+        "master_field_id": 708,
+        "values": [
+          "Plastik"
+        ]
+      },
+      {
+        "master_field_id": 1205,
+        "values": [
+          "31.5"
+        ]
+      },
+      {
+        "master_field_id": 1206,
+        "values": [
+          "19.2"
+        ]
+      },
+      {
+        "master_field_id": 1448,
+        "values": [
+          "32"
+        ]
+      },
+      {
+        "master_field_id": 656,
+        "values": [
+          "3.7"
+        ]
+      },
+      {
+        "master_field_id": 2210,
+        "values": [
+          "Türkiyə"
+        ]
+      },
+      {
+        "master_field_id": 697,
+        "values": [
+          "Təlimat"
+        ]
+      }
+    ],
+    "main_img": {
+      "big": "https://strgimgr.umico.az/sized/1680/735207-2686dd8f72035f76d0b719e8f43f8363.jpg",
+      "medium": "https://strgimgr.umico.az/sized/840/735207-2686dd8f72035f76d0b719e8f43f8363.jpg",
+      "small": "https://strgimgr.umico.az/sized/280/735207-2686dd8f72035f76d0b719e8f43f8363.jpg"
+    },
+    "img_url_thumbnail": "https://strgimgr.umico.az/sized/280/735207-2686dd8f72035f76d0b719e8f43f8363.jpg",
+    "main_video": "",
+    "imgs": [
+      {
+        "big": "https://strgimgr.umico.az/sized/1680/735207-2686dd8f72035f76d0b719e8f43f8363.jpg",
+        "medium": "https://strgimgr.umico.az/sized/840/735207-2686dd8f72035f76d0b719e8f43f8363.jpg",
+        "small": "https://strgimgr.umico.az/sized/280/735207-2686dd8f72035f76d0b719e8f43f8363.jpg"
+      },
+      {
+        "big": "https://strgimgr.umico.az/sized/1680/735207-da00af19842c50d3c4d1fc05a62c9d46.jpg",
+        "medium": "https://strgimgr.umico.az/sized/840/735207-da00af19842c50d3c4d1fc05a62c9d46.jpg",
+        "small": "https://strgimgr.umico.az/sized/280/735207-da00af19842c50d3c4d1fc05a62c9d46.jpg"
+      },
+      {
+        "big": "https://strgimgr.umico.az/sized/1680/735207-ad20c8260fd96ead74d85a9b40107547.jpg",
+        "medium": "https://strgimgr.umico.az/sized/840/735207-ad20c8260fd96ead74d85a9b40107547.jpg",
+        "small": "https://strgimgr.umico.az/sized/280/735207-ad20c8260fd96ead74d85a9b40107547.jpg"
+      },
+      {
+        "big": "https://strgimgr.umico.az/sized/1680/735207-9b5afc16a7795aebb954ac6503db4f88.jpg",
+        "medium": "https://strgimgr.umico.az/sized/840/735207-9b5afc16a7795aebb954ac6503db4f88.jpg",
+        "small": "https://strgimgr.umico.az/sized/280/735207-9b5afc16a7795aebb954ac6503db4f88.jpg"
+      }
+    ],
+    "videos": [],
+    "min_qty": 1,
+    "preorder_available": false,
+    "is_assortment": false,
+    "is_bulk_heavy": false,
+    "is_refurbished": false,
+    "is_refundable": true,
+    "is_dangerous": false,
+    "show_tech_description": false,
+    "use_external_content": true,
+    "product_labels": [],
+    "ratings": {
+      "rating_value": 4,
+      "assessment_id": 0,
+      "session_count": 5,
+      "score_count": 3,
+      "review_count": 2
+    },
+    "default_show_stock_qty_threshold": 0,
+    "card_type": "public"
+  },
+  "category": {
+    "id": 143,
+    "name": "Qəhvəbişirənlər və qəhvə maşınları",
+    "slugged_name_az": "qehvedanlar-qehve-mashinlari",
+    "slugged_name_ru": "kofevarki-kofemashiny",
+    "view_mode": "products",
+    "mobile_visual_mode": "text",
+    "is_variant": true,
+    "depth": 3,
+    "parent_id": 139,
+    "child_ids": [],
+    "node_type": "NODE",
+    "install_service_needed": false,
+    "fitting_allowed": false,
+    "vat": true,
+    "variations": [
+      {
+        "master_field_id": 817,
+        "name": "Korpusun rəngi",
+        "variation_tool_type": "default",
+        "has_size_chart": false,
+        "display_variant": false
+      }
+    ],
+    "custom_fields": [
+      {
+        "master_field_id": 973,
+        "category_master_field_id": 2227,
+        "name": "Qəhvəbişiricinin növü"
+      },
+      {
+        "master_field_id": 908,
+        "category_master_field_id": 2229,
+        "name": "Həcm, L"
+      },
+      {
+        "master_field_id": 4478,
+        "category_master_field_id": 45468,
+        "name": "Süd köpürdücü"
+      },
+      {
+        "master_field_id": 974,
+        "category_master_field_id": 2228,
+        "name": "İstifadə edilən qəhvə növü"
+      },
+      {
+        "master_field_id": 798,
+        "category_master_field_id": 5135,
+        "name": "Güc, Vt"
+      },
+      {
+        "master_field_id": 817,
+        "category_master_field_id": 9224,
+        "name": "Korpusun rəngi"
+      },
+      {
+        "master_field_id": 2211,
+        "category_master_field_id": 9241,
+        "name": "Zəmanət müddəti"
+      },
+      {
+        "master_field_id": 875,
+        "category_master_field_id": 5139,
+        "name": "İdarəetmə növü"
+      },
+      {
+        "master_field_id": 635,
+        "category_master_field_id": 2226,
+        "name": "Təyinatı"
+      },
+      {
+        "master_field_id": 976,
+        "category_master_field_id": 2231,
+        "name": "Pompanın təzyiqi, bar"
+      },
+      {
+        "master_field_id": 977,
+        "category_master_field_id": 2232,
+        "name": "İki fıncanın eyni vaxtda hazırlanması"
+      },
+      {
+        "master_field_id": 2219,
+        "category_master_field_id": 9221,
+        "name": "Porsiyalar sayı"
+      },
+      {
+        "master_field_id": 2220,
+        "category_master_field_id": 9222,
+        "name": "Qəhvə bölməsi, q"
+      },
+      {
+        "master_field_id": 2221,
+        "category_master_field_id": 9223,
+        "name": "Tullantı bölməsi (porsiyalar)"
+      },
+      {
+        "master_field_id": 2222,
+        "category_master_field_id": 9225,
+        "name": "Filtr növü"
+      },
+      {
+        "master_field_id": 2223,
+        "category_master_field_id": 9226,
+        "name": "Qızdırıcının növü"
+      },
+      {
+        "master_field_id": 2070,
+        "category_master_field_id": 9227,
+        "name": "Əlavə xüsusiyyətlər"
+      },
+      {
+        "master_field_id": 941,
+        "category_master_field_id": 9228,
+        "name": "Taymer"
+      },
+      {
+        "master_field_id": 1914,
+        "category_master_field_id": 9229,
+        "name": "Göstərici"
+      },
+      {
+        "master_field_id": 2224,
+        "category_master_field_id": 9230,
+        "name": "Hazır reseptlər"
+      },
+      {
+        "master_field_id": 708,
+        "category_master_field_id": 5137,
+        "name": "Korpusun materialı"
+      },
+      {
+        "master_field_id": 2225,
+        "category_master_field_id": 9231,
+        "name": "Borunun material"
+      },
+      {
+        "master_field_id": 2226,
+        "category_master_field_id": 9232,
+        "name": "Avtomatik təmizlənmə"
+      },
+      {
+        "master_field_id": 2802,
+        "category_master_field_id": 13800,
+        "name": "Avtomatik söndürülmə"
+      },
+      {
+        "master_field_id": 1044,
+        "category_master_field_id": 9234,
+        "name": "Damlama əleyhinə sistem"
+      },
+      {
+        "master_field_id": 975,
+        "category_master_field_id": 2230,
+        "name": "Quraşdırılan texnika"
+      },
+      {
+        "master_field_id": 1205,
+        "category_master_field_id": 9235,
+        "name": "Hündürlüyü, sm"
+      },
+      {
+        "master_field_id": 1206,
+        "category_master_field_id": 9236,
+        "name": "Eni, sm"
+      },
+      {
+        "master_field_id": 1448,
+        "category_master_field_id": 9237,
+        "name": "Dərinliyi, sm"
+      },
+      {
+        "master_field_id": 656,
+        "category_master_field_id": 9238,
+        "name": "Çəki, kq"
+      },
+      {
+        "master_field_id": 618,
+        "category_master_field_id": 5136,
+        "name": "İstehsalçı ölkə"
+      },
+      {
+        "master_field_id": 2210,
+        "category_master_field_id": 9239,
+        "name": "Brendin ölkəsi"
+      },
+      {
+        "master_field_id": 697,
+        "category_master_field_id": 9240,
+        "name": "Komplektasiya"
+      }
+    ],
+    "parent": {
+      "id": 139,
+      "node_type": "NODE",
+      "name": "Mətbəx üçün kiçik məişət texnikası",
+      "slugged_name": "metbex-uchun-kichik-meishet-texnikasi",
+      "parent": {
+        "id": 106,
+        "node_type": "NODE",
+        "name": "Məişət texnikası",
+        "slugged_name": "meishet-texnikasi",
+        "parent": {
+          "id": 1,
+          "node_type": "NODE",
+          "name": "Elektronika və məişət texnikası",
+          "slugged_name": "elektronika-ve-meishet-texnikasi",
+          "parent": null
+        }
+      }
+    },
+    "is_refundable": true,
+    "is_adult": false,
+    "icons": {
+      "thumbnail": "https://strgimgr.umico.az/img/category/188/1ee8150e-cd76-4de2-a3e4-7b86b0ce7740.jpeg",
+      "original": "https://strgimgr.umico.az/img/category/original/1ee8150e-cd76-4de2-a3e4-7b86b0ce7740.jpeg"
+    },
+    "is_active": true
+  },
+  "offers": [
+    {
+      "uuid": "818aa8fb-2541-4cd1-a6d3-1efe2cdf1e40",
+      "installment_enabled": true,
+      "max_installment_months": 12,
+      "product_offer_labels": [],
+      "old_price": 350,
+      "retail_price": 259.99,
+      "supplier_id": "61352dec-1321-4b00-ae62-96fbfc007760",
+      "seller": {
+        "ext_id": "a9ecfcb2-b17c-4e8c-91ff-77c548290c49",
+        "internal_id": 2521,
+        "marketing_name": {
+          "id": 2521,
+          "name": "Shahin Electronics"
+        },
+        "logo": {
+          "thumbnail": "https://storage.umico.az/cpcustomerprod01/e8e141709906ddf3106796786a750b33.jpg"
+        },
+        "vat_payer": true,
+        "rating": 97,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "allow_qty": 0
+    },
+    {
+      "uuid": "3e220279-94bb-40a5-b0c1-d91b58201b24",
+      "installment_enabled": true,
+      "max_installment_months": 3,
+      "product_offer_labels": [],
+      "old_price": 427,
+      "retail_price": 259.97,
+      "supplier_id": "6e16a4fb-0b2b-45cd-a8e1-0429ae2142e6",
+      "seller": {
+        "ext_id": "18e4835e-38e5-43e3-8b11-0f7ebb824129",
+        "internal_id": 4884,
+        "marketing_name": {
+          "id": 4884,
+          "name": "Shark Electronics"
+        },
+        "logo": {
+          "thumbnail": "https://storage.umico.az/cpcustomerprod01/5546149c4608a248883fe5fad50b5b97.jpg"
+        },
+        "vat_payer": false,
+        "rating": 96,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "allow_qty": 0
+    }
+  ],
+  "variations": [
+    {
+      "id": 735207,
+      "name": "Qəhvəbişirən Beko CEP 5302 B",
+      "slugged_name": "qehvebishiren-beko-cep-5302-b",
+      "custom_fields": [
+        {
+          "master_field_id": 817,
+          "values": [
+            "Qara"
+          ]
+        }
+      ],
+      "main_img": {
+        "big": "https://strgimgr.umico.az/sized/1680/735207-2686dd8f72035f76d0b719e8f43f8363.jpg",
+        "medium": "https://strgimgr.umico.az/sized/840/735207-2686dd8f72035f76d0b719e8f43f8363.jpg",
+        "small": "https://strgimgr.umico.az/sized/280/735207-2686dd8f72035f76d0b719e8f43f8363.jpg"
+      },
+      "status": "active"
+    }
+  ],
+  "size_chart": {},
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "sku": 735207,
+    "mpn": "CEP 5302 B",
+    "url": "https://birmarket.az/product/735207-qehvebishiren-beko-cep-5302-b",
+    "name": "Qəhvəbişirən Beko CEP 5302 B",
+    "image": [
+      "https://strgimgr.umico.az/sized/1680/735207-2686dd8f72035f76d0b719e8f43f8363.jpg",
+      "https://strgimgr.umico.az/sized/1680/735207-da00af19842c50d3c4d1fc05a62c9d46.jpg",
+      "https://strgimgr.umico.az/sized/1680/735207-ad20c8260fd96ead74d85a9b40107547.jpg",
+      "https://strgimgr.umico.az/sized/1680/735207-9b5afc16a7795aebb954ac6503db4f88.jpg"
+    ],
+    "description": "Beko CEP 5302 B modeli 15 barlıq nasos təzyiqi ilə olan buxar qəhvə maşını espresso hazırlamaq üçün nəzərdə tutulub. Rahat ölçüləri (dərinlik 32 sm, en 19.2 sm, hündürlük 31.5 sm) və 3.7 kq çəkisi onu yerləşdirmək və daşımada asanlıq yaradır. Model eyni anda iki fincan qəhvə hazırlamağa imkan verir, bu da vaxt qənaətinə imkan verir. Cihazın 1628 Vt gücü hazırlıq prosesini sürətli edir. 1.1 litr həcmli geniş su rezervuarı onun doldurulma tezliyini azaldır. Qəhvə maşını keyfiyyətli qara plasktikdən hazırlanıb, bu da onun təmizliyini asanlaşdırır. Məhsul istifadə rahatlığı üçün təlimatlarla təchiz olunub və Türkiyədə istehsal edildiyi üçün keyfiyyətə zəmanət verir.",
+    "itemCondition": "https://schema.org/NewCondition",
+    "offers": {
+      "@type": "AggregateOffer",
+      "availability": "https://schema.org/InStock",
+      "offerCount": 2,
+      "highPrice": 259.99,
+      "lowPrice": 259.97,
+      "priceCurrency": "AZN",
+      "hasMerchantReturnPolicy": {
+        "applicableCountry": "AZ",
+        "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+        "returnMethod": "https://schema.org/ReturnInStore",
+        "returnFees": "https://schema.org/FreeReturn",
+        "merchantReturnDays": 14
+      },
+      "shippingDetails": {
+        "@type": "OfferShippingDetails",
+        "shippingDestination": {
+          "@type": "DefinedRegion",
+          "addressCountry": "AZ"
+        },
+        "deliveryTime": {
+          "@type": "ShippingDeliveryTime",
+          "handlingTime": {
+            "@type": "QuantitativeValue",
+            "minValue": 0,
+            "maxValue": 1,
+            "unitCode": "DAY"
+          },
+          "transitTime": {
+            "@type": "QuantitativeValue",
+            "minValue": 0,
+            "maxValue": 1,
+            "unitCode": "DAY"
+          },
+          "businessDays": {
+            "@type": "OpeningHoursSpecification",
+            "dayOfWeek": [
+              "https://schema.org/Monday",
+              "https://schema.org/Tuesday",
+              "https://schema.org/Wednesday",
+              "https://schema.org/Thursday",
+              "https://schema.org/Friday",
+              "https://schema.org/Saturday",
+              "https://schema.org/Sunday"
+            ]
+          }
+        },
+        "shippingRate": {
+          "@type": "MonetaryAmount",
+          "value": 0,
+          "currency": "AZN"
+        }
+      }
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": 4,
+      "reviewCount": 2
+    },
+    "brand": {
+      "@type": "Brand",
+      "name": "Beko",
+      "url": "https://birmarket.az/brands/Beko"
+    }
+  }
+}

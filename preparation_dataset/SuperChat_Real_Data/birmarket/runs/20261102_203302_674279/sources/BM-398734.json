@@ -1,0 +1,815 @@
+{
+  "product": {
+    "id": 398734,
+    "gtin": "6281020700123",
+    "mpn": "P47  CAT BLACK",
+    "name": "Simsiz qulaqlıqlar CAT P47 Black",
+    "slugged_name_az": "simsiz-qulaqliqlar-cat-p47-black",
+    "slugged_name_ru": "besprovodnye-naushniki-cat-p47-black",
+    "description": "Simli kulakcıqlar CAT P47 Black rahat geyilmə üçün başlıqla təchiz edilmiş klassik modeldir. Daxil edilmiş hər tərəfli mikrofon kulakcıqları telefon zəngləri və videozənglər üçün istifadə etməyə imkan verir. Bağlı akustik dizayn yaxşılaşdırılmış səs izolyasiyasına kömək edir və keyfiyyətli stereo səs təmin edir. Bluetooth vasitəsilə 10 metrə qədər məsafədə simsiz əlaqə ilə təchiz edilmişdir ki, bu da istifadədə rahatlıq təmin edir. Kulakcıqlar bir zəngdə üç saata qədər işləyir, yükləmə Micro USB portu vasitəsilə həyata keçirilir. Dəstdə zəmanət talonu, təlimat və USB kabel mövcuddur. Məhsul ciddi qara rəngdə hazırlanmışdır.",
+    "description_outlet": "",
+    "status": "active",
+    "uuid": "5d6cebd8-44cd-4d65-a362-812d48cf493b",
+    "variant_code": "VC_398734",
+    "default_offer": {
+      "uuid": "390ce0cc-9833-41c0-a48f-5b4b11555e63",
+      "installment_enabled": true,
+      "max_installment_months": 18,
+      "product_offer_labels": [],
+      "old_price": 45.09,
+      "retail_price": 5.07,
+      "supplier_id": "bb0c0390-a336-4719-b1a8-754434967c2e",
+      "qty": 0,
+      "seller": {
+        "ext_id": "bb0c0390-a336-4719-b1a8-754434967c2e",
+        "marketing_name": {
+          "id": 14165,
+          "name": "Ali Express"
+        },
+        "logo": {
+          "thumbnail": ""
+        },
+        "vat_payer": false,
+        "rating": 95,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "discount_effective_start_date": "",
+      "discount_effective_end_date": ""
+    },
+    "category_id": 6,
+    "category": {
+      "id": 6,
+      "name": "Qulaqlıqlar və qarniturlar"
+    },
+    "brand": {
+      "name": "No Brand"
+    },
+    "custom_fields": [
+      {
+        "master_field_id": 628,
+        "values": [
+          "Taxma"
+        ]
+      },
+      {
+        "master_field_id": 629,
+        "values": [
+          "Simsiz"
+        ]
+      },
+      {
+        "master_field_id": 625,
+        "values": [
+          "Qara"
+        ]
+      },
+      {
+        "master_field_id": 1568,
+        "values": [
+          "Bəli"
+        ]
+      },
+      {
+        "master_field_id": 633,
+        "values": [
+          "Micro USB"
+        ]
+      },
+      {
+        "master_field_id": 678,
+        "values": [
+          "Bluetooth"
+        ]
+      },
+      {
+        "master_field_id": 657,
+        "values": [
+          "Klassik"
+        ]
+      },
+      {
+        "master_field_id": 1846,
+        "values": [
+          "Hərtərəfli"
+        ]
+      },
+      {
+        "master_field_id": 1574,
+        "values": [
+          "8"
+        ]
+      },
+      {
+        "master_field_id": 1140,
+        "values": [
+          "10"
+        ]
+      },
+      {
+        "master_field_id": 1570,
+        "values": [
+          "Stereo"
+        ]
+      },
+      {
+        "master_field_id": 1840,
+        "values": [
+          "Qapalı"
+        ]
+      },
+      {
+        "master_field_id": 1567,
+        "values": [
+          "Bəli"
+        ]
+      },
+      {
+        "master_field_id": 1573,
+        "values": [
+          "2"
+        ]
+      },
+      {
+        "master_field_id": 1850,
+        "values": [
+          "Bərkidilmiş"
+        ]
+      },
+      {
+        "master_field_id": 1740,
+        "values": [
+          "Mikrofon"
+        ]
+      },
+      {
+        "master_field_id": 3287,
+        "values": [
+          "Başlıq"
+        ]
+      },
+      {
+        "master_field_id": 697,
+        "values": [
+          "Zəmanət kartı",
+          "Təlimat",
+          "Qulaqlıq",
+          "Kabel USB"
+        ]
+      },
+      {
+        "master_field_id": 2210,
+        "values": [
+          "Çin"
+        ]
+      },
+      {
+        "master_field_id": 618,
+        "values": [
+          "Çin"
+        ]
+      }
+    ],
+    "main_img": {
+      "big": "https://strgimgr.umico.az/sized/1680/398734-bb8872b58e4116eaef6becf42c4c074b.jpg",
+      "medium": "https://strgimgr.umico.az/sized/840/398734-bb8872b58e4116eaef6becf42c4c074b.jpg",
+      "small": "https://strgimgr.umico.az/sized/280/398734-bb8872b58e4116eaef6becf42c4c074b.jpg"
+    },
+    "img_url_thumbnail": "https://strgimgr.umico.az/sized/280/398734-bb8872b58e4116eaef6becf42c4c074b.jpg",
+    "main_video": "",
+    "imgs": [
+      {
+        "big": "https://strgimgr.umico.az/sized/1680/398734-bb8872b58e4116eaef6becf42c4c074b.jpg",
+        "medium": "https://strgimgr.umico.az/sized/840/398734-bb8872b58e4116eaef6becf42c4c074b.jpg",
+        "small": "https://strgimgr.umico.az/sized/280/398734-bb8872b58e4116eaef6becf42c4c074b.jpg"
+      },
+      {
+        "big": "https://strgimgr.umico.az/sized/1680/398734-bd21e4e513d6d0b922c7407abff451a8.jpg",
+        "medium": "https://strgimgr.umico.az/sized/840/398734-bd21e4e513d6d0b922c7407abff451a8.jpg",
+        "small": "https://strgimgr.umico.az/sized/280/398734-bd21e4e513d6d0b922c7407abff451a8.jpg"
+      },
+      {
+        "big": "https://strgimgr.umico.az/sized/1680/398734-1941a05a032b4d5a02b87b3316766823.jpg",
+        "medium": "https://strgimgr.umico.az/sized/840/398734-1941a05a032b4d5a02b87b3316766823.jpg",
+        "small": "https://strgimgr.umico.az/sized/280/398734-1941a05a032b4d5a02b87b3316766823.jpg"
+      },
+      {
+        "big": "https://strgimgr.umico.az/sized/1680/398734-2109cbe5de0b22728c7dfbde843c9a49.jpg",
+        "medium": "https://strgimgr.umico.az/sized/840/398734-2109cbe5de0b22728c7dfbde843c9a49.jpg",
+        "small": "https://strgimgr.umico.az/sized/280/398734-2109cbe5de0b22728c7dfbde843c9a49.jpg"
+      },
+      {
+        "big": "https://strgimgr.umico.az/sized/1680/398734-936017856ecbd15a039c33719259e499.jpg",
+        "medium": "https://strgimgr.umico.az/sized/840/398734-936017856ecbd15a039c33719259e499.jpg",
+        "small": "https://strgimgr.umico.az/sized/280/398734-936017856ecbd15a039c33719259e499.jpg"
+      }
+    ],
+    "videos": [],
+    "min_qty": 1,
+    "preorder_available": false,
+    "is_assortment": false,
+    "is_bulk_heavy": false,
+    "is_refurbished": false,
+    "is_refundable": true,
+    "is_dangerous": false,
+    "show_tech_description": false,
+    "use_external_content": true,
+    "product_labels": [],
+    "ratings": {
+      "rating_value": 4.3,
+      "assessment_id": 0,
+      "session_count": 16,
+      "score_count": 6,
+      "review_count": 10
+    },
+    "default_show_stock_qty_threshold": 0,
+    "card_type": "public"
+  },
+  "category": {
+    "id": 6,
+    "name": "Qulaqlıqlar və qarniturlar",
+    "slugged_name_az": "qulaqliqlar-ve-qarniturlar",
+    "slugged_name_ru": "naushniki-i-garnitury",
+    "view_mode": "products",
+    "mobile_visual_mode": "text",
+    "is_variant": true,
+    "depth": 2,
+    "parent_id": 2,
+    "child_ids": [],
+    "node_type": "NODE",
+    "install_service_needed": false,
+    "fitting_allowed": false,
+    "vat": true,
+    "variations": [
+      {
+        "master_field_id": 625,
+        "name": "Rəng",
+        "variation_tool_type": "image",
+        "has_size_chart": false,
+        "display_variant": false
+      }
+    ],
+    "custom_fields": [
+      {
+        "master_field_id": 1476,
+        "category_master_field_id": 10651,
+        "name": "Seriya"
+      },
+      {
+        "master_field_id": 628,
+        "category_master_field_id": 1455,
+        "name": "Qulaqlıq növü"
+      },
+      {
+        "master_field_id": 629,
+        "category_master_field_id": 1456,
+        "name": "Qoşulma tipi"
+      },
+      {
+        "master_field_id": 633,
+        "category_master_field_id": 1460,
+        "name": "Port tipi"
+      },
+      {
+        "master_field_id": 777,
+        "category_master_field_id": 45543,
+        "name": "Bluetooth standartı"
+      },
+      {
+        "master_field_id": 6487,
+        "category_master_field_id": 45544,
+        "name": "Aktiv səs-küyün boğulması (ANC)"
+      },
+      {
+        "master_field_id": 759,
+        "category_master_field_id": 4638,
+        "name": "Mikrofon"
+      },
+      {
+        "master_field_id": 1574,
+        "category_master_field_id": 4669,
+        "name": "İşləmə müddəti, saat"
+      },
+      {
+        "master_field_id": 2186,
+        "category_master_field_id": 45545,
+        "name": "Nəmə davamlı"
+      },
+      {
+        "master_field_id": 625,
+        "category_master_field_id": 4637,
+        "name": "Rəng"
+      },
+      {
+        "master_field_id": 2211,
+        "category_master_field_id": 10656,
+        "name": "Zəmanət müddəti"
+      },
+      {
+        "master_field_id": 1568,
+        "category_master_field_id": 4663,
+        "name": "Səs-küyün boğulması"
+      },
+      {
+        "master_field_id": 678,
+        "category_master_field_id": 10650,
+        "name": "Qoşulma interfeysi"
+      },
+      {
+        "master_field_id": 657,
+        "category_master_field_id": 4640,
+        "name": "Quruluş"
+      },
+      {
+        "master_field_id": 630,
+        "category_master_field_id": 1457,
+        "name": "Həssaslıq, dB"
+      },
+      {
+        "master_field_id": 631,
+        "category_master_field_id": 1458,
+        "name": "Minimal təkrarlanan tezlik, Hz"
+      },
+      {
+        "master_field_id": 632,
+        "category_master_field_id": 1459,
+        "name": "Maksimal təkrarlanan tezlik, Hz"
+      },
+      {
+        "master_field_id": 1838,
+        "category_master_field_id": 5557,
+        "name": "Port forması"
+      },
+      {
+        "master_field_id": 782,
+        "category_master_field_id": 4636,
+        "name": "Kabelin uzunluğu, m"
+      },
+      {
+        "master_field_id": 3287,
+        "category_master_field_id": 15468,
+        "name": "Qulaqlıqların bərkitməsi"
+      },
+      {
+        "master_field_id": 1840,
+        "category_master_field_id": 5559,
+        "name": "Akustik formalaşdırma"
+      },
+      {
+        "master_field_id": 1140,
+        "category_master_field_id": 15469,
+        "name": "Təsir radiusu, m"
+      },
+      {
+        "master_field_id": 1841,
+        "category_master_field_id": 5560,
+        "name": "Maksimal çıxış gücü, Vt"
+      },
+      {
+        "master_field_id": 1842,
+        "category_master_field_id": 5561,
+        "name": "Diapazonun yuxarı həddi, Hz"
+      },
+      {
+        "master_field_id": 1843,
+        "category_master_field_id": 5562,
+        "name": "Diapazonun aşağı həddi, Hz"
+      },
+      {
+        "master_field_id": 1844,
+        "category_master_field_id": 5563,
+        "name": "Siqnal/səs-küy nisbəti, dB"
+      },
+      {
+        "master_field_id": 797,
+        "category_master_field_id": 5570,
+        "name": "Empendans, Om"
+      },
+      {
+        "master_field_id": 1567,
+        "category_master_field_id": 4662,
+        "name": "Səs izolyasiyası"
+      },
+      {
+        "master_field_id": 1845,
+        "category_master_field_id": 5564,
+        "name": "Səs səviyyəsinin tənzimləyicisi"
+      },
+      {
+        "master_field_id": 1570,
+        "category_master_field_id": 4665,
+        "name": "Ətraf səs"
+      },
+      {
+        "master_field_id": 1573,
+        "category_master_field_id": 4668,
+        "name": "Dinamiklərin ümumi sayı"
+      },
+      {
+        "master_field_id": 1846,
+        "category_master_field_id": 5565,
+        "name": "Mikrofon növü"
+      },
+      {
+        "master_field_id": 1847,
+        "category_master_field_id": 5566,
+        "name": "Mikrofonun diapazonunun yuxarı həddi, Hz"
+      },
+      {
+        "master_field_id": 1848,
+        "category_master_field_id": 5567,
+        "name": "Mikrofonun diapazonunun aşağı həddi, Hz"
+      },
+      {
+        "master_field_id": 1849,
+        "category_master_field_id": 5568,
+        "name": "Mikrofonun siqnal/səs-küy nisbəti"
+      },
+      {
+        "master_field_id": 1850,
+        "category_master_field_id": 5569,
+        "name": "Mikrofonun bərkitməsi"
+      },
+      {
+        "master_field_id": 1740,
+        "category_master_field_id": 5571,
+        "name": "Digər funksiyalar və xüsusiyyətlər"
+      },
+      {
+        "master_field_id": 870,
+        "category_master_field_id": 4634,
+        "name": "Çəki, q"
+      },
+      {
+        "master_field_id": 2552,
+        "category_master_field_id": 10654,
+        "name": "Korpusun qorunması"
+      },
+      {
+        "master_field_id": 697,
+        "category_master_field_id": 10655,
+        "name": "Komplektasiya"
+      },
+      {
+        "master_field_id": 2210,
+        "category_master_field_id": 10649,
+        "name": "Brendin ölkəsi"
+      },
+      {
+        "master_field_id": 618,
+        "category_master_field_id": 4635,
+        "name": "İstehsalçı ölkə"
+      }
+    ],
+    "parent": {
+      "id": 2,
+      "node_type": "NODE",
+      "name": "Telefonlar, Smart cihazlar və telefon aksessuarları",
+      "slugged_name": "telefonlar-ve-aksessuarlar",
+      "parent": {
+        "id": 1,
+        "node_type": "NODE",
+        "name": "Elektronika və məişət texnikası",
+        "slugged_name": "elektronika-ve-meishet-texnikasi",
+        "parent": null
+      }
+    },
+    "is_refundable": true,
+    "is_adult": false,
+    "icons": {
+      "thumbnail": "https://strgimgr.umico.az/img/category/188/7a8b0d8a-c1a8-46f5-a7cd-c7483dbc6bee.jpeg",
+      "original": "https://strgimgr.umico.az/img/category/original/7a8b0d8a-c1a8-46f5-a7cd-c7483dbc6bee.jpeg"
+    },
+    "is_active": true
+  },
+  "offers": [
+    {
+      "uuid": "b94bc024-75a0-41f1-986b-eecc2a2d4171",
+      "installment_enabled": true,
+      "max_installment_months": 18,
+      "product_offer_labels": [],
+      "old_price": 15,
+      "retail_price": 5.1,
+      "supplier_id": "832d88c0-9ead-42f8-a794-02b9fe21d42b",
+      "seller": {
+        "ext_id": "2bc7fabd-b704-42ca-8c5e-387f90d0bd03",
+        "internal_id": 5101,
+        "marketing_name": {
+          "id": 5101,
+          "name": "888 STORE"
+        },
+        "logo": {
+          "thumbnail": "https://storage.umico.az/cpcustomerprod01/95f6188d5d4ebaffa68f5482eb4d97aa.png"
+        },
+        "vat_payer": false,
+        "rating": 97,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "allow_qty": 0
+    },
+    {
+      "uuid": "dc3ff547-9dd4-45d8-a7dc-465ce067ff74",
+      "installment_enabled": true,
+      "max_installment_months": 18,
+      "product_offer_labels": [],
+      "old_price": 12,
+      "retail_price": 5.3,
+      "supplier_id": "0380310d-7bb7-493b-9ab4-b863294b5937",
+      "seller": {
+        "ext_id": "47ddac3b-5349-4a9f-bbc0-ee91f31e18d5",
+        "internal_id": 8070,
+        "marketing_name": {
+          "id": 8070,
+          "name": "Minur Store"
+        },
+        "logo": {
+          "thumbnail": "https://storage.umico.az/cpcustomerprod01/55c99e4014864a0557c935826c56dc25.jpg"
+        },
+        "vat_payer": false,
+        "rating": 96,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "allow_qty": 0
+    },
+    {
+      "uuid": "5ac3bb03-7e25-40d3-8d8e-efc0bc9a0970",
+      "installment_enabled": true,
+      "max_installment_months": 18,
+      "product_offer_labels": [],
+      "old_price": 19,
+      "retail_price": 5.1,
+      "supplier_id": "7554119b-0471-425f-b080-911df816b43a",
+      "seller": {
+        "ext_id": "ebbef564-dc84-4c46-bd71-464cd8dd8867",
+        "internal_id": 4084,
+        "marketing_name": {
+          "id": 4084,
+          "name": "Maimi Baku Store"
+        },
+        "logo": {
+          "thumbnail": "https://storage.umico.az/cpcustomerprod01/87e226a94560d8930a80b72d60ed4c0f.jpg"
+        },
+        "vat_payer": false,
+        "rating": 97,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "allow_qty": 0
+    },
+    {
+      "uuid": "62657d5b-d575-4b14-aad7-56507d586a76",
+      "installment_enabled": true,
+      "max_installment_months": 18,
+      "product_offer_labels": [],
+      "old_price": 42.5,
+      "retail_price": 25.76,
+      "supplier_id": "6ceb7cff-481c-4bb4-bb23-92c71d077796",
+      "seller": {
+        "ext_id": "d492819a-9cca-43ea-abc6-56cec3243eee",
+        "internal_id": 16724,
+        "marketing_name": {
+          "id": 16724,
+          "name": "Bazilio Elektronika"
+        },
+        "logo": {
+          "thumbnail": ""
+        },
+        "vat_payer": false,
+        "rating": 100,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "allow_qty": 0
+    },
+    {
+      "uuid": "cb79e8d5-d7f0-4844-86e1-c26768092d84",
+      "installment_enabled": true,
+      "max_installment_months": 18,
+      "product_offer_labels": [],
+      "old_price": 30.36,
+      "retail_price": 18.4,
+      "supplier_id": "10b5a3e2-42f4-443c-a8f4-afa310372c7d",
+      "seller": {
+        "ext_id": "63fe0303-0871-4bcf-b431-4e1253945915",
+        "internal_id": 11781,
+        "marketing_name": {
+          "id": 11781,
+          "name": "Magazam.az"
+        },
+        "logo": {
+          "thumbnail": "https://storage.umico.az/cpcustomerprod01/05d6c34dc0913c4b0d4569769e86ac19.jpg"
+        },
+        "vat_payer": false,
+        "rating": 75,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "allow_qty": 0
+    },
+    {
+      "uuid": "390ce0cc-9833-41c0-a48f-5b4b11555e63",
+      "installment_enabled": true,
+      "max_installment_months": 18,
+      "product_offer_labels": [],
+      "old_price": 45.09,
+      "retail_price": 5.07,
+      "supplier_id": "bb0c0390-a336-4719-b1a8-754434967c2e",
+      "seller": {
+        "ext_id": "fc59e0e9-219d-442a-822b-8d11564cc973",
+        "internal_id": 14165,
+        "marketing_name": {
+          "id": 14165,
+          "name": "Ali Express"
+        },
+        "logo": {
+          "thumbnail": ""
+        },
+        "vat_payer": false,
+        "rating": 95,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "allow_qty": 0
+    },
+    {
+      "uuid": "88c95d17-0d14-4d31-8af3-a9b850ee29e2",
+      "installment_enabled": true,
+      "max_installment_months": 18,
+      "product_offer_labels": [],
+      "old_price": 45.09,
+      "retail_price": 5.09,
+      "supplier_id": "47b35ed1-7df1-4f72-856e-b3ea8085fca9",
+      "seller": {
+        "ext_id": "454912d0-6477-44e0-986f-aa78030f6fdf",
+        "internal_id": 13818,
+        "marketing_name": {
+          "id": 13818,
+          "name": "Meta Store"
+        },
+        "logo": {
+          "thumbnail": ""
+        },
+        "vat_payer": false,
+        "rating": 94,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "allow_qty": 0
+    },
+    {
+      "uuid": "648b2f76-37d1-4bca-84a6-73654396c3cd",
+      "installment_enabled": true,
+      "max_installment_months": 18,
+      "product_offer_labels": [],
+      "old_price": 45.09,
+      "retail_price": 5.09,
+      "supplier_id": "213e804b-fc49-4daf-a1c6-308e9b24f558",
+      "seller": {
+        "ext_id": "b4118680-ac1c-4626-a4d4-3951e629b2d7",
+        "internal_id": 13532,
+        "marketing_name": {
+          "id": 13532,
+          "name": "OzonMarket"
+        },
+        "logo": {
+          "thumbnail": ""
+        },
+        "vat_payer": false,
+        "rating": 93,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "allow_qty": 0
+    },
+    {
+      "uuid": "be5d89ce-d56a-47ee-ba52-a8d0cc61082b",
+      "installment_enabled": true,
+      "max_installment_months": 18,
+      "product_offer_labels": [],
+      "old_price": 22,
+      "retail_price": 15,
+      "supplier_id": "b3f98e47-87e0-4b98-ac06-4e1565093278",
+      "seller": {
+        "ext_id": "df1e0253-e425-48ef-86e6-fd216ed47d12",
+        "internal_id": 16463,
+        "marketing_name": {
+          "id": 16463,
+          "name": "Remax Baku"
+        },
+        "logo": {
+          "thumbnail": "https://storage.umico.az/cpcustomerprod01/559550ec26a9a07fde32437509f4bc6e.jpg"
+        },
+        "vat_payer": false,
+        "rating": 91,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "allow_qty": 0
+    }
+  ],
+  "variations": [
+    {
+      "id": 398734,
+      "name": "Simsiz qulaqlıqlar CAT P47 Black",
+      "slugged_name": "simsiz-qulaqliqlar-cat-p47-black",
+      "custom_fields": [
+        {
+          "master_field_id": 625,
+          "values": [
+            "Qara"
+          ]
+        }
+      ],
+      "main_img": {
+        "big": "https://strgimgr.umico.az/sized/1680/398734-bb8872b58e4116eaef6becf42c4c074b.jpg",
+        "medium": "https://strgimgr.umico.az/sized/840/398734-bb8872b58e4116eaef6becf42c4c074b.jpg",
+        "small": "https://strgimgr.umico.az/sized/280/398734-bb8872b58e4116eaef6becf42c4c074b.jpg"
+      },
+      "status": "active"
+    }
+  ],
+  "size_chart": {},
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "sku": 398734,
+    "mpn": "P47  CAT BLACK",
+    "url": "https://birmarket.az/product/398734-simsiz-qulaqliqlar-cat-p47-black",
+    "name": "Simsiz qulaqlıqlar CAT P47 Black",
+    "image": [
+      "https://strgimgr.umico.az/sized/1680/398734-bb8872b58e4116eaef6becf42c4c074b.jpg",
+      "https://strgimgr.umico.az/sized/1680/398734-bd21e4e513d6d0b922c7407abff451a8.jpg",
+      "https://strgimgr.umico.az/sized/1680/398734-1941a05a032b4d5a02b87b3316766823.jpg",
+      "https://strgimgr.umico.az/sized/1680/398734-2109cbe5de0b22728c7dfbde843c9a49.jpg",
+      "https://strgimgr.umico.az/sized/1680/398734-936017856ecbd15a039c33719259e499.jpg"
+    ],
+    "description": "Simli kulakcıqlar CAT P47 Black rahat geyilmə üçün başlıqla təchiz edilmiş klassik modeldir. Daxil edilmiş hər tərəfli mikrofon kulakcıqları telefon zəngləri və videozənglər üçün istifadə etməyə imkan verir. Bağlı akustik dizayn yaxşılaşdırılmış səs izolyasiyasına kömək edir və keyfiyyətli stereo səs təmin edir. Bluetooth vasitəsilə 10 metrə qədər məsafədə simsiz əlaqə ilə təchiz edilmişdir ki, bu da istifadədə rahatlıq təmin edir. Kulakcıqlar bir zəngdə üç saata qədər işləyir, yükləmə Micro USB portu vasitəsilə həyata keçirilir. Dəstdə zəmanət talonu, təlimat və USB kabel mövcuddur. Məhsul ciddi qara rəngdə hazırlanmışdır.",
+    "itemCondition": "https://schema.org/NewCondition",
+    "offers": {
+      "@type": "AggregateOffer",
+      "availability": "https://schema.org/InStock",
+      "offerCount": 9,
+      "highPrice": 25.76,
+      "lowPrice": 5.07,
+      "priceCurrency": "AZN",
+      "hasMerchantReturnPolicy": {
+        "applicableCountry": "AZ",
+        "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+        "returnMethod": "https://schema.org/ReturnInStore",
+        "returnFees": "https://schema.org/FreeReturn",
+        "merchantReturnDays": 14
+      },
+      "shippingDetails": {
+        "@type": "OfferShippingDetails",
+        "shippingDestination": {
+          "@type": "DefinedRegion",
+          "addressCountry": "AZ"
+        },
+        "deliveryTime": {
+          "@type": "ShippingDeliveryTime",
+          "handlingTime": {
+            "@type": "QuantitativeValue",
+            "minValue": 0,
+            "maxValue": 1,
+            "unitCode": "DAY"
+          },
+          "transitTime": {
+            "@type": "QuantitativeValue",
+            "minValue": 0,
+            "maxValue": 1,
+            "unitCode": "DAY"
+          },
+          "businessDays": {
+            "@type": "OpeningHoursSpecification",
+            "dayOfWeek": [
+              "https://schema.org/Monday",
+              "https://schema.org/Tuesday",
+              "https://schema.org/Wednesday",
+              "https://schema.org/Thursday",
+              "https://schema.org/Friday",
+              "https://schema.org/Saturday",
+              "https://schema.org/Sunday"
+            ]
+          }
+        },
+        "shippingRate": {
+          "@type": "MonetaryAmount",
+          "value": 0,
+          "currency": "AZN"
+        }
+      }
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": 4,
+      "reviewCount": 10
+    },
+    "brand": {
+      "@type": "Brand",
+      "name": "No Brand",
+      "url": "https://birmarket.az/brands/No%20Brand"
+    }
+  }
+}

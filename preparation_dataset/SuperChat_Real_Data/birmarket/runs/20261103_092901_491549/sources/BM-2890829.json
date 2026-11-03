@@ -1,0 +1,686 @@
+{
+  "product": {
+    "id": 2890829,
+    "gtin": "",
+    "mpn": "9654_88275891",
+    "name": "Ağıllı saat No brand Smartbarry C99 Plus, Black",
+    "slugged_name_az": "agilli-saat-no-brand-agilli-saat-smartbarry-c99-plus-black-qara",
+    "slugged_name_ru": "agilli-saat-no-brand-agilli-saat-smartbarry-c99-plus-black-qara",
+    "description": "",
+    "description_outlet": "",
+    "status": "active",
+    "uuid": "c246162b-d214-4ff4-b6f8-80cfb3b42a71",
+    "variant_code": "VC_2890829",
+    "default_offer": {
+      "uuid": "e9b5d55c-0dcc-45f6-afde-b63902db1295",
+      "installment_enabled": true,
+      "max_installment_months": 18,
+      "product_offer_labels": [],
+      "old_price": 155,
+      "retail_price": 146,
+      "supplier_id": "f9c56668-9d50-4965-8195-d1e15c831686",
+      "qty": 0,
+      "seller": {
+        "ext_id": "f9c56668-9d50-4965-8195-d1e15c831686",
+        "marketing_name": {
+          "id": 9038,
+          "name": "Like Telekom"
+        },
+        "logo": {
+          "thumbnail": "https://storage.umico.az/cpcustomerprod01/e8208c801d1a25a838062ff5ab19e9be.jpg"
+        },
+        "vat_payer": false,
+        "rating": 100,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "discount_effective_start_date": "",
+      "discount_effective_end_date": ""
+    },
+    "category_id": 4,
+    "category": {
+      "id": 4,
+      "name": "Ağıllı saatlar və fitnes qolbaqları"
+    },
+    "brand": {
+      "name": "No Brand"
+    },
+    "custom_fields": [
+      {
+        "master_field_id": 620,
+        "values": [
+          "Ağıllı saat"
+        ]
+      },
+      {
+        "master_field_id": 1476,
+        "values": [
+          "Smartbarry C99 Plus"
+        ]
+      },
+      {
+        "master_field_id": 6541,
+        "values": [
+          "Black"
+        ]
+      },
+      {
+        "master_field_id": 625,
+        "values": [
+          "Qara"
+        ]
+      },
+      {
+        "master_field_id": 621,
+        "values": [
+          "Android"
+        ]
+      },
+      {
+        "master_field_id": 761,
+        "values": [
+          "Hər kəs üçün"
+        ]
+      },
+      {
+        "master_field_id": 1826,
+        "values": [
+          "nano-SIM"
+        ]
+      },
+      {
+        "master_field_id": 616,
+        "values": [
+          "Android"
+        ]
+      },
+      {
+        "master_field_id": 806,
+        "values": [
+          "Addımölçən",
+          "Ağıllı zəngli saat",
+          "Kalkulyator",
+          "Nəbzin monitorinqi",
+          "Qulaqlıq qoşmaq imkanı",
+          "SİM kart yuvası",
+          "Video zəng",
+          "Zənglərin gəbulu",
+          "Zəngli saat"
+        ]
+      },
+      {
+        "master_field_id": 1825,
+        "values": [
+          "6Gb"
+        ]
+      },
+      {
+        "master_field_id": 634,
+        "values": [
+          "Rəngli"
+        ]
+      },
+      {
+        "master_field_id": 1739,
+        "values": [
+          "Bəli"
+        ]
+      },
+      {
+        "master_field_id": 1827,
+        "values": [
+          "AMOLED"
+        ]
+      },
+      {
+        "master_field_id": 1828,
+        "values": [
+          "46"
+        ]
+      },
+      {
+        "master_field_id": 708,
+        "values": [
+          "Plastik"
+        ]
+      },
+      {
+        "master_field_id": 1830,
+        "values": [
+          "Bəli"
+        ]
+      },
+      {
+        "master_field_id": 624,
+        "values": [
+          "Silikon"
+        ]
+      },
+      {
+        "master_field_id": 1831,
+        "values": [
+          "Qalereya"
+        ]
+      },
+      {
+        "master_field_id": 1833,
+        "values": [
+          "Bəli"
+        ]
+      },
+      {
+        "master_field_id": 1752,
+        "values": [
+          "Bəli"
+        ]
+      },
+      {
+        "master_field_id": 826,
+        "values": [
+          "300"
+        ]
+      },
+      {
+        "master_field_id": 2211,
+        "values": [
+          "6 ay"
+        ]
+      },
+      {
+        "master_field_id": 6334,
+        "values": [
+          "Yeni"
+        ]
+      },
+      {
+        "master_field_id": 2186,
+        "values": [
+          "IP54"
+        ]
+      }
+    ],
+    "main_img": {
+      "big": "https://strgimgr.umico.az/img/product/1680/8f33cc3b-4dc5-48d1-a110-ef78c57a008d.jpeg",
+      "medium": "https://strgimgr.umico.az/img/product/840/8f33cc3b-4dc5-48d1-a110-ef78c57a008d.jpeg",
+      "small": "https://strgimgr.umico.az/img/product/280/8f33cc3b-4dc5-48d1-a110-ef78c57a008d.jpeg"
+    },
+    "img_url_thumbnail": "https://strgimgr.umico.az/img/product/280/8f33cc3b-4dc5-48d1-a110-ef78c57a008d.jpeg",
+    "main_video": "",
+    "imgs": [
+      {
+        "big": "https://strgimgr.umico.az/img/product/1680/8f33cc3b-4dc5-48d1-a110-ef78c57a008d.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/8f33cc3b-4dc5-48d1-a110-ef78c57a008d.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/8f33cc3b-4dc5-48d1-a110-ef78c57a008d.jpeg"
+      },
+      {
+        "big": "https://strgimgr.umico.az/img/product/1680/99fce324-08f7-4379-ada9-46182a1b9f71.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/99fce324-08f7-4379-ada9-46182a1b9f71.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/99fce324-08f7-4379-ada9-46182a1b9f71.jpeg"
+      }
+    ],
+    "videos": [],
+    "min_qty": 1,
+    "preorder_available": false,
+    "is_assortment": false,
+    "is_bulk_heavy": false,
+    "is_refurbished": false,
+    "is_refundable": true,
+    "is_dangerous": false,
+    "show_tech_description": false,
+    "use_external_content": true,
+    "product_labels": [],
+    "ratings": {
+      "rating_value": 5,
+      "assessment_id": 0,
+      "session_count": 1,
+      "score_count": 1
+    },
+    "default_show_stock_qty_threshold": 0,
+    "card_type": "public"
+  },
+  "category": {
+    "id": 4,
+    "name": "Ağıllı saatlar və fitnes qolbaqları",
+    "slugged_name_az": "agilli-saatlar-ve-fitnes-qolbaqlari",
+    "slugged_name_ru": "umnye-chasy-i-fitnes-braslety",
+    "view_mode": "products",
+    "mobile_visual_mode": "text",
+    "is_variant": false,
+    "depth": 2,
+    "parent_id": 2,
+    "child_ids": [],
+    "node_type": "NODE",
+    "install_service_needed": false,
+    "fitting_allowed": false,
+    "vat": true,
+    "variations": [
+      {
+        "master_field_id": 625,
+        "name": "Rəng",
+        "variation_tool_type": "image",
+        "has_size_chart": false,
+        "display_variant": false
+      },
+      {
+        "master_field_id": 1828,
+        "name": "Korpusun ölçüsü, mm",
+        "variation_tool_type": "button",
+        "has_size_chart": false,
+        "display_variant": false
+      },
+      {
+        "master_field_id": 1476,
+        "name": "Seriya",
+        "variation_tool_type": "button",
+        "has_size_chart": false,
+        "display_variant": false
+      }
+    ],
+    "custom_fields": [
+      {
+        "master_field_id": 1476,
+        "category_master_field_id": 10643,
+        "name": "Seriya"
+      },
+      {
+        "master_field_id": 620,
+        "category_master_field_id": 1445,
+        "name": "Tip"
+      },
+      {
+        "master_field_id": 621,
+        "category_master_field_id": 1446,
+        "name": "Uyğunluğu"
+      },
+      {
+        "master_field_id": 1828,
+        "category_master_field_id": 5545,
+        "name": "Korpusun ölçüsü, mm"
+      },
+      {
+        "master_field_id": 1827,
+        "category_master_field_id": 5544,
+        "name": "Ağıllı saatın ekranı"
+      },
+      {
+        "master_field_id": 1826,
+        "category_master_field_id": 5541,
+        "name": "SIM kartı"
+      },
+      {
+        "master_field_id": 826,
+        "category_master_field_id": 4623,
+        "name": "Akkumulyatorun həcmi, mA/saat"
+      },
+      {
+        "master_field_id": 2186,
+        "category_master_field_id": 45755,
+        "name": "Nəmə davamlı"
+      },
+      {
+        "master_field_id": 708,
+        "category_master_field_id": 4624,
+        "name": "Korpusun materialı"
+      },
+      {
+        "master_field_id": 625,
+        "category_master_field_id": 1451,
+        "name": "Rəng"
+      },
+      {
+        "master_field_id": 2211,
+        "category_master_field_id": 10648,
+        "name": "Zəmanət müddəti"
+      },
+      {
+        "master_field_id": 806,
+        "category_master_field_id": 15464,
+        "name": "Funksiyalar"
+      },
+      {
+        "master_field_id": 616,
+        "category_master_field_id": 1447,
+        "name": "Əməliyyat sistemi"
+      },
+      {
+        "master_field_id": 624,
+        "category_master_field_id": 1450,
+        "name": "Qayışın materialı"
+      },
+      {
+        "master_field_id": 1825,
+        "category_master_field_id": 5540,
+        "name": "Operativ yaddaş"
+      },
+      {
+        "master_field_id": 623,
+        "category_master_field_id": 1449,
+        "name": "Xüsusiyyətlər"
+      },
+      {
+        "master_field_id": 634,
+        "category_master_field_id": 5542,
+        "name": "Ekranın növü"
+      },
+      {
+        "master_field_id": 1739,
+        "category_master_field_id": 5543,
+        "name": "Sensor ekran"
+      },
+      {
+        "master_field_id": 1833,
+        "category_master_field_id": 5550,
+        "name": "Zənglər"
+      },
+      {
+        "master_field_id": 1752,
+        "category_master_field_id": 5551,
+        "name": "Kamera"
+      },
+      {
+        "master_field_id": 622,
+        "category_master_field_id": 1448,
+        "name": "İnterfeyslər"
+      },
+      {
+        "master_field_id": 1829,
+        "category_master_field_id": 5546,
+        "name": "Korpusun forması"
+      },
+      {
+        "master_field_id": 2552,
+        "category_master_field_id": 10645,
+        "name": "Korpusun qorunması"
+      },
+      {
+        "master_field_id": 1830,
+        "category_master_field_id": 5547,
+        "name": "Çıxarılan kəmər"
+      },
+      {
+        "master_field_id": 1831,
+        "category_master_field_id": 5548,
+        "name": "Multimedia"
+      },
+      {
+        "master_field_id": 1824,
+        "category_master_field_id": 5539,
+        "name": "Uzaqdan idarəetmə"
+      },
+      {
+        "master_field_id": 1832,
+        "category_master_field_id": 5549,
+        "name": "Smartfonlarla qarşılıqlı əlaqə"
+      },
+      {
+        "master_field_id": 1834,
+        "category_master_field_id": 5552,
+        "name": "Vibrasiya"
+      },
+      {
+        "master_field_id": 1835,
+        "category_master_field_id": 5553,
+        "name": "Naviqasiya, məlumatların ötürülməsi"
+      },
+      {
+        "master_field_id": 1836,
+        "category_master_field_id": 5554,
+        "name": "Enerji toplamanın xüsusiyyətləri"
+      },
+      {
+        "master_field_id": 721,
+        "category_master_field_id": 5555,
+        "name": "Akkumulyatorun növü"
+      },
+      {
+        "master_field_id": 761,
+        "category_master_field_id": 5537,
+        "name": "Cins"
+      },
+      {
+        "master_field_id": 1325,
+        "category_master_field_id": 4354,
+        "name": "Yaş qrupu"
+      },
+      {
+        "master_field_id": 870,
+        "category_master_field_id": 4626,
+        "name": "Çəki, q"
+      },
+      {
+        "master_field_id": 697,
+        "category_master_field_id": 10647,
+        "name": "Komplektasiya"
+      },
+      {
+        "master_field_id": 2635,
+        "category_master_field_id": 37277,
+        "name": "Bazarın başlanğıc ili"
+      },
+      {
+        "master_field_id": 2210,
+        "category_master_field_id": 10641,
+        "name": "Brendin ölkəsi"
+      },
+      {
+        "master_field_id": 618,
+        "category_master_field_id": 1444,
+        "name": "İstehsalçı ölkə"
+      },
+      {
+        "master_field_id": 6541,
+        "category_master_field_id": 44303,
+        "name": "İstehsalçı rəngi"
+      },
+      {
+        "master_field_id": 6334,
+        "category_master_field_id": 45122,
+        "name": "Vəziyyət"
+      }
+    ],
+    "parent": {
+      "id": 2,
+      "node_type": "NODE",
+      "name": "Telefonlar, Smart cihazlar və telefon aksessuarları",
+      "slugged_name": "telefonlar-ve-aksessuarlar",
+      "parent": {
+        "id": 1,
+        "node_type": "NODE",
+        "name": "Elektronika və məişət texnikası",
+        "slugged_name": "elektronika-ve-meishet-texnikasi",
+        "parent": null
+      }
+    },
+    "is_refundable": true,
+    "is_adult": false,
+    "icons": {
+      "thumbnail": "https://strgimgr.umico.az/img/category/188/358f11b7-3edc-4811-83af-955a1941b985.jpeg",
+      "original": "https://strgimgr.umico.az/img/category/original/358f11b7-3edc-4811-83af-955a1941b985.png"
+    },
+    "is_active": true
+  },
+  "offers": [
+    {
+      "uuid": "e9b5d55c-0dcc-45f6-afde-b63902db1295",
+      "installment_enabled": true,
+      "max_installment_months": 18,
+      "product_offer_labels": [],
+      "old_price": 155,
+      "retail_price": 146,
+      "supplier_id": "f9c56668-9d50-4965-8195-d1e15c831686",
+      "seller": {
+        "ext_id": "f18229a4-ae60-4953-bc39-11e15a5d124e",
+        "internal_id": 9038,
+        "marketing_name": {
+          "id": 9038,
+          "name": "Like Telekom"
+        },
+        "logo": {
+          "thumbnail": "https://storage.umico.az/cpcustomerprod01/e8208c801d1a25a838062ff5ab19e9be.jpg"
+        },
+        "vat_payer": false,
+        "rating": 100,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "allow_qty": 0
+    },
+    {
+      "uuid": "1b62fc55-c62b-4b7d-9758-40d102f3912d",
+      "installment_enabled": true,
+      "max_installment_months": 18,
+      "product_offer_labels": [],
+      "old_price": 0,
+      "retail_price": 146,
+      "supplier_id": "e8f0903c-292f-4d48-acda-b2d8b1f31779",
+      "seller": {
+        "ext_id": "27a4d080-085f-4f41-85d0-28e2adf2fad8",
+        "internal_id": 14017,
+        "marketing_name": {
+          "id": 14017,
+          "name": "Planşet Baku"
+        },
+        "logo": {
+          "thumbnail": ""
+        },
+        "vat_payer": false,
+        "rating": 100,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "allow_qty": 0
+    },
+    {
+      "uuid": "d0cb23fd-b1e8-4f3d-bb31-239d70b3172d",
+      "installment_enabled": true,
+      "max_installment_months": 18,
+      "product_offer_labels": [],
+      "old_price": 0,
+      "retail_price": 147,
+      "supplier_id": "cab5311c-f94f-40e8-8fd2-1e2e13b6d608",
+      "seller": {
+        "ext_id": "6690faaa-c95e-4e81-a277-d7d73d37a3e3",
+        "internal_id": 6220,
+        "marketing_name": {
+          "id": 6220,
+          "name": "Smartsaatbaku"
+        },
+        "logo": {
+          "thumbnail": "https://storage.umico.az/cpcustomerprod01/094635167d7464356fe460f6a1e00e51.jpg"
+        },
+        "vat_payer": false,
+        "rating": 100,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "allow_qty": 0
+    }
+  ],
+  "variations": [
+    {
+      "id": 2890829,
+      "name": "Ağıllı saat No brand Smartbarry C99 Plus, Black",
+      "slugged_name": "agilli-saat-no-brand-agilli-saat-smartbarry-c99-plus-black-qara",
+      "custom_fields": [
+        {
+          "master_field_id": 1828,
+          "values": [
+            "46"
+          ]
+        },
+        {
+          "master_field_id": 625,
+          "values": [
+            "Qara"
+          ]
+        },
+        {
+          "master_field_id": 1476,
+          "values": [
+            "Smartbarry C99 Plus"
+          ]
+        }
+      ],
+      "main_img": {
+        "big": "https://strgimgr.umico.az/img/product/1680/8f33cc3b-4dc5-48d1-a110-ef78c57a008d.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/8f33cc3b-4dc5-48d1-a110-ef78c57a008d.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/8f33cc3b-4dc5-48d1-a110-ef78c57a008d.jpeg"
+      },
+      "status": "active"
+    }
+  ],
+  "size_chart": {},
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "sku": 2890829,
+    "mpn": "9654_88275891",
+    "url": "https://birmarket.az/product/2890829-agilli-saat-no-brand-agilli-saat-smartbarry-c99-plus-black-qara",
+    "name": "Ağıllı saat No brand Smartbarry C99 Plus, Black",
+    "image": [
+      "https://strgimgr.umico.az/img/product/1680/8f33cc3b-4dc5-48d1-a110-ef78c57a008d.jpeg",
+      "https://strgimgr.umico.az/img/product/1680/99fce324-08f7-4379-ada9-46182a1b9f71.jpeg"
+    ],
+    "description": "Ağıllı saat No brand Smartbarry C99 Plus, Black - KREDİTLƏ ayda ◉ 7.48₼-dən ♢Birmarket-dən Bakı və Azərbaycan üzrə çatdırılma",
+    "itemCondition": "https://schema.org/NewCondition",
+    "offers": {
+      "@type": "AggregateOffer",
+      "availability": "https://schema.org/InStock",
+      "offerCount": 3,
+      "highPrice": 147,
+      "lowPrice": 146,
+      "priceCurrency": "AZN",
+      "hasMerchantReturnPolicy": {
+        "applicableCountry": "AZ",
+        "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+        "returnMethod": "https://schema.org/ReturnInStore",
+        "returnFees": "https://schema.org/FreeReturn",
+        "merchantReturnDays": 14
+      },
+      "shippingDetails": {
+        "@type": "OfferShippingDetails",
+        "shippingDestination": {
+          "@type": "DefinedRegion",
+          "addressCountry": "AZ"
+        },
+        "deliveryTime": {
+          "@type": "ShippingDeliveryTime",
+          "handlingTime": {
+            "@type": "QuantitativeValue",
+            "minValue": 0,
+            "maxValue": 1,
+            "unitCode": "DAY"
+          },
+          "transitTime": {
+            "@type": "QuantitativeValue",
+            "minValue": 0,
+            "maxValue": 1,
+            "unitCode": "DAY"
+          },
+          "businessDays": {
+            "@type": "OpeningHoursSpecification",
+            "dayOfWeek": [
+              "https://schema.org/Monday",
+              "https://schema.org/Tuesday",
+              "https://schema.org/Wednesday",
+              "https://schema.org/Thursday",
+              "https://schema.org/Friday",
+              "https://schema.org/Saturday",
+              "https://schema.org/Sunday"
+            ]
+          }
+        },
+        "shippingRate": {
+          "@type": "MonetaryAmount",
+          "value": 0,
+          "currency": "AZN"
+        }
+      }
+    },
+    "brand": {
+      "@type": "Brand",
+      "name": "No Brand",
+      "url": "https://birmarket.az/brands/No%20Brand"
+    }
+  }
+}

@@ -1,0 +1,375 @@
+{
+  "product": {
+    "id": 2770675,
+    "gtin": "",
+    "mpn": "10107_89041336",
+    "name": "Şəhər bel çantası 2770675, bej, poliester, 40 sm",
+    "slugged_name_az": "sheher-bel-chantasi-no-brand-bej-poliester-10-l-40-sm",
+    "slugged_name_ru": "sheher-bel-chantasi-no-brand-bej-poliester-10-l-40-sm",
+    "description": "🎒 Açıq bej bel çantası\n\n* Rəng: Açıq bej / krem 🤍\n* Dizayn: Modern, rahat və gündəlik istifadəyə uyğun\n* Material: Davamlı və möhkəm parça\n* Bölmələr: Geniş əsas bölmə və ön tərəfdə əlavə ciblər\n* Ön cib: Fermuarlı, xırda əşyalar üçün əlverişli\n* Yan ciblər: Su qabı və digər əşyalar üçün torlu ciblər\n* Yan qayışlar: Çantanın həcmini tənzimləmək üçün\n* Çiyin qayışları: Tənzimlənən və rahat\n* Üst tutacaq: Əldə rahat daşımaq üçün\n* Əlavə detal: Ön hissədə dekorativ qayışlar və metal loqo\n\nSadə, zövqlü və funksional dizaynı ilə məktəb, universitet, iş və gündəlik istifadə üçün əla seçimdir. 🎒✨",
+    "description_outlet": "",
+    "status": "active",
+    "uuid": "c6d53afa-a1a4-4b14-b5f2-efa706320b31",
+    "variant_code": "VC_2770675",
+    "default_offer": {
+      "uuid": "0a74c5fa-da48-49c0-be64-845679cecf79",
+      "installment_enabled": true,
+      "max_installment_months": 18,
+      "product_offer_labels": [],
+      "old_price": 95,
+      "retail_price": 57,
+      "supplier_id": "55a38220-c26b-42cc-9728-ab7472e089fb",
+      "qty": 0,
+      "seller": {
+        "ext_id": "55a38220-c26b-42cc-9728-ab7472e089fb",
+        "marketing_name": {
+          "id": 9460,
+          "name": "Bagazinni"
+        },
+        "logo": {
+          "thumbnail": ""
+        },
+        "vat_payer": false,
+        "rating": 100,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "discount_effective_start_date": "",
+      "discount_effective_end_date": ""
+    },
+    "category_id": 2283,
+    "category": {
+      "id": 2283,
+      "name": "Şəhər bel çantaları"
+    },
+    "brand": {
+      "name": "No Brand"
+    },
+    "custom_fields": [
+      {
+        "master_field_id": 625,
+        "values": [
+          "Bej"
+        ]
+      },
+      {
+        "master_field_id": 637,
+        "values": [
+          "Poliester"
+        ]
+      },
+      {
+        "master_field_id": 908,
+        "values": [
+          "10"
+        ]
+      },
+      {
+        "master_field_id": 1412,
+        "values": [
+          "40"
+        ]
+      },
+      {
+        "master_field_id": 1206,
+        "values": [
+          "25"
+        ]
+      },
+      {
+        "master_field_id": 639,
+        "values": [
+          "Zəncirbənd"
+        ]
+      },
+      {
+        "master_field_id": 761,
+        "values": [
+          "Qadın"
+        ]
+      }
+    ],
+    "main_img": {
+      "big": "https://strgimgr.umico.az/img/product/1680/591072c2-280a-4d76-a6e0-0c5a0e6e2f49.jpeg",
+      "medium": "https://strgimgr.umico.az/img/product/840/591072c2-280a-4d76-a6e0-0c5a0e6e2f49.jpeg",
+      "small": "https://strgimgr.umico.az/img/product/280/591072c2-280a-4d76-a6e0-0c5a0e6e2f49.jpeg"
+    },
+    "img_url_thumbnail": "https://strgimgr.umico.az/img/product/280/591072c2-280a-4d76-a6e0-0c5a0e6e2f49.jpeg",
+    "main_video": "",
+    "imgs": [
+      {
+        "big": "https://strgimgr.umico.az/img/product/1680/591072c2-280a-4d76-a6e0-0c5a0e6e2f49.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/591072c2-280a-4d76-a6e0-0c5a0e6e2f49.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/591072c2-280a-4d76-a6e0-0c5a0e6e2f49.jpeg"
+      }
+    ],
+    "videos": [],
+    "min_qty": 1,
+    "preorder_available": false,
+    "is_assortment": false,
+    "is_bulk_heavy": false,
+    "is_refurbished": false,
+    "is_refundable": true,
+    "is_dangerous": false,
+    "show_tech_description": false,
+    "use_external_content": true,
+    "product_labels": [],
+    "ratings": {
+      "rating_value": 0,
+      "assessment_id": 0,
+      "session_count": 0
+    },
+    "default_show_stock_qty_threshold": 0,
+    "card_type": "public"
+  },
+  "category": {
+    "id": 2283,
+    "name": "Şəhər bel çantaları",
+    "slugged_name_az": "sheher-bel-chantalari",
+    "slugged_name_ru": "ryukzaki-gorodskie",
+    "view_mode": "products",
+    "mobile_visual_mode": "text",
+    "is_variant": false,
+    "depth": 2,
+    "parent_id": 2267,
+    "child_ids": [],
+    "node_type": "NODE",
+    "install_service_needed": false,
+    "fitting_allowed": false,
+    "vat": true,
+    "variations": [
+      {
+        "master_field_id": 638,
+        "name": "Naxışlar və printlər",
+        "variation_tool_type": "default",
+        "has_size_chart": false,
+        "display_variant": false
+      },
+      {
+        "master_field_id": 625,
+        "name": "Rəng",
+        "variation_tool_type": "default",
+        "has_size_chart": false,
+        "display_variant": false
+      }
+    ],
+    "custom_fields": [
+      {
+        "master_field_id": 625,
+        "category_master_field_id": 11134,
+        "name": "Rəng"
+      },
+      {
+        "master_field_id": 637,
+        "category_master_field_id": 11132,
+        "name": "Material"
+      },
+      {
+        "master_field_id": 639,
+        "category_master_field_id": 11141,
+        "name": "Kilid növü"
+      },
+      {
+        "master_field_id": 1412,
+        "category_master_field_id": 11136,
+        "name": "Uzunluğu, sm"
+      },
+      {
+        "master_field_id": 1206,
+        "category_master_field_id": 11137,
+        "name": "Eni, sm"
+      },
+      {
+        "master_field_id": 761,
+        "category_master_field_id": 11133,
+        "name": "Cins"
+      },
+      {
+        "master_field_id": 908,
+        "category_master_field_id": 11143,
+        "name": "Həcm, L"
+      },
+      {
+        "master_field_id": 638,
+        "category_master_field_id": 11135,
+        "name": "Naxışlar və printlər"
+      },
+      {
+        "master_field_id": 1448,
+        "category_master_field_id": 37676,
+        "name": "Dərinliyi, sm"
+      },
+      {
+        "master_field_id": 762,
+        "category_master_field_id": 11139,
+        "name": "Bölmələrin sayı"
+      },
+      {
+        "master_field_id": 623,
+        "category_master_field_id": 11140,
+        "name": "Xüsusiyyətlər"
+      },
+      {
+        "master_field_id": 2637,
+        "category_master_field_id": 11142,
+        "name": "Bel çantasının arxası"
+      },
+      {
+        "master_field_id": 870,
+        "category_master_field_id": 11144,
+        "name": "Çəki, q"
+      },
+      {
+        "master_field_id": 618,
+        "category_master_field_id": 11145,
+        "name": "İstehsalçı ölkə"
+      },
+      {
+        "master_field_id": 2210,
+        "category_master_field_id": 11146,
+        "name": "Brendin ölkəsi"
+      }
+    ],
+    "parent": {
+      "id": 2267,
+      "node_type": "NODE",
+      "name": "Çantalar, pul kisələri və aksessuarlar",
+      "slugged_name": "chantalar-pul-kiseleri-ve-aksessuarlar",
+      "parent": {
+        "id": 3003,
+        "node_type": "NODE",
+        "name": "Geyim,ayaqqabı və aksessuarlar",
+        "slugged_name": "geyim-ve-ayaqqabi",
+        "parent": null
+      }
+    },
+    "is_refundable": true,
+    "is_adult": false,
+    "icons": {
+      "thumbnail": "https://strgimgr.umico.az/img/category/188/4030f9db-3c53-4a51-905b-ab006bb8b9af.jpeg",
+      "original": "https://strgimgr.umico.az/img/category/original/4030f9db-3c53-4a51-905b-ab006bb8b9af.jpeg"
+    },
+    "is_active": true
+  },
+  "offers": [
+    {
+      "uuid": "0a74c5fa-da48-49c0-be64-845679cecf79",
+      "installment_enabled": true,
+      "max_installment_months": 18,
+      "product_offer_labels": [],
+      "old_price": 95,
+      "retail_price": 57,
+      "supplier_id": "55a38220-c26b-42cc-9728-ab7472e089fb",
+      "seller": {
+        "ext_id": "99fa1da1-96d7-4aae-89f7-7d559a1054c3",
+        "internal_id": 9460,
+        "marketing_name": {
+          "id": 9460,
+          "name": "Bagazinni"
+        },
+        "logo": {
+          "thumbnail": ""
+        },
+        "vat_payer": false,
+        "rating": 100,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "allow_qty": 0
+    }
+  ],
+  "variations": [
+    {
+      "id": 2770675,
+      "name": "Şəhər bel çantası 2770675, bej, poliester, 40 sm",
+      "slugged_name": "sheher-bel-chantasi-no-brand-bej-poliester-10-l-40-sm",
+      "custom_fields": [
+        {
+          "master_field_id": 625,
+          "values": [
+            "Bej"
+          ]
+        }
+      ],
+      "main_img": {
+        "big": "https://strgimgr.umico.az/img/product/1680/591072c2-280a-4d76-a6e0-0c5a0e6e2f49.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/591072c2-280a-4d76-a6e0-0c5a0e6e2f49.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/591072c2-280a-4d76-a6e0-0c5a0e6e2f49.jpeg"
+      },
+      "status": "active"
+    }
+  ],
+  "size_chart": {},
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "sku": 2770675,
+    "mpn": "10107_89041336",
+    "url": "https://birmarket.az/product/2770675-sheher-bel-chantasi-no-brand-bej-poliester-10-l-40-sm",
+    "name": "Şəhər bel çantası 2770675, bej, poliester, 40 sm",
+    "image": [
+      "https://strgimgr.umico.az/img/product/1680/591072c2-280a-4d76-a6e0-0c5a0e6e2f49.jpeg"
+    ],
+    "description": "🎒 Açıq bej bel çantası\n\n* Rəng: Açıq bej / krem 🤍\n* Dizayn: Modern, rahat və gündəlik istifadəyə uyğun\n* Material: Davamlı və möhkəm parça\n* Bölmələr: Geniş əsas bölmə və ön tərəfdə əlavə ciblər\n* Ön cib: Fermuarlı, xırda əşyalar üçün əlverişli\n* Yan ciblər: Su qabı və digər əşyalar üçün torlu ciblər\n* Yan qayışlar: Çantanın həcmini tənzimləmək üçün\n* Çiyin qayışları: Tənzimlənən və rahat\n* Üst tutacaq: Əldə rahat daşımaq üçün\n* Əlavə detal: Ön hissədə dekorativ qayışlar və metal loqo\n\nSadə, zövqlü və funksional dizaynı ilə məktəb, universitet, iş və gündəlik istifadə üçün əla seçimdir. 🎒✨",
+    "itemCondition": "https://schema.org/NewCondition",
+    "offers": {
+      "@type": "Offer",
+      "availability": "https://schema.org/InStock",
+      "url": "https://birmarket.az/product/2770675-sheher-bel-chantasi-no-brand-bej-poliester-10-l-40-sm",
+      "price": 57,
+      "priceCurrency": "AZN",
+      "priceValidUntil": "2026-12-02T16:39:35+00:00Z",
+      "hasMerchantReturnPolicy": {
+        "applicableCountry": "AZ",
+        "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+        "returnMethod": "https://schema.org/ReturnInStore",
+        "returnFees": "https://schema.org/FreeReturn",
+        "merchantReturnDays": 14
+      },
+      "shippingDetails": {
+        "@type": "OfferShippingDetails",
+        "shippingDestination": {
+          "@type": "DefinedRegion",
+          "addressCountry": "AZ"
+        },
+        "deliveryTime": {
+          "@type": "ShippingDeliveryTime",
+          "handlingTime": {
+            "@type": "QuantitativeValue",
+            "minValue": 0,
+            "maxValue": 1,
+            "unitCode": "DAY"
+          },
+          "transitTime": {
+            "@type": "QuantitativeValue",
+            "minValue": 0,
+            "maxValue": 1,
+            "unitCode": "DAY"
+          },
+          "businessDays": {
+            "@type": "OpeningHoursSpecification",
+            "dayOfWeek": [
+              "https://schema.org/Monday",
+              "https://schema.org/Tuesday",
+              "https://schema.org/Wednesday",
+              "https://schema.org/Thursday",
+              "https://schema.org/Friday",
+              "https://schema.org/Saturday",
+              "https://schema.org/Sunday"
+            ]
+          }
+        },
+        "shippingRate": {
+          "@type": "MonetaryAmount",
+          "value": 0,
+          "currency": "AZN"
+        }
+      }
+    },
+    "brand": {
+      "@type": "Brand",
+      "name": "No Brand",
+      "url": "https://birmarket.az/brands/No%20Brand"
+    }
+  }
+}

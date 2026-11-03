@@ -1,0 +1,677 @@
+{
+  "product": {
+    "id": 92767,
+    "gtin": "6933037200522",
+    "mpn": "WOD002",
+    "name": "Smart-saat 1More Omthing E-Joy Grey (WOD002)",
+    "slugged_name_az": "agilli-saat-1more-omthing-e-joy-wod002",
+    "slugged_name_ru": "umnye-chasy-1more-omthing-e-joy-wod002",
+    "description": "Sink ərintisdən tam korpus\nOmthing qol saatı sink ərintisindən hazırlanır və kənarları yuvarlaqlaşdırılmış bərkidilmiş şüşə ilə qorunur və müxtəlif rəngli qayışlar üslubunuza və ya əhvalınıza uyğun görünüş seçməyə kömək edəcək.\n\nHər bir nailiyyəti qeyd edin\nOmthing ağıllı saatı ilə siz qaçış, gəzinti və ya velosiped sürərkən bütün idman məlumatlarınızı real vaxt rejimində izləyə bilərsiniz. Ağıllı saatlar ürək döyüntüsünüzü, hərəkət sürətinizi və digər parametrləri həssas şəkildə izləyir, ən yaxşı nəticələr əldə etmək üçün fəaliyyətinizin intensivliyini dəyişməyə imkan verir.\n\nBütün bildirişlərin 24/7 qəbulu\nOmthing smart saatları zəngləri, SMSləri, həmçinin müxtəlif ani mesajlaşma proqramlarından mesajları və bildirişləri qəbul edə bilər, vibrasiya ilə sizi maneəsiz şəkildə xatırladaraq və vacib bir şeyi əldən vermənizin qarşısını alır.\n\nNəbz və qan təzyiqinin daimi monitorinqi\nOmthing-in daxili ürək sensoru ən vacib sağlamlıq məlumatlarınızı toplayaraq və saxlayaraq real vaxt rejimində ürək döyüntülərinizi və qan təzyiqinizi izləyə bilər.\n\nSağlam bədən sağlam yuxu deməkdir\nOmthing smart saatları yuxu zamanı bədənin vəziyyətini yaxından izləyir, onun keyfiyyətini qiymətləndirməyə və ya hətta yaxşılaşdırmağa imkan verir.\n\nÇəkiliş nəzarəti qiymətli anlarınızı xilas etməyə kömək edəcək\nSaatın sadə hərəkətləri smartfonun kamerasının işinə nəzarət edə bilər, hətta böyük dostlar qrupu ilə belə asanlıqla heyrətamiz fotoşəkillər çəkə bilər.\n\nVaxtın idarə edilməsi\nAğıllı saatlar təkcə həyəcan siqnalları üçün deyil, həm də təqvimdən vacib şeylər gələndə titrəyir.\n\nTətbiqdən istifadə edərək siz bir neçə ailə üzvünü bir qrupda birləşdirə və addımların sayını, yuxu keyfiyyətini, ürək döyüntüsünü və digər məlumatları izləyə bilərsiniz ki, hər zaman ən əziz insanların sağlamlıq vəziyyətindən xəbərdar olasınız.\n\nQoruma dərəcəsi IP68\nOmthing smart saatının dizaynı tamamilə möhürlənmişdir, su və tozdan dərin qoruma təmin edir.\n\nOmthing-in daxili 200 mAh litium polimer batareyası və xüsusi enerji idarəetmə lövhəsi bir dəfə doldurmaqla 15 günə qədər və ya gözləmə rejimində 60 günə qədər işləmək imkanı verir.\n\nMəlumatların qeydə alınması və təhlili tətbiqi\nAğıllı saatınızı smartfonunuzdakı proqrama qoşmaqla siz idman nailiyyətləri, yuxu keyfiyyəti və sağlamlıq vəziyyəti haqqında çoxlu məlumatlarla rahat formada dərhal tanış ola, həmçinin daha çox yeni funksiyalar kəşf edə bilərsiniz.\n\nOmthing smart saatlarında quraşdırılmış sürətlənmə sensoru onların yerlərini hiss edir və əlinizi qaldırdığınız zaman ekranı işə salır, ən zəruri məlumatları - tarix, vaxt və addımların sayını göstərir. Virtual Home Düymə Asan idarəetmə üçün Virtual formada klassik idarəetmə sadə kliklərlə müxtəlif funksiyaları idarə etməyə imkan verir.",
+    "description_outlet": "",
+    "status": "active",
+    "uuid": "63b3570e-1e9a-48d4-905d-7b0bed852b80",
+    "variant_code": "VC_92767",
+    "default_offer": {
+      "uuid": "4943736b-ce58-4610-a1f6-9d6ab9a8dfae",
+      "installment_enabled": true,
+      "max_installment_months": 3,
+      "product_offer_labels": [],
+      "old_price": 159,
+      "retail_price": 33,
+      "supplier_id": "e73819a7-3cb8-4e5b-8a93-a0799d9b8ee7",
+      "qty": 0,
+      "seller": {
+        "ext_id": "e73819a7-3cb8-4e5b-8a93-a0799d9b8ee7",
+        "marketing_name": {
+          "id": 3516,
+          "name": "MOBILUX"
+        },
+        "logo": {
+          "thumbnail": "https://storage.umico.az/cpcustomerprod01/d6556ab59ecbba6cd2ef25d9e75ed6ae.png"
+        },
+        "vat_payer": true,
+        "rating": 75,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "discount_effective_start_date": "",
+      "discount_effective_end_date": ""
+    },
+    "category_id": 4,
+    "category": {
+      "id": 4,
+      "name": "Ağıllı saatlar və fitnes qolbaqları"
+    },
+    "brand": {
+      "name": "1More"
+    },
+    "custom_fields": [
+      {
+        "master_field_id": 620,
+        "values": [
+          "Ağıllı saat"
+        ]
+      },
+      {
+        "master_field_id": 1476,
+        "values": [
+          "1More Omthing E-Joy"
+        ]
+      },
+      {
+        "master_field_id": 625,
+        "values": [
+          "Boz"
+        ]
+      },
+      {
+        "master_field_id": 621,
+        "values": [
+          "Android",
+          "iOS"
+        ]
+      },
+      {
+        "master_field_id": 623,
+        "values": [
+          "Barometr",
+          "Ürək ritminin göstəricisi",
+          "İşıqlandırma göstəricisi",
+          "Maqnitometr (kompas)",
+          "Suya davamlı korpus"
+        ]
+      },
+      {
+        "master_field_id": 761,
+        "values": [
+          "Hər kəs üçün"
+        ]
+      },
+      {
+        "master_field_id": 1325,
+        "values": [
+          "Böyüklər üçün"
+        ]
+      },
+      {
+        "master_field_id": 622,
+        "values": [
+          "Bluetooth"
+        ]
+      },
+      {
+        "master_field_id": 806,
+        "values": [
+          "Zəngli saat",
+          "Təzyiqin monitorinqi",
+          "Nəbzin monitorinqi",
+          "Ürək dərəcəsinin monitorinqi",
+          "Yuxu monitorinqi",
+          "Addımölçən"
+        ]
+      },
+      {
+        "master_field_id": 634,
+        "values": [
+          "Rəngli"
+        ]
+      },
+      {
+        "master_field_id": 1739,
+        "values": [
+          "Bəli"
+        ]
+      },
+      {
+        "master_field_id": 1827,
+        "values": [
+          "IPS"
+        ]
+      },
+      {
+        "master_field_id": 1828,
+        "values": [
+          "1.3"
+        ]
+      },
+      {
+        "master_field_id": 1829,
+        "values": [
+          "Kvadrat"
+        ]
+      },
+      {
+        "master_field_id": 708,
+        "values": [
+          "Polikarbonat",
+          "Şüşə"
+        ]
+      },
+      {
+        "master_field_id": 2552,
+        "values": [
+          "Nəmə davamlı"
+        ]
+      },
+      {
+        "master_field_id": 1830,
+        "values": [
+          "Bəli"
+        ]
+      },
+      {
+        "master_field_id": 624,
+        "values": [
+          "Silikon"
+        ]
+      },
+      {
+        "master_field_id": 1834,
+        "values": [
+          "Bəli"
+        ]
+      },
+      {
+        "master_field_id": 1835,
+        "values": [
+          "GPRS"
+        ]
+      },
+      {
+        "master_field_id": 826,
+        "values": [
+          "200"
+        ]
+      },
+      {
+        "master_field_id": 721,
+        "values": [
+          "Li-Ion"
+        ]
+      },
+      {
+        "master_field_id": 870,
+        "values": [
+          "58"
+        ]
+      },
+      {
+        "master_field_id": 697,
+        "values": [
+          "Ağıllı saat",
+          "Kəmər",
+          "Sənədləşmə"
+        ]
+      },
+      {
+        "master_field_id": 2635,
+        "values": [
+          "2021"
+        ]
+      },
+      {
+        "master_field_id": 2210,
+        "values": [
+          "Çin"
+        ]
+      },
+      {
+        "master_field_id": 618,
+        "values": [
+          "Çin"
+        ]
+      }
+    ],
+    "main_img": {
+      "big": "https://strgimgr.umico.az/sized/1680/92767-da6ef277fabcb08ad2072ce32dd67c7d.jpg",
+      "medium": "https://strgimgr.umico.az/sized/840/92767-da6ef277fabcb08ad2072ce32dd67c7d.jpg",
+      "small": "https://strgimgr.umico.az/sized/280/92767-da6ef277fabcb08ad2072ce32dd67c7d.jpg"
+    },
+    "img_url_thumbnail": "https://strgimgr.umico.az/sized/280/92767-da6ef277fabcb08ad2072ce32dd67c7d.jpg",
+    "main_video": "",
+    "imgs": [
+      {
+        "big": "https://strgimgr.umico.az/sized/1680/92767-da6ef277fabcb08ad2072ce32dd67c7d.jpg",
+        "medium": "https://strgimgr.umico.az/sized/840/92767-da6ef277fabcb08ad2072ce32dd67c7d.jpg",
+        "small": "https://strgimgr.umico.az/sized/280/92767-da6ef277fabcb08ad2072ce32dd67c7d.jpg"
+      },
+      {
+        "big": "https://strgimgr.umico.az/sized/1680/92767-e97fce8340b000ca63e1b84af3f2333d.jpg",
+        "medium": "https://strgimgr.umico.az/sized/840/92767-e97fce8340b000ca63e1b84af3f2333d.jpg",
+        "small": "https://strgimgr.umico.az/sized/280/92767-e97fce8340b000ca63e1b84af3f2333d.jpg"
+      },
+      {
+        "big": "https://strgimgr.umico.az/sized/1680/92767-042f4ae322cae8390c51cfb264bbe1ad.jpg",
+        "medium": "https://strgimgr.umico.az/sized/840/92767-042f4ae322cae8390c51cfb264bbe1ad.jpg",
+        "small": "https://strgimgr.umico.az/sized/280/92767-042f4ae322cae8390c51cfb264bbe1ad.jpg"
+      },
+      {
+        "big": "https://strgimgr.umico.az/sized/1680/92767-ea05daa38f11f106f87463a55929be6a.jpg",
+        "medium": "https://strgimgr.umico.az/sized/840/92767-ea05daa38f11f106f87463a55929be6a.jpg",
+        "small": "https://strgimgr.umico.az/sized/280/92767-ea05daa38f11f106f87463a55929be6a.jpg"
+      }
+    ],
+    "videos": [],
+    "min_qty": 1,
+    "preorder_available": false,
+    "is_assortment": false,
+    "is_bulk_heavy": false,
+    "is_refurbished": false,
+    "is_refundable": true,
+    "is_dangerous": false,
+    "show_tech_description": false,
+    "use_external_content": true,
+    "product_labels": [],
+    "ratings": {
+      "rating_value": 4.2,
+      "assessment_id": 0,
+      "session_count": 5,
+      "score_count": 2,
+      "review_count": 3
+    },
+    "default_show_stock_qty_threshold": 0,
+    "card_type": "public"
+  },
+  "category": {
+    "id": 4,
+    "name": "Ağıllı saatlar və fitnes qolbaqları",
+    "slugged_name_az": "agilli-saatlar-ve-fitnes-qolbaqlari",
+    "slugged_name_ru": "umnye-chasy-i-fitnes-braslety",
+    "view_mode": "products",
+    "mobile_visual_mode": "text",
+    "is_variant": false,
+    "depth": 2,
+    "parent_id": 2,
+    "child_ids": [],
+    "node_type": "NODE",
+    "install_service_needed": false,
+    "fitting_allowed": false,
+    "vat": true,
+    "variations": [
+      {
+        "master_field_id": 625,
+        "name": "Rəng",
+        "variation_tool_type": "image",
+        "has_size_chart": false,
+        "display_variant": false
+      },
+      {
+        "master_field_id": 1828,
+        "name": "Korpusun ölçüsü, mm",
+        "variation_tool_type": "button",
+        "has_size_chart": false,
+        "display_variant": false
+      },
+      {
+        "master_field_id": 1476,
+        "name": "Seriya",
+        "variation_tool_type": "button",
+        "has_size_chart": false,
+        "display_variant": false
+      }
+    ],
+    "custom_fields": [
+      {
+        "master_field_id": 1476,
+        "category_master_field_id": 10643,
+        "name": "Seriya"
+      },
+      {
+        "master_field_id": 620,
+        "category_master_field_id": 1445,
+        "name": "Tip"
+      },
+      {
+        "master_field_id": 621,
+        "category_master_field_id": 1446,
+        "name": "Uyğunluğu"
+      },
+      {
+        "master_field_id": 1828,
+        "category_master_field_id": 5545,
+        "name": "Korpusun ölçüsü, mm"
+      },
+      {
+        "master_field_id": 1827,
+        "category_master_field_id": 5544,
+        "name": "Ağıllı saatın ekranı"
+      },
+      {
+        "master_field_id": 1826,
+        "category_master_field_id": 5541,
+        "name": "SIM kartı"
+      },
+      {
+        "master_field_id": 826,
+        "category_master_field_id": 4623,
+        "name": "Akkumulyatorun həcmi, mA/saat"
+      },
+      {
+        "master_field_id": 2186,
+        "category_master_field_id": 45755,
+        "name": "Nəmə davamlı"
+      },
+      {
+        "master_field_id": 708,
+        "category_master_field_id": 4624,
+        "name": "Korpusun materialı"
+      },
+      {
+        "master_field_id": 625,
+        "category_master_field_id": 1451,
+        "name": "Rəng"
+      },
+      {
+        "master_field_id": 2211,
+        "category_master_field_id": 10648,
+        "name": "Zəmanət müddəti"
+      },
+      {
+        "master_field_id": 806,
+        "category_master_field_id": 15464,
+        "name": "Funksiyalar"
+      },
+      {
+        "master_field_id": 616,
+        "category_master_field_id": 1447,
+        "name": "Əməliyyat sistemi"
+      },
+      {
+        "master_field_id": 624,
+        "category_master_field_id": 1450,
+        "name": "Qayışın materialı"
+      },
+      {
+        "master_field_id": 1825,
+        "category_master_field_id": 5540,
+        "name": "Operativ yaddaş"
+      },
+      {
+        "master_field_id": 623,
+        "category_master_field_id": 1449,
+        "name": "Xüsusiyyətlər"
+      },
+      {
+        "master_field_id": 634,
+        "category_master_field_id": 5542,
+        "name": "Ekranın növü"
+      },
+      {
+        "master_field_id": 1739,
+        "category_master_field_id": 5543,
+        "name": "Sensor ekran"
+      },
+      {
+        "master_field_id": 1833,
+        "category_master_field_id": 5550,
+        "name": "Zənglər"
+      },
+      {
+        "master_field_id": 1752,
+        "category_master_field_id": 5551,
+        "name": "Kamera"
+      },
+      {
+        "master_field_id": 622,
+        "category_master_field_id": 1448,
+        "name": "İnterfeyslər"
+      },
+      {
+        "master_field_id": 1829,
+        "category_master_field_id": 5546,
+        "name": "Korpusun forması"
+      },
+      {
+        "master_field_id": 2552,
+        "category_master_field_id": 10645,
+        "name": "Korpusun qorunması"
+      },
+      {
+        "master_field_id": 1830,
+        "category_master_field_id": 5547,
+        "name": "Çıxarılan kəmər"
+      },
+      {
+        "master_field_id": 1831,
+        "category_master_field_id": 5548,
+        "name": "Multimedia"
+      },
+      {
+        "master_field_id": 1824,
+        "category_master_field_id": 5539,
+        "name": "Uzaqdan idarəetmə"
+      },
+      {
+        "master_field_id": 1832,
+        "category_master_field_id": 5549,
+        "name": "Smartfonlarla qarşılıqlı əlaqə"
+      },
+      {
+        "master_field_id": 1834,
+        "category_master_field_id": 5552,
+        "name": "Vibrasiya"
+      },
+      {
+        "master_field_id": 1835,
+        "category_master_field_id": 5553,
+        "name": "Naviqasiya, məlumatların ötürülməsi"
+      },
+      {
+        "master_field_id": 1836,
+        "category_master_field_id": 5554,
+        "name": "Enerji toplamanın xüsusiyyətləri"
+      },
+      {
+        "master_field_id": 721,
+        "category_master_field_id": 5555,
+        "name": "Akkumulyatorun növü"
+      },
+      {
+        "master_field_id": 761,
+        "category_master_field_id": 5537,
+        "name": "Cins"
+      },
+      {
+        "master_field_id": 1325,
+        "category_master_field_id": 4354,
+        "name": "Yaş qrupu"
+      },
+      {
+        "master_field_id": 870,
+        "category_master_field_id": 4626,
+        "name": "Çəki, q"
+      },
+      {
+        "master_field_id": 697,
+        "category_master_field_id": 10647,
+        "name": "Komplektasiya"
+      },
+      {
+        "master_field_id": 2635,
+        "category_master_field_id": 37277,
+        "name": "Bazarın başlanğıc ili"
+      },
+      {
+        "master_field_id": 2210,
+        "category_master_field_id": 10641,
+        "name": "Brendin ölkəsi"
+      },
+      {
+        "master_field_id": 618,
+        "category_master_field_id": 1444,
+        "name": "İstehsalçı ölkə"
+      },
+      {
+        "master_field_id": 6541,
+        "category_master_field_id": 44303,
+        "name": "İstehsalçı rəngi"
+      },
+      {
+        "master_field_id": 6334,
+        "category_master_field_id": 45122,
+        "name": "Vəziyyət"
+      }
+    ],
+    "parent": {
+      "id": 2,
+      "node_type": "NODE",
+      "name": "Telefonlar, Smart cihazlar və telefon aksessuarları",
+      "slugged_name": "telefonlar-ve-aksessuarlar",
+      "parent": {
+        "id": 1,
+        "node_type": "NODE",
+        "name": "Elektronika və məişət texnikası",
+        "slugged_name": "elektronika-ve-meishet-texnikasi",
+        "parent": null
+      }
+    },
+    "is_refundable": true,
+    "is_adult": false,
+    "icons": {
+      "thumbnail": "https://strgimgr.umico.az/img/category/188/358f11b7-3edc-4811-83af-955a1941b985.jpeg",
+      "original": "https://strgimgr.umico.az/img/category/original/358f11b7-3edc-4811-83af-955a1941b985.png"
+    },
+    "is_active": true
+  },
+  "offers": [
+    {
+      "uuid": "4943736b-ce58-4610-a1f6-9d6ab9a8dfae",
+      "installment_enabled": true,
+      "max_installment_months": 3,
+      "product_offer_labels": [],
+      "old_price": 159,
+      "retail_price": 33,
+      "supplier_id": "e73819a7-3cb8-4e5b-8a93-a0799d9b8ee7",
+      "seller": {
+        "ext_id": "5007a7fb-6c6d-4b91-aa3c-74cd83ea51ab",
+        "internal_id": 3516,
+        "marketing_name": {
+          "id": 3516,
+          "name": "MOBILUX"
+        },
+        "logo": {
+          "thumbnail": "https://storage.umico.az/cpcustomerprod01/d6556ab59ecbba6cd2ef25d9e75ed6ae.png"
+        },
+        "vat_payer": true,
+        "rating": 75,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "allow_qty": 0
+    }
+  ],
+  "variations": [
+    {
+      "id": 92767,
+      "name": "Smart-saat 1More Omthing E-Joy Grey (WOD002)",
+      "slugged_name": "agilli-saat-1more-omthing-e-joy-wod002",
+      "custom_fields": [
+        {
+          "master_field_id": 625,
+          "values": [
+            "Boz"
+          ]
+        },
+        {
+          "master_field_id": 1828,
+          "values": [
+            "1.3"
+          ]
+        },
+        {
+          "master_field_id": 1476,
+          "values": [
+            "1More Omthing E-Joy"
+          ]
+        }
+      ],
+      "main_img": {
+        "big": "https://strgimgr.umico.az/sized/1680/92767-da6ef277fabcb08ad2072ce32dd67c7d.jpg",
+        "medium": "https://strgimgr.umico.az/sized/840/92767-da6ef277fabcb08ad2072ce32dd67c7d.jpg",
+        "small": "https://strgimgr.umico.az/sized/280/92767-da6ef277fabcb08ad2072ce32dd67c7d.jpg"
+      },
+      "status": "active"
+    }
+  ],
+  "size_chart": {},
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "sku": 92767,
+    "mpn": "WOD002",
+    "url": "https://birmarket.az/product/92767-agilli-saat-1more-omthing-e-joy-wod002",
+    "name": "Smart-saat 1More Omthing E-Joy Grey (WOD002)",
+    "image": [
+      "https://strgimgr.umico.az/sized/1680/92767-da6ef277fabcb08ad2072ce32dd67c7d.jpg",
+      "https://strgimgr.umico.az/sized/1680/92767-e97fce8340b000ca63e1b84af3f2333d.jpg",
+      "https://strgimgr.umico.az/sized/1680/92767-042f4ae322cae8390c51cfb264bbe1ad.jpg",
+      "https://strgimgr.umico.az/sized/1680/92767-ea05daa38f11f106f87463a55929be6a.jpg"
+    ],
+    "description": "Sink ərintisdən tam korpus\nOmthing qol saatı sink ərintisindən hazırlanır və kənarları yuvarlaqlaşdırılmış bərkidilmiş şüşə ilə qorunur və müxtəlif rəngli qayışlar üslubunuza və ya əhvalınıza uyğun görünüş seçməyə kömək edəcək.\n\nHər bir nailiyyəti qeyd edin\nOmthing ağıllı saatı ilə siz qaçış, gəzinti və ya velosiped sürərkən bütün idman məlumatlarınızı real vaxt rejimində izləyə bilərsiniz. Ağıllı saatlar ürək döyüntüsünüzü, hərəkət sürətinizi və digər parametrləri həssas şəkildə izləyir, ən yaxşı nəticələr əldə etmək üçün fəaliyyətinizin intensivliyini dəyişməyə imkan verir.\n\nBütün bildirişlərin 24/7 qəbulu\nOmthing smart saatları zəngləri, SMSləri, həmçinin müxtəlif ani mesajlaşma proqramlarından mesajları və bildirişləri qəbul edə bilər, vibrasiya ilə sizi maneəsiz şəkildə xatırladaraq və vacib bir şeyi əldən vermənizin qarşısını alır.\n\nNəbz və qan təzyiqinin daimi monitorinqi\nOmthing-in daxili ürək sensoru ən vacib sağlamlıq məlumatlarınızı toplayaraq və saxlayaraq real vaxt rejimində ürək döyüntülərinizi və qan təzyiqinizi izləyə bilər.\n\nSağlam bədən sağlam yuxu deməkdir\nOmthing smart saatları yuxu zamanı bədənin vəziyyətini yaxından izləyir, onun keyfiyyətini qiymətləndirməyə və ya hətta yaxşılaşdırmağa imkan verir.\n\nÇəkiliş nəzarəti qiymətli anlarınızı xilas etməyə kömək edəcək\nSaatın sadə hərəkətləri smartfonun kamerasının işinə nəzarət edə bilər, hətta böyük dostlar qrupu ilə belə asanlıqla heyrətamiz fotoşəkillər çəkə bilər.\n\nVaxtın idarə edilməsi\nAğıllı saatlar təkcə həyəcan siqnalları üçün deyil, həm də təqvimdən vacib şeylər gələndə titrəyir.\n\nTətbiqdən istifadə edərək siz bir neçə ailə üzvünü bir qrupda birləşdirə və addımların sayını, yuxu keyfiyyətini, ürək döyüntüsünü və digər məlumatları izləyə bilərsiniz ki, hər zaman ən əziz insanların sağlamlıq vəziyyətindən xəbərdar olasınız.\n\nQoruma dərəcəsi IP68\nOmthing smart saatının dizaynı tamamilə möhürlənmişdir, su və tozdan dərin qoruma təmin edir.\n\nOmthing-in daxili 200 mAh litium polimer batareyası və xüsusi enerji idarəetmə lövhəsi bir dəfə doldurmaqla 15 günə qədər və ya gözləmə rejimində 60 günə qədər işləmək imkanı verir.\n\nMəlumatların qeydə alınması və təhlili tətbiqi\nAğıllı saatınızı smartfonunuzdakı proqrama qoşmaqla siz idman nailiyyətləri, yuxu keyfiyyəti və sağlamlıq vəziyyəti haqqında çoxlu məlumatlarla rahat formada dərhal tanış ola, həmçinin daha çox yeni funksiyalar kəşf edə bilərsiniz.\n\nOmthing smart saatlarında quraşdırılmış sürətlənmə sensoru onların yerlərini hiss edir və əlinizi qaldırdığınız zaman ekranı işə salır, ən zəruri məlumatları - tarix, vaxt və addımların sayını göstərir. Virtual Home Düymə Asan idarəetmə üçün Virtual formada klassik idarəetmə sadə kliklərlə müxtəlif funksiyaları idarə etməyə imkan verir.",
+    "itemCondition": "https://schema.org/NewCondition",
+    "offers": {
+      "@type": "Offer",
+      "availability": "https://schema.org/InStock",
+      "url": "https://birmarket.az/product/92767-agilli-saat-1more-omthing-e-joy-wod002",
+      "price": 33,
+      "priceCurrency": "AZN",
+      "priceValidUntil": "2026-12-02T16:37:13+00:00Z",
+      "hasMerchantReturnPolicy": {
+        "applicableCountry": "AZ",
+        "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+        "returnMethod": "https://schema.org/ReturnInStore",
+        "returnFees": "https://schema.org/FreeReturn",
+        "merchantReturnDays": 14
+      },
+      "shippingDetails": {
+        "@type": "OfferShippingDetails",
+        "shippingDestination": {
+          "@type": "DefinedRegion",
+          "addressCountry": "AZ"
+        },
+        "deliveryTime": {
+          "@type": "ShippingDeliveryTime",
+          "handlingTime": {
+            "@type": "QuantitativeValue",
+            "minValue": 0,
+            "maxValue": 1,
+            "unitCode": "DAY"
+          },
+          "transitTime": {
+            "@type": "QuantitativeValue",
+            "minValue": 0,
+            "maxValue": 1,
+            "unitCode": "DAY"
+          },
+          "businessDays": {
+            "@type": "OpeningHoursSpecification",
+            "dayOfWeek": [
+              "https://schema.org/Monday",
+              "https://schema.org/Tuesday",
+              "https://schema.org/Wednesday",
+              "https://schema.org/Thursday",
+              "https://schema.org/Friday",
+              "https://schema.org/Saturday",
+              "https://schema.org/Sunday"
+            ]
+          }
+        },
+        "shippingRate": {
+          "@type": "MonetaryAmount",
+          "value": 0,
+          "currency": "AZN"
+        }
+      }
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": 4,
+      "reviewCount": 3
+    },
+    "brand": {
+      "@type": "Brand",
+      "name": "1More",
+      "url": "https://birmarket.az/brands/1More"
+    }
+  }
+}

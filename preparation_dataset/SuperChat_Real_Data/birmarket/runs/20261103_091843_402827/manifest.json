@@ -1,0 +1,46 @@
+{
+  "source": "https://birmarket.az",
+  "fetched_at": "2026-11-03T09:18:43.402827+04:00",
+  "run_directory": "birmarket/runs/20261103_091843_402827",
+  "product_count": 230,
+  "counts_by_category": {
+    "accessories": 30
+  },
+  "requested_per_category": 30,
+  "max_pages_per_category": 5,
+  "pages_collected_by_category": {
+    "accessories": 2
+  },
+  "category_stop_reasons": {
+    "accessories": "product_limit"
+  },
+  "max_images_per_product": 1,
+  "collection_transport": "chrome_browser",
+  "retained_product_count": 220,
+  "new_product_count": 10,
+  "category_mapping": {
+    "accessories": "/categories/2283-sheher-bel-chantalari"
+  },
+  "explicit_product_urls": [],
+  "stopped_by_site": false,
+  "errors": [
+    {
+      "url": "https://strgimgr.umico.az/sized/1680/810233-c1d3b23648da976e0ad5e73c4f54a02e.jpg",
+      "stage": "image",
+      "error": "Browser page timed out before product data was available"
+    }
+  ],
+  "coverage": "configured_sample_collected",
+  "image_count": 852,
+  "downloaded_images": 619,
+  "image_coverage": "partial",
+  "russian_names": 230,
+  "limitations": [
+    "This is the configured category/page sample, not the entire Birmarket inventory.",
+    "English translations and exact stock quantities are unknown and remain null.",
+    "Sizes/colors describe listed variants; prices and stock of unfetched variants remain null.",
+    "Delivery, promotions and seller prices are snapshots and may depend on location or checkout.",
+    "Missing dimensions, warranty or descriptions mean the source did not publish them in the fetched data.",
+    "Image URLs are remote unless local_file is present. Mock files are preserved."
+  ]
+}

@@ -1,0 +1,660 @@
+{
+  "product": {
+    "id": 632497,
+    "gtin": "6925281964725",
+    "mpn": "JBLT520BTBLKEU",
+    "name": "Simsiz qulaqlıq JBL Tune 520BT Black (JBLT520BTBLKEU)",
+    "slugged_name_az": "simsiz-qulaqliq-jbl-tune-520bt-black-jblt520btblkeu",
+    "slugged_name_ru": "besprovodnye-naushniki-jbl-tune-520bt-black-jblt520btblkeu",
+    "description": "Yüngül və rahat simsiz JBL Tune 520BT qulaqlıqlar, başlığın mükəmməl bərkitməsi ilə uzun müddət musiqi dinləmə imkanı təmin edir. Qapalı akustik dizayn və 30 Om empendans ilə təmin edilən yüksək keyfiyyətli stereo səs səviyyəsi sizi heyrətləndirəcək. Simsiz Bluetooth qoşulması sayəsində hər yerdə azad hərəkət edə bilərsiniz. 150q çəkisi və yığılan quruluşu ilə seyahət üçün mükəmməldir. Bu qulaqlıqlar 20 Hz-dən 20,000 Hz-ə qədər geniş tezlik spektri ilə detallı səsləndirmə imkanı verir, həmçinin Type-C portu ilə asan şarj oluna bilir. İnteqrasiya edilmiş 3-düyməli idarəetmə və daxili mikrofon ilə zəngləri rahat cavablandırın və səs səviyyəsini tənzimləyin. ABŞ brendi olan və Çin istehsalı JBL Tune 520BT qulaqlıqlar, qara rəngdə stil sahibləri üçün idealdır.",
+    "description_outlet": "",
+    "status": "active",
+    "uuid": "cc9a4bc0-01fd-4928-ad8e-2f5c678ddcfe",
+    "variant_code": "JBL Tune 520BT",
+    "default_offer": {
+      "uuid": "caa66b5f-3260-4ce3-952d-eed241eca8f8",
+      "installment_enabled": true,
+      "max_installment_months": 3,
+      "product_offer_labels": [],
+      "old_price": 87,
+      "retail_price": 78.99,
+      "supplier_id": "ccbe09a1-769c-42d6-b7f8-f77ffbbef768",
+      "qty": 0,
+      "seller": {
+        "ext_id": "ccbe09a1-769c-42d6-b7f8-f77ffbbef768",
+        "marketing_name": {
+          "id": 3517,
+          "name": "Trend In"
+        },
+        "logo": {
+          "thumbnail": "https://storage.umico.az/cpcustomerprod01/c1c9a54a5656101fb7f6c333d263bebf.jpg"
+        },
+        "vat_payer": false,
+        "rating": 99,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "discount_effective_start_date": "",
+      "discount_effective_end_date": ""
+    },
+    "category_id": 6,
+    "category": {
+      "id": 6,
+      "name": "Qulaqlıqlar və qarniturlar"
+    },
+    "brand": {
+      "name": "JBL"
+    },
+    "custom_fields": [
+      {
+        "master_field_id": 1476,
+        "values": [
+          "JBL Tune 520BT"
+        ]
+      },
+      {
+        "master_field_id": 628,
+        "values": [
+          "Taxma"
+        ]
+      },
+      {
+        "master_field_id": 629,
+        "values": [
+          "Simsiz"
+        ]
+      },
+      {
+        "master_field_id": 1568,
+        "values": [
+          "Xeyr"
+        ]
+      },
+      {
+        "master_field_id": 633,
+        "values": [
+          "Type-C"
+        ]
+      },
+      {
+        "master_field_id": 678,
+        "values": [
+          "Bluetooth"
+        ]
+      },
+      {
+        "master_field_id": 657,
+        "values": [
+          "Yığılan"
+        ]
+      },
+      {
+        "master_field_id": 1574,
+        "values": [
+          "57"
+        ]
+      },
+      {
+        "master_field_id": 1570,
+        "values": [
+          "Stereo"
+        ]
+      },
+      {
+        "master_field_id": 797,
+        "values": [
+          "30"
+        ]
+      },
+      {
+        "master_field_id": 630,
+        "values": [
+          "102"
+        ]
+      },
+      {
+        "master_field_id": 631,
+        "values": [
+          "20"
+        ]
+      },
+      {
+        "master_field_id": 632,
+        "values": [
+          "20000"
+        ]
+      },
+      {
+        "master_field_id": 1840,
+        "values": [
+          "Qapalı"
+        ]
+      },
+      {
+        "master_field_id": 1567,
+        "values": [
+          "Xeyr"
+        ]
+      },
+      {
+        "master_field_id": 1845,
+        "values": [
+          "Bəli"
+        ]
+      },
+      {
+        "master_field_id": 1573,
+        "values": [
+          "2"
+        ]
+      },
+      {
+        "master_field_id": 1850,
+        "values": [
+          "Bərkidilmiş"
+        ]
+      },
+      {
+        "master_field_id": 1740,
+        "values": [
+          "3-düyməli idarəetmə"
+        ]
+      },
+      {
+        "master_field_id": 870,
+        "values": [
+          "150"
+        ]
+      },
+      {
+        "master_field_id": 3287,
+        "values": [
+          "Başlıq"
+        ]
+      },
+      {
+        "master_field_id": 625,
+        "values": [
+          "Qara"
+        ]
+      },
+      {
+        "master_field_id": 2210,
+        "values": [
+          "ABŞ"
+        ]
+      },
+      {
+        "master_field_id": 618,
+        "values": [
+          "Çin"
+        ]
+      }
+    ],
+    "main_img": {
+      "big": "https://strgimgr.umico.az/sized/1680/632497-8888da6cd7f3312b9ff86e5827c5088a.jpg",
+      "medium": "https://strgimgr.umico.az/sized/840/632497-8888da6cd7f3312b9ff86e5827c5088a.jpg",
+      "small": "https://strgimgr.umico.az/sized/280/632497-8888da6cd7f3312b9ff86e5827c5088a.jpg"
+    },
+    "img_url_thumbnail": "https://strgimgr.umico.az/sized/280/632497-8888da6cd7f3312b9ff86e5827c5088a.jpg",
+    "main_video": "",
+    "imgs": [
+      {
+        "big": "https://strgimgr.umico.az/sized/1680/632497-8888da6cd7f3312b9ff86e5827c5088a.jpg",
+        "medium": "https://strgimgr.umico.az/sized/840/632497-8888da6cd7f3312b9ff86e5827c5088a.jpg",
+        "small": "https://strgimgr.umico.az/sized/280/632497-8888da6cd7f3312b9ff86e5827c5088a.jpg"
+      },
+      {
+        "big": "https://strgimgr.umico.az/sized/1680/632497-5ea9d2f18b9a6342a85c4ddd840da9a8.jpg",
+        "medium": "https://strgimgr.umico.az/sized/840/632497-5ea9d2f18b9a6342a85c4ddd840da9a8.jpg",
+        "small": "https://strgimgr.umico.az/sized/280/632497-5ea9d2f18b9a6342a85c4ddd840da9a8.jpg"
+      },
+      {
+        "big": "https://strgimgr.umico.az/sized/1680/632497-0b37dcc473cd4173de0b02a7c49b08fc.jpg",
+        "medium": "https://strgimgr.umico.az/sized/840/632497-0b37dcc473cd4173de0b02a7c49b08fc.jpg",
+        "small": "https://strgimgr.umico.az/sized/280/632497-0b37dcc473cd4173de0b02a7c49b08fc.jpg"
+      },
+      {
+        "big": "https://strgimgr.umico.az/sized/1680/632497-c96497685c6f9fa650f3411f529d1923.jpg",
+        "medium": "https://strgimgr.umico.az/sized/840/632497-c96497685c6f9fa650f3411f529d1923.jpg",
+        "small": "https://strgimgr.umico.az/sized/280/632497-c96497685c6f9fa650f3411f529d1923.jpg"
+      },
+      {
+        "big": "https://strgimgr.umico.az/sized/1680/632497-4e5223637b96157af5fd6ccc1ede2129.jpg",
+        "medium": "https://strgimgr.umico.az/sized/840/632497-4e5223637b96157af5fd6ccc1ede2129.jpg",
+        "small": "https://strgimgr.umico.az/sized/280/632497-4e5223637b96157af5fd6ccc1ede2129.jpg"
+      },
+      {
+        "big": "https://strgimgr.umico.az/sized/1680/632497-ca581805e94674c117f3d20a8010bdc4.jpg",
+        "medium": "https://strgimgr.umico.az/sized/840/632497-ca581805e94674c117f3d20a8010bdc4.jpg",
+        "small": "https://strgimgr.umico.az/sized/280/632497-ca581805e94674c117f3d20a8010bdc4.jpg"
+      },
+      {
+        "big": "https://strgimgr.umico.az/sized/1680/632497-2120c04899eaa5e13bc2b07d1e48674c.jpg",
+        "medium": "https://strgimgr.umico.az/sized/840/632497-2120c04899eaa5e13bc2b07d1e48674c.jpg",
+        "small": "https://strgimgr.umico.az/sized/280/632497-2120c04899eaa5e13bc2b07d1e48674c.jpg"
+      }
+    ],
+    "videos": [],
+    "min_qty": 1,
+    "preorder_available": false,
+    "is_assortment": false,
+    "is_bulk_heavy": false,
+    "is_refurbished": false,
+    "is_refundable": true,
+    "is_dangerous": false,
+    "show_tech_description": false,
+    "use_external_content": true,
+    "product_labels": [
+      {
+        "color": "7C62E3;",
+        "id": 22195107,
+        "image_url": "",
+        "label_id": 3,
+        "name": "Топ продаж",
+        "position": 1,
+        "rule_type": "parameters",
+        "show_in_see_also_products": false,
+        "text": "Ən çox satılan"
+      }
+    ],
+    "ratings": {
+      "rating_value": 4.6,
+      "assessment_id": 0,
+      "session_count": 235,
+      "score_count": 105,
+      "review_count": 130
+    },
+    "default_show_stock_qty_threshold": 0,
+    "card_type": "public"
+  },
+  "category": {
+    "id": 6,
+    "name": "Qulaqlıqlar və qarniturlar",
+    "slugged_name_az": "qulaqliqlar-ve-qarniturlar",
+    "slugged_name_ru": "naushniki-i-garnitury",
+    "view_mode": "products",
+    "mobile_visual_mode": "text",
+    "is_variant": true,
+    "depth": 2,
+    "parent_id": 2,
+    "child_ids": [],
+    "node_type": "NODE",
+    "install_service_needed": false,
+    "fitting_allowed": false,
+    "vat": true,
+    "variations": [
+      {
+        "master_field_id": 625,
+        "name": "Rəng",
+        "variation_tool_type": "image",
+        "has_size_chart": false,
+        "display_variant": false
+      }
+    ],
+    "custom_fields": [
+      {
+        "master_field_id": 1476,
+        "category_master_field_id": 10651,
+        "name": "Seriya"
+      },
+      {
+        "master_field_id": 628,
+        "category_master_field_id": 1455,
+        "name": "Qulaqlıq növü"
+      },
+      {
+        "master_field_id": 629,
+        "category_master_field_id": 1456,
+        "name": "Qoşulma tipi"
+      },
+      {
+        "master_field_id": 633,
+        "category_master_field_id": 1460,
+        "name": "Port tipi"
+      },
+      {
+        "master_field_id": 777,
+        "category_master_field_id": 45543,
+        "name": "Bluetooth standartı"
+      },
+      {
+        "master_field_id": 6487,
+        "category_master_field_id": 45544,
+        "name": "Aktiv səs-küyün boğulması (ANC)"
+      },
+      {
+        "master_field_id": 759,
+        "category_master_field_id": 4638,
+        "name": "Mikrofon"
+      },
+      {
+        "master_field_id": 1574,
+        "category_master_field_id": 4669,
+        "name": "İşləmə müddəti, saat"
+      },
+      {
+        "master_field_id": 2186,
+        "category_master_field_id": 45545,
+        "name": "Nəmə davamlı"
+      },
+      {
+        "master_field_id": 625,
+        "category_master_field_id": 4637,
+        "name": "Rəng"
+      },
+      {
+        "master_field_id": 2211,
+        "category_master_field_id": 10656,
+        "name": "Zəmanət müddəti"
+      },
+      {
+        "master_field_id": 1568,
+        "category_master_field_id": 4663,
+        "name": "Səs-küyün boğulması"
+      },
+      {
+        "master_field_id": 678,
+        "category_master_field_id": 10650,
+        "name": "Qoşulma interfeysi"
+      },
+      {
+        "master_field_id": 657,
+        "category_master_field_id": 4640,
+        "name": "Quruluş"
+      },
+      {
+        "master_field_id": 630,
+        "category_master_field_id": 1457,
+        "name": "Həssaslıq, dB"
+      },
+      {
+        "master_field_id": 631,
+        "category_master_field_id": 1458,
+        "name": "Minimal təkrarlanan tezlik, Hz"
+      },
+      {
+        "master_field_id": 632,
+        "category_master_field_id": 1459,
+        "name": "Maksimal təkrarlanan tezlik, Hz"
+      },
+      {
+        "master_field_id": 1838,
+        "category_master_field_id": 5557,
+        "name": "Port forması"
+      },
+      {
+        "master_field_id": 782,
+        "category_master_field_id": 4636,
+        "name": "Kabelin uzunluğu, m"
+      },
+      {
+        "master_field_id": 3287,
+        "category_master_field_id": 15468,
+        "name": "Qulaqlıqların bərkitməsi"
+      },
+      {
+        "master_field_id": 1840,
+        "category_master_field_id": 5559,
+        "name": "Akustik formalaşdırma"
+      },
+      {
+        "master_field_id": 1140,
+        "category_master_field_id": 15469,
+        "name": "Təsir radiusu, m"
+      },
+      {
+        "master_field_id": 1841,
+        "category_master_field_id": 5560,
+        "name": "Maksimal çıxış gücü, Vt"
+      },
+      {
+        "master_field_id": 1842,
+        "category_master_field_id": 5561,
+        "name": "Diapazonun yuxarı həddi, Hz"
+      },
+      {
+        "master_field_id": 1843,
+        "category_master_field_id": 5562,
+        "name": "Diapazonun aşağı həddi, Hz"
+      },
+      {
+        "master_field_id": 1844,
+        "category_master_field_id": 5563,
+        "name": "Siqnal/səs-küy nisbəti, dB"
+      },
+      {
+        "master_field_id": 797,
+        "category_master_field_id": 5570,
+        "name": "Empendans, Om"
+      },
+      {
+        "master_field_id": 1567,
+        "category_master_field_id": 4662,
+        "name": "Səs izolyasiyası"
+      },
+      {
+        "master_field_id": 1845,
+        "category_master_field_id": 5564,
+        "name": "Səs səviyyəsinin tənzimləyicisi"
+      },
+      {
+        "master_field_id": 1570,
+        "category_master_field_id": 4665,
+        "name": "Ətraf səs"
+      },
+      {
+        "master_field_id": 1573,
+        "category_master_field_id": 4668,
+        "name": "Dinamiklərin ümumi sayı"
+      },
+      {
+        "master_field_id": 1846,
+        "category_master_field_id": 5565,
+        "name": "Mikrofon növü"
+      },
+      {
+        "master_field_id": 1847,
+        "category_master_field_id": 5566,
+        "name": "Mikrofonun diapazonunun yuxarı həddi, Hz"
+      },
+      {
+        "master_field_id": 1848,
+        "category_master_field_id": 5567,
+        "name": "Mikrofonun diapazonunun aşağı həddi, Hz"
+      },
+      {
+        "master_field_id": 1849,
+        "category_master_field_id": 5568,
+        "name": "Mikrofonun siqnal/səs-küy nisbəti"
+      },
+      {
+        "master_field_id": 1850,
+        "category_master_field_id": 5569,
+        "name": "Mikrofonun bərkitməsi"
+      },
+      {
+        "master_field_id": 1740,
+        "category_master_field_id": 5571,
+        "name": "Digər funksiyalar və xüsusiyyətlər"
+      },
+      {
+        "master_field_id": 870,
+        "category_master_field_id": 4634,
+        "name": "Çəki, q"
+      },
+      {
+        "master_field_id": 2552,
+        "category_master_field_id": 10654,
+        "name": "Korpusun qorunması"
+      },
+      {
+        "master_field_id": 697,
+        "category_master_field_id": 10655,
+        "name": "Komplektasiya"
+      },
+      {
+        "master_field_id": 2210,
+        "category_master_field_id": 10649,
+        "name": "Brendin ölkəsi"
+      },
+      {
+        "master_field_id": 618,
+        "category_master_field_id": 4635,
+        "name": "İstehsalçı ölkə"
+      }
+    ],
+    "parent": {
+      "id": 2,
+      "node_type": "NODE",
+      "name": "Telefonlar, Smart cihazlar və telefon aksessuarları",
+      "slugged_name": "telefonlar-ve-aksessuarlar",
+      "parent": {
+        "id": 1,
+        "node_type": "NODE",
+        "name": "Elektronika və məişət texnikası",
+        "slugged_name": "elektronika-ve-meishet-texnikasi",
+        "parent": null
+      }
+    },
+    "is_refundable": true,
+    "is_adult": false,
+    "icons": {
+      "thumbnail": "https://strgimgr.umico.az/img/category/188/7a8b0d8a-c1a8-46f5-a7cd-c7483dbc6bee.jpeg",
+      "original": "https://strgimgr.umico.az/img/category/original/7a8b0d8a-c1a8-46f5-a7cd-c7483dbc6bee.jpeg"
+    },
+    "is_active": true
+  },
+  "offers": [
+    {
+      "uuid": "caa66b5f-3260-4ce3-952d-eed241eca8f8",
+      "installment_enabled": true,
+      "max_installment_months": 3,
+      "product_offer_labels": [],
+      "old_price": 87,
+      "retail_price": 78.99,
+      "supplier_id": "ccbe09a1-769c-42d6-b7f8-f77ffbbef768",
+      "seller": {
+        "ext_id": "72e071b2-14c6-4b6a-8ee7-1b24fa542b29",
+        "internal_id": 3517,
+        "marketing_name": {
+          "id": 3517,
+          "name": "Trend In"
+        },
+        "logo": {
+          "thumbnail": "https://storage.umico.az/cpcustomerprod01/c1c9a54a5656101fb7f6c333d263bebf.jpg"
+        },
+        "vat_payer": false,
+        "rating": 99,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "allow_qty": 0
+    }
+  ],
+  "variations": [
+    {
+      "id": 632497,
+      "name": "Simsiz qulaqlıq JBL Tune 520BT Black (JBLT520BTBLKEU)",
+      "slugged_name": "simsiz-qulaqliq-jbl-tune-520bt-black-jblt520btblkeu",
+      "custom_fields": [
+        {
+          "master_field_id": 625,
+          "values": [
+            "Qara"
+          ]
+        }
+      ],
+      "main_img": {
+        "big": "https://strgimgr.umico.az/sized/1680/632497-8888da6cd7f3312b9ff86e5827c5088a.jpg",
+        "medium": "https://strgimgr.umico.az/sized/840/632497-8888da6cd7f3312b9ff86e5827c5088a.jpg",
+        "small": "https://strgimgr.umico.az/sized/280/632497-8888da6cd7f3312b9ff86e5827c5088a.jpg"
+      },
+      "status": "active"
+    }
+  ],
+  "size_chart": {},
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "sku": 632497,
+    "mpn": "JBLT520BTBLKEU",
+    "url": "https://birmarket.az/product/632497-simsiz-qulaqliq-jbl-tune-520bt-black-jblt520btblkeu",
+    "name": "Simsiz qulaqlıq JBL Tune 520BT Black (JBLT520BTBLKEU)",
+    "image": [
+      "https://strgimgr.umico.az/sized/1680/632497-8888da6cd7f3312b9ff86e5827c5088a.jpg",
+      "https://strgimgr.umico.az/sized/1680/632497-5ea9d2f18b9a6342a85c4ddd840da9a8.jpg",
+      "https://strgimgr.umico.az/sized/1680/632497-0b37dcc473cd4173de0b02a7c49b08fc.jpg",
+      "https://strgimgr.umico.az/sized/1680/632497-c96497685c6f9fa650f3411f529d1923.jpg",
+      "https://strgimgr.umico.az/sized/1680/632497-4e5223637b96157af5fd6ccc1ede2129.jpg",
+      "https://strgimgr.umico.az/sized/1680/632497-ca581805e94674c117f3d20a8010bdc4.jpg",
+      "https://strgimgr.umico.az/sized/1680/632497-2120c04899eaa5e13bc2b07d1e48674c.jpg"
+    ],
+    "description": "Yüngül və rahat simsiz JBL Tune 520BT qulaqlıqlar, başlığın mükəmməl bərkitməsi ilə uzun müddət musiqi dinləmə imkanı təmin edir. Qapalı akustik dizayn və 30 Om empendans ilə təmin edilən yüksək keyfiyyətli stereo səs səviyyəsi sizi heyrətləndirəcək. Simsiz Bluetooth qoşulması sayəsində hər yerdə azad hərəkət edə bilərsiniz. 150q çəkisi və yığılan quruluşu ilə seyahət üçün mükəmməldir. Bu qulaqlıqlar 20 Hz-dən 20,000 Hz-ə qədər geniş tezlik spektri ilə detallı səsləndirmə imkanı verir, həmçinin Type-C portu ilə asan şarj oluna bilir. İnteqrasiya edilmiş 3-düyməli idarəetmə və daxili mikrofon ilə zəngləri rahat cavablandırın və səs səviyyəsini tənzimləyin. ABŞ brendi olan və Çin istehsalı JBL Tune 520BT qulaqlıqlar, qara rəngdə stil sahibləri üçün idealdır.",
+    "itemCondition": "https://schema.org/NewCondition",
+    "offers": {
+      "@type": "Offer",
+      "availability": "https://schema.org/InStock",
+      "url": "https://birmarket.az/product/632497-simsiz-qulaqliq-jbl-tune-520bt-black-jblt520btblkeu",
+      "price": 78.99,
+      "priceCurrency": "AZN",
+      "priceValidUntil": "2026-12-02T16:26:01+00:00Z",
+      "hasMerchantReturnPolicy": {
+        "applicableCountry": "AZ",
+        "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+        "returnMethod": "https://schema.org/ReturnInStore",
+        "returnFees": "https://schema.org/FreeReturn",
+        "merchantReturnDays": 14
+      },
+      "shippingDetails": {
+        "@type": "OfferShippingDetails",
+        "shippingDestination": {
+          "@type": "DefinedRegion",
+          "addressCountry": "AZ"
+        },
+        "deliveryTime": {
+          "@type": "ShippingDeliveryTime",
+          "handlingTime": {
+            "@type": "QuantitativeValue",
+            "minValue": 0,
+            "maxValue": 1,
+            "unitCode": "DAY"
+          },
+          "transitTime": {
+            "@type": "QuantitativeValue",
+            "minValue": 0,
+            "maxValue": 1,
+            "unitCode": "DAY"
+          },
+          "businessDays": {
+            "@type": "OpeningHoursSpecification",
+            "dayOfWeek": [
+              "https://schema.org/Monday",
+              "https://schema.org/Tuesday",
+              "https://schema.org/Wednesday",
+              "https://schema.org/Thursday",
+              "https://schema.org/Friday",
+              "https://schema.org/Saturday",
+              "https://schema.org/Sunday"
+            ]
+          }
+        },
+        "shippingRate": {
+          "@type": "MonetaryAmount",
+          "value": 0,
+          "currency": "AZN"
+        }
+      }
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": 5,
+      "reviewCount": 130
+    },
+    "brand": {
+      "@type": "Brand",
+      "name": "JBL",
+      "url": "https://birmarket.az/brands/JBL"
+    }
+  }
+}

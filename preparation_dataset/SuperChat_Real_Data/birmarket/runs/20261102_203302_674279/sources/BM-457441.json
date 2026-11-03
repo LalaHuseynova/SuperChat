@@ -1,0 +1,626 @@
+{
+  "product": {
+    "id": 457441,
+    "gtin": "",
+    "mpn": "t800 orange",
+    "name": "Smart saat Smart Watch 8 T800 Ultra Orange",
+    "slugged_name_az": "smart-saat-watch-8-t800-ultra-orange",
+    "slugged_name_ru": "cmart-chasy-watch-8-t800-ultra-orange",
+    "description": "Ağıllı saatlar Watch 8 T800 Ultra Orange, hər vəziyyətdə əlaqəni qorumağa və sağlamlığını izləməyə çalışanlar üçün ideal seçimdir. Hem Android, hem də iOS ilə uyğunluq sayəsində bu saatlar musiqini uzaqdan idarə etməyə və zəngləri birbaşa biləkdən etməyə imkan verir. Parlaq rəngli sensor ekran və düzbucaqlı korpusu ilə stil və müasirlik nümayiş etdirir, bu səbəbdən həm kişilər, həm də qadınlar üçün uyğundur. Addımölçər, nəbzölçən, yuxu izləmə funksiyalarını birləşdirərək, bu ağıllı saatlar formada qalmağa kömək edir, hava proqnozu funksiyası isə gününüzü məntiqli planlaşdırmağa imkan verir. Cihaz gələn zənglər və mesajlar barədə məlumat verə bilər ki, beləliklə, heç bir vacib bildirişi qaçırmazsınız. Komplektasiya qolbaq, təlimat kitabçasını ehtiva edir və beləliklə, cihazı dərhal istifadə etməyə başlamağa imkan tanıyır. Fərdi stil yaratmaq üçün başlanğıc nöqtəsi cihazın narıncı rəngi ola bilər, bu da gündəlik geyimlərə parlaq əlavə olur. Watch 8 T800 Ultra Orange – aktiv və təşkilatlanmış həyat tərzi üçün etibarlı yoldaşınızdır.",
+    "description_outlet": "",
+    "status": "active",
+    "uuid": "021e1c5a-bee7-4423-af12-2f5ae81001b1",
+    "variant_code": "VC_457441",
+    "default_offer": {
+      "uuid": "3631cc35-94e8-4b24-b1ae-6361b35b78ac",
+      "installment_enabled": true,
+      "max_installment_months": 12,
+      "product_offer_labels": [],
+      "old_price": 25,
+      "retail_price": 13.42,
+      "supplier_id": "679e9d54-1be1-4f65-9257-e96743df9368",
+      "qty": 0,
+      "seller": {
+        "ext_id": "679e9d54-1be1-4f65-9257-e96743df9368",
+        "marketing_name": {
+          "id": 5268,
+          "name": "My Style"
+        },
+        "logo": {
+          "thumbnail": "https://storage.umico.az/cpcustomerprod01/b5f14c56f90b4d12198dfb09b9235b43.jpg"
+        },
+        "vat_payer": false,
+        "rating": 90,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "discount_effective_start_date": "",
+      "discount_effective_end_date": ""
+    },
+    "category_id": 4,
+    "category": {
+      "id": 4,
+      "name": "Ağıllı saatlar və fitnes qolbaqları"
+    },
+    "brand": {
+      "name": "Smart Watch"
+    },
+    "custom_fields": [
+      {
+        "master_field_id": 620,
+        "values": [
+          "Ağıllı saat"
+        ]
+      },
+      {
+        "master_field_id": 625,
+        "values": [
+          "Narıncı"
+        ]
+      },
+      {
+        "master_field_id": 621,
+        "values": [
+          "Android",
+          "iOS"
+        ]
+      },
+      {
+        "master_field_id": 623,
+        "values": [
+          "Addımölçən",
+          "Nəbzölçən"
+        ]
+      },
+      {
+        "master_field_id": 761,
+        "values": [
+          "Hər kəs üçün"
+        ]
+      },
+      {
+        "master_field_id": 1325,
+        "values": [
+          "Böyüklər üçün"
+        ]
+      },
+      {
+        "master_field_id": 806,
+        "values": [
+          "Yuxu monitorinqi",
+          "Nəbzin monitorinqi",
+          "Cihazın axtarışı",
+          "Hava proqnozu"
+        ]
+      },
+      {
+        "master_field_id": 634,
+        "values": [
+          "Rəngli"
+        ]
+      },
+      {
+        "master_field_id": 1739,
+        "values": [
+          "Bəli"
+        ]
+      },
+      {
+        "master_field_id": 1829,
+        "values": [
+          "Düzbucaq"
+        ]
+      },
+      {
+        "master_field_id": 1831,
+        "values": [
+          "Musiqi pleyeri"
+        ]
+      },
+      {
+        "master_field_id": 1824,
+        "values": [
+          "Musiqi pleyeri"
+        ]
+      },
+      {
+        "master_field_id": 1832,
+        "values": [
+          "Zənglər haqqında məlumatlandırma",
+          "SMS haqqında məlumatlandırma"
+        ]
+      },
+      {
+        "master_field_id": 1834,
+        "values": [
+          "Xeyr"
+        ]
+      },
+      {
+        "master_field_id": 697,
+        "values": [
+          "Saat",
+          "Kəmər",
+          "Təlimat"
+        ]
+      },
+      {
+        "master_field_id": 618,
+        "values": [
+          "Çin"
+        ]
+      }
+    ],
+    "main_img": {
+      "big": "https://strgimgr.umico.az/sized/1680/457441-ff9d1a72f6e80a15c26567717aa826a3.jpg",
+      "medium": "https://strgimgr.umico.az/sized/840/457441-ff9d1a72f6e80a15c26567717aa826a3.jpg",
+      "small": "https://strgimgr.umico.az/sized/280/457441-ff9d1a72f6e80a15c26567717aa826a3.jpg"
+    },
+    "img_url_thumbnail": "https://strgimgr.umico.az/sized/280/457441-ff9d1a72f6e80a15c26567717aa826a3.jpg",
+    "main_video": "",
+    "imgs": [
+      {
+        "big": "https://strgimgr.umico.az/sized/1680/457441-ff9d1a72f6e80a15c26567717aa826a3.jpg",
+        "medium": "https://strgimgr.umico.az/sized/840/457441-ff9d1a72f6e80a15c26567717aa826a3.jpg",
+        "small": "https://strgimgr.umico.az/sized/280/457441-ff9d1a72f6e80a15c26567717aa826a3.jpg"
+      }
+    ],
+    "videos": [],
+    "min_qty": 1,
+    "preorder_available": false,
+    "is_assortment": false,
+    "is_bulk_heavy": false,
+    "is_refurbished": false,
+    "is_refundable": true,
+    "is_dangerous": false,
+    "show_tech_description": false,
+    "use_external_content": true,
+    "product_labels": [],
+    "ratings": {
+      "rating_value": 4,
+      "assessment_id": 0,
+      "session_count": 32,
+      "score_count": 12,
+      "review_count": 20
+    },
+    "default_show_stock_qty_threshold": 0,
+    "card_type": "public"
+  },
+  "category": {
+    "id": 4,
+    "name": "Ağıllı saatlar və fitnes qolbaqları",
+    "slugged_name_az": "agilli-saatlar-ve-fitnes-qolbaqlari",
+    "slugged_name_ru": "umnye-chasy-i-fitnes-braslety",
+    "view_mode": "products",
+    "mobile_visual_mode": "text",
+    "is_variant": false,
+    "depth": 2,
+    "parent_id": 2,
+    "child_ids": [],
+    "node_type": "NODE",
+    "install_service_needed": false,
+    "fitting_allowed": false,
+    "vat": true,
+    "variations": [
+      {
+        "master_field_id": 625,
+        "name": "Rəng",
+        "variation_tool_type": "image",
+        "has_size_chart": false,
+        "display_variant": false
+      },
+      {
+        "master_field_id": 1828,
+        "name": "Korpusun ölçüsü, mm",
+        "variation_tool_type": "button",
+        "has_size_chart": false,
+        "display_variant": false
+      },
+      {
+        "master_field_id": 1476,
+        "name": "Seriya",
+        "variation_tool_type": "button",
+        "has_size_chart": false,
+        "display_variant": false
+      }
+    ],
+    "custom_fields": [
+      {
+        "master_field_id": 1476,
+        "category_master_field_id": 10643,
+        "name": "Seriya"
+      },
+      {
+        "master_field_id": 620,
+        "category_master_field_id": 1445,
+        "name": "Tip"
+      },
+      {
+        "master_field_id": 621,
+        "category_master_field_id": 1446,
+        "name": "Uyğunluğu"
+      },
+      {
+        "master_field_id": 1828,
+        "category_master_field_id": 5545,
+        "name": "Korpusun ölçüsü, mm"
+      },
+      {
+        "master_field_id": 1827,
+        "category_master_field_id": 5544,
+        "name": "Ağıllı saatın ekranı"
+      },
+      {
+        "master_field_id": 1826,
+        "category_master_field_id": 5541,
+        "name": "SIM kartı"
+      },
+      {
+        "master_field_id": 826,
+        "category_master_field_id": 4623,
+        "name": "Akkumulyatorun həcmi, mA/saat"
+      },
+      {
+        "master_field_id": 2186,
+        "category_master_field_id": 45755,
+        "name": "Nəmə davamlı"
+      },
+      {
+        "master_field_id": 708,
+        "category_master_field_id": 4624,
+        "name": "Korpusun materialı"
+      },
+      {
+        "master_field_id": 625,
+        "category_master_field_id": 1451,
+        "name": "Rəng"
+      },
+      {
+        "master_field_id": 2211,
+        "category_master_field_id": 10648,
+        "name": "Zəmanət müddəti"
+      },
+      {
+        "master_field_id": 806,
+        "category_master_field_id": 15464,
+        "name": "Funksiyalar"
+      },
+      {
+        "master_field_id": 616,
+        "category_master_field_id": 1447,
+        "name": "Əməliyyat sistemi"
+      },
+      {
+        "master_field_id": 624,
+        "category_master_field_id": 1450,
+        "name": "Qayışın materialı"
+      },
+      {
+        "master_field_id": 1825,
+        "category_master_field_id": 5540,
+        "name": "Operativ yaddaş"
+      },
+      {
+        "master_field_id": 623,
+        "category_master_field_id": 1449,
+        "name": "Xüsusiyyətlər"
+      },
+      {
+        "master_field_id": 634,
+        "category_master_field_id": 5542,
+        "name": "Ekranın növü"
+      },
+      {
+        "master_field_id": 1739,
+        "category_master_field_id": 5543,
+        "name": "Sensor ekran"
+      },
+      {
+        "master_field_id": 1833,
+        "category_master_field_id": 5550,
+        "name": "Zənglər"
+      },
+      {
+        "master_field_id": 1752,
+        "category_master_field_id": 5551,
+        "name": "Kamera"
+      },
+      {
+        "master_field_id": 622,
+        "category_master_field_id": 1448,
+        "name": "İnterfeyslər"
+      },
+      {
+        "master_field_id": 1829,
+        "category_master_field_id": 5546,
+        "name": "Korpusun forması"
+      },
+      {
+        "master_field_id": 2552,
+        "category_master_field_id": 10645,
+        "name": "Korpusun qorunması"
+      },
+      {
+        "master_field_id": 1830,
+        "category_master_field_id": 5547,
+        "name": "Çıxarılan kəmər"
+      },
+      {
+        "master_field_id": 1831,
+        "category_master_field_id": 5548,
+        "name": "Multimedia"
+      },
+      {
+        "master_field_id": 1824,
+        "category_master_field_id": 5539,
+        "name": "Uzaqdan idarəetmə"
+      },
+      {
+        "master_field_id": 1832,
+        "category_master_field_id": 5549,
+        "name": "Smartfonlarla qarşılıqlı əlaqə"
+      },
+      {
+        "master_field_id": 1834,
+        "category_master_field_id": 5552,
+        "name": "Vibrasiya"
+      },
+      {
+        "master_field_id": 1835,
+        "category_master_field_id": 5553,
+        "name": "Naviqasiya, məlumatların ötürülməsi"
+      },
+      {
+        "master_field_id": 1836,
+        "category_master_field_id": 5554,
+        "name": "Enerji toplamanın xüsusiyyətləri"
+      },
+      {
+        "master_field_id": 721,
+        "category_master_field_id": 5555,
+        "name": "Akkumulyatorun növü"
+      },
+      {
+        "master_field_id": 761,
+        "category_master_field_id": 5537,
+        "name": "Cins"
+      },
+      {
+        "master_field_id": 1325,
+        "category_master_field_id": 4354,
+        "name": "Yaş qrupu"
+      },
+      {
+        "master_field_id": 870,
+        "category_master_field_id": 4626,
+        "name": "Çəki, q"
+      },
+      {
+        "master_field_id": 697,
+        "category_master_field_id": 10647,
+        "name": "Komplektasiya"
+      },
+      {
+        "master_field_id": 2635,
+        "category_master_field_id": 37277,
+        "name": "Bazarın başlanğıc ili"
+      },
+      {
+        "master_field_id": 2210,
+        "category_master_field_id": 10641,
+        "name": "Brendin ölkəsi"
+      },
+      {
+        "master_field_id": 618,
+        "category_master_field_id": 1444,
+        "name": "İstehsalçı ölkə"
+      },
+      {
+        "master_field_id": 6541,
+        "category_master_field_id": 44303,
+        "name": "İstehsalçı rəngi"
+      },
+      {
+        "master_field_id": 6334,
+        "category_master_field_id": 45122,
+        "name": "Vəziyyət"
+      }
+    ],
+    "parent": {
+      "id": 2,
+      "node_type": "NODE",
+      "name": "Telefonlar, Smart cihazlar və telefon aksessuarları",
+      "slugged_name": "telefonlar-ve-aksessuarlar",
+      "parent": {
+        "id": 1,
+        "node_type": "NODE",
+        "name": "Elektronika və məişət texnikası",
+        "slugged_name": "elektronika-ve-meishet-texnikasi",
+        "parent": null
+      }
+    },
+    "is_refundable": true,
+    "is_adult": false,
+    "icons": {
+      "thumbnail": "https://strgimgr.umico.az/img/category/188/358f11b7-3edc-4811-83af-955a1941b985.jpeg",
+      "original": "https://strgimgr.umico.az/img/category/original/358f11b7-3edc-4811-83af-955a1941b985.png"
+    },
+    "is_active": true
+  },
+  "offers": [
+    {
+      "uuid": "69a6e8d6-1bb8-4324-a378-f174ef376eea",
+      "installment_enabled": true,
+      "max_installment_months": 12,
+      "product_offer_labels": [],
+      "old_price": 22,
+      "retail_price": 13.43,
+      "supplier_id": "b80d0f24-8052-4485-a4b6-f1e1316038b0",
+      "seller": {
+        "ext_id": "4f934b2d-4cc4-4939-9391-548782291d9d",
+        "internal_id": 14238,
+        "marketing_name": {
+          "id": 14238,
+          "name": "Brend Gallery"
+        },
+        "logo": {
+          "thumbnail": ""
+        },
+        "vat_payer": false,
+        "rating": 100,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "allow_qty": 0
+    },
+    {
+      "uuid": "8a7b0356-43e6-48c3-ba6a-8c675ec4af09",
+      "installment_enabled": true,
+      "max_installment_months": 18,
+      "product_offer_labels": [],
+      "old_price": 35,
+      "retail_price": 14,
+      "supplier_id": "3060c2e2-2489-4567-9bb1-c22a866de50b",
+      "seller": {
+        "ext_id": "852846d0-cbf0-4673-86b3-06820cf115aa",
+        "internal_id": 5999,
+        "marketing_name": {
+          "id": 5999,
+          "name": "Ultra"
+        },
+        "logo": {
+          "thumbnail": "https://storage.umico.az/cpcustomerprod01/03f5ecf9c36ce3870177883a0c8ce9fa.jpg"
+        },
+        "vat_payer": false,
+        "rating": 96,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "allow_qty": 0
+    },
+    {
+      "uuid": "3631cc35-94e8-4b24-b1ae-6361b35b78ac",
+      "installment_enabled": true,
+      "max_installment_months": 12,
+      "product_offer_labels": [],
+      "old_price": 25,
+      "retail_price": 13.42,
+      "supplier_id": "679e9d54-1be1-4f65-9257-e96743df9368",
+      "seller": {
+        "ext_id": "d4a91bbf-a4f4-45d4-80d4-e58a77a92115",
+        "internal_id": 5268,
+        "marketing_name": {
+          "id": 5268,
+          "name": "My Style"
+        },
+        "logo": {
+          "thumbnail": "https://storage.umico.az/cpcustomerprod01/b5f14c56f90b4d12198dfb09b9235b43.jpg"
+        },
+        "vat_payer": false,
+        "rating": 90,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "allow_qty": 0
+    }
+  ],
+  "variations": [
+    {
+      "id": 457441,
+      "name": "Smart saat Smart Watch 8 T800 Ultra Orange",
+      "slugged_name": "smart-saat-watch-8-t800-ultra-orange",
+      "custom_fields": [
+        {
+          "master_field_id": 625,
+          "values": [
+            "Narıncı"
+          ]
+        }
+      ],
+      "main_img": {
+        "big": "https://strgimgr.umico.az/sized/1680/457441-ff9d1a72f6e80a15c26567717aa826a3.jpg",
+        "medium": "https://strgimgr.umico.az/sized/840/457441-ff9d1a72f6e80a15c26567717aa826a3.jpg",
+        "small": "https://strgimgr.umico.az/sized/280/457441-ff9d1a72f6e80a15c26567717aa826a3.jpg"
+      },
+      "status": "active"
+    }
+  ],
+  "size_chart": {},
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "sku": 457441,
+    "mpn": "t800 orange",
+    "url": "https://birmarket.az/product/457441-smart-saat-watch-8-t800-ultra-orange",
+    "name": "Smart saat Smart Watch 8 T800 Ultra Orange",
+    "image": [
+      "https://strgimgr.umico.az/sized/1680/457441-ff9d1a72f6e80a15c26567717aa826a3.jpg"
+    ],
+    "description": "Ağıllı saatlar Watch 8 T800 Ultra Orange, hər vəziyyətdə əlaqəni qorumağa və sağlamlığını izləməyə çalışanlar üçün ideal seçimdir. Hem Android, hem də iOS ilə uyğunluq sayəsində bu saatlar musiqini uzaqdan idarə etməyə və zəngləri birbaşa biləkdən etməyə imkan verir. Parlaq rəngli sensor ekran və düzbucaqlı korpusu ilə stil və müasirlik nümayiş etdirir, bu səbəbdən həm kişilər, həm də qadınlar üçün uyğundur. Addımölçər, nəbzölçən, yuxu izləmə funksiyalarını birləşdirərək, bu ağıllı saatlar formada qalmağa kömək edir, hava proqnozu funksiyası isə gününüzü məntiqli planlaşdırmağa imkan verir. Cihaz gələn zənglər və mesajlar barədə məlumat verə bilər ki, beləliklə, heç bir vacib bildirişi qaçırmazsınız. Komplektasiya qolbaq, təlimat kitabçasını ehtiva edir və beləliklə, cihazı dərhal istifadə etməyə başlamağa imkan tanıyır. Fərdi stil yaratmaq üçün başlanğıc nöqtəsi cihazın narıncı rəngi ola bilər, bu da gündəlik geyimlərə parlaq əlavə olur. Watch 8 T800 Ultra Orange – aktiv və təşkilatlanmış həyat tərzi üçün etibarlı yoldaşınızdır.",
+    "itemCondition": "https://schema.org/NewCondition",
+    "offers": {
+      "@type": "AggregateOffer",
+      "availability": "https://schema.org/InStock",
+      "offerCount": 3,
+      "highPrice": 14,
+      "lowPrice": 13.42,
+      "priceCurrency": "AZN",
+      "hasMerchantReturnPolicy": {
+        "applicableCountry": "AZ",
+        "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+        "returnMethod": "https://schema.org/ReturnInStore",
+        "returnFees": "https://schema.org/FreeReturn",
+        "merchantReturnDays": 14
+      },
+      "shippingDetails": {
+        "@type": "OfferShippingDetails",
+        "shippingDestination": {
+          "@type": "DefinedRegion",
+          "addressCountry": "AZ"
+        },
+        "deliveryTime": {
+          "@type": "ShippingDeliveryTime",
+          "handlingTime": {
+            "@type": "QuantitativeValue",
+            "minValue": 0,
+            "maxValue": 1,
+            "unitCode": "DAY"
+          },
+          "transitTime": {
+            "@type": "QuantitativeValue",
+            "minValue": 0,
+            "maxValue": 1,
+            "unitCode": "DAY"
+          },
+          "businessDays": {
+            "@type": "OpeningHoursSpecification",
+            "dayOfWeek": [
+              "https://schema.org/Monday",
+              "https://schema.org/Tuesday",
+              "https://schema.org/Wednesday",
+              "https://schema.org/Thursday",
+              "https://schema.org/Friday",
+              "https://schema.org/Saturday",
+              "https://schema.org/Sunday"
+            ]
+          }
+        },
+        "shippingRate": {
+          "@type": "MonetaryAmount",
+          "value": 0,
+          "currency": "AZN"
+        }
+      }
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": 4,
+      "reviewCount": 20
+    },
+    "brand": {
+      "@type": "Brand",
+      "name": "Smart Watch",
+      "url": "https://birmarket.az/brands/Smart%20Watch"
+    }
+  }
+}

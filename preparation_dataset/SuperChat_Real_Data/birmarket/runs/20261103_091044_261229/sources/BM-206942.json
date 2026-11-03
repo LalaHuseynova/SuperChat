@@ -1,0 +1,735 @@
+{
+  "product": {
+    "id": 206942,
+    "gtin": "",
+    "mpn": "P9 5.0+White",
+    "name": "Simsiz qulaqlıq Musician P9 White",
+    "slugged_name_az": "simsiz-qulaqliq-musician-p9",
+    "slugged_name_ru": "besprovodnye-naushniki-musician-p9",
+    "description": "Musician P9 White naqilsiz qulaqcıqları musiqini rahat şəkildə dinləmək üçün nəzərdə tutulub. Onlar uzun müddətli istifadə zamanı rahatlıq təmin edən yüngül (203 q) başlıq quruluşuna malikdir. Bluetooth interfeysi qulaqcıqları audio siqnal mənbəyinə 10 metr məsafədə qoşmağa imkan verir, hərəkət sərbəstliyini təmin edir. Dinamik həssaslığı 102 dB səsin aydın ifasını təmin edir. Qulaqcıqların batareyası bir dəfə şarjdan 10 saata qədər işləməyi təmin edir. Zərif ağ rəng qulaqcıqları zərif bir aksesuar edir. Dəstə qulaqcıqlar, zəmanət vərəqi və təlimat daxildir. Həm markası, həm də istehsalı Çindədir. Onlar keyfiyyətli səs və rahat istifadə axtaranlar üçün uyğun olacaq.",
+    "description_outlet": "",
+    "status": "active",
+    "uuid": "331653d1-bfae-4352-bedf-6d2c42cbc4de",
+    "variant_code": "VC_206942",
+    "default_offer": {
+      "uuid": "f1e8d301-3308-4970-b9c2-9d3e987a2a27",
+      "installment_enabled": true,
+      "max_installment_months": 12,
+      "product_offer_labels": [],
+      "old_price": 15,
+      "retail_price": 8.4,
+      "supplier_id": "1f7b4a25-7c8f-4e67-9a2f-bd40bf9e7a37",
+      "qty": 0,
+      "seller": {
+        "ext_id": "1f7b4a25-7c8f-4e67-9a2f-bd40bf9e7a37",
+        "marketing_name": {
+          "id": 4052,
+          "name": "Brend Aksesuar"
+        },
+        "logo": {
+          "thumbnail": "https://storage.umico.az/cpcustomerprod01/4708876baebaaad9c3effe88ff54738e.jpg"
+        },
+        "vat_payer": false,
+        "rating": 98,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "discount_effective_start_date": "",
+      "discount_effective_end_date": ""
+    },
+    "category_id": 6,
+    "category": {
+      "id": 6,
+      "name": "Qulaqlıqlar və qarniturlar"
+    },
+    "brand": {
+      "name": "Musician"
+    },
+    "custom_fields": [
+      {
+        "master_field_id": 628,
+        "values": [
+          "Taxma"
+        ]
+      },
+      {
+        "master_field_id": 629,
+        "values": [
+          "Simsiz"
+        ]
+      },
+      {
+        "master_field_id": 625,
+        "values": [
+          "Ağ"
+        ]
+      },
+      {
+        "master_field_id": 1568,
+        "values": [
+          "Bəli"
+        ]
+      },
+      {
+        "master_field_id": 633,
+        "values": [
+          "Mini jack 3.5 mm"
+        ]
+      },
+      {
+        "master_field_id": 678,
+        "values": [
+          "Bluetooth"
+        ]
+      },
+      {
+        "master_field_id": 657,
+        "values": [
+          "Klassik"
+        ]
+      },
+      {
+        "master_field_id": 1574,
+        "values": [
+          "10"
+        ]
+      },
+      {
+        "master_field_id": 1140,
+        "values": [
+          "10"
+        ]
+      },
+      {
+        "master_field_id": 1570,
+        "values": [
+          "Stereo"
+        ]
+      },
+      {
+        "master_field_id": 797,
+        "values": [
+          "32"
+        ]
+      },
+      {
+        "master_field_id": 630,
+        "values": [
+          "102"
+        ]
+      },
+      {
+        "master_field_id": 631,
+        "values": [
+          "20"
+        ]
+      },
+      {
+        "master_field_id": 632,
+        "values": [
+          "20000"
+        ]
+      },
+      {
+        "master_field_id": 1845,
+        "values": [
+          "Bəli"
+        ]
+      },
+      {
+        "master_field_id": 1573,
+        "values": [
+          "2"
+        ]
+      },
+      {
+        "master_field_id": 1850,
+        "values": [
+          "Bərkidilmiş"
+        ]
+      },
+      {
+        "master_field_id": 1740,
+        "values": [
+          "Mikrofon",
+          "3-düyməli idarəetmə",
+          "Səs-küyün boğulması"
+        ]
+      },
+      {
+        "master_field_id": 870,
+        "values": [
+          "203"
+        ]
+      },
+      {
+        "master_field_id": 3287,
+        "values": [
+          "Başlıq"
+        ]
+      },
+      {
+        "master_field_id": 697,
+        "values": [
+          "Qulaqlıq",
+          "Zəmanət kartı",
+          "Təlimat"
+        ]
+      },
+      {
+        "master_field_id": 2210,
+        "values": [
+          "Çin"
+        ]
+      },
+      {
+        "master_field_id": 618,
+        "values": [
+          "Çin"
+        ]
+      }
+    ],
+    "main_img": {
+      "big": "https://strgimgr.umico.az/sized/1680/206942-f3ca9c4a163a57dfb9d9d13fa226fa69.jpg",
+      "medium": "https://strgimgr.umico.az/sized/840/206942-f3ca9c4a163a57dfb9d9d13fa226fa69.jpg",
+      "small": "https://strgimgr.umico.az/sized/280/206942-f3ca9c4a163a57dfb9d9d13fa226fa69.jpg"
+    },
+    "img_url_thumbnail": "https://strgimgr.umico.az/sized/280/206942-f3ca9c4a163a57dfb9d9d13fa226fa69.jpg",
+    "main_video": "",
+    "imgs": [
+      {
+        "big": "https://strgimgr.umico.az/sized/1680/206942-f3ca9c4a163a57dfb9d9d13fa226fa69.jpg",
+        "medium": "https://strgimgr.umico.az/sized/840/206942-f3ca9c4a163a57dfb9d9d13fa226fa69.jpg",
+        "small": "https://strgimgr.umico.az/sized/280/206942-f3ca9c4a163a57dfb9d9d13fa226fa69.jpg"
+      }
+    ],
+    "videos": [],
+    "min_qty": 1,
+    "preorder_available": false,
+    "is_assortment": false,
+    "is_bulk_heavy": false,
+    "is_refurbished": false,
+    "is_refundable": true,
+    "is_dangerous": false,
+    "show_tech_description": false,
+    "use_external_content": true,
+    "product_labels": [],
+    "ratings": {
+      "rating_value": 4.1,
+      "assessment_id": 0,
+      "session_count": 60,
+      "score_count": 24,
+      "review_count": 36
+    },
+    "default_show_stock_qty_threshold": 0,
+    "card_type": "public"
+  },
+  "category": {
+    "id": 6,
+    "name": "Qulaqlıqlar və qarniturlar",
+    "slugged_name_az": "qulaqliqlar-ve-qarniturlar",
+    "slugged_name_ru": "naushniki-i-garnitury",
+    "view_mode": "products",
+    "mobile_visual_mode": "text",
+    "is_variant": true,
+    "depth": 2,
+    "parent_id": 2,
+    "child_ids": [],
+    "node_type": "NODE",
+    "install_service_needed": false,
+    "fitting_allowed": false,
+    "vat": true,
+    "variations": [
+      {
+        "master_field_id": 625,
+        "name": "Rəng",
+        "variation_tool_type": "image",
+        "has_size_chart": false,
+        "display_variant": false
+      }
+    ],
+    "custom_fields": [
+      {
+        "master_field_id": 1476,
+        "category_master_field_id": 10651,
+        "name": "Seriya"
+      },
+      {
+        "master_field_id": 628,
+        "category_master_field_id": 1455,
+        "name": "Qulaqlıq növü"
+      },
+      {
+        "master_field_id": 629,
+        "category_master_field_id": 1456,
+        "name": "Qoşulma tipi"
+      },
+      {
+        "master_field_id": 633,
+        "category_master_field_id": 1460,
+        "name": "Port tipi"
+      },
+      {
+        "master_field_id": 777,
+        "category_master_field_id": 45543,
+        "name": "Bluetooth standartı"
+      },
+      {
+        "master_field_id": 6487,
+        "category_master_field_id": 45544,
+        "name": "Aktiv səs-küyün boğulması (ANC)"
+      },
+      {
+        "master_field_id": 759,
+        "category_master_field_id": 4638,
+        "name": "Mikrofon"
+      },
+      {
+        "master_field_id": 1574,
+        "category_master_field_id": 4669,
+        "name": "İşləmə müddəti, saat"
+      },
+      {
+        "master_field_id": 2186,
+        "category_master_field_id": 45545,
+        "name": "Nəmə davamlı"
+      },
+      {
+        "master_field_id": 625,
+        "category_master_field_id": 4637,
+        "name": "Rəng"
+      },
+      {
+        "master_field_id": 2211,
+        "category_master_field_id": 10656,
+        "name": "Zəmanət müddəti"
+      },
+      {
+        "master_field_id": 1568,
+        "category_master_field_id": 4663,
+        "name": "Səs-küyün boğulması"
+      },
+      {
+        "master_field_id": 678,
+        "category_master_field_id": 10650,
+        "name": "Qoşulma interfeysi"
+      },
+      {
+        "master_field_id": 657,
+        "category_master_field_id": 4640,
+        "name": "Quruluş"
+      },
+      {
+        "master_field_id": 630,
+        "category_master_field_id": 1457,
+        "name": "Həssaslıq, dB"
+      },
+      {
+        "master_field_id": 631,
+        "category_master_field_id": 1458,
+        "name": "Minimal təkrarlanan tezlik, Hz"
+      },
+      {
+        "master_field_id": 632,
+        "category_master_field_id": 1459,
+        "name": "Maksimal təkrarlanan tezlik, Hz"
+      },
+      {
+        "master_field_id": 1838,
+        "category_master_field_id": 5557,
+        "name": "Port forması"
+      },
+      {
+        "master_field_id": 782,
+        "category_master_field_id": 4636,
+        "name": "Kabelin uzunluğu, m"
+      },
+      {
+        "master_field_id": 3287,
+        "category_master_field_id": 15468,
+        "name": "Qulaqlıqların bərkitməsi"
+      },
+      {
+        "master_field_id": 1840,
+        "category_master_field_id": 5559,
+        "name": "Akustik formalaşdırma"
+      },
+      {
+        "master_field_id": 1140,
+        "category_master_field_id": 15469,
+        "name": "Təsir radiusu, m"
+      },
+      {
+        "master_field_id": 1841,
+        "category_master_field_id": 5560,
+        "name": "Maksimal çıxış gücü, Vt"
+      },
+      {
+        "master_field_id": 1842,
+        "category_master_field_id": 5561,
+        "name": "Diapazonun yuxarı həddi, Hz"
+      },
+      {
+        "master_field_id": 1843,
+        "category_master_field_id": 5562,
+        "name": "Diapazonun aşağı həddi, Hz"
+      },
+      {
+        "master_field_id": 1844,
+        "category_master_field_id": 5563,
+        "name": "Siqnal/səs-küy nisbəti, dB"
+      },
+      {
+        "master_field_id": 797,
+        "category_master_field_id": 5570,
+        "name": "Empendans, Om"
+      },
+      {
+        "master_field_id": 1567,
+        "category_master_field_id": 4662,
+        "name": "Səs izolyasiyası"
+      },
+      {
+        "master_field_id": 1845,
+        "category_master_field_id": 5564,
+        "name": "Səs səviyyəsinin tənzimləyicisi"
+      },
+      {
+        "master_field_id": 1570,
+        "category_master_field_id": 4665,
+        "name": "Ətraf səs"
+      },
+      {
+        "master_field_id": 1573,
+        "category_master_field_id": 4668,
+        "name": "Dinamiklərin ümumi sayı"
+      },
+      {
+        "master_field_id": 1846,
+        "category_master_field_id": 5565,
+        "name": "Mikrofon növü"
+      },
+      {
+        "master_field_id": 1847,
+        "category_master_field_id": 5566,
+        "name": "Mikrofonun diapazonunun yuxarı həddi, Hz"
+      },
+      {
+        "master_field_id": 1848,
+        "category_master_field_id": 5567,
+        "name": "Mikrofonun diapazonunun aşağı həddi, Hz"
+      },
+      {
+        "master_field_id": 1849,
+        "category_master_field_id": 5568,
+        "name": "Mikrofonun siqnal/səs-küy nisbəti"
+      },
+      {
+        "master_field_id": 1850,
+        "category_master_field_id": 5569,
+        "name": "Mikrofonun bərkitməsi"
+      },
+      {
+        "master_field_id": 1740,
+        "category_master_field_id": 5571,
+        "name": "Digər funksiyalar və xüsusiyyətlər"
+      },
+      {
+        "master_field_id": 870,
+        "category_master_field_id": 4634,
+        "name": "Çəki, q"
+      },
+      {
+        "master_field_id": 2552,
+        "category_master_field_id": 10654,
+        "name": "Korpusun qorunması"
+      },
+      {
+        "master_field_id": 697,
+        "category_master_field_id": 10655,
+        "name": "Komplektasiya"
+      },
+      {
+        "master_field_id": 2210,
+        "category_master_field_id": 10649,
+        "name": "Brendin ölkəsi"
+      },
+      {
+        "master_field_id": 618,
+        "category_master_field_id": 4635,
+        "name": "İstehsalçı ölkə"
+      }
+    ],
+    "parent": {
+      "id": 2,
+      "node_type": "NODE",
+      "name": "Telefonlar, Smart cihazlar və telefon aksessuarları",
+      "slugged_name": "telefonlar-ve-aksessuarlar",
+      "parent": {
+        "id": 1,
+        "node_type": "NODE",
+        "name": "Elektronika və məişət texnikası",
+        "slugged_name": "elektronika-ve-meishet-texnikasi",
+        "parent": null
+      }
+    },
+    "is_refundable": true,
+    "is_adult": false,
+    "icons": {
+      "thumbnail": "https://strgimgr.umico.az/img/category/188/7a8b0d8a-c1a8-46f5-a7cd-c7483dbc6bee.jpeg",
+      "original": "https://strgimgr.umico.az/img/category/original/7a8b0d8a-c1a8-46f5-a7cd-c7483dbc6bee.jpeg"
+    },
+    "is_active": true
+  },
+  "offers": [
+    {
+      "uuid": "f1e8d301-3308-4970-b9c2-9d3e987a2a27",
+      "installment_enabled": true,
+      "max_installment_months": 12,
+      "product_offer_labels": [],
+      "old_price": 15,
+      "retail_price": 8.4,
+      "supplier_id": "1f7b4a25-7c8f-4e67-9a2f-bd40bf9e7a37",
+      "seller": {
+        "ext_id": "f86227b7-8952-4c59-84ce-b070e6a4978a",
+        "internal_id": 4052,
+        "marketing_name": {
+          "id": 4052,
+          "name": "Brend Aksesuar"
+        },
+        "logo": {
+          "thumbnail": "https://storage.umico.az/cpcustomerprod01/4708876baebaaad9c3effe88ff54738e.jpg"
+        },
+        "vat_payer": false,
+        "rating": 98,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "allow_qty": 0
+    },
+    {
+      "uuid": "cee56e62-bf1b-4315-89be-e988b55aab5d",
+      "installment_enabled": true,
+      "max_installment_months": 18,
+      "product_offer_labels": [],
+      "old_price": 50,
+      "retail_price": 37.1,
+      "supplier_id": "3060c2e2-2489-4567-9bb1-c22a866de50b",
+      "seller": {
+        "ext_id": "852846d0-cbf0-4673-86b3-06820cf115aa",
+        "internal_id": 5999,
+        "marketing_name": {
+          "id": 5999,
+          "name": "Ultra"
+        },
+        "logo": {
+          "thumbnail": "https://storage.umico.az/cpcustomerprod01/03f5ecf9c36ce3870177883a0c8ce9fa.jpg"
+        },
+        "vat_payer": false,
+        "rating": 96,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "allow_qty": 0
+    },
+    {
+      "uuid": "5a628f92-0a32-4fbc-862d-47b5ac79baef",
+      "installment_enabled": true,
+      "max_installment_months": 18,
+      "product_offer_labels": [],
+      "old_price": 20,
+      "retail_price": 12,
+      "supplier_id": "ea7c9bde-68ac-41a9-8b78-9b7d6805dbf5",
+      "seller": {
+        "ext_id": "30509c83-c5f7-4658-ae27-dc2bd2ed037f",
+        "internal_id": 14042,
+        "marketing_name": {
+          "id": 14042,
+          "name": "Emma Store"
+        },
+        "logo": {
+          "thumbnail": "https://storage.umico.az/cpcustomerprod01/ae7a61d5a077b154e5650ab4621424c6.jpg"
+        },
+        "vat_payer": false,
+        "rating": 100,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "allow_qty": 0
+    },
+    {
+      "uuid": "05fdff36-6239-4478-bcb8-fec1e29ceb21",
+      "installment_enabled": true,
+      "max_installment_months": 12,
+      "product_offer_labels": [],
+      "old_price": 18,
+      "retail_price": 10,
+      "supplier_id": "b80d0f24-8052-4485-a4b6-f1e1316038b0",
+      "seller": {
+        "ext_id": "4f934b2d-4cc4-4939-9391-548782291d9d",
+        "internal_id": 14238,
+        "marketing_name": {
+          "id": 14238,
+          "name": "Brend Gallery"
+        },
+        "logo": {
+          "thumbnail": ""
+        },
+        "vat_payer": false,
+        "rating": 100,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "allow_qty": 0
+    },
+    {
+      "uuid": "13c708ce-95bc-4353-ba4c-01a597c3d678",
+      "installment_enabled": true,
+      "max_installment_months": 18,
+      "product_offer_labels": [],
+      "old_price": 12,
+      "retail_price": 9,
+      "supplier_id": "57bd14a2-9102-4e82-89cf-3fe21fdb5fd5",
+      "seller": {
+        "ext_id": "3e4ab6cd-90b6-4431-9fc9-aa83d245fb52",
+        "internal_id": 15739,
+        "marketing_name": {
+          "id": 15739,
+          "name": "Cr.Mobile"
+        },
+        "logo": {
+          "thumbnail": ""
+        },
+        "vat_payer": false,
+        "rating": 100,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "allow_qty": 0
+    },
+    {
+      "uuid": "42c81717-f2c1-4a1e-8c95-2ce3bebee532",
+      "installment_enabled": true,
+      "max_installment_months": 18,
+      "product_offer_labels": [],
+      "old_price": 47.95,
+      "retail_price": 8.41,
+      "supplier_id": "47b35ed1-7df1-4f72-856e-b3ea8085fca9",
+      "seller": {
+        "ext_id": "454912d0-6477-44e0-986f-aa78030f6fdf",
+        "internal_id": 13818,
+        "marketing_name": {
+          "id": 13818,
+          "name": "Meta Store"
+        },
+        "logo": {
+          "thumbnail": ""
+        },
+        "vat_payer": false,
+        "rating": 91,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "allow_qty": 0
+    }
+  ],
+  "variations": [
+    {
+      "id": 206942,
+      "name": "Simsiz qulaqlıq Musician P9 White",
+      "slugged_name": "simsiz-qulaqliq-musician-p9",
+      "custom_fields": [
+        {
+          "master_field_id": 625,
+          "values": [
+            "Ağ"
+          ]
+        }
+      ],
+      "main_img": {
+        "big": "https://strgimgr.umico.az/sized/1680/206942-f3ca9c4a163a57dfb9d9d13fa226fa69.jpg",
+        "medium": "https://strgimgr.umico.az/sized/840/206942-f3ca9c4a163a57dfb9d9d13fa226fa69.jpg",
+        "small": "https://strgimgr.umico.az/sized/280/206942-f3ca9c4a163a57dfb9d9d13fa226fa69.jpg"
+      },
+      "status": "active"
+    }
+  ],
+  "size_chart": {},
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "sku": 206942,
+    "mpn": "P9 5.0+White",
+    "url": "https://birmarket.az/product/206942-simsiz-qulaqliq-musician-p9",
+    "name": "Simsiz qulaqlıq Musician P9 White",
+    "image": [
+      "https://strgimgr.umico.az/sized/1680/206942-f3ca9c4a163a57dfb9d9d13fa226fa69.jpg"
+    ],
+    "description": "Musician P9 White naqilsiz qulaqcıqları musiqini rahat şəkildə dinləmək üçün nəzərdə tutulub. Onlar uzun müddətli istifadə zamanı rahatlıq təmin edən yüngül (203 q) başlıq quruluşuna malikdir. Bluetooth interfeysi qulaqcıqları audio siqnal mənbəyinə 10 metr məsafədə qoşmağa imkan verir, hərəkət sərbəstliyini təmin edir. Dinamik həssaslığı 102 dB səsin aydın ifasını təmin edir. Qulaqcıqların batareyası bir dəfə şarjdan 10 saata qədər işləməyi təmin edir. Zərif ağ rəng qulaqcıqları zərif bir aksesuar edir. Dəstə qulaqcıqlar, zəmanət vərəqi və təlimat daxildir. Həm markası, həm də istehsalı Çindədir. Onlar keyfiyyətli səs və rahat istifadə axtaranlar üçün uyğun olacaq.",
+    "itemCondition": "https://schema.org/NewCondition",
+    "offers": {
+      "@type": "AggregateOffer",
+      "availability": "https://schema.org/InStock",
+      "offerCount": 6,
+      "highPrice": 37.1,
+      "lowPrice": 8.4,
+      "priceCurrency": "AZN",
+      "hasMerchantReturnPolicy": {
+        "applicableCountry": "AZ",
+        "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+        "returnMethod": "https://schema.org/ReturnInStore",
+        "returnFees": "https://schema.org/FreeReturn",
+        "merchantReturnDays": 14
+      },
+      "shippingDetails": {
+        "@type": "OfferShippingDetails",
+        "shippingDestination": {
+          "@type": "DefinedRegion",
+          "addressCountry": "AZ"
+        },
+        "deliveryTime": {
+          "@type": "ShippingDeliveryTime",
+          "handlingTime": {
+            "@type": "QuantitativeValue",
+            "minValue": 0,
+            "maxValue": 1,
+            "unitCode": "DAY"
+          },
+          "transitTime": {
+            "@type": "QuantitativeValue",
+            "minValue": 0,
+            "maxValue": 1,
+            "unitCode": "DAY"
+          },
+          "businessDays": {
+            "@type": "OpeningHoursSpecification",
+            "dayOfWeek": [
+              "https://schema.org/Monday",
+              "https://schema.org/Tuesday",
+              "https://schema.org/Wednesday",
+              "https://schema.org/Thursday",
+              "https://schema.org/Friday",
+              "https://schema.org/Saturday",
+              "https://schema.org/Sunday"
+            ]
+          }
+        },
+        "shippingRate": {
+          "@type": "MonetaryAmount",
+          "value": 0,
+          "currency": "AZN"
+        }
+      }
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": 4,
+      "reviewCount": 36
+    },
+    "brand": {
+      "@type": "Brand",
+      "name": "Musician",
+      "url": "https://birmarket.az/brands/Musician"
+    }
+  }
+}

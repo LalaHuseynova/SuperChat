@@ -1,0 +1,22 @@
+{
+  "passed": true,
+  "validated_at": "2026-11-02T21:50:17.099756+04:00",
+  "checks": 24751,
+  "counts": {
+    "products": {
+      "products": 160
+    },
+    "flights": {
+      "one_way": 19,
+      "round_trip": 20,
+      "all_offers": 39
+    },
+    "cinema": {
+      "movies": 28,
+      "cinemas": 11,
+      "showtimes": 531
+    }
+  },
+  "errors": [],
+  "scope": "Current/archive parity, IDs, CSV counts/IDs, all archived local references, cinema field checks and folder layout. No live availability checks."
+}

@@ -1,0 +1,623 @@
+{
+  "product": {
+    "id": 1451760,
+    "gtin": "",
+    "mpn": "8044_58681091",
+    "name": "Simsiz qulaqlıqlar Pro 2 - ağ",
+    "slugged_name_az": "airpord-pro-2-fib",
+    "slugged_name_ru": "airpord-pro-2-fib",
+    "description": "<p>Simli olmayan qulaqcıqlar Airpods Pro 2 - rahat və keyfiyyətli səs sevənlər üçün əla seçimdir. Modeldə səs-küy azaltma funksiyası yoxdur, lakin Bluetooth vasitəsilə fasiləsiz qoşulma təklif edir. Ağ rəng onları dəbli bir aksesuar edir. Mikrofon tədarük dəstinə daxil edilmir. Bu qulaqcıqlarla azadlıq və keyfiyyətli səsdən zövq alın.</p>",
+    "description_outlet": "",
+    "status": "active",
+    "uuid": "b5edf213-efbd-4477-b6ff-08e44e9b8b91",
+    "variant_code": "VC_1451760",
+    "default_offer": {
+      "uuid": "6c9f7b30-8288-41c0-8a67-37618f2a3773",
+      "installment_enabled": true,
+      "max_installment_months": 12,
+      "product_offer_labels": [],
+      "old_price": 35,
+      "retail_price": 12.98,
+      "supplier_id": "1f7b4a25-7c8f-4e67-9a2f-bd40bf9e7a37",
+      "qty": 0,
+      "seller": {
+        "ext_id": "1f7b4a25-7c8f-4e67-9a2f-bd40bf9e7a37",
+        "marketing_name": {
+          "id": 4052,
+          "name": "Brend Aksesuar"
+        },
+        "logo": {
+          "thumbnail": "https://storage.umico.az/cpcustomerprod01/4708876baebaaad9c3effe88ff54738e.jpg"
+        },
+        "vat_payer": false,
+        "rating": 98,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "discount_effective_start_date": "",
+      "discount_effective_end_date": ""
+    },
+    "category_id": 6,
+    "category": {
+      "id": 6,
+      "name": "Qulaqlıqlar və qarniturlar"
+    },
+    "brand": {
+      "name": "No Brand"
+    },
+    "custom_fields": [
+      {
+        "master_field_id": 628,
+        "values": [
+          "İçlik (qapaq)"
+        ]
+      },
+      {
+        "master_field_id": 629,
+        "values": [
+          "Simsiz"
+        ]
+      },
+      {
+        "master_field_id": 1568,
+        "values": [
+          "Xeyr"
+        ]
+      },
+      {
+        "master_field_id": 678,
+        "values": [
+          "Bluetooth"
+        ]
+      },
+      {
+        "master_field_id": 625,
+        "values": [
+          "Ağ"
+        ]
+      }
+    ],
+    "main_img": {
+      "big": "https://strgimgr.umico.az/img/product/1680/ba385703-9c94-4dd9-bb03-0ed09aa227da.jpeg",
+      "medium": "https://strgimgr.umico.az/img/product/840/ba385703-9c94-4dd9-bb03-0ed09aa227da.jpeg",
+      "small": "https://strgimgr.umico.az/img/product/280/ba385703-9c94-4dd9-bb03-0ed09aa227da.jpeg"
+    },
+    "img_url_thumbnail": "https://strgimgr.umico.az/img/product/280/ba385703-9c94-4dd9-bb03-0ed09aa227da.jpeg",
+    "main_video": "",
+    "imgs": [
+      {
+        "big": "https://strgimgr.umico.az/img/product/1680/ba385703-9c94-4dd9-bb03-0ed09aa227da.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/ba385703-9c94-4dd9-bb03-0ed09aa227da.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/ba385703-9c94-4dd9-bb03-0ed09aa227da.jpeg"
+      }
+    ],
+    "videos": [],
+    "min_qty": 1,
+    "preorder_available": false,
+    "is_assortment": false,
+    "is_bulk_heavy": false,
+    "is_refurbished": false,
+    "is_refundable": true,
+    "is_dangerous": false,
+    "show_tech_description": false,
+    "use_external_content": true,
+    "product_labels": [],
+    "ratings": {
+      "rating_value": 3.7,
+      "assessment_id": 0,
+      "session_count": 10,
+      "score_count": 6,
+      "review_count": 4
+    },
+    "default_show_stock_qty_threshold": 0,
+    "card_type": "public"
+  },
+  "category": {
+    "id": 6,
+    "name": "Qulaqlıqlar və qarniturlar",
+    "slugged_name_az": "qulaqliqlar-ve-qarniturlar",
+    "slugged_name_ru": "naushniki-i-garnitury",
+    "view_mode": "products",
+    "mobile_visual_mode": "text",
+    "is_variant": true,
+    "depth": 2,
+    "parent_id": 2,
+    "child_ids": [],
+    "node_type": "NODE",
+    "install_service_needed": false,
+    "fitting_allowed": false,
+    "vat": true,
+    "variations": [
+      {
+        "master_field_id": 625,
+        "name": "Rəng",
+        "variation_tool_type": "image",
+        "has_size_chart": false,
+        "display_variant": false
+      }
+    ],
+    "custom_fields": [
+      {
+        "master_field_id": 1476,
+        "category_master_field_id": 10651,
+        "name": "Seriya"
+      },
+      {
+        "master_field_id": 628,
+        "category_master_field_id": 1455,
+        "name": "Qulaqlıq növü"
+      },
+      {
+        "master_field_id": 629,
+        "category_master_field_id": 1456,
+        "name": "Qoşulma tipi"
+      },
+      {
+        "master_field_id": 633,
+        "category_master_field_id": 1460,
+        "name": "Port tipi"
+      },
+      {
+        "master_field_id": 777,
+        "category_master_field_id": 45543,
+        "name": "Bluetooth standartı"
+      },
+      {
+        "master_field_id": 6487,
+        "category_master_field_id": 45544,
+        "name": "Aktiv səs-küyün boğulması (ANC)"
+      },
+      {
+        "master_field_id": 759,
+        "category_master_field_id": 4638,
+        "name": "Mikrofon"
+      },
+      {
+        "master_field_id": 1574,
+        "category_master_field_id": 4669,
+        "name": "İşləmə müddəti, saat"
+      },
+      {
+        "master_field_id": 2186,
+        "category_master_field_id": 45545,
+        "name": "Nəmə davamlı"
+      },
+      {
+        "master_field_id": 625,
+        "category_master_field_id": 4637,
+        "name": "Rəng"
+      },
+      {
+        "master_field_id": 2211,
+        "category_master_field_id": 10656,
+        "name": "Zəmanət müddəti"
+      },
+      {
+        "master_field_id": 1568,
+        "category_master_field_id": 4663,
+        "name": "Səs-küyün boğulması"
+      },
+      {
+        "master_field_id": 678,
+        "category_master_field_id": 10650,
+        "name": "Qoşulma interfeysi"
+      },
+      {
+        "master_field_id": 657,
+        "category_master_field_id": 4640,
+        "name": "Quruluş"
+      },
+      {
+        "master_field_id": 630,
+        "category_master_field_id": 1457,
+        "name": "Həssaslıq, dB"
+      },
+      {
+        "master_field_id": 631,
+        "category_master_field_id": 1458,
+        "name": "Minimal təkrarlanan tezlik, Hz"
+      },
+      {
+        "master_field_id": 632,
+        "category_master_field_id": 1459,
+        "name": "Maksimal təkrarlanan tezlik, Hz"
+      },
+      {
+        "master_field_id": 1838,
+        "category_master_field_id": 5557,
+        "name": "Port forması"
+      },
+      {
+        "master_field_id": 782,
+        "category_master_field_id": 4636,
+        "name": "Kabelin uzunluğu, m"
+      },
+      {
+        "master_field_id": 3287,
+        "category_master_field_id": 15468,
+        "name": "Qulaqlıqların bərkitməsi"
+      },
+      {
+        "master_field_id": 1840,
+        "category_master_field_id": 5559,
+        "name": "Akustik formalaşdırma"
+      },
+      {
+        "master_field_id": 1140,
+        "category_master_field_id": 15469,
+        "name": "Təsir radiusu, m"
+      },
+      {
+        "master_field_id": 1841,
+        "category_master_field_id": 5560,
+        "name": "Maksimal çıxış gücü, Vt"
+      },
+      {
+        "master_field_id": 1842,
+        "category_master_field_id": 5561,
+        "name": "Diapazonun yuxarı həddi, Hz"
+      },
+      {
+        "master_field_id": 1843,
+        "category_master_field_id": 5562,
+        "name": "Diapazonun aşağı həddi, Hz"
+      },
+      {
+        "master_field_id": 1844,
+        "category_master_field_id": 5563,
+        "name": "Siqnal/səs-küy nisbəti, dB"
+      },
+      {
+        "master_field_id": 797,
+        "category_master_field_id": 5570,
+        "name": "Empendans, Om"
+      },
+      {
+        "master_field_id": 1567,
+        "category_master_field_id": 4662,
+        "name": "Səs izolyasiyası"
+      },
+      {
+        "master_field_id": 1845,
+        "category_master_field_id": 5564,
+        "name": "Səs səviyyəsinin tənzimləyicisi"
+      },
+      {
+        "master_field_id": 1570,
+        "category_master_field_id": 4665,
+        "name": "Ətraf səs"
+      },
+      {
+        "master_field_id": 1573,
+        "category_master_field_id": 4668,
+        "name": "Dinamiklərin ümumi sayı"
+      },
+      {
+        "master_field_id": 1846,
+        "category_master_field_id": 5565,
+        "name": "Mikrofon növü"
+      },
+      {
+        "master_field_id": 1847,
+        "category_master_field_id": 5566,
+        "name": "Mikrofonun diapazonunun yuxarı həddi, Hz"
+      },
+      {
+        "master_field_id": 1848,
+        "category_master_field_id": 5567,
+        "name": "Mikrofonun diapazonunun aşağı həddi, Hz"
+      },
+      {
+        "master_field_id": 1849,
+        "category_master_field_id": 5568,
+        "name": "Mikrofonun siqnal/səs-küy nisbəti"
+      },
+      {
+        "master_field_id": 1850,
+        "category_master_field_id": 5569,
+        "name": "Mikrofonun bərkitməsi"
+      },
+      {
+        "master_field_id": 1740,
+        "category_master_field_id": 5571,
+        "name": "Digər funksiyalar və xüsusiyyətlər"
+      },
+      {
+        "master_field_id": 870,
+        "category_master_field_id": 4634,
+        "name": "Çəki, q"
+      },
+      {
+        "master_field_id": 2552,
+        "category_master_field_id": 10654,
+        "name": "Korpusun qorunması"
+      },
+      {
+        "master_field_id": 697,
+        "category_master_field_id": 10655,
+        "name": "Komplektasiya"
+      },
+      {
+        "master_field_id": 2210,
+        "category_master_field_id": 10649,
+        "name": "Brendin ölkəsi"
+      },
+      {
+        "master_field_id": 618,
+        "category_master_field_id": 4635,
+        "name": "İstehsalçı ölkə"
+      }
+    ],
+    "parent": {
+      "id": 2,
+      "node_type": "NODE",
+      "name": "Telefonlar, Smart cihazlar və telefon aksessuarları",
+      "slugged_name": "telefonlar-ve-aksessuarlar",
+      "parent": {
+        "id": 1,
+        "node_type": "NODE",
+        "name": "Elektronika və məişət texnikası",
+        "slugged_name": "elektronika-ve-meishet-texnikasi",
+        "parent": null
+      }
+    },
+    "is_refundable": true,
+    "is_adult": false,
+    "icons": {
+      "thumbnail": "https://strgimgr.umico.az/img/category/188/7a8b0d8a-c1a8-46f5-a7cd-c7483dbc6bee.jpeg",
+      "original": "https://strgimgr.umico.az/img/category/original/7a8b0d8a-c1a8-46f5-a7cd-c7483dbc6bee.jpeg"
+    },
+    "is_active": true
+  },
+  "offers": [
+    {
+      "uuid": "31379164-7f68-4f4c-b021-63705e10076f",
+      "installment_enabled": true,
+      "max_installment_months": 18,
+      "product_offer_labels": [],
+      "old_price": 55.98,
+      "retail_price": 42.9,
+      "supplier_id": "36853efb-d3b4-476e-af85-53ab24a91fed",
+      "seller": {
+        "ext_id": "a66fc8f0-93ed-494a-9b9d-5e56f3278135",
+        "internal_id": 9945,
+        "marketing_name": {
+          "id": 9945,
+          "name": "RS Baku"
+        },
+        "logo": {
+          "thumbnail": "https://storage.umico.az/cpcustomerprod01/7868a54325713cef37e1c32d2ca077c3.jpg"
+        },
+        "vat_payer": false,
+        "rating": 95,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "allow_qty": 0
+    },
+    {
+      "uuid": "6d28726c-782c-4b79-8c94-4dd436a4942c",
+      "installment_enabled": true,
+      "max_installment_months": 3,
+      "product_offer_labels": [],
+      "old_price": 26,
+      "retail_price": 12.99,
+      "supplier_id": "2ca454a0-cd29-482c-a796-1e082b82617d",
+      "seller": {
+        "ext_id": "ff89f652-2119-4316-bbd6-8c3f33d13858",
+        "internal_id": 10310,
+        "marketing_name": {
+          "id": 10310,
+          "name": "FF GROUP"
+        },
+        "logo": {
+          "thumbnail": "https://storage.umico.az/cpcustomerprod01/b11687ce348bebe034ffd748be550512.jpg"
+        },
+        "vat_payer": false,
+        "rating": 99,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "allow_qty": 0
+    },
+    {
+      "uuid": "6c9f7b30-8288-41c0-8a67-37618f2a3773",
+      "installment_enabled": true,
+      "max_installment_months": 12,
+      "product_offer_labels": [],
+      "old_price": 35,
+      "retail_price": 12.98,
+      "supplier_id": "1f7b4a25-7c8f-4e67-9a2f-bd40bf9e7a37",
+      "seller": {
+        "ext_id": "f86227b7-8952-4c59-84ce-b070e6a4978a",
+        "internal_id": 4052,
+        "marketing_name": {
+          "id": 4052,
+          "name": "Brend Aksesuar"
+        },
+        "logo": {
+          "thumbnail": "https://storage.umico.az/cpcustomerprod01/4708876baebaaad9c3effe88ff54738e.jpg"
+        },
+        "vat_payer": false,
+        "rating": 98,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "allow_qty": 0
+    },
+    {
+      "uuid": "c73b45d6-bcd6-491a-9685-de23385ab959",
+      "installment_enabled": true,
+      "max_installment_months": 18,
+      "product_offer_labels": [],
+      "old_price": 55,
+      "retail_price": 42.99,
+      "supplier_id": "4487fb1f-0cbb-4b26-ae18-c0eaf5b47477",
+      "seller": {
+        "ext_id": "85aed90f-733e-48dd-af31-36b3540fbbc5",
+        "internal_id": 12399,
+        "marketing_name": {
+          "id": 12399,
+          "name": "Case de Baku"
+        },
+        "logo": {
+          "thumbnail": "https://storage.umico.az/cpcustomerprod01/a2cfd439c6e242ae69f75e2f9b08ac55.png"
+        },
+        "vat_payer": false,
+        "rating": 96,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "allow_qty": 0
+    },
+    {
+      "uuid": "a9fef29e-b0e4-4ff9-a0c8-f845c08de5b3",
+      "installment_enabled": true,
+      "max_installment_months": 18,
+      "product_offer_labels": [],
+      "old_price": 55,
+      "retail_price": 39.99,
+      "supplier_id": "e283c215-be80-4341-88bc-163f7596f188",
+      "seller": {
+        "ext_id": "5f18a8db-dbd8-4161-b75f-90800cb4e19b",
+        "internal_id": 12349,
+        "marketing_name": {
+          "id": 12349,
+          "name": "La Case de Azerbaijan"
+        },
+        "logo": {
+          "thumbnail": "https://storage.umico.az/cpcustomerprod01/48474bfdab72392675eccd904180fc36.png"
+        },
+        "vat_payer": false,
+        "rating": 94,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "allow_qty": 0
+    },
+    {
+      "uuid": "0e7286f2-1e53-4b99-ac92-4247c6ee6e9e",
+      "installment_enabled": true,
+      "max_installment_months": 18,
+      "product_offer_labels": [],
+      "old_price": 30,
+      "retail_price": 20.99,
+      "supplier_id": "8b188c9e-205d-4235-88ec-546c1e9cc8a7",
+      "seller": {
+        "ext_id": "a8248442-95b1-4686-8a40-4b1cdb30c719",
+        "internal_id": 16515,
+        "marketing_name": {
+          "id": 16515,
+          "name": "KARVEX MMC"
+        },
+        "logo": {
+          "thumbnail": ""
+        },
+        "vat_payer": false,
+        "rating": 100,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "allow_qty": 0
+    }
+  ],
+  "variations": [
+    {
+      "id": 1451760,
+      "name": "Simsiz qulaqlıqlar Pro 2 - ağ",
+      "slugged_name": "airpord-pro-2-fib",
+      "custom_fields": [
+        {
+          "master_field_id": 625,
+          "values": [
+            "Ağ"
+          ]
+        }
+      ],
+      "main_img": {
+        "big": "https://strgimgr.umico.az/img/product/1680/ba385703-9c94-4dd9-bb03-0ed09aa227da.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/ba385703-9c94-4dd9-bb03-0ed09aa227da.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/ba385703-9c94-4dd9-bb03-0ed09aa227da.jpeg"
+      },
+      "status": "active"
+    }
+  ],
+  "size_chart": {},
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "sku": 1451760,
+    "mpn": "8044_58681091",
+    "url": "https://birmarket.az/product/1451760-airpord-pro-2-fib",
+    "name": "Simsiz qulaqlıqlar Pro 2 - ağ",
+    "image": [
+      "https://strgimgr.umico.az/img/product/1680/ba385703-9c94-4dd9-bb03-0ed09aa227da.jpeg"
+    ],
+    "description": "&lt;p&gt;Simli olmayan qulaqcıqlar Airpods Pro 2 - rahat və keyfiyyətli səs sevənlər üçün əla seçimdir. Modeldə səs-küy azaltma funksiyası yoxdur, lakin Bluetooth vasitəsilə fasiləsiz qoşulma təklif edir. Ağ rəng onları dəbli bir aksesuar edir. Mikrofon tədarük dəstinə daxil edilmir. Bu qulaqcıqlarla azadlıq və keyfiyyətli səsdən zövq alın.&lt;/p&gt;",
+    "itemCondition": "https://schema.org/NewCondition",
+    "offers": {
+      "@type": "AggregateOffer",
+      "availability": "https://schema.org/InStock",
+      "offerCount": 6,
+      "highPrice": 42.99,
+      "lowPrice": 12.98,
+      "priceCurrency": "AZN",
+      "hasMerchantReturnPolicy": {
+        "applicableCountry": "AZ",
+        "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+        "returnMethod": "https://schema.org/ReturnInStore",
+        "returnFees": "https://schema.org/FreeReturn",
+        "merchantReturnDays": 14
+      },
+      "shippingDetails": {
+        "@type": "OfferShippingDetails",
+        "shippingDestination": {
+          "@type": "DefinedRegion",
+          "addressCountry": "AZ"
+        },
+        "deliveryTime": {
+          "@type": "ShippingDeliveryTime",
+          "handlingTime": {
+            "@type": "QuantitativeValue",
+            "minValue": 0,
+            "maxValue": 1,
+            "unitCode": "DAY"
+          },
+          "transitTime": {
+            "@type": "QuantitativeValue",
+            "minValue": 0,
+            "maxValue": 1,
+            "unitCode": "DAY"
+          },
+          "businessDays": {
+            "@type": "OpeningHoursSpecification",
+            "dayOfWeek": [
+              "https://schema.org/Monday",
+              "https://schema.org/Tuesday",
+              "https://schema.org/Wednesday",
+              "https://schema.org/Thursday",
+              "https://schema.org/Friday",
+              "https://schema.org/Saturday",
+              "https://schema.org/Sunday"
+            ]
+          }
+        },
+        "shippingRate": {
+          "@type": "MonetaryAmount",
+          "value": 0,
+          "currency": "AZN"
+        }
+      }
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": 4,
+      "reviewCount": 4
+    },
+    "brand": {
+      "@type": "Brand",
+      "name": "No Brand",
+      "url": "https://birmarket.az/brands/No%20Brand"
+    }
+  }
+}

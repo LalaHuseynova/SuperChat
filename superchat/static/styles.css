@@ -1,14 +1,14 @@
 @import url("/static/fonts.css");
 :root {
-  --bg: #fafbf8;
-  --sidebar: #f0f2eb;
-  --text: #233d34;
-  --muted: #7a857d;
-  --border: #e4e8df;
-  --green: #244f3f;
-  --lime: #dce9bc;
+  --bg: #fcfaff;
+  --sidebar: #f3eefb;
+  --text: #342344;
+  --muted: #756580;
+  --border: #e7dff0;
+  --accent: #6d28d9;
+  --accent-soft: #ede3ff;
   --white: #fff;
-  --shadow: 0 4px 30px #233d3409;
+  --shadow: 0 4px 30px #2f233d09;
   font-family:
     Inter,
     -apple-system,
@@ -56,7 +56,7 @@ a:focus-visible,
 select:focus-visible,
 input:focus-visible,
 textarea:focus-visible {
-  outline: 3px solid #82a88e;
+  outline: 3px solid #9382a8;
   outline-offset: 3px;
 }
 button {
@@ -102,22 +102,22 @@ button:hover {
   gap: 10px;
   align-items: center;
   padding: 0 8px 30px;
-  font-size: 26px;
+  font-size: 22px;
   font-weight: 700;
   letter-spacing: -1px;
 }
 .brand-period {
-  color: #8aa45f;
+  color: #7e5fa4;
 }
 .brand-mark {
   width: 35px;
   height: 35px;
   position: relative;
   border-radius: 11px;
-  background: var(--green);
+  background: var(--accent);
   font-family: Georgia, serif;
   font-style: italic;
-  color: #f0f4df;
+  color: #e8dff4;
   font-size: 36px;
   line-height: 28px;
   text-align: center;
@@ -128,7 +128,7 @@ button:hover {
   font-size: 16px;
   right: -4px;
   top: -5px;
-  color: #91ac65;
+  color: #8565ac;
 }
 .workspace {
   display: flex;
@@ -139,8 +139,8 @@ button:hover {
 .workspace-icon {
   display: grid;
   place-items: center;
-  background: #e0e6d8;
-  border: 1px solid #d6dfcd;
+  background: #ded8e6;
+  border: 1px solid #d5cddf;
   width: 32px;
   height: 32px;
   border-radius: 9px;
@@ -161,11 +161,11 @@ button:hover {
   width: 6px;
   height: 6px;
   border-radius: 50%;
-  background: #92a275;
+  background: #8975a2;
   margin-left: auto;
 }
 .new-chat {
-  background: var(--green);
+  background: var(--accent);
   color: white;
   padding: 13px 12px;
   border-radius: 9px;
@@ -173,7 +173,7 @@ button:hover {
   align-items: center;
   gap: 8px;
   font-size: 12px;
-  box-shadow: 0 3px 4px #224c3f0a;
+  box-shadow: 0 3px 4px #35224c0a;
   white-space: nowrap;
 }
 .new-chat .icon {
@@ -190,7 +190,7 @@ button:hover {
   align-items: center;
   gap: 8px;
   margin: 19px 8px 28px;
-  color: #8b958b;
+  color: #908b95;
 }
 .search-box .icon {
   width: 16px;
@@ -205,12 +205,12 @@ button:hover {
   color: var(--text);
 }
 .search-box input::placeholder {
-  color: #8b958b;
+  color: #908b95;
 }
 .sidebar-section {
   font-size: 9px;
   letter-spacing: 1.4px;
-  color: #8b958b;
+  color: #908b95;
   margin: 0 10px 10px;
   display: flex;
   justify-content: space-between;
@@ -229,8 +229,31 @@ button:hover {
   align-items: center;
   text-align: left;
   margin: 2px 0;
-  color: #69746c;
+  color: #6e6974;
   font-size: 12px;
+}
+.session-row {
+  display: flex;
+  align-items: center;
+  gap: 2px;
+}
+.session-row .session-item {
+  flex: 1;
+  min-width: 0;
+}
+.session-delete {
+  flex: 0 0 34px;
+  min-height: 36px;
+  border-radius: 7px;
+  color: #6e6974;
+}
+.session-delete:hover, .session-delete:focus-visible {
+  color: #9c3434;
+  background: #f5e6e3;
+}
+.session-delete .icon {
+  width: 16px;
+  height: 16px;
 }
 .session-item .icon {
   width: 15px;
@@ -243,24 +266,24 @@ button:hover {
   white-space: nowrap;
 }
 .session-item.active {
-  background: #e3e9db;
-  color: #35503c;
+  background: #e1dbe9;
+  color: #413550;
   font-weight: 500;
 }
 .session-item:hover {
-  background: #e6eadf;
+  background: #e4dfea;
 }
 .empty-sessions {
   font-size: 11px;
   line-height: 1.7;
-  color: #8b958b;
+  color: #908b95;
   margin: 10px;
 }
 .sidebar-bottom {
   margin-top: 15px;
 }
 .memory-note {
-  border: 1px solid #dce3d4;
+  border: 1px solid #dbd4e3;
   border-radius: 10px;
   padding: 14px 12px;
   display: flex;
@@ -268,7 +291,7 @@ button:hover {
 }
 .memory-note > .icon {
   width: 17px;
-  color: #7a9067;
+  color: #796790;
 }
 .memory-note strong {
   font-size: 11px;
@@ -276,7 +299,7 @@ button:hover {
 }
 .memory-note p {
   font-size: 10px;
-  color: #8c9585;
+  color: #8c8595;
   line-height: 1.7;
   margin: 5px 0 0;
 }
@@ -291,12 +314,12 @@ button:hover {
 .profile > .icon {
   width: 16px;
   margin-left: auto;
-  color: #8f998b;
+  color: #918b99;
 }
 .avatar {
   display: grid;
   place-items: center;
-  background: #e0e6d7;
+  background: #ded7e6;
   width: 29px;
   height: 29px;
   border-radius: 50%;
@@ -329,16 +352,16 @@ button:hover {
   font-weight: 500;
 }
 .breadcrumb {
-  color: #8c948b;
+  color: #8f8b94;
 }
 .breadcrumb-slash {
-  color: #ced4c9;
+  color: #cec9d4;
 }
 .phase-label {
   font-size: 8px;
   letter-spacing: 1px;
-  background: #eef0e8;
-  color: #8c987b;
+  background: #ece8f0;
+  color: #887b98;
   padding: 4px 6px;
   border-radius: 4px;
   margin-left: -4px;
@@ -350,11 +373,11 @@ button:hover {
   width: 5px;
   height: 5px;
   border-radius: 50%;
-  background: #8caa71;
+  background: #8b71aa;
 }
 .saved-label {
   font-size: 10px;
-  color: #8b9688;
+  color: #8e8896;
   margin-right: 12px;
 }
 .language-select {
@@ -366,11 +389,11 @@ button:hover {
 }
 .language-select .icon {
   width: 14px;
-  color: #7b887a;
+  color: #807a88;
 }
 .language-select select {
   border: 0;
-  color: #617260;
+  color: #686072;
   background: transparent;
   font-size: 10px;
   padding: 3px;
@@ -384,7 +407,7 @@ button:hover {
   border-radius: 7px;
 }
 .icon-button:hover {
-  background: #e8eddf;
+  background: #e5dfed;
 }
 .topbar-actions > .icon-button {
   display: none;
@@ -417,10 +440,10 @@ button:hover {
   gap: 8px;
   font-size: 8px;
   letter-spacing: 1.5px;
-  color: #89977c;
+  color: #887c97;
 }
 .little-star {
-  color: #6d8a54;
+  color: #6c548a;
   font-size: 18px;
 }
 .welcome h1 {
@@ -430,11 +453,11 @@ button:hover {
   font-size: 57px;
   line-height: 1.12;
   margin: 22px 0 20px;
-  color: #274637;
+  color: #352746;
 }
 .welcome-subtitle {
   font-size: 12px;
-  color: #87917f;
+  color: #877f91;
   line-height: 1.85;
   margin: 0 0 33px;
 }
@@ -460,7 +483,7 @@ button:hover {
 }
 .suggestion:hover {
   transform: translateY(-3px);
-  border-color: #a7ba8f;
+  border-color: #a28fba;
 }
 .suggestion-icon {
   width: 33px;
@@ -474,8 +497,8 @@ button:hover {
   width: 17px;
 }
 .flights {
-  background: #ecf1e1;
-  color: #7b9564;
+  background: #e8e1f1;
+  color: #7a6495;
 }
 .shopping {
   background: #f5ecdf;
@@ -493,14 +516,14 @@ button:hover {
 }
 .suggestion-copy {
   font-size: 10px;
-  color: #8a9284;
+  color: #8a8492;
   line-height: 1.75;
 }
 .suggestion-arrow {
   position: absolute;
   right: 12px;
   bottom: 12px;
-  color: #9ba48f;
+  color: #988fa4;
   font-size: 17px;
 }
 .welcome-foot {
@@ -510,7 +533,7 @@ button:hover {
   margin-top: 27px;
   gap: 8px;
   font-size: 10px;
-  color: #97a08e;
+  color: #968ea0;
 }
 .stacked-dots {
   display: flex;
@@ -521,7 +544,7 @@ button:hover {
   width: 10px;
   border: 1px solid var(--bg);
   border-radius: 50%;
-  background: #c6d5ae;
+  background: #c0aed5;
   margin-left: -3px;
 }
 .stacked-dots i:nth-child(2) {
@@ -538,15 +561,15 @@ button:hover {
   background: var(--bg);
 }
 .composer {
-  border: 1px solid #dce3d2;
+  border: 1px solid #dad2e3;
   border-radius: 15px;
   background: white;
-  box-shadow: 0 5px 22px #2c462f04;
+  box-shadow: 0 5px 22px #382c4604;
   padding: 17px 17px 12px;
 }
 .composer:focus-within {
-  border-color: #a0b58a;
-  box-shadow: 0 0 0 3px #a0b58a0e;
+  border-color: #9d8ab5;
+  box-shadow: 0 0 0 3px #9d8ab50e;
 }
 .composer textarea {
   display: block;
@@ -563,7 +586,7 @@ button:hover {
   padding: 0;
 }
 .composer textarea::placeholder {
-  color: #9aa28f;
+  color: #988fa2;
 }
 .composer-bottom {
   display: flex;
@@ -581,7 +604,7 @@ button:hover {
   place-items: center;
   padding: 3px;
   border-radius: 5px;
-  color: #8e9a83;
+  color: #8d839a;
   width: 26px;
   height: 26px;
 }
@@ -590,21 +613,21 @@ button:hover {
   height: 17px;
 }
 .tool-button:hover {
-  background: #eff3e8;
+  background: #ede8f3;
 }
 .tool-divider {
   height: 12px;
   width: 1px;
-  background: #e9ede3;
+  background: #e8e3ed;
 }
 .voice-status {
   font-size: 9px;
-  color: #9da58f;
+  color: #998fa5;
   margin-left: 5px;
 }
 .send-button {
-  background: var(--green);
-  color: #edf4df;
+  background: var(--accent);
+  color: #e8dff4;
   border-radius: 9px;
   width: 33px;
   height: 33px;
@@ -621,7 +644,7 @@ button:hover {
   align-items: center;
   gap: 5px;
   font-size: 8px;
-  color: #a3ab98;
+  color: #a198ab;
   margin: 12px 1px 0;
 }
 .composer-caption .icon {
@@ -650,12 +673,12 @@ button:hover {
 }
 .context-heading .icon {
   width: 15px;
-  color: #9aa88b;
+  color: #988ba8;
 }
 .context-intro {
   font-size: 10px;
   line-height: 1.8;
-  color: #98a08f;
+  color: #978fa0;
   margin-top: 10px;
   margin-bottom: 25px;
 }
@@ -674,13 +697,13 @@ button:hover {
 .context-section h2 > .icon {
   width: 15px;
   height: 15px;
-  color: #8d9b7f;
+  color: #8c7f9b;
 }
 .count {
   margin-left: auto;
   font-size: 9px;
-  color: #8a977d;
-  background: #eef1e7;
+  color: #897d97;
+  background: #ece7f1;
   min-width: 18px;
   height: 18px;
   display: grid;
@@ -692,13 +715,13 @@ button:hover {
   align-items: center;
   justify-content: center;
   flex-direction: column;
-  border: 1px dashed #e0e6d6;
-  background: #f5f7f0;
+  border: 1px dashed #ddd6e6;
+  background: #f3f0f7;
   border-radius: 9px;
   padding: 24px 10px;
   text-align: center;
   gap: 8px;
-  color: #9ca890;
+  color: #9b90a8;
 }
 .context-empty > .icon {
   width: 23px;
@@ -712,12 +735,12 @@ button:hover {
 }
 .context-empty small {
   font-size: 9px;
-  color: #b0b9a4;
+  color: #ada4b9;
 }
 .memory-section p {
   font-size: 10px;
   line-height: 1.8;
-  color: #99a58f;
+  color: #998fa5;
 }
 .memory-domain {
   display: flex;
@@ -728,17 +751,17 @@ button:hover {
 }
 .memory-domain .icon {
   width: 15px;
-  color: #839570;
+  color: #817095;
 }
 .memory-domain button {
   text-align: left;
-  color: #6f8362;
+  color: #716283;
   font-size: 10px;
   padding: 0;
 }
 .memory-domain small {
   font-size: 9px;
-  color: #99a48e;
+  color: #988ea4;
   margin-left: auto;
 }
 .context-bottom {
@@ -754,11 +777,11 @@ button:hover {
 }
 .demo-clock > .icon {
   width: 17px;
-  color: #97a688;
+  color: #9588a6;
 }
 .demo-clock span {
   font-size: 9px;
-  color: #9ba68e;
+  color: #998ea6;
 }
 .demo-clock strong {
   display: block;
@@ -768,7 +791,7 @@ button:hover {
 }
 .context-bottom > p {
   font-size: 9px;
-  color: #a3ad96;
+  color: #a096ad;
   line-height: 1.6;
   margin: 10px 0 20px;
 }
@@ -778,7 +801,7 @@ button:hover {
   align-items: center;
   gap: 7px;
   font-size: 9px;
-  color: #879779;
+  color: #867997;
   margin: 5px 0;
   text-align: left;
 }
@@ -801,8 +824,8 @@ button:hover {
 }
 .user-bubble {
   max-width: 83%;
-  background: #eaf0e1;
-  border: 1px solid #e1e8d9;
+  background: #e8e1f0;
+  border: 1px solid #e0d9e8;
   border-radius: 15px 15px 3px 15px;
   padding: 13px 17px;
   font-size: 13px;
@@ -828,7 +851,7 @@ button:hover {
 }
 .assistant-head small {
   font-size: 9px;
-  color: #a1ab97;
+  color: #a097ab;
   font-weight: 400;
   margin-left: auto;
 }
@@ -872,12 +895,12 @@ button:hover {
   gap: 12px;
 }
 .result-card {
-  border: 1px solid #e0e7d8;
+  border: 1px solid #dfd8e7;
   background: white;
   border-radius: 11px;
   padding: 16px;
   min-width: 0;
-  box-shadow: 0 3px 10px #203b2003;
+  box-shadow: 0 3px 10px #2c203b03;
 }
 .result-card-top {
   display: flex;
@@ -898,13 +921,13 @@ button:hover {
 }
 .result-id {
   font-size: 9px;
-  color: #9ba78d;
+  color: #998da7;
   font-family: ui-monospace, monospace;
 }
 .result-availability {
   margin-left: auto;
   font-size: 8px;
-  color: #8a9e71;
+  color: #85719e;
 }
 .result-availability.sold-out {
   color: #b07d6b;
@@ -918,7 +941,7 @@ button:hover {
 }
 .result-subtitle {
   font-size: 9px;
-  color: #9aa38e;
+  color: #978ea3;
   line-height: 1.6;
   margin: 0 0 12px;
 }
@@ -933,13 +956,13 @@ button:hover {
 }
 .result-fields dt {
   font-size: 8px;
-  color: #a4ad98;
+  color: #a198ad;
   margin-bottom: 4px;
 }
 .result-fields dd {
   font-size: 10px;
   margin: 0;
-  color: #64755b;
+  color: #675b75;
   line-height: 1.5;
   overflow-wrap: anywhere;
 }
@@ -951,7 +974,7 @@ button:hover {
   align-items: center;
   justify-content: space-between;
   gap: 8px;
-  border-top: 1px solid #edf0e8;
+  border-top: 1px solid #ece8f0;
   padding-top: 11px;
   margin-top: 14px;
 }
@@ -968,16 +991,16 @@ button:hover {
 }
 .card-action {
   padding: 7px 10px;
-  border: 1px solid #dae4cc;
+  border: 1px solid #d7cce4;
   border-radius: 6px;
-  background: #f4f8ee;
-  color: #6a8152;
+  background: #f2eef8;
+  color: #675281;
   font-size: 9px;
   white-space: nowrap;
 }
 .source-details {
   font-size: 8px;
-  color: #a3ad97;
+  color: #a197ad;
   margin-top: 12px;
 }
 .source-details summary {
@@ -994,8 +1017,8 @@ button:hover {
   margin: 0 0 12px;
 }
 .filter-chip {
-  background: #f0f3e9;
-  color: #8a987a;
+  background: #eee9f3;
+  color: #877a98;
   padding: 4px 7px;
   font-size: 8px;
   border-radius: 5px;
@@ -1016,12 +1039,12 @@ table {
 td,
 th {
   text-align: left;
-  border-bottom: 1px solid #eef1e7;
+  border-bottom: 1px solid #ece7f1;
   padding: 11px 12px;
   white-space: nowrap;
 }
 th {
-  background: #f0f4e8;
+  background: #ede8f4;
   font-weight: 500;
 }
 tr:last-child td {
@@ -1029,8 +1052,8 @@ tr:last-child td {
 }
 .confirmation {
   padding: 12px;
-  background: #edf4e5;
-  border: 1px solid #d8e4c9;
+  background: #ece5f4;
+  border: 1px solid #d5c9e4;
   border-radius: 8px;
   margin: 12px 0;
   font-size: 11px;
@@ -1044,17 +1067,17 @@ tr:last-child td {
   font-size: 10px;
   margin: 12px 0;
   line-height: 1.7;
-  color: #7e8c72;
+  color: #7e728c;
   overflow-wrap: anywhere;
 }
 .context-item strong {
-  color: #455b3b;
+  color: #493b5b;
   font-weight: 500;
 }
 .context-item button {
   float: right;
   font-size: 14px;
-  color: #a0a88e;
+  color: #9a8ea8;
 }
 .context-total {
   display: flex;
@@ -1065,10 +1088,10 @@ tr:last-child td {
 }
 .context-return {
   font-size: 10px;
-  color: #829373;
+  color: #817393;
   margin-bottom: 10px;
   padding: 8px 10px;
-  border: 1px solid #dde5d2;
+  border: 1px solid #dbd2e5;
   border-radius: 6px;
 }
 .notice {
@@ -1090,7 +1113,7 @@ tr:last-child td {
   display: flex;
   gap: 4px;
   align-items: center;
-  color: #a2af91;
+  color: #9e91af;
   font-size: 11px;
   padding: 8px 0;
 }
@@ -1098,7 +1121,7 @@ tr:last-child td {
   width: 5px;
   height: 5px;
   border-radius: 50%;
-  background: #a8b693;
+  background: #a393b6;
   animation: blink 1.2s infinite;
 }
 .thinking i:nth-child(2) {
@@ -1111,17 +1134,17 @@ tr:last-child td {
   margin-left: 8px;
 }
 .is-listening {
-  background: #e9f0de;
-  color: #5a7e42;
-  box-shadow: 0 0 0 4px #d4e6bc33;
+  background: #e6def0;
+  color: #5d427e;
+  box-shadow: 0 0 0 4px #cfbce633;
 }
 .voice-status.active {
-  color: #6b8c51;
+  color: #6c518c;
 }
 .backdrop {
   position: fixed;
   inset: 0;
-  background: #15281b44;
+  background: #1e152844;
   z-index: 29;
 }
 .mobile-menu {
@@ -1135,10 +1158,10 @@ dialog {
   padding: 35px;
   color: var(--text);
   background: var(--bg);
-  box-shadow: 0 25px 100px #15281b33;
+  box-shadow: 0 25px 100px #1e152833;
 }
 dialog::backdrop {
-  background: #15281b55;
+  background: #1e152855;
   backdrop-filter: blur(3px);
 }
 .dialog-close {
@@ -1146,12 +1169,12 @@ dialog::backdrop {
   right: 10px;
   top: 10px;
   font-size: 24px;
-  color: #8b987e;
+  color: #8a7e98;
 }
 .dialog-kicker {
   font-size: 9px;
   letter-spacing: 1.5px;
-  color: #8b9c78;
+  color: #88789c;
 }
 dialog h2 {
   font-family: Georgia, serif;
@@ -1162,11 +1185,11 @@ dialog h2 {
 dialog p {
   font-size: 12px;
   line-height: 1.8;
-  color: #829173;
+  color: #807391;
 }
 .provider-info {
-  background: #eaf0e0;
-  border: 1px solid #dde7cf;
+  background: #e7e0f0;
+  border: 1px solid #dacfe7;
   padding: 12px;
   border-radius: 8px;
   font-size: 11px;
@@ -1180,12 +1203,12 @@ dialog p {
   font-size: 11px;
 }
 .read-aloud input {
-  accent-color: var(--green);
+  accent-color: var(--accent);
 }
 dialog small {
   font-size: 10px;
   line-height: 1.8;
-  color: #97a087;
+  color: #9287a0;
   display: block;
 }
 .sr-only {
@@ -1204,7 +1227,7 @@ dialog small {
   left: 10px;
   top: -80px;
   padding: 15px;
-  background: var(--green);
+  background: var(--accent);
   color: white;
   z-index: 100;
 }
@@ -1252,7 +1275,7 @@ dialog small {
     bottom: 0;
     background: var(--bg);
     z-index: 20;
-    box-shadow: -10px 0 30px #25402d0a;
+    box-shadow: -10px 0 30px #3125400a;
   }
   .context-panel.open {
     display: flex;
@@ -1318,7 +1341,7 @@ dialog small {
     inset: 0 auto 0 0;
     width: 270px;
     z-index: 30;
-    box-shadow: 20px 0 50px #253f3620;
+    box-shadow: 20px 0 50px #31253f20;
   }
   .sidebar.open {
     display: flex;
@@ -1429,7 +1452,7 @@ dialog small {
     max-width: 90%;
   }
   .context-panel {
-    box-shadow: -20px 0 40px #25402d14;
+    box-shadow: -20px 0 40px #31254014;
   }
   .brand {
     padding-bottom: 25px;
@@ -1551,8 +1574,87 @@ dialog small {
 .assistant-head small,
 dialog p,
 dialog small {
-  color: #65725c;
+  color: #665c72;
 }
 .composer textarea::placeholder {
-  color: #748167;
+  color: #736781;
+}
+.catalogue-image { width: 100%; height: 150px; object-fit: contain; background: #fff; border-radius: 10px; margin: 12px 0; }
+.snapshot-warning { font-size: 12px; color: #75501b; background: #fbf1dc; border-radius: 8px; padding: 8px; }
+.source-link { display: inline-block; margin: 8px 0; color: #453757; font-weight: 600; font-size: 13px; }
+.result-price small { display: block; }
+.result-id { overflow-wrap: anywhere; }
+.similarity-score { color: #54426a; font-size: 0.85rem; margin: 0.25rem 0 0.5rem; }
+
+/* In-app destructive-action confirmation. Native dialog supplies focus trapping. */
+.delete-dialog {
+  width: 440px;
+  padding: 0;
+  border-radius: 24px;
+  background: var(--white);
+  max-height: calc(100dvh - 32px);
+  overflow: auto;
+}
+.delete-dialog-content { padding: 30px; }
+.delete-dialog-icon {
+  display: grid;
+  place-items: center;
+  width: 48px;
+  height: 48px;
+  border-radius: 15px;
+  color: var(--accent);
+  background: var(--accent-soft);
+  margin-bottom: 20px;
+}
+.delete-dialog-icon svg {
+  width: 23px;
+  height: 23px;
+  fill: none;
+  stroke: currentColor;
+  stroke-width: 1.7;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+}
+.delete-dialog h2 {
+  font-family: inherit;
+  font-size: 22px;
+  font-weight: 650;
+  letter-spacing: -.5px;
+  line-height: 1.3;
+  margin: 0 0 12px;
+}
+.delete-dialog p { font-size: 14px; line-height: 1.65; color: var(--muted); margin: 0; }
+.delete-chat-title {
+  margin: 20px 0 12px;
+  padding: 13px 16px;
+  background: var(--bg);
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  font-size: 14px;
+  font-weight: 600;
+  overflow-wrap: anywhere;
+  max-height: 100px;
+  overflow: auto;
+}
+.delete-dialog .delete-warning { font-size: 12px; }
+.delete-dialog-actions { display: flex; gap: 10px; margin-top: 26px; }
+.delete-dialog-actions button {
+  flex: 1;
+  min-width: 0;
+  min-height: 44px;
+  padding: 12px 14px;
+  border-radius: 12px;
+  font: inherit;
+  font-size: 14px;
+  font-weight: 600;
+  cursor: pointer;
+}
+#delete-cancel { background: var(--white); color: var(--text); border: 1px solid var(--border); }
+#delete-cancel:hover { background: var(--sidebar); }
+#delete-confirm { background: var(--accent); color: white; border: 1px solid var(--accent); }
+#delete-confirm:hover { background: #5820b4; }
+.delete-dialog-actions button:focus-visible { outline: 3px solid #b99be8; outline-offset: 3px; }
+@media (max-width: 480px) {
+  .delete-dialog-content { padding: 24px; }
+  .delete-dialog h2 { font-size: 21px; }
 }

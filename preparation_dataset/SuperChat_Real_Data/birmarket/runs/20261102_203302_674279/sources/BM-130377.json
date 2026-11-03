@@ -1,0 +1,482 @@
+{
+  "product": {
+    "id": 130377,
+    "gtin": "6913081962003",
+    "mpn": "",
+    "name": "Arkad oyun Tvister",
+    "slugged_name_az": "arkad-oyun-tvister",
+    "slugged_name_ru": "arkadnaya-igra-tvister",
+    "description": "Sensasiyalı oyun bütün ailə üçün. Twister-in yeni dəlisov nəşri! Oyun sizə çoxlu gülüş və əyləncə bəxş edəcək. Dostları topla və dolaş! Komanda qur və ya dostunla oyna. Oyun mükəmməl idmanı əyləncəli oyuna birləşdirir! Dostlarınla oynamaq tamamilə uğur və əyləncəli olacaq.",
+    "description_outlet": "",
+    "status": "active",
+    "uuid": "d3268d54-fbfd-4ea4-ae3c-eada7a96947d",
+    "variant_code": "VC_130377",
+    "default_offer": {
+      "uuid": "5bde2ae6-a5dc-4b2a-80f8-0c502b9f0570",
+      "installment_enabled": true,
+      "max_installment_months": 18,
+      "product_offer_labels": [],
+      "old_price": 14,
+      "retail_price": 8,
+      "supplier_id": "e174aeb6-d252-4549-b14c-d16d3657505a",
+      "qty": 0,
+      "seller": {
+        "ext_id": "e174aeb6-d252-4549-b14c-d16d3657505a",
+        "marketing_name": {
+          "id": 15434,
+          "name": "ToyBook"
+        },
+        "logo": {
+          "thumbnail": "https://storage.umico.az/cpcustomerprod01/b2c3349ff04867c2d4544abdcf7e0b68.jpg"
+        },
+        "vat_payer": false,
+        "rating": 90,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "discount_effective_start_date": "",
+      "discount_effective_end_date": ""
+    },
+    "category_id": 1344,
+    "category": {
+      "id": 1344,
+      "name": "Masaüstü oyunlar"
+    },
+    "brand": {
+      "name": "NO BRAND"
+    },
+    "custom_fields": [
+      {
+        "master_field_id": 2634,
+        "values": [
+          "Tvister"
+        ]
+      },
+      {
+        "master_field_id": 751,
+        "values": [
+          "7 yaşdan"
+        ]
+      }
+    ],
+    "main_img": {
+      "big": "https://strgimgr.umico.az/sized/1680/130377-fdc36d1c9efa076821f3f9047b9ca9c2.jpg",
+      "medium": "https://strgimgr.umico.az/sized/840/130377-fdc36d1c9efa076821f3f9047b9ca9c2.jpg",
+      "small": "https://strgimgr.umico.az/sized/280/130377-fdc36d1c9efa076821f3f9047b9ca9c2.jpg"
+    },
+    "img_url_thumbnail": "https://strgimgr.umico.az/sized/280/130377-fdc36d1c9efa076821f3f9047b9ca9c2.jpg",
+    "main_video": "",
+    "imgs": [
+      {
+        "big": "https://strgimgr.umico.az/sized/1680/130377-fdc36d1c9efa076821f3f9047b9ca9c2.jpg",
+        "medium": "https://strgimgr.umico.az/sized/840/130377-fdc36d1c9efa076821f3f9047b9ca9c2.jpg",
+        "small": "https://strgimgr.umico.az/sized/280/130377-fdc36d1c9efa076821f3f9047b9ca9c2.jpg"
+      }
+    ],
+    "videos": [],
+    "min_qty": 1,
+    "preorder_available": false,
+    "is_assortment": false,
+    "is_bulk_heavy": false,
+    "is_refurbished": false,
+    "is_refundable": true,
+    "is_dangerous": false,
+    "show_tech_description": false,
+    "use_external_content": true,
+    "product_labels": [],
+    "ratings": {
+      "rating_value": 5,
+      "assessment_id": 0,
+      "session_count": 1,
+      "review_count": 1
+    },
+    "default_show_stock_qty_threshold": 0,
+    "card_type": "public"
+  },
+  "category": {
+    "id": 1344,
+    "name": "Masaüstü oyunlar",
+    "slugged_name_az": "stolustu-oyunlar",
+    "slugged_name_ru": "nastolnye-igry",
+    "view_mode": "products",
+    "mobile_visual_mode": "text",
+    "is_variant": true,
+    "depth": 3,
+    "parent_id": 1341,
+    "child_ids": [],
+    "node_type": "NODE",
+    "install_service_needed": false,
+    "fitting_allowed": false,
+    "vat": true,
+    "variations": [],
+    "custom_fields": [
+      {
+        "master_field_id": 2634,
+        "category_master_field_id": 13225,
+        "name": "Məhsulun növü"
+      },
+      {
+        "master_field_id": 751,
+        "category_master_field_id": 7078,
+        "name": "Yaş"
+      },
+      {
+        "master_field_id": 761,
+        "category_master_field_id": 32418,
+        "name": "Cins"
+      },
+      {
+        "master_field_id": 750,
+        "category_master_field_id": 32419,
+        "name": "Oyunun janrı"
+      },
+      {
+        "master_field_id": 3917,
+        "category_master_field_id": 32420,
+        "name": "Mövzu"
+      },
+      {
+        "master_field_id": 5090,
+        "category_master_field_id": 32421,
+        "name": "Xətkeş"
+      },
+      {
+        "master_field_id": 5289,
+        "category_master_field_id": 32422,
+        "name": "Minimal oyunçu sayı"
+      },
+      {
+        "master_field_id": 5290,
+        "category_master_field_id": 32423,
+        "name": "Maksimal oyunçu sayı"
+      },
+      {
+        "master_field_id": 637,
+        "category_master_field_id": 32424,
+        "name": "Material"
+      },
+      {
+        "master_field_id": 5226,
+        "category_master_field_id": 32425,
+        "name": "Personaj"
+      },
+      {
+        "master_field_id": 623,
+        "category_master_field_id": 32426,
+        "name": "Xüsusiyyətlər"
+      },
+      {
+        "master_field_id": 618,
+        "category_master_field_id": 32427,
+        "name": "İstehsalçı ölkə"
+      }
+    ],
+    "parent": {
+      "id": 1341,
+      "node_type": "NODE",
+      "name": "Əyləncə və oyunlar",
+      "slugged_name": "oyunlar",
+      "parent": {
+        "id": 1348,
+        "node_type": "NODE",
+        "name": "Hobbi",
+        "slugged_name": "hobbi-ve-yaradiciliq-uchun-mehsullar",
+        "parent": {
+          "id": 1657,
+          "node_type": "NODE",
+          "name": "Kitablar, Hobbi, Məktəb və ofis ləvazimatları",
+          "slugged_name": "ofis-ve-mekteb-levazimatlari",
+          "parent": null
+        }
+      }
+    },
+    "is_refundable": true,
+    "is_adult": false,
+    "icons": {
+      "thumbnail": "https://strgimgr.umico.az/img/category/188/5cfc95a7-2d71-4b3d-87c4-c36cc0370974.jpeg",
+      "original": "https://strgimgr.umico.az/img/category/original/5cfc95a7-2d71-4b3d-87c4-c36cc0370974.jpeg"
+    },
+    "is_active": true
+  },
+  "offers": [
+    {
+      "uuid": "2da66ca4-1c3d-44e1-85c9-5a7ff2357efb",
+      "installment_enabled": true,
+      "max_installment_months": 3,
+      "product_offer_labels": [],
+      "old_price": 17,
+      "retail_price": 15.99,
+      "supplier_id": "57ffd412-bb1a-4065-834e-73f25eafcbba",
+      "seller": {
+        "ext_id": "5d5d9bb8-5782-4c01-94d3-43a3f8e34137",
+        "internal_id": 3921,
+        "marketing_name": {
+          "id": 3921,
+          "name": "Oyuncaqci"
+        },
+        "logo": {
+          "thumbnail": "https://storage.umico.az/cpcustomerprod01/def28a613d0d19c8fe8bcf4e298792d7.jpeg"
+        },
+        "vat_payer": false,
+        "rating": 100,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "allow_qty": 0
+    },
+    {
+      "uuid": "a564ddc9-ff78-4deb-a730-4c59309ede6e",
+      "installment_enabled": true,
+      "max_installment_months": 18,
+      "product_offer_labels": [],
+      "old_price": 25,
+      "retail_price": 16,
+      "supplier_id": "6a7f630d-b316-43a2-a6c9-310ed6719de5",
+      "seller": {
+        "ext_id": "31200ba5-f011-4413-bbca-96945a15c236",
+        "internal_id": 15955,
+        "marketing_name": {
+          "id": 15955,
+          "name": "Oyunçağ Store"
+        },
+        "logo": {
+          "thumbnail": ""
+        },
+        "vat_payer": false,
+        "rating": 75,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "allow_qty": 0
+    },
+    {
+      "uuid": "d43265a2-c633-452a-a7ec-ca1a5a45c25c",
+      "installment_enabled": true,
+      "max_installment_months": 18,
+      "product_offer_labels": [],
+      "old_price": 12,
+      "retail_price": 8.9,
+      "supplier_id": "4e93999c-9897-41e1-8cda-af58cab73311",
+      "seller": {
+        "ext_id": "29caa263-1a9b-4592-b688-dd801bea99ac",
+        "internal_id": 6249,
+        "marketing_name": {
+          "id": 6249,
+          "name": "La Luna."
+        },
+        "logo": {
+          "thumbnail": "https://storage.umico.az/cpcustomerprod01/9ec3b3d4f2c25022d5c7d79ab7f45c7c.png"
+        },
+        "vat_payer": false,
+        "rating": 100,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "allow_qty": 0
+    },
+    {
+      "uuid": "af023c06-bc86-457c-b492-2b4e0ae891c8",
+      "installment_enabled": true,
+      "max_installment_months": 18,
+      "product_offer_labels": [],
+      "old_price": 25,
+      "retail_price": 18,
+      "supplier_id": "78d789ea-13b1-4a8c-938b-a6c9dea8374b",
+      "seller": {
+        "ext_id": "3f5fc1e4-ed08-4e95-8053-ce7879101237",
+        "internal_id": 3017,
+        "marketing_name": {
+          "id": 3017,
+          "name": "1001Box"
+        },
+        "logo": {
+          "thumbnail": "https://storage.umico.az/cpcustomerprod01/2e78b76e5213b3df3afc6a62e1bfddf7.jpg"
+        },
+        "vat_payer": false,
+        "rating": 99,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "allow_qty": 0
+    },
+    {
+      "uuid": "074cfe88-0ba1-462b-a605-dc1147e8a1df",
+      "installment_enabled": true,
+      "max_installment_months": 18,
+      "product_offer_labels": [],
+      "old_price": 0,
+      "retail_price": 35.78,
+      "supplier_id": "3060c2e2-2489-4567-9bb1-c22a866de50b",
+      "seller": {
+        "ext_id": "852846d0-cbf0-4673-86b3-06820cf115aa",
+        "internal_id": 5999,
+        "marketing_name": {
+          "id": 5999,
+          "name": "Ultra"
+        },
+        "logo": {
+          "thumbnail": "https://storage.umico.az/cpcustomerprod01/03f5ecf9c36ce3870177883a0c8ce9fa.jpg"
+        },
+        "vat_payer": false,
+        "rating": 96,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "allow_qty": 0
+    },
+    {
+      "uuid": "b647c884-fa4c-4b08-8bfd-0ac18a5e1f88",
+      "installment_enabled": true,
+      "max_installment_months": 6,
+      "product_offer_labels": [],
+      "old_price": 25,
+      "retail_price": 12.82,
+      "supplier_id": "709191ff-00c0-4594-925c-f26dedb1c3b4",
+      "seller": {
+        "ext_id": "ec2e9e5e-7edb-477d-814e-e4ffda4d0b1c",
+        "internal_id": 9358,
+        "marketing_name": {
+          "id": 9358,
+          "name": "OneMarket"
+        },
+        "logo": {
+          "thumbnail": "https://storage.umico.az/cpcustomerprod01/6e964ff53af65aa5a2374ff7c586cb84.jpg"
+        },
+        "vat_payer": false,
+        "rating": 97,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "allow_qty": 0
+    },
+    {
+      "uuid": "5bde2ae6-a5dc-4b2a-80f8-0c502b9f0570",
+      "installment_enabled": true,
+      "max_installment_months": 18,
+      "product_offer_labels": [],
+      "old_price": 14,
+      "retail_price": 8,
+      "supplier_id": "e174aeb6-d252-4549-b14c-d16d3657505a",
+      "seller": {
+        "ext_id": "83771716-8332-4b03-9777-07d1b79d61be",
+        "internal_id": 15434,
+        "marketing_name": {
+          "id": 15434,
+          "name": "ToyBook"
+        },
+        "logo": {
+          "thumbnail": "https://storage.umico.az/cpcustomerprod01/b2c3349ff04867c2d4544abdcf7e0b68.jpg"
+        },
+        "vat_payer": false,
+        "rating": 90,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "allow_qty": 0
+    },
+    {
+      "uuid": "2671b252-ba37-487e-88b3-f545b5ea8f77",
+      "installment_enabled": true,
+      "max_installment_months": 6,
+      "product_offer_labels": [],
+      "old_price": 14,
+      "retail_price": 8.17,
+      "supplier_id": "070d487b-f0f8-44ad-a813-244bff69d529",
+      "seller": {
+        "ext_id": "fe4549f2-2eee-498d-b3f6-e4f7a68617e1",
+        "internal_id": 9120,
+        "marketing_name": {
+          "id": 9120,
+          "name": "ELM GALAXY Kitab"
+        },
+        "logo": {
+          "thumbnail": "https://storage.umico.az/cpcustomerprod01/fecf879717d49d58a38084b67875bd92.jpg"
+        },
+        "vat_payer": false,
+        "rating": 98,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "allow_qty": 0
+    }
+  ],
+  "variations": [],
+  "size_chart": {},
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "sku": 130377,
+    "mpn": 130377,
+    "url": "https://birmarket.az/product/130377-arkad-oyun-tvister",
+    "name": "Arkad oyun Tvister",
+    "image": [
+      "https://strgimgr.umico.az/sized/1680/130377-fdc36d1c9efa076821f3f9047b9ca9c2.jpg"
+    ],
+    "description": "Sensasiyalı oyun bütün ailə üçün. Twister-in yeni dəlisov nəşri! Oyun sizə çoxlu gülüş və əyləncə bəxş edəcək. Dostları topla və dolaş! Komanda qur və ya dostunla oyna. Oyun mükəmməl idmanı əyləncəli oyuna birləşdirir! Dostlarınla oynamaq tamamilə uğur və əyləncəli olacaq.",
+    "itemCondition": "https://schema.org/NewCondition",
+    "offers": {
+      "@type": "AggregateOffer",
+      "availability": "https://schema.org/InStock",
+      "offerCount": 8,
+      "highPrice": 35.78,
+      "lowPrice": 8,
+      "priceCurrency": "AZN",
+      "hasMerchantReturnPolicy": {
+        "applicableCountry": "AZ",
+        "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+        "returnMethod": "https://schema.org/ReturnInStore",
+        "returnFees": "https://schema.org/FreeReturn",
+        "merchantReturnDays": 14
+      },
+      "shippingDetails": {
+        "@type": "OfferShippingDetails",
+        "shippingDestination": {
+          "@type": "DefinedRegion",
+          "addressCountry": "AZ"
+        },
+        "deliveryTime": {
+          "@type": "ShippingDeliveryTime",
+          "handlingTime": {
+            "@type": "QuantitativeValue",
+            "minValue": 0,
+            "maxValue": 1,
+            "unitCode": "DAY"
+          },
+          "transitTime": {
+            "@type": "QuantitativeValue",
+            "minValue": 0,
+            "maxValue": 1,
+            "unitCode": "DAY"
+          },
+          "businessDays": {
+            "@type": "OpeningHoursSpecification",
+            "dayOfWeek": [
+              "https://schema.org/Monday",
+              "https://schema.org/Tuesday",
+              "https://schema.org/Wednesday",
+              "https://schema.org/Thursday",
+              "https://schema.org/Friday",
+              "https://schema.org/Saturday",
+              "https://schema.org/Sunday"
+            ]
+          }
+        },
+        "shippingRate": {
+          "@type": "MonetaryAmount",
+          "value": 0,
+          "currency": "AZN"
+        }
+      }
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": 5,
+      "reviewCount": 1
+    },
+    "brand": {
+      "@type": "Brand",
+      "name": "NO BRAND",
+      "url": "https://birmarket.az/brands/NO%20BRAND"
+    }
+  }
+}

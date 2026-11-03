@@ -1,0 +1,1063 @@
+{
+  "product": {
+    "id": 1244329,
+    "gtin": "",
+    "mpn": "250147IU25031422250",
+    "name": "Qəhvə maşını Delonghi Magnifica ECAM 290.81.TB EX:1",
+    "slugged_name_az": "qehve-mashini-delonghi-ecam-290-81-tb-ex-1",
+    "slugged_name_ru": "qehve-mashini-delonghi-ecam-290-81-tb-ex-1",
+    "description": "De’Longhi Magnifica EVO ECAM 290.81.TB — ev üçün nəzərdə tutulmuş, tam avtomatik qəhvəbişirici aparatıdır. O, bir düymə ilə espresso, cappuccino, latte macchiato və digər içkiləri hazırlaya bilir. İstifadəçi rahatlığı üçün sensorlu idarəetmə paneli ilə təchiz olunub. LatteCrema texnologiyası sayəsində qalın və kremli süd köpüyü hazırlayır. Sökülə bilən südlük və su çəni təmizliyi asanlaşdırır. Müxtəlif zövqlərə uyğun olaraq qəhvənin temperaturunu və gücünü tənzimləmək mümkündür.\n\nƏsas üstünlükləri:\n\n7 fərqli içki bir toxunuşla\n\n1.8 litrlik su çəni\n\nQəhvə dənəsi və üyüdülmüş qəhvə ilə işləyir\n\n1450 Vt güc və 15 bar təzyiq\n\nSüd üçün LatteCrema sistemi\n\nAvtomatik təmizləmə və kireçdən təmizləmə funksiyası",
+    "description_outlet": "",
+    "status": "active",
+    "uuid": "76da86d8-a87b-4b97-95f0-8c9a90b15fd0",
+    "variant_code": "VC_1244329",
+    "default_offer": {
+      "uuid": "0d64d7c6-717b-4994-a0bf-28ba3f265eae",
+      "installment_enabled": true,
+      "max_installment_months": 18,
+      "product_offer_labels": [],
+      "old_price": 3400,
+      "retail_price": 969.99,
+      "supplier_id": "0f8a5fc3-391e-4b33-9b09-c954c2df4c92",
+      "qty": 0,
+      "seller": {
+        "ext_id": "0f8a5fc3-391e-4b33-9b09-c954c2df4c92",
+        "marketing_name": {
+          "id": 16938,
+          "name": "Birmall Shop"
+        },
+        "logo": {
+          "thumbnail": ""
+        },
+        "vat_payer": false,
+        "rating": 80,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "discount_effective_start_date": "",
+      "discount_effective_end_date": ""
+    },
+    "category_id": 143,
+    "category": {
+      "id": 143,
+      "name": "Qəhvəbişirənlər və qəhvə maşınları"
+    },
+    "brand": {
+      "name": "DeLonghi"
+    },
+    "custom_fields": [
+      {
+        "master_field_id": 973,
+        "values": [
+          "Avtomatik"
+        ]
+      },
+      {
+        "master_field_id": 798,
+        "values": [
+          "1450"
+        ]
+      },
+      {
+        "master_field_id": 908,
+        "values": [
+          "1.8"
+        ]
+      },
+      {
+        "master_field_id": 817,
+        "values": [
+          "Boz"
+        ]
+      },
+      {
+        "master_field_id": 974,
+        "values": [
+          "Üyüdülmüş"
+        ]
+      },
+      {
+        "master_field_id": 875,
+        "values": [
+          "Sensor"
+        ]
+      }
+    ],
+    "main_img": {
+      "big": "https://strgimgr.umico.az/img/product/1680/f35c09fd-f6d5-42b5-8ad1-c499eaeabcab.jpeg",
+      "medium": "https://strgimgr.umico.az/img/product/840/f35c09fd-f6d5-42b5-8ad1-c499eaeabcab.jpeg",
+      "small": "https://strgimgr.umico.az/img/product/280/f35c09fd-f6d5-42b5-8ad1-c499eaeabcab.jpeg"
+    },
+    "img_url_thumbnail": "https://strgimgr.umico.az/img/product/280/f35c09fd-f6d5-42b5-8ad1-c499eaeabcab.jpeg",
+    "main_video": "",
+    "imgs": [
+      {
+        "big": "https://strgimgr.umico.az/img/product/1680/f35c09fd-f6d5-42b5-8ad1-c499eaeabcab.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/f35c09fd-f6d5-42b5-8ad1-c499eaeabcab.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/f35c09fd-f6d5-42b5-8ad1-c499eaeabcab.jpeg"
+      },
+      {
+        "big": "https://strgimgr.umico.az/img/product/1680/7c274f4b-5cf4-4572-bbf0-fc922b741eb4.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/7c274f4b-5cf4-4572-bbf0-fc922b741eb4.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/7c274f4b-5cf4-4572-bbf0-fc922b741eb4.jpeg"
+      },
+      {
+        "big": "https://strgimgr.umico.az/img/product/1680/c187beef-ee12-4ed3-a61f-f056ae3b2631.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/c187beef-ee12-4ed3-a61f-f056ae3b2631.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/c187beef-ee12-4ed3-a61f-f056ae3b2631.jpeg"
+      },
+      {
+        "big": "https://strgimgr.umico.az/img/product/1680/8a524493-6253-42bc-a206-d3892d9b702c.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/8a524493-6253-42bc-a206-d3892d9b702c.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/8a524493-6253-42bc-a206-d3892d9b702c.jpeg"
+      },
+      {
+        "big": "https://strgimgr.umico.az/img/product/1680/0963d3fc-e1e8-476a-ab4d-e7f628bd2433.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/0963d3fc-e1e8-476a-ab4d-e7f628bd2433.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/0963d3fc-e1e8-476a-ab4d-e7f628bd2433.jpeg"
+      },
+      {
+        "big": "https://strgimgr.umico.az/img/product/1680/b0a60fb6-c900-4a3a-99e0-fffc59b6ea9f.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/b0a60fb6-c900-4a3a-99e0-fffc59b6ea9f.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/b0a60fb6-c900-4a3a-99e0-fffc59b6ea9f.jpeg"
+      },
+      {
+        "big": "https://strgimgr.umico.az/img/product/1680/6dcd0070-679e-442c-a587-773ac47b9131.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/6dcd0070-679e-442c-a587-773ac47b9131.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/6dcd0070-679e-442c-a587-773ac47b9131.jpeg"
+      }
+    ],
+    "videos": [],
+    "min_qty": 1,
+    "preorder_available": false,
+    "is_assortment": false,
+    "is_bulk_heavy": false,
+    "is_refurbished": false,
+    "is_refundable": true,
+    "is_dangerous": false,
+    "show_tech_description": false,
+    "use_external_content": true,
+    "product_labels": [
+      {
+        "color": "40C4FF",
+        "id": 43382660,
+        "image_url": "",
+        "label_id": 1,
+        "name": "Новинка",
+        "position": 1,
+        "rule_type": "parameters",
+        "show_in_see_also_products": false,
+        "text": "Yenilik"
+      }
+    ],
+    "ratings": {
+      "rating_value": 5,
+      "assessment_id": 0,
+      "session_count": 7,
+      "score_count": 4,
+      "review_count": 3
+    },
+    "default_show_stock_qty_threshold": 0,
+    "card_type": "public"
+  },
+  "category": {
+    "id": 143,
+    "name": "Qəhvəbişirənlər və qəhvə maşınları",
+    "slugged_name_az": "qehvedanlar-qehve-mashinlari",
+    "slugged_name_ru": "kofevarki-kofemashiny",
+    "view_mode": "products",
+    "mobile_visual_mode": "text",
+    "is_variant": true,
+    "depth": 3,
+    "parent_id": 139,
+    "child_ids": [],
+    "node_type": "NODE",
+    "install_service_needed": false,
+    "fitting_allowed": false,
+    "vat": true,
+    "variations": [
+      {
+        "master_field_id": 817,
+        "name": "Korpusun rəngi",
+        "variation_tool_type": "default",
+        "has_size_chart": false,
+        "display_variant": false
+      }
+    ],
+    "custom_fields": [
+      {
+        "master_field_id": 973,
+        "category_master_field_id": 2227,
+        "name": "Qəhvəbişiricinin növü"
+      },
+      {
+        "master_field_id": 908,
+        "category_master_field_id": 2229,
+        "name": "Həcm, L"
+      },
+      {
+        "master_field_id": 4478,
+        "category_master_field_id": 45468,
+        "name": "Süd köpürdücü"
+      },
+      {
+        "master_field_id": 974,
+        "category_master_field_id": 2228,
+        "name": "İstifadə edilən qəhvə növü"
+      },
+      {
+        "master_field_id": 798,
+        "category_master_field_id": 5135,
+        "name": "Güc, Vt"
+      },
+      {
+        "master_field_id": 817,
+        "category_master_field_id": 9224,
+        "name": "Korpusun rəngi"
+      },
+      {
+        "master_field_id": 2211,
+        "category_master_field_id": 9241,
+        "name": "Zəmanət müddəti"
+      },
+      {
+        "master_field_id": 875,
+        "category_master_field_id": 5139,
+        "name": "İdarəetmə növü"
+      },
+      {
+        "master_field_id": 635,
+        "category_master_field_id": 2226,
+        "name": "Təyinatı"
+      },
+      {
+        "master_field_id": 976,
+        "category_master_field_id": 2231,
+        "name": "Pompanın təzyiqi, bar"
+      },
+      {
+        "master_field_id": 977,
+        "category_master_field_id": 2232,
+        "name": "İki fıncanın eyni vaxtda hazırlanması"
+      },
+      {
+        "master_field_id": 2219,
+        "category_master_field_id": 9221,
+        "name": "Porsiyalar sayı"
+      },
+      {
+        "master_field_id": 2220,
+        "category_master_field_id": 9222,
+        "name": "Qəhvə bölməsi, q"
+      },
+      {
+        "master_field_id": 2221,
+        "category_master_field_id": 9223,
+        "name": "Tullantı bölməsi (porsiyalar)"
+      },
+      {
+        "master_field_id": 2222,
+        "category_master_field_id": 9225,
+        "name": "Filtr növü"
+      },
+      {
+        "master_field_id": 2223,
+        "category_master_field_id": 9226,
+        "name": "Qızdırıcının növü"
+      },
+      {
+        "master_field_id": 2070,
+        "category_master_field_id": 9227,
+        "name": "Əlavə xüsusiyyətlər"
+      },
+      {
+        "master_field_id": 941,
+        "category_master_field_id": 9228,
+        "name": "Taymer"
+      },
+      {
+        "master_field_id": 1914,
+        "category_master_field_id": 9229,
+        "name": "Göstərici"
+      },
+      {
+        "master_field_id": 2224,
+        "category_master_field_id": 9230,
+        "name": "Hazır reseptlər"
+      },
+      {
+        "master_field_id": 708,
+        "category_master_field_id": 5137,
+        "name": "Korpusun materialı"
+      },
+      {
+        "master_field_id": 2225,
+        "category_master_field_id": 9231,
+        "name": "Borunun material"
+      },
+      {
+        "master_field_id": 2226,
+        "category_master_field_id": 9232,
+        "name": "Avtomatik təmizlənmə"
+      },
+      {
+        "master_field_id": 2802,
+        "category_master_field_id": 13800,
+        "name": "Avtomatik söndürülmə"
+      },
+      {
+        "master_field_id": 1044,
+        "category_master_field_id": 9234,
+        "name": "Damlama əleyhinə sistem"
+      },
+      {
+        "master_field_id": 975,
+        "category_master_field_id": 2230,
+        "name": "Quraşdırılan texnika"
+      },
+      {
+        "master_field_id": 1205,
+        "category_master_field_id": 9235,
+        "name": "Hündürlüyü, sm"
+      },
+      {
+        "master_field_id": 1206,
+        "category_master_field_id": 9236,
+        "name": "Eni, sm"
+      },
+      {
+        "master_field_id": 1448,
+        "category_master_field_id": 9237,
+        "name": "Dərinliyi, sm"
+      },
+      {
+        "master_field_id": 656,
+        "category_master_field_id": 9238,
+        "name": "Çəki, kq"
+      },
+      {
+        "master_field_id": 618,
+        "category_master_field_id": 5136,
+        "name": "İstehsalçı ölkə"
+      },
+      {
+        "master_field_id": 2210,
+        "category_master_field_id": 9239,
+        "name": "Brendin ölkəsi"
+      },
+      {
+        "master_field_id": 697,
+        "category_master_field_id": 9240,
+        "name": "Komplektasiya"
+      }
+    ],
+    "parent": {
+      "id": 139,
+      "node_type": "NODE",
+      "name": "Mətbəx üçün kiçik məişət texnikası",
+      "slugged_name": "metbex-uchun-kichik-meishet-texnikasi",
+      "parent": {
+        "id": 106,
+        "node_type": "NODE",
+        "name": "Məişət texnikası",
+        "slugged_name": "meishet-texnikasi",
+        "parent": {
+          "id": 1,
+          "node_type": "NODE",
+          "name": "Elektronika və məişət texnikası",
+          "slugged_name": "elektronika-ve-meishet-texnikasi",
+          "parent": null
+        }
+      }
+    },
+    "is_refundable": true,
+    "is_adult": false,
+    "icons": {
+      "thumbnail": "https://strgimgr.umico.az/img/category/188/1ee8150e-cd76-4de2-a3e4-7b86b0ce7740.jpeg",
+      "original": "https://strgimgr.umico.az/img/category/original/1ee8150e-cd76-4de2-a3e4-7b86b0ce7740.jpeg"
+    },
+    "is_active": true
+  },
+  "offers": [
+    {
+      "uuid": "dcccce16-b440-4305-a889-adef4bfe7700",
+      "installment_enabled": true,
+      "max_installment_months": 3,
+      "product_offer_labels": [],
+      "old_price": 1540,
+      "retail_price": 1309,
+      "supplier_id": "5b9e0de1-e764-4aee-a0e0-c40d6b28ca2b",
+      "seller": {
+        "ext_id": "6bd6e42f-6cd5-43f4-84cf-c135437559c8",
+        "internal_id": 6701,
+        "marketing_name": {
+          "id": 6701,
+          "name": "FANTOM"
+        },
+        "logo": {
+          "thumbnail": "https://storage.umico.az/cpcustomerprod01/7c1dc9fecaa81dc9d076508e2635c26a.png"
+        },
+        "vat_payer": true,
+        "rating": 93,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "allow_qty": 0
+    },
+    {
+      "uuid": "349126cb-b606-41d2-9647-e8e865387871",
+      "installment_enabled": true,
+      "max_installment_months": 3,
+      "product_offer_labels": [],
+      "old_price": 1399,
+      "retail_price": 1029,
+      "supplier_id": "711aaf56-57e9-4585-9d49-7efc71a578da",
+      "seller": {
+        "ext_id": "0271a403-015b-407e-9ac8-cbc31f74d143",
+        "internal_id": 7395,
+        "marketing_name": {
+          "id": 7395,
+          "name": "World Baku"
+        },
+        "logo": {
+          "thumbnail": "https://storage.umico.az/cpcustomerprod01/6bda80b96962295388a292105b6acf89.jpg"
+        },
+        "vat_payer": true,
+        "rating": 100,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "allow_qty": 0
+    },
+    {
+      "uuid": "94b99c10-a300-4111-9f1f-dd2b6e2da98f",
+      "installment_enabled": true,
+      "max_installment_months": 3,
+      "product_offer_labels": [],
+      "old_price": 1350,
+      "retail_price": 1119,
+      "supplier_id": "d5f4f5c4-6c17-46a1-9cdb-698169c186dc",
+      "seller": {
+        "ext_id": "28de2816-09cb-47c0-b7b8-ae9b0bed0b94",
+        "internal_id": 12380,
+        "marketing_name": {
+          "id": 12380,
+          "name": "Techno Home"
+        },
+        "logo": {
+          "thumbnail": ""
+        },
+        "vat_payer": false,
+        "rating": 75,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "allow_qty": 0
+    },
+    {
+      "uuid": "f718f3d6-3c35-4bbc-b553-5c8708ea4974",
+      "installment_enabled": true,
+      "max_installment_months": 12,
+      "product_offer_labels": [],
+      "old_price": 1876,
+      "retail_price": 1594,
+      "supplier_id": "61352dec-1321-4b00-ae62-96fbfc007760",
+      "seller": {
+        "ext_id": "a9ecfcb2-b17c-4e8c-91ff-77c548290c49",
+        "internal_id": 2521,
+        "marketing_name": {
+          "id": 2521,
+          "name": "Shahin Electronics"
+        },
+        "logo": {
+          "thumbnail": "https://storage.umico.az/cpcustomerprod01/e8e141709906ddf3106796786a750b33.jpg"
+        },
+        "vat_payer": true,
+        "rating": 97,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "allow_qty": 0
+    },
+    {
+      "uuid": "f4251542-f25d-472c-ae8f-5363a5c1abc1",
+      "installment_enabled": true,
+      "max_installment_months": 18,
+      "product_offer_labels": [],
+      "old_price": 4000,
+      "retail_price": 1999,
+      "supplier_id": "e9ab9dd4-04d1-434e-8f7f-1ff3f1e638e3",
+      "seller": {
+        "ext_id": "aaac1b3e-d781-4748-a51b-5f50376c563d",
+        "internal_id": 14806,
+        "marketing_name": {
+          "id": 14806,
+          "name": "Leena Home"
+        },
+        "logo": {
+          "thumbnail": "https://storage.umico.az/cpcustomerprod01/cb2e6f98549adc55ffa21dcaf6065b7a.jpg"
+        },
+        "vat_payer": false,
+        "rating": 94,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "allow_qty": 0
+    },
+    {
+      "uuid": "0ea4df79-0e3a-4689-a3a9-7e66ebb4ab02",
+      "installment_enabled": true,
+      "max_installment_months": 18,
+      "product_offer_labels": [],
+      "old_price": 1399,
+      "retail_price": 999,
+      "supplier_id": "58bbca72-e4ee-49da-b551-8f8432474cc5",
+      "seller": {
+        "ext_id": "c543c938-9dff-4b47-9e64-067d0608c0d2",
+        "internal_id": 15978,
+        "marketing_name": {
+          "id": 15978,
+          "name": "Myrobot.az Home"
+        },
+        "logo": {
+          "thumbnail": ""
+        },
+        "vat_payer": false,
+        "rating": 94,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "allow_qty": 0
+    },
+    {
+      "uuid": "6bde09b7-397b-4234-b0bf-2c2a87c66148",
+      "installment_enabled": true,
+      "max_installment_months": 3,
+      "product_offer_labels": [],
+      "old_price": 1799,
+      "retail_price": 1099,
+      "supplier_id": "1391e7b4-ca77-4cd2-b0a7-58387beba187",
+      "seller": {
+        "ext_id": "044bd5cf-76c9-47db-85dd-24ece7238cad",
+        "internal_id": 10672,
+        "marketing_name": {
+          "id": 10672,
+          "name": "Royal Luxury"
+        },
+        "logo": {
+          "thumbnail": ""
+        },
+        "vat_payer": true,
+        "rating": 88,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "allow_qty": 0
+    },
+    {
+      "uuid": "fb892806-3e37-4b42-b528-2e380452b49c",
+      "installment_enabled": true,
+      "max_installment_months": 18,
+      "product_offer_labels": [],
+      "old_price": 0,
+      "retail_price": 1899.05,
+      "supplier_id": "dd9e659c-cd08-43cb-8ea6-9ee786e6e196",
+      "seller": {
+        "ext_id": "55e16594-389e-43e1-a9d0-c90b02fd8274",
+        "internal_id": 17154,
+        "marketing_name": {
+          "id": 17154,
+          "name": "KERA-GROUP"
+        },
+        "logo": {
+          "thumbnail": ""
+        },
+        "vat_payer": false,
+        "rating": 95,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "allow_qty": 0
+    },
+    {
+      "uuid": "69480455-ce21-4f4d-8812-808244c1cfbb",
+      "installment_enabled": true,
+      "max_installment_months": 3,
+      "product_offer_labels": [],
+      "old_price": 1399,
+      "retail_price": 1029,
+      "supplier_id": "6908a008-ada7-4985-829f-a0ca779e3a7f",
+      "seller": {
+        "ext_id": "4ae175ab-a146-42d0-8853-9520003be506",
+        "internal_id": 9936,
+        "marketing_name": {
+          "id": 9936,
+          "name": "Almaspaceaz"
+        },
+        "logo": {
+          "thumbnail": ""
+        },
+        "vat_payer": true,
+        "rating": 87,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "allow_qty": 0
+    },
+    {
+      "uuid": "301bd4d8-8a10-4102-99bf-0940dd1bc4b1",
+      "installment_enabled": true,
+      "max_installment_months": 12,
+      "product_offer_labels": [],
+      "old_price": 1995.99,
+      "retail_price": 1100,
+      "supplier_id": "aa7ef8e1-f1bf-4e59-b1ef-e401b7efe6ea",
+      "seller": {
+        "ext_id": "ab5d75f3-2a28-439e-8853-cda8d216acf9",
+        "internal_id": 5247,
+        "marketing_name": {
+          "id": 5247,
+          "name": "MOBİ ROOM"
+        },
+        "logo": {
+          "thumbnail": ""
+        },
+        "vat_payer": false,
+        "rating": 92,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "allow_qty": 0
+    },
+    {
+      "uuid": "aec77d6c-92d6-493f-b0f8-871ab344e4e2",
+      "installment_enabled": true,
+      "max_installment_months": 18,
+      "product_offer_labels": [],
+      "old_price": 4000,
+      "retail_price": 1999,
+      "supplier_id": "66f818a0-aa69-458c-9199-c3cd050f379d",
+      "seller": {
+        "ext_id": "3b4bee98-fb65-4e63-b56c-bab0bd26fcb6",
+        "internal_id": 3625,
+        "marketing_name": {
+          "id": 3625,
+          "name": "Ra Brend"
+        },
+        "logo": {
+          "thumbnail": "https://storage.umico.az/cpcustomerprod01/a8aa4d77bdf2cb87035378158b989638.jpg"
+        },
+        "vat_payer": false,
+        "rating": 93,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "allow_qty": 0
+    },
+    {
+      "uuid": "a24cd7b2-acc5-44b9-b6fe-a37a7ed6295b",
+      "installment_enabled": true,
+      "max_installment_months": 18,
+      "product_offer_labels": [],
+      "old_price": 1399,
+      "retail_price": 1069,
+      "supplier_id": "1cc047db-aab9-4f48-ae79-3d48880dcf2f",
+      "seller": {
+        "ext_id": "a1f01258-5966-4690-a22c-cbcb7bd24e5d",
+        "internal_id": 4419,
+        "marketing_name": {
+          "id": 4419,
+          "name": "ROYAL PHONE BAKU"
+        },
+        "logo": {
+          "thumbnail": "https://storage.umico.az/cpcustomerprod01/e173d7cd0b38c072d3f79786126575d5.jpeg"
+        },
+        "vat_payer": true,
+        "rating": 100,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "allow_qty": 0
+    },
+    {
+      "uuid": "0d64d7c6-717b-4994-a0bf-28ba3f265eae",
+      "installment_enabled": true,
+      "max_installment_months": 18,
+      "product_offer_labels": [],
+      "old_price": 3400,
+      "retail_price": 969.99,
+      "supplier_id": "0f8a5fc3-391e-4b33-9b09-c954c2df4c92",
+      "seller": {
+        "ext_id": "1836efc4-2fd2-4b1e-b930-9803c8a0cc09",
+        "internal_id": 16938,
+        "marketing_name": {
+          "id": 16938,
+          "name": "Birmall Shop"
+        },
+        "logo": {
+          "thumbnail": ""
+        },
+        "vat_payer": false,
+        "rating": 80,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "allow_qty": 0
+    },
+    {
+      "uuid": "13f08737-c703-44f2-a3e9-95a5697fdc36",
+      "installment_enabled": true,
+      "max_installment_months": 3,
+      "product_offer_labels": [],
+      "old_price": 1580.99,
+      "retail_price": 1116.5,
+      "supplier_id": "08efecf5-1ebd-4308-83d1-90556dd64be9",
+      "seller": {
+        "ext_id": "7f7bb32b-14c6-4485-9dac-1b78a114e140",
+        "internal_id": 2189,
+        "marketing_name": {
+          "id": 2189,
+          "name": "Texno Home"
+        },
+        "logo": {
+          "thumbnail": "https://storage.umico.az/cpcustomerprod01/0d9a9e502354fbf0c8dc605bb52591e9.jpg"
+        },
+        "vat_payer": true,
+        "rating": 98,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "allow_qty": 0
+    },
+    {
+      "uuid": "bcbd33f9-eb19-4681-9bfd-6b3b186a27e0",
+      "installment_enabled": true,
+      "max_installment_months": 18,
+      "product_offer_labels": [],
+      "old_price": 0,
+      "retail_price": 1100,
+      "supplier_id": "19478e2f-e5c1-4b2c-b419-463f1ccfe07a",
+      "seller": {
+        "ext_id": "bcf3be9e-16fd-4c54-b4f3-b5efc2299251",
+        "internal_id": 12599,
+        "marketing_name": {
+          "id": 12599,
+          "name": "BOMA Electronics"
+        },
+        "logo": {
+          "thumbnail": ""
+        },
+        "vat_payer": false,
+        "rating": 96,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "allow_qty": 0
+    },
+    {
+      "uuid": "330918fa-6197-4c37-b031-a655569137d5",
+      "installment_enabled": true,
+      "max_installment_months": 3,
+      "product_offer_labels": [],
+      "old_price": 1050,
+      "retail_price": 970,
+      "supplier_id": "09688ba9-410c-459e-8dcd-d3bd2218330e",
+      "seller": {
+        "ext_id": "66b3a568-7b16-4ba5-bd42-61584000cbeb",
+        "internal_id": 6226,
+        "marketing_name": {
+          "id": 6226,
+          "name": "Prestige Accessories"
+        },
+        "logo": {
+          "thumbnail": "https://storage.umico.az/cpcustomerprod01/54b8f18dcbc06ed2aad068fdcb87f2bb.png"
+        },
+        "vat_payer": false,
+        "rating": 77,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "allow_qty": 0
+    },
+    {
+      "uuid": "6a953f59-fc0e-49da-a9e7-6f315232e319",
+      "installment_enabled": true,
+      "max_installment_months": 3,
+      "product_offer_labels": [],
+      "old_price": 1399,
+      "retail_price": 1029,
+      "supplier_id": "eb340397-c8b9-4259-ac1f-774128fc57e3",
+      "seller": {
+        "ext_id": "3b46456f-d06e-42d9-ace7-1469b9632eb7",
+        "internal_id": 6848,
+        "marketing_name": {
+          "id": 6848,
+          "name": "Almagatebaku"
+        },
+        "logo": {
+          "thumbnail": "https://storage.umico.az/cpcustomerprod01/c1d9fe3146cc0785d8b08803674628c3.png"
+        },
+        "vat_payer": true,
+        "rating": 91,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "allow_qty": 0
+    },
+    {
+      "uuid": "f1523f8e-a002-4d24-b467-69157e41ef36",
+      "installment_enabled": true,
+      "max_installment_months": 18,
+      "product_offer_labels": [],
+      "old_price": 4000,
+      "retail_price": 1999,
+      "supplier_id": "954659fc-bef1-44ed-ac5f-cea2baaa7ce0",
+      "seller": {
+        "ext_id": "8f17078a-2dd7-4a6d-a620-1cb6357a9f69",
+        "internal_id": 15531,
+        "marketing_name": {
+          "id": 15531,
+          "name": "GO Play"
+        },
+        "logo": {
+          "thumbnail": "https://storage.umico.az/cpcustomerprod01/739d071d91e56e08e80b196ed3a59872.jpg"
+        },
+        "vat_payer": false,
+        "rating": 97,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "allow_qty": 0
+    },
+    {
+      "uuid": "967512b1-dfd4-40d4-b401-08d1e7ed768e",
+      "installment_enabled": true,
+      "max_installment_months": 3,
+      "product_offer_labels": [],
+      "old_price": 1050,
+      "retail_price": 970,
+      "supplier_id": "ea78eb7f-eae2-4118-89f5-6c44eb945733",
+      "seller": {
+        "ext_id": "faa23598-f53b-4d85-9947-481047c77c46",
+        "internal_id": 8832,
+        "marketing_name": {
+          "id": 8832,
+          "name": "ipoint baku"
+        },
+        "logo": {
+          "thumbnail": "https://storage.umico.az/cpcustomerprod01/5f403b90673d54357c93c39beaaeef41.jpg"
+        },
+        "vat_payer": false,
+        "rating": 88,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "allow_qty": 0
+    },
+    {
+      "uuid": "7ab2da0e-53f4-4131-a522-3cea184845dd",
+      "installment_enabled": true,
+      "max_installment_months": 18,
+      "product_offer_labels": [],
+      "old_price": 2299,
+      "retail_price": 1200,
+      "supplier_id": "01024c85-dee6-4821-b539-6f4bdb962655",
+      "seller": {
+        "ext_id": "6cb75d76-6655-4932-9c04-ff303ed113a9",
+        "internal_id": 10956,
+        "marketing_name": {
+          "id": 10956,
+          "name": "Wolta Electronics"
+        },
+        "logo": {
+          "thumbnail": "https://storage.umico.az/cpcustomerprod01/88ce1e4a315517bb0d437e66478f3d77.jpg"
+        },
+        "vat_payer": false,
+        "rating": 90,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "allow_qty": 0
+    },
+    {
+      "uuid": "77840c0c-0528-49e1-a427-0eb923a9c945",
+      "installment_enabled": true,
+      "max_installment_months": 3,
+      "product_offer_labels": [],
+      "old_price": 1399,
+      "retail_price": 1029,
+      "supplier_id": "04fe7e9e-5ac8-47d9-b719-2faf052e3153",
+      "seller": {
+        "ext_id": "ca36d5ea-963f-461f-96cf-d629fa632791",
+        "internal_id": 9993,
+        "marketing_name": {
+          "id": 9993,
+          "name": "Almacenterbaku"
+        },
+        "logo": {
+          "thumbnail": ""
+        },
+        "vat_payer": true,
+        "rating": 86,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "allow_qty": 0
+    },
+    {
+      "uuid": "618f8d8c-558b-4971-aae5-c5876ed610ec",
+      "installment_enabled": true,
+      "max_installment_months": 3,
+      "product_offer_labels": [],
+      "old_price": 1050,
+      "retail_price": 970,
+      "supplier_id": "0490693a-ded8-4b35-9b81-f213bcc3973e",
+      "seller": {
+        "ext_id": "6e52b264-5f39-42ce-a30a-382a4530a9ab",
+        "internal_id": 5966,
+        "marketing_name": {
+          "id": 5966,
+          "name": "iMarket Baku"
+        },
+        "logo": {
+          "thumbnail": "https://storage.umico.az/cpcustomerprod01/a4e39c0f3f69acdb9c989b26492369e4.png"
+        },
+        "vat_payer": false,
+        "rating": 94,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "allow_qty": 0
+    },
+    {
+      "uuid": "9691a58c-3487-490f-8304-652a6e3cd615",
+      "installment_enabled": true,
+      "max_installment_months": 3,
+      "product_offer_labels": [],
+      "old_price": 1050,
+      "retail_price": 970,
+      "supplier_id": "5ca0b297-f90c-4b49-917f-2aab17f9ea98",
+      "seller": {
+        "ext_id": "7c23d2ae-d9e0-4a9b-828d-6f626ec91775",
+        "internal_id": 3291,
+        "marketing_name": {
+          "id": 3291,
+          "name": "Narinci store"
+        },
+        "logo": {
+          "thumbnail": "https://storage.umico.az/cpcustomerprod01/b26c157f175ad80d8936b7fb4c20430b.jpg"
+        },
+        "vat_payer": false,
+        "rating": 94,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "allow_qty": 0
+    }
+  ],
+  "variations": [
+    {
+      "id": 1244329,
+      "name": "Qəhvə maşını Delonghi Magnifica ECAM 290.81.TB EX:1",
+      "slugged_name": "qehve-mashini-delonghi-ecam-290-81-tb-ex-1",
+      "custom_fields": [
+        {
+          "master_field_id": 817,
+          "values": [
+            "Boz"
+          ]
+        }
+      ],
+      "main_img": {
+        "big": "https://strgimgr.umico.az/img/product/1680/f35c09fd-f6d5-42b5-8ad1-c499eaeabcab.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/f35c09fd-f6d5-42b5-8ad1-c499eaeabcab.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/f35c09fd-f6d5-42b5-8ad1-c499eaeabcab.jpeg"
+      },
+      "status": "active"
+    }
+  ],
+  "size_chart": {},
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "sku": 1244329,
+    "mpn": "250147IU25031422250",
+    "url": "https://birmarket.az/product/1244329-qehve-mashini-delonghi-ecam-290-81-tb-ex-1",
+    "name": "Qəhvə maşını Delonghi Magnifica ECAM 290.81.TB EX:1",
+    "image": [
+      "https://strgimgr.umico.az/img/product/1680/f35c09fd-f6d5-42b5-8ad1-c499eaeabcab.jpeg",
+      "https://strgimgr.umico.az/img/product/1680/7c274f4b-5cf4-4572-bbf0-fc922b741eb4.jpeg",
+      "https://strgimgr.umico.az/img/product/1680/c187beef-ee12-4ed3-a61f-f056ae3b2631.jpeg",
+      "https://strgimgr.umico.az/img/product/1680/8a524493-6253-42bc-a206-d3892d9b702c.jpeg",
+      "https://strgimgr.umico.az/img/product/1680/0963d3fc-e1e8-476a-ab4d-e7f628bd2433.jpeg",
+      "https://strgimgr.umico.az/img/product/1680/b0a60fb6-c900-4a3a-99e0-fffc59b6ea9f.jpeg",
+      "https://strgimgr.umico.az/img/product/1680/6dcd0070-679e-442c-a587-773ac47b9131.jpeg"
+    ],
+    "description": "De’Longhi Magnifica EVO ECAM 290.81.TB — ev üçün nəzərdə tutulmuş, tam avtomatik qəhvəbişirici aparatıdır. O, bir düymə ilə espresso, cappuccino, latte macchiato və digər içkiləri hazırlaya bilir. İstifadəçi rahatlığı üçün sensorlu idarəetmə paneli ilə təchiz olunub. LatteCrema texnologiyası sayəsində qalın və kremli süd köpüyü hazırlayır. Sökülə bilən südlük və su çəni təmizliyi asanlaşdırır. Müxtəlif zövqlərə uyğun olaraq qəhvənin temperaturunu və gücünü tənzimləmək mümkündür.\n\nƏsas üstünlükləri:\n\n7 fərqli içki bir toxunuşla\n\n1.8 litrlik su çəni\n\nQəhvə dənəsi və üyüdülmüş qəhvə ilə işləyir\n\n1450 Vt güc və 15 bar təzyiq\n\nSüd üçün LatteCrema sistemi\n\nAvtomatik təmizləmə və kireçdən təmizləmə funksiyası",
+    "itemCondition": "https://schema.org/NewCondition",
+    "offers": {
+      "@type": "AggregateOffer",
+      "availability": "https://schema.org/InStock",
+      "offerCount": 23,
+      "highPrice": 1999,
+      "lowPrice": 969.99,
+      "priceCurrency": "AZN",
+      "hasMerchantReturnPolicy": {
+        "applicableCountry": "AZ",
+        "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+        "returnMethod": "https://schema.org/ReturnInStore",
+        "returnFees": "https://schema.org/FreeReturn",
+        "merchantReturnDays": 14
+      },
+      "shippingDetails": {
+        "@type": "OfferShippingDetails",
+        "shippingDestination": {
+          "@type": "DefinedRegion",
+          "addressCountry": "AZ"
+        },
+        "deliveryTime": {
+          "@type": "ShippingDeliveryTime",
+          "handlingTime": {
+            "@type": "QuantitativeValue",
+            "minValue": 0,
+            "maxValue": 1,
+            "unitCode": "DAY"
+          },
+          "transitTime": {
+            "@type": "QuantitativeValue",
+            "minValue": 0,
+            "maxValue": 1,
+            "unitCode": "DAY"
+          },
+          "businessDays": {
+            "@type": "OpeningHoursSpecification",
+            "dayOfWeek": [
+              "https://schema.org/Monday",
+              "https://schema.org/Tuesday",
+              "https://schema.org/Wednesday",
+              "https://schema.org/Thursday",
+              "https://schema.org/Friday",
+              "https://schema.org/Saturday",
+              "https://schema.org/Sunday"
+            ]
+          }
+        },
+        "shippingRate": {
+          "@type": "MonetaryAmount",
+          "value": 0,
+          "currency": "AZN"
+        }
+      }
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": 5,
+      "reviewCount": 3
+    },
+    "brand": {
+      "@type": "Brand",
+      "name": "DeLonghi",
+      "url": "https://birmarket.az/brands/DeLonghi"
+    }
+  }
+}

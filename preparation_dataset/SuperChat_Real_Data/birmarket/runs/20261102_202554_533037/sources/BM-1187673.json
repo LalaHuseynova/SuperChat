@@ -1,0 +1,575 @@
+{
+  "product": {
+    "id": 1187673,
+    "gtin": "7690000023593",
+    "mpn": "",
+    "name": "Qəhvəbişirən Super Crest SCT-4035 - 7690000023593",
+    "slugged_name_az": "qehvebishiren-super-crest-sct-4035-7690000023593",
+    "slugged_name_ru": "kofevarka-super-crest-sct-4035-7690000023593",
+    "description": "Super Crest SCT-4035. Avtomatik söndürmə funksiyası ilə yandırma/söndürmə düyməsi; 4 fincan tutumu; 275 ml su çəni; Daşqın mühafizə sistemi; Aşağı istilikdə mükəmməl dəmləmə; Yuyula bilən dizayn",
+    "description_outlet": "",
+    "status": "active",
+    "uuid": "3dab733b-a21d-472a-8054-29f55edba057",
+    "variant_code": "VC_1187673",
+    "default_offer": {
+      "uuid": "0d79a991-0588-46df-8b77-4fea7f2fcbe2",
+      "installment_enabled": true,
+      "max_installment_months": 18,
+      "product_offer_labels": [],
+      "old_price": 78.34,
+      "retail_price": 54.84,
+      "supplier_id": "46e582e2-c520-43db-a138-a5492a09dc6f",
+      "qty": 0,
+      "seller": {
+        "ext_id": "46e582e2-c520-43db-a138-a5492a09dc6f",
+        "marketing_name": {
+          "id": 7582,
+          "name": "ELHome"
+        },
+        "logo": {
+          "thumbnail": "https://storage.umico.az/cpcustomerprod01/2aa8bd346ece980de12e7e0271882962.jpg"
+        },
+        "vat_payer": false,
+        "rating": 75,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "discount_effective_start_date": "",
+      "discount_effective_end_date": ""
+    },
+    "category_id": 143,
+    "category": {
+      "id": 143,
+      "name": "Qəhvəbişirənlər və qəhvə maşınları"
+    },
+    "brand": {
+      "name": "Super Crest"
+    },
+    "custom_fields": [
+      {
+        "master_field_id": 973,
+        "values": [
+          "Türk qəhvəsi"
+        ]
+      },
+      {
+        "master_field_id": 798,
+        "values": [
+          "400"
+        ]
+      },
+      {
+        "master_field_id": 908,
+        "values": [
+          "0.275"
+        ]
+      },
+      {
+        "master_field_id": 817,
+        "values": [
+          "Qırmızı"
+        ]
+      },
+      {
+        "master_field_id": 974,
+        "values": [
+          "Üyüdülmüş"
+        ]
+      },
+      {
+        "master_field_id": 875,
+        "values": [
+          "Elektron"
+        ]
+      },
+      {
+        "master_field_id": 635,
+        "values": [
+          "Məişət"
+        ]
+      },
+      {
+        "master_field_id": 977,
+        "values": [
+          "Xeyr"
+        ]
+      },
+      {
+        "master_field_id": 708,
+        "values": [
+          "Plastik",
+          "Metal"
+        ]
+      },
+      {
+        "master_field_id": 1205,
+        "values": [
+          "28"
+        ]
+      },
+      {
+        "master_field_id": 1206,
+        "values": [
+          "24"
+        ]
+      },
+      {
+        "master_field_id": 656,
+        "values": [
+          "1"
+        ]
+      },
+      {
+        "master_field_id": 618,
+        "values": [
+          "Çin"
+        ]
+      },
+      {
+        "master_field_id": 2210,
+        "values": [
+          "Çin"
+        ]
+      }
+    ],
+    "main_img": {
+      "big": "https://strgimgr.umico.az/img/product/1680/22f6d172-fa7b-4740-b5ce-bc0a4c0c130b.jpeg",
+      "medium": "https://strgimgr.umico.az/img/product/840/22f6d172-fa7b-4740-b5ce-bc0a4c0c130b.jpeg",
+      "small": "https://strgimgr.umico.az/img/product/280/22f6d172-fa7b-4740-b5ce-bc0a4c0c130b.jpeg"
+    },
+    "img_url_thumbnail": "https://strgimgr.umico.az/img/product/280/22f6d172-fa7b-4740-b5ce-bc0a4c0c130b.jpeg",
+    "main_video": "",
+    "imgs": [
+      {
+        "big": "https://strgimgr.umico.az/img/product/1680/22f6d172-fa7b-4740-b5ce-bc0a4c0c130b.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/22f6d172-fa7b-4740-b5ce-bc0a4c0c130b.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/22f6d172-fa7b-4740-b5ce-bc0a4c0c130b.jpeg"
+      },
+      {
+        "big": "https://strgimgr.umico.az/img/product/1680/2c90eb7f-05df-4bcd-818a-3fd442a6d9e2.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/2c90eb7f-05df-4bcd-818a-3fd442a6d9e2.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/2c90eb7f-05df-4bcd-818a-3fd442a6d9e2.jpeg"
+      },
+      {
+        "big": "https://strgimgr.umico.az/img/product/1680/ef636381-afb0-4bf5-a0fc-f861aa5b37de.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/ef636381-afb0-4bf5-a0fc-f861aa5b37de.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/ef636381-afb0-4bf5-a0fc-f861aa5b37de.jpeg"
+      }
+    ],
+    "videos": [],
+    "min_qty": 1,
+    "preorder_available": false,
+    "is_assortment": false,
+    "is_bulk_heavy": false,
+    "is_refurbished": false,
+    "is_refundable": true,
+    "is_dangerous": false,
+    "show_tech_description": false,
+    "use_external_content": true,
+    "product_labels": [],
+    "ratings": {
+      "rating_value": 5,
+      "assessment_id": 0,
+      "session_count": 2,
+      "review_count": 2
+    },
+    "default_show_stock_qty_threshold": 0,
+    "card_type": "public"
+  },
+  "category": {
+    "id": 143,
+    "name": "Qəhvəbişirənlər və qəhvə maşınları",
+    "slugged_name_az": "qehvedanlar-qehve-mashinlari",
+    "slugged_name_ru": "kofevarki-kofemashiny",
+    "view_mode": "products",
+    "mobile_visual_mode": "text",
+    "is_variant": true,
+    "depth": 3,
+    "parent_id": 139,
+    "child_ids": [],
+    "node_type": "NODE",
+    "install_service_needed": false,
+    "fitting_allowed": false,
+    "vat": true,
+    "variations": [
+      {
+        "master_field_id": 817,
+        "name": "Korpusun rəngi",
+        "variation_tool_type": "default",
+        "has_size_chart": false,
+        "display_variant": false
+      }
+    ],
+    "custom_fields": [
+      {
+        "master_field_id": 973,
+        "category_master_field_id": 2227,
+        "name": "Qəhvəbişiricinin növü"
+      },
+      {
+        "master_field_id": 908,
+        "category_master_field_id": 2229,
+        "name": "Həcm, L"
+      },
+      {
+        "master_field_id": 4478,
+        "category_master_field_id": 45468,
+        "name": "Süd köpürdücü"
+      },
+      {
+        "master_field_id": 974,
+        "category_master_field_id": 2228,
+        "name": "İstifadə edilən qəhvə növü"
+      },
+      {
+        "master_field_id": 798,
+        "category_master_field_id": 5135,
+        "name": "Güc, Vt"
+      },
+      {
+        "master_field_id": 817,
+        "category_master_field_id": 9224,
+        "name": "Korpusun rəngi"
+      },
+      {
+        "master_field_id": 2211,
+        "category_master_field_id": 9241,
+        "name": "Zəmanət müddəti"
+      },
+      {
+        "master_field_id": 875,
+        "category_master_field_id": 5139,
+        "name": "İdarəetmə növü"
+      },
+      {
+        "master_field_id": 635,
+        "category_master_field_id": 2226,
+        "name": "Təyinatı"
+      },
+      {
+        "master_field_id": 976,
+        "category_master_field_id": 2231,
+        "name": "Pompanın təzyiqi, bar"
+      },
+      {
+        "master_field_id": 977,
+        "category_master_field_id": 2232,
+        "name": "İki fıncanın eyni vaxtda hazırlanması"
+      },
+      {
+        "master_field_id": 2219,
+        "category_master_field_id": 9221,
+        "name": "Porsiyalar sayı"
+      },
+      {
+        "master_field_id": 2220,
+        "category_master_field_id": 9222,
+        "name": "Qəhvə bölməsi, q"
+      },
+      {
+        "master_field_id": 2221,
+        "category_master_field_id": 9223,
+        "name": "Tullantı bölməsi (porsiyalar)"
+      },
+      {
+        "master_field_id": 2222,
+        "category_master_field_id": 9225,
+        "name": "Filtr növü"
+      },
+      {
+        "master_field_id": 2223,
+        "category_master_field_id": 9226,
+        "name": "Qızdırıcının növü"
+      },
+      {
+        "master_field_id": 2070,
+        "category_master_field_id": 9227,
+        "name": "Əlavə xüsusiyyətlər"
+      },
+      {
+        "master_field_id": 941,
+        "category_master_field_id": 9228,
+        "name": "Taymer"
+      },
+      {
+        "master_field_id": 1914,
+        "category_master_field_id": 9229,
+        "name": "Göstərici"
+      },
+      {
+        "master_field_id": 2224,
+        "category_master_field_id": 9230,
+        "name": "Hazır reseptlər"
+      },
+      {
+        "master_field_id": 708,
+        "category_master_field_id": 5137,
+        "name": "Korpusun materialı"
+      },
+      {
+        "master_field_id": 2225,
+        "category_master_field_id": 9231,
+        "name": "Borunun material"
+      },
+      {
+        "master_field_id": 2226,
+        "category_master_field_id": 9232,
+        "name": "Avtomatik təmizlənmə"
+      },
+      {
+        "master_field_id": 2802,
+        "category_master_field_id": 13800,
+        "name": "Avtomatik söndürülmə"
+      },
+      {
+        "master_field_id": 1044,
+        "category_master_field_id": 9234,
+        "name": "Damlama əleyhinə sistem"
+      },
+      {
+        "master_field_id": 975,
+        "category_master_field_id": 2230,
+        "name": "Quraşdırılan texnika"
+      },
+      {
+        "master_field_id": 1205,
+        "category_master_field_id": 9235,
+        "name": "Hündürlüyü, sm"
+      },
+      {
+        "master_field_id": 1206,
+        "category_master_field_id": 9236,
+        "name": "Eni, sm"
+      },
+      {
+        "master_field_id": 1448,
+        "category_master_field_id": 9237,
+        "name": "Dərinliyi, sm"
+      },
+      {
+        "master_field_id": 656,
+        "category_master_field_id": 9238,
+        "name": "Çəki, kq"
+      },
+      {
+        "master_field_id": 618,
+        "category_master_field_id": 5136,
+        "name": "İstehsalçı ölkə"
+      },
+      {
+        "master_field_id": 2210,
+        "category_master_field_id": 9239,
+        "name": "Brendin ölkəsi"
+      },
+      {
+        "master_field_id": 697,
+        "category_master_field_id": 9240,
+        "name": "Komplektasiya"
+      }
+    ],
+    "parent": {
+      "id": 139,
+      "node_type": "NODE",
+      "name": "Mətbəx üçün kiçik məişət texnikası",
+      "slugged_name": "metbex-uchun-kichik-meishet-texnikasi",
+      "parent": {
+        "id": 106,
+        "node_type": "NODE",
+        "name": "Məişət texnikası",
+        "slugged_name": "meishet-texnikasi",
+        "parent": {
+          "id": 1,
+          "node_type": "NODE",
+          "name": "Elektronika və məişət texnikası",
+          "slugged_name": "elektronika-ve-meishet-texnikasi",
+          "parent": null
+        }
+      }
+    },
+    "is_refundable": true,
+    "is_adult": false,
+    "icons": {
+      "thumbnail": "https://strgimgr.umico.az/img/category/188/1ee8150e-cd76-4de2-a3e4-7b86b0ce7740.jpeg",
+      "original": "https://strgimgr.umico.az/img/category/original/1ee8150e-cd76-4de2-a3e4-7b86b0ce7740.jpeg"
+    },
+    "is_active": true
+  },
+  "offers": [
+    {
+      "uuid": "0d79a991-0588-46df-8b77-4fea7f2fcbe2",
+      "installment_enabled": true,
+      "max_installment_months": 18,
+      "product_offer_labels": [],
+      "old_price": 78.34,
+      "retail_price": 54.84,
+      "supplier_id": "46e582e2-c520-43db-a138-a5492a09dc6f",
+      "seller": {
+        "ext_id": "35b5e4e1-c1e4-4e95-bce2-39147d1774e1",
+        "internal_id": 7582,
+        "marketing_name": {
+          "id": 7582,
+          "name": "ELHome"
+        },
+        "logo": {
+          "thumbnail": "https://storage.umico.az/cpcustomerprod01/2aa8bd346ece980de12e7e0271882962.jpg"
+        },
+        "vat_payer": false,
+        "rating": 75,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "allow_qty": 0
+    },
+    {
+      "uuid": "29b2250d-2de2-4cc0-a8bd-e4fa1e0b95bc",
+      "installment_enabled": true,
+      "max_installment_months": 18,
+      "product_offer_labels": [],
+      "old_price": 80,
+      "retail_price": 60,
+      "supplier_id": "40604c7f-9d17-4394-a093-d6d3e426c69e",
+      "seller": {
+        "ext_id": "99d85528-be9e-4dc7-8593-ba675c676aa2",
+        "internal_id": 3157,
+        "marketing_name": {
+          "id": 3157,
+          "name": "DSP electronics"
+        },
+        "logo": {
+          "thumbnail": "https://storage.umico.az/cpcustomerprod01/f140ccbdabec11e39c420b01ee312e5c.jpg"
+        },
+        "vat_payer": false,
+        "rating": 75,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "allow_qty": 0
+    },
+    {
+      "uuid": "32738e8c-98e7-45bc-87b2-c22d76aa4944",
+      "installment_enabled": true,
+      "max_installment_months": 18,
+      "product_offer_labels": [],
+      "old_price": 88,
+      "retail_price": 54.85,
+      "supplier_id": "19478e2f-e5c1-4b2c-b419-463f1ccfe07a",
+      "seller": {
+        "ext_id": "bcf3be9e-16fd-4c54-b4f3-b5efc2299251",
+        "internal_id": 12599,
+        "marketing_name": {
+          "id": 12599,
+          "name": "BOMA Electronics"
+        },
+        "logo": {
+          "thumbnail": ""
+        },
+        "vat_payer": false,
+        "rating": 96,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "allow_qty": 0
+    }
+  ],
+  "variations": [
+    {
+      "id": 1187673,
+      "name": "Qəhvəbişirən Super Crest SCT-4035 - 7690000023593",
+      "slugged_name": "qehvebishiren-super-crest-sct-4035-7690000023593",
+      "custom_fields": [
+        {
+          "master_field_id": 817,
+          "values": [
+            "Qırmızı"
+          ]
+        }
+      ],
+      "main_img": {
+        "big": "https://strgimgr.umico.az/img/product/1680/22f6d172-fa7b-4740-b5ce-bc0a4c0c130b.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/22f6d172-fa7b-4740-b5ce-bc0a4c0c130b.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/22f6d172-fa7b-4740-b5ce-bc0a4c0c130b.jpeg"
+      },
+      "status": "active"
+    }
+  ],
+  "size_chart": {},
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "sku": 1187673,
+    "mpn": 1187673,
+    "url": "https://birmarket.az/product/1187673-qehvebishiren-super-crest-sct-4035-7690000023593",
+    "name": "Qəhvəbişirən Super Crest SCT-4035 - 7690000023593",
+    "image": [
+      "https://strgimgr.umico.az/img/product/1680/22f6d172-fa7b-4740-b5ce-bc0a4c0c130b.jpeg",
+      "https://strgimgr.umico.az/img/product/1680/2c90eb7f-05df-4bcd-818a-3fd442a6d9e2.jpeg",
+      "https://strgimgr.umico.az/img/product/1680/ef636381-afb0-4bf5-a0fc-f861aa5b37de.jpeg"
+    ],
+    "description": "Super Crest SCT-4035. Avtomatik söndürmə funksiyası ilə yandırma/söndürmə düyməsi; 4 fincan tutumu; 275 ml su çəni; Daşqın mühafizə sistemi; Aşağı istilikdə mükəmməl dəmləmə; Yuyula bilən dizayn",
+    "itemCondition": "https://schema.org/NewCondition",
+    "offers": {
+      "@type": "AggregateOffer",
+      "availability": "https://schema.org/InStock",
+      "offerCount": 3,
+      "highPrice": 60,
+      "lowPrice": 54.84,
+      "priceCurrency": "AZN",
+      "hasMerchantReturnPolicy": {
+        "applicableCountry": "AZ",
+        "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+        "returnMethod": "https://schema.org/ReturnInStore",
+        "returnFees": "https://schema.org/FreeReturn",
+        "merchantReturnDays": 14
+      },
+      "shippingDetails": {
+        "@type": "OfferShippingDetails",
+        "shippingDestination": {
+          "@type": "DefinedRegion",
+          "addressCountry": "AZ"
+        },
+        "deliveryTime": {
+          "@type": "ShippingDeliveryTime",
+          "handlingTime": {
+            "@type": "QuantitativeValue",
+            "minValue": 0,
+            "maxValue": 1,
+            "unitCode": "DAY"
+          },
+          "transitTime": {
+            "@type": "QuantitativeValue",
+            "minValue": 0,
+            "maxValue": 1,
+            "unitCode": "DAY"
+          },
+          "businessDays": {
+            "@type": "OpeningHoursSpecification",
+            "dayOfWeek": [
+              "https://schema.org/Monday",
+              "https://schema.org/Tuesday",
+              "https://schema.org/Wednesday",
+              "https://schema.org/Thursday",
+              "https://schema.org/Friday",
+              "https://schema.org/Saturday",
+              "https://schema.org/Sunday"
+            ]
+          }
+        },
+        "shippingRate": {
+          "@type": "MonetaryAmount",
+          "value": 0,
+          "currency": "AZN"
+        }
+      }
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": 5,
+      "reviewCount": 2
+    },
+    "brand": {
+      "@type": "Brand",
+      "name": "Super Crest",
+      "url": "https://birmarket.az/brands/Super%20Crest"
+    }
+  }
+}

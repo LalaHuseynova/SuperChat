@@ -1,0 +1,824 @@
+{
+  "product": {
+    "id": 1223462,
+    "gtin": "",
+    "mpn": "SE 3 BLACK/55037987",
+    "name": "Simsiz qulaqlıq Huawei FreeBuds SE 3 Black",
+    "slugged_name_az": "simsiz-qulaqliq-huawei-freebuds-se-3-black",
+    "slugged_name_ru": "besprovodnye-naushniki-huawei-freebuds-se-3-black",
+    "description": "Huawei FreeBuds SE 3 Black simsiz qulaqlıqları qabaqcıl texnologiyalara malik dəbdəbəli qulaqlıqlardır. Onlar keyfiyyətli stereo səs təmin edir və musiqidən əlavə naqillər olmadan zövq almağa imkan verir. Şum azaldıcı funksiyası sayəsində ətraf səs-küydən yayınmadan musiqi aləminə dalmaq imkanı əldə edirsiniz. Açıq akustik düzəni səsi təbii və dolğun edir. Daxili mikrofon zəng zamanı səsin dəqiq çatdırılmasını təmin edir. Qulaqlıqlar, Bluetooth ilə təmin edilərək cihazlara asan simsiz qoşulma imkanı yaradır. Müasir dizayn, qulaq seyvanında etibarlı bərkitmə və korpusun toz keçirməməsi aktiv həyat tərzi üçün mükəmməl seçimə çevirir. 9 saata qədər iş vaxtı bütün gün boyunca musiqi zövqü verir. Yalnız 33 qram ağırlığı ilə onları yüngül və istifadəsi rahat edir. Qara rəng qulaqlıqlara dəbli və modabaz görünüş verir.",
+    "description_outlet": "",
+    "status": "active",
+    "uuid": "c26b4971-61fe-4837-979d-091f37a56353",
+    "variant_code": "VC_1223462",
+    "default_offer": {
+      "uuid": "b56e93a5-02b0-4ed3-8a92-b1b96da6254a",
+      "installment_enabled": true,
+      "max_installment_months": 3,
+      "product_offer_labels": [],
+      "old_price": 0,
+      "retail_price": 93.96,
+      "supplier_id": "217b2604-2ea1-4855-bda3-9ce0add2dbf1",
+      "qty": 0,
+      "seller": {
+        "ext_id": "217b2604-2ea1-4855-bda3-9ce0add2dbf1",
+        "marketing_name": {
+          "id": 8399,
+          "name": "Minor Smart"
+        },
+        "logo": {
+          "thumbnail": "https://storage.umico.az/cpcustomerprod01/b166d3e558aea16abc9063a7a9ee5bf3.jpg"
+        },
+        "vat_payer": true,
+        "rating": 100,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "discount_effective_start_date": "",
+      "discount_effective_end_date": ""
+    },
+    "category_id": 6,
+    "category": {
+      "id": 6,
+      "name": "Qulaqlıqlar və qarniturlar"
+    },
+    "brand": {
+      "name": "Huawei"
+    },
+    "custom_fields": [
+      {
+        "master_field_id": 1476,
+        "values": [
+          "Huawei FreeBuds SE 3"
+        ]
+      },
+      {
+        "master_field_id": 628,
+        "values": [
+          "İçlik"
+        ]
+      },
+      {
+        "master_field_id": 629,
+        "values": [
+          "Simsiz"
+        ]
+      },
+      {
+        "master_field_id": 1568,
+        "values": [
+          "Bəli"
+        ]
+      },
+      {
+        "master_field_id": 633,
+        "values": [
+          "Type-C"
+        ]
+      },
+      {
+        "master_field_id": 678,
+        "values": [
+          "Bluetooth"
+        ]
+      },
+      {
+        "master_field_id": 657,
+        "values": [
+          "TWS"
+        ]
+      },
+      {
+        "master_field_id": 1574,
+        "values": [
+          "9"
+        ]
+      },
+      {
+        "master_field_id": 1140,
+        "values": [
+          "10"
+        ]
+      },
+      {
+        "master_field_id": 1570,
+        "values": [
+          "Stereo"
+        ]
+      },
+      {
+        "master_field_id": 631,
+        "values": [
+          "20"
+        ]
+      },
+      {
+        "master_field_id": 632,
+        "values": [
+          "20000"
+        ]
+      },
+      {
+        "master_field_id": 1840,
+        "values": [
+          "Açıq"
+        ]
+      },
+      {
+        "master_field_id": 1567,
+        "values": [
+          "Xeyr"
+        ]
+      },
+      {
+        "master_field_id": 1845,
+        "values": [
+          "Xeyr"
+        ]
+      },
+      {
+        "master_field_id": 1573,
+        "values": [
+          "2"
+        ]
+      },
+      {
+        "master_field_id": 1850,
+        "values": [
+          "Quraşdırılmış"
+        ]
+      },
+      {
+        "master_field_id": 870,
+        "values": [
+          "33"
+        ]
+      },
+      {
+        "master_field_id": 1838,
+        "values": [
+          "Düz"
+        ]
+      },
+      {
+        "master_field_id": 782,
+        "values": [
+          "10"
+        ]
+      },
+      {
+        "master_field_id": 3287,
+        "values": [
+          "Qulaq içi"
+        ]
+      },
+      {
+        "master_field_id": 625,
+        "values": [
+          "Qara"
+        ]
+      },
+      {
+        "master_field_id": 2552,
+        "values": [
+          "Toza davamlı"
+        ]
+      },
+      {
+        "master_field_id": 697,
+        "values": [
+          "Təlimat"
+        ]
+      },
+      {
+        "master_field_id": 2210,
+        "values": [
+          "Çin"
+        ]
+      },
+      {
+        "master_field_id": 618,
+        "values": [
+          "Çin"
+        ]
+      }
+    ],
+    "main_img": {
+      "big": "https://strgimgr.umico.az/img/product/1680/e659a60b-7090-4514-8ad2-e77d210aa48d.jpeg",
+      "medium": "https://strgimgr.umico.az/img/product/840/e659a60b-7090-4514-8ad2-e77d210aa48d.jpeg",
+      "small": "https://strgimgr.umico.az/img/product/280/e659a60b-7090-4514-8ad2-e77d210aa48d.jpeg"
+    },
+    "img_url_thumbnail": "https://strgimgr.umico.az/img/product/280/e659a60b-7090-4514-8ad2-e77d210aa48d.jpeg",
+    "main_video": "",
+    "imgs": [
+      {
+        "big": "https://strgimgr.umico.az/img/product/1680/e659a60b-7090-4514-8ad2-e77d210aa48d.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/e659a60b-7090-4514-8ad2-e77d210aa48d.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/e659a60b-7090-4514-8ad2-e77d210aa48d.jpeg"
+      },
+      {
+        "big": "https://strgimgr.umico.az/img/product/1680/7f684ee6-0d8d-48af-a20e-bb0241fff5c3.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/7f684ee6-0d8d-48af-a20e-bb0241fff5c3.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/7f684ee6-0d8d-48af-a20e-bb0241fff5c3.jpeg"
+      },
+      {
+        "big": "https://strgimgr.umico.az/img/product/1680/2141bc7e-4a09-44cf-b88f-042a6f6405fe.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/2141bc7e-4a09-44cf-b88f-042a6f6405fe.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/2141bc7e-4a09-44cf-b88f-042a6f6405fe.jpeg"
+      },
+      {
+        "big": "https://strgimgr.umico.az/img/product/1680/d9f5ea48-aab6-4358-ac70-033f5aad701c.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/d9f5ea48-aab6-4358-ac70-033f5aad701c.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/d9f5ea48-aab6-4358-ac70-033f5aad701c.jpeg"
+      },
+      {
+        "big": "https://strgimgr.umico.az/img/product/1680/fd9cab6f-c2b8-4a56-bcf5-7bcea5a3b3a6.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/fd9cab6f-c2b8-4a56-bcf5-7bcea5a3b3a6.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/fd9cab6f-c2b8-4a56-bcf5-7bcea5a3b3a6.jpeg"
+      },
+      {
+        "big": "https://strgimgr.umico.az/img/product/1680/ae58ecf3-48eb-45c8-a81b-f5310d0082ad.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/ae58ecf3-48eb-45c8-a81b-f5310d0082ad.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/ae58ecf3-48eb-45c8-a81b-f5310d0082ad.jpeg"
+      },
+      {
+        "big": "https://strgimgr.umico.az/img/product/1680/84ae8d13-e9c6-439f-9fc3-029699f62a9a.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/84ae8d13-e9c6-439f-9fc3-029699f62a9a.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/84ae8d13-e9c6-439f-9fc3-029699f62a9a.jpeg"
+      },
+      {
+        "big": "https://strgimgr.umico.az/img/product/1680/8cb47617-29b7-4eec-9a5b-196fbdc96316.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/8cb47617-29b7-4eec-9a5b-196fbdc96316.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/8cb47617-29b7-4eec-9a5b-196fbdc96316.jpeg"
+      },
+      {
+        "big": "https://strgimgr.umico.az/img/product/1680/ceececc0-afea-4dc9-8b68-24d2beb3753d.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/ceececc0-afea-4dc9-8b68-24d2beb3753d.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/ceececc0-afea-4dc9-8b68-24d2beb3753d.jpeg"
+      }
+    ],
+    "videos": [
+      ""
+    ],
+    "min_qty": 1,
+    "preorder_available": false,
+    "is_assortment": false,
+    "is_bulk_heavy": false,
+    "is_refurbished": false,
+    "is_refundable": true,
+    "is_dangerous": false,
+    "show_tech_description": false,
+    "use_external_content": false,
+    "product_labels": [],
+    "ratings": {
+      "rating_value": 4.8,
+      "assessment_id": 0,
+      "session_count": 4,
+      "score_count": 2,
+      "review_count": 2
+    },
+    "default_show_stock_qty_threshold": 0,
+    "card_type": "public"
+  },
+  "category": {
+    "id": 6,
+    "name": "Qulaqlıqlar və qarniturlar",
+    "slugged_name_az": "qulaqliqlar-ve-qarniturlar",
+    "slugged_name_ru": "naushniki-i-garnitury",
+    "view_mode": "products",
+    "mobile_visual_mode": "text",
+    "is_variant": true,
+    "depth": 2,
+    "parent_id": 2,
+    "child_ids": [],
+    "node_type": "NODE",
+    "install_service_needed": false,
+    "fitting_allowed": false,
+    "vat": true,
+    "variations": [
+      {
+        "master_field_id": 625,
+        "name": "Rəng",
+        "variation_tool_type": "image",
+        "has_size_chart": false,
+        "display_variant": false
+      }
+    ],
+    "custom_fields": [
+      {
+        "master_field_id": 1476,
+        "category_master_field_id": 10651,
+        "name": "Seriya"
+      },
+      {
+        "master_field_id": 628,
+        "category_master_field_id": 1455,
+        "name": "Qulaqlıq növü"
+      },
+      {
+        "master_field_id": 629,
+        "category_master_field_id": 1456,
+        "name": "Qoşulma tipi"
+      },
+      {
+        "master_field_id": 633,
+        "category_master_field_id": 1460,
+        "name": "Port tipi"
+      },
+      {
+        "master_field_id": 777,
+        "category_master_field_id": 45543,
+        "name": "Bluetooth standartı"
+      },
+      {
+        "master_field_id": 6487,
+        "category_master_field_id": 45544,
+        "name": "Aktiv səs-küyün boğulması (ANC)"
+      },
+      {
+        "master_field_id": 759,
+        "category_master_field_id": 4638,
+        "name": "Mikrofon"
+      },
+      {
+        "master_field_id": 1574,
+        "category_master_field_id": 4669,
+        "name": "İşləmə müddəti, saat"
+      },
+      {
+        "master_field_id": 2186,
+        "category_master_field_id": 45545,
+        "name": "Nəmə davamlı"
+      },
+      {
+        "master_field_id": 625,
+        "category_master_field_id": 4637,
+        "name": "Rəng"
+      },
+      {
+        "master_field_id": 2211,
+        "category_master_field_id": 10656,
+        "name": "Zəmanət müddəti"
+      },
+      {
+        "master_field_id": 1568,
+        "category_master_field_id": 4663,
+        "name": "Səs-küyün boğulması"
+      },
+      {
+        "master_field_id": 678,
+        "category_master_field_id": 10650,
+        "name": "Qoşulma interfeysi"
+      },
+      {
+        "master_field_id": 657,
+        "category_master_field_id": 4640,
+        "name": "Quruluş"
+      },
+      {
+        "master_field_id": 630,
+        "category_master_field_id": 1457,
+        "name": "Həssaslıq, dB"
+      },
+      {
+        "master_field_id": 631,
+        "category_master_field_id": 1458,
+        "name": "Minimal təkrarlanan tezlik, Hz"
+      },
+      {
+        "master_field_id": 632,
+        "category_master_field_id": 1459,
+        "name": "Maksimal təkrarlanan tezlik, Hz"
+      },
+      {
+        "master_field_id": 1838,
+        "category_master_field_id": 5557,
+        "name": "Port forması"
+      },
+      {
+        "master_field_id": 782,
+        "category_master_field_id": 4636,
+        "name": "Kabelin uzunluğu, m"
+      },
+      {
+        "master_field_id": 3287,
+        "category_master_field_id": 15468,
+        "name": "Qulaqlıqların bərkitməsi"
+      },
+      {
+        "master_field_id": 1840,
+        "category_master_field_id": 5559,
+        "name": "Akustik formalaşdırma"
+      },
+      {
+        "master_field_id": 1140,
+        "category_master_field_id": 15469,
+        "name": "Təsir radiusu, m"
+      },
+      {
+        "master_field_id": 1841,
+        "category_master_field_id": 5560,
+        "name": "Maksimal çıxış gücü, Vt"
+      },
+      {
+        "master_field_id": 1842,
+        "category_master_field_id": 5561,
+        "name": "Diapazonun yuxarı həddi, Hz"
+      },
+      {
+        "master_field_id": 1843,
+        "category_master_field_id": 5562,
+        "name": "Diapazonun aşağı həddi, Hz"
+      },
+      {
+        "master_field_id": 1844,
+        "category_master_field_id": 5563,
+        "name": "Siqnal/səs-küy nisbəti, dB"
+      },
+      {
+        "master_field_id": 797,
+        "category_master_field_id": 5570,
+        "name": "Empendans, Om"
+      },
+      {
+        "master_field_id": 1567,
+        "category_master_field_id": 4662,
+        "name": "Səs izolyasiyası"
+      },
+      {
+        "master_field_id": 1845,
+        "category_master_field_id": 5564,
+        "name": "Səs səviyyəsinin tənzimləyicisi"
+      },
+      {
+        "master_field_id": 1570,
+        "category_master_field_id": 4665,
+        "name": "Ətraf səs"
+      },
+      {
+        "master_field_id": 1573,
+        "category_master_field_id": 4668,
+        "name": "Dinamiklərin ümumi sayı"
+      },
+      {
+        "master_field_id": 1846,
+        "category_master_field_id": 5565,
+        "name": "Mikrofon növü"
+      },
+      {
+        "master_field_id": 1847,
+        "category_master_field_id": 5566,
+        "name": "Mikrofonun diapazonunun yuxarı həddi, Hz"
+      },
+      {
+        "master_field_id": 1848,
+        "category_master_field_id": 5567,
+        "name": "Mikrofonun diapazonunun aşağı həddi, Hz"
+      },
+      {
+        "master_field_id": 1849,
+        "category_master_field_id": 5568,
+        "name": "Mikrofonun siqnal/səs-küy nisbəti"
+      },
+      {
+        "master_field_id": 1850,
+        "category_master_field_id": 5569,
+        "name": "Mikrofonun bərkitməsi"
+      },
+      {
+        "master_field_id": 1740,
+        "category_master_field_id": 5571,
+        "name": "Digər funksiyalar və xüsusiyyətlər"
+      },
+      {
+        "master_field_id": 870,
+        "category_master_field_id": 4634,
+        "name": "Çəki, q"
+      },
+      {
+        "master_field_id": 2552,
+        "category_master_field_id": 10654,
+        "name": "Korpusun qorunması"
+      },
+      {
+        "master_field_id": 697,
+        "category_master_field_id": 10655,
+        "name": "Komplektasiya"
+      },
+      {
+        "master_field_id": 2210,
+        "category_master_field_id": 10649,
+        "name": "Brendin ölkəsi"
+      },
+      {
+        "master_field_id": 618,
+        "category_master_field_id": 4635,
+        "name": "İstehsalçı ölkə"
+      }
+    ],
+    "parent": {
+      "id": 2,
+      "node_type": "NODE",
+      "name": "Telefonlar, Smart cihazlar və telefon aksessuarları",
+      "slugged_name": "telefonlar-ve-aksessuarlar",
+      "parent": {
+        "id": 1,
+        "node_type": "NODE",
+        "name": "Elektronika və məişət texnikası",
+        "slugged_name": "elektronika-ve-meishet-texnikasi",
+        "parent": null
+      }
+    },
+    "is_refundable": true,
+    "is_adult": false,
+    "icons": {
+      "thumbnail": "https://strgimgr.umico.az/img/category/188/7a8b0d8a-c1a8-46f5-a7cd-c7483dbc6bee.jpeg",
+      "original": "https://strgimgr.umico.az/img/category/original/7a8b0d8a-c1a8-46f5-a7cd-c7483dbc6bee.jpeg"
+    },
+    "is_active": true
+  },
+  "offers": [
+    {
+      "uuid": "c119d8c2-bdb3-4043-8a41-e8da2f13fe17",
+      "installment_enabled": true,
+      "max_installment_months": 18,
+      "product_offer_labels": [],
+      "old_price": 139.9,
+      "retail_price": 93.97,
+      "supplier_id": "e18bc5d0-f38e-4574-b7c3-c42c1ee05e46",
+      "seller": {
+        "ext_id": "bfb13ea5-7f9f-4759-9357-40fb99e6afae",
+        "internal_id": 16884,
+        "marketing_name": {
+          "id": 16884,
+          "name": "MiniMix"
+        },
+        "logo": {
+          "thumbnail": "https://storage.umico.az/cpcustomerprod01/e85a9d667f3d5f153109f96683520ff0.jpg"
+        },
+        "vat_payer": false,
+        "rating": 100,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "allow_qty": 0
+    },
+    {
+      "uuid": "d4605899-66d5-4665-9159-5e80e5274f05",
+      "installment_enabled": true,
+      "max_installment_months": 12,
+      "product_offer_labels": [],
+      "old_price": 0,
+      "retail_price": 94,
+      "supplier_id": "acc0a21f-72d3-4a71-a196-26fb540f9434",
+      "seller": {
+        "ext_id": "3fa18196-f021-40f7-bfc1-95eb5d075443",
+        "internal_id": 7759,
+        "marketing_name": {
+          "id": 7759,
+          "name": "Mobiroom Plus"
+        },
+        "logo": {
+          "thumbnail": "https://storage.umico.az/cpcustomerprod01/5e3f1184a9f619c118aafc69dd77bcdf.jpg"
+        },
+        "vat_payer": false,
+        "rating": 100,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "allow_qty": 0
+    },
+    {
+      "uuid": "ff4267f8-0e75-48b0-8bcf-b17de2acaa2e",
+      "installment_enabled": true,
+      "max_installment_months": 18,
+      "product_offer_labels": [],
+      "old_price": 140,
+      "retail_price": 113.9,
+      "supplier_id": "a1e60bd2-5eba-43fe-94d9-a326f8041948",
+      "seller": {
+        "ext_id": "4ff27b97-4506-463f-96af-cc56c467ec66",
+        "internal_id": 11131,
+        "marketing_name": {
+          "id": 11131,
+          "name": "Proshop"
+        },
+        "logo": {
+          "thumbnail": "https://storage.umico.az/cpcustomerprod01/0dbf4459bd7700377e04e341d99f0c7e.png"
+        },
+        "vat_payer": false,
+        "rating": 100,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "allow_qty": 0
+    },
+    {
+      "uuid": "b403d4d2-d325-4d81-b4f7-6e6cbfd2c1fd",
+      "installment_enabled": true,
+      "max_installment_months": 12,
+      "product_offer_labels": [],
+      "old_price": 170,
+      "retail_price": 118.9,
+      "supplier_id": "2187d41c-d58a-48fe-919c-d5b6b9a37565",
+      "seller": {
+        "ext_id": "11d92ddd-aaec-41b5-abc3-dede604e4ea5",
+        "internal_id": 5216,
+        "marketing_name": {
+          "id": 5216,
+          "name": "ALI STORE"
+        },
+        "logo": {
+          "thumbnail": "https://storage.umico.az/cpcustomerprod01/7ba56a6e93a884271eb2e357927e4ded.jpg"
+        },
+        "vat_payer": false,
+        "rating": 100,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "allow_qty": 0
+    },
+    {
+      "uuid": "b56e93a5-02b0-4ed3-8a92-b1b96da6254a",
+      "installment_enabled": true,
+      "max_installment_months": 3,
+      "product_offer_labels": [],
+      "old_price": 0,
+      "retail_price": 93.96,
+      "supplier_id": "217b2604-2ea1-4855-bda3-9ce0add2dbf1",
+      "seller": {
+        "ext_id": "fc8cbcbe-afe9-41ad-8e06-d9e0a8094d6e",
+        "internal_id": 8399,
+        "marketing_name": {
+          "id": 8399,
+          "name": "Minor Smart"
+        },
+        "logo": {
+          "thumbnail": "https://storage.umico.az/cpcustomerprod01/b166d3e558aea16abc9063a7a9ee5bf3.jpg"
+        },
+        "vat_payer": true,
+        "rating": 100,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "allow_qty": 0
+    },
+    {
+      "uuid": "88353d66-aa33-4061-9e57-2f334c784157",
+      "installment_enabled": true,
+      "max_installment_months": 18,
+      "product_offer_labels": [],
+      "old_price": 198.45,
+      "retail_price": 115.9,
+      "supplier_id": "96a0d6d3-2f03-4bff-b206-3f7cafc39592",
+      "seller": {
+        "ext_id": "d08bb818-f9eb-4ef3-8846-1bdd3db277d3",
+        "internal_id": 9423,
+        "marketing_name": {
+          "id": 9423,
+          "name": "Alibaba"
+        },
+        "logo": {
+          "thumbnail": "https://storage.umico.az/cpcustomerprod01/1c9733cd01a8ff2d9caff8f285308feb.jpg"
+        },
+        "vat_payer": false,
+        "rating": 88,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "allow_qty": 0
+    },
+    {
+      "uuid": "7d7e804a-480d-40c7-bb9d-1a494bae6a0a",
+      "installment_enabled": true,
+      "max_installment_months": 12,
+      "product_offer_labels": [],
+      "old_price": 180,
+      "retail_price": 96,
+      "supplier_id": "e1c1f176-79fd-4797-ac83-fdc1f784babd",
+      "seller": {
+        "ext_id": "f834f487-fa3b-4ef0-a76b-1e0a3ed5a40b",
+        "internal_id": 16571,
+        "marketing_name": {
+          "id": 16571,
+          "name": "Ucuzmart"
+        },
+        "logo": {
+          "thumbnail": ""
+        },
+        "vat_payer": false,
+        "rating": 97,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "allow_qty": 0
+    }
+  ],
+  "variations": [
+    {
+      "id": 1223462,
+      "name": "Simsiz qulaqlıq Huawei FreeBuds SE 3 Black",
+      "slugged_name": "simsiz-qulaqliq-huawei-freebuds-se-3-black",
+      "custom_fields": [
+        {
+          "master_field_id": 625,
+          "values": [
+            "Qara"
+          ]
+        }
+      ],
+      "main_img": {
+        "big": "https://strgimgr.umico.az/img/product/1680/e659a60b-7090-4514-8ad2-e77d210aa48d.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/e659a60b-7090-4514-8ad2-e77d210aa48d.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/e659a60b-7090-4514-8ad2-e77d210aa48d.jpeg"
+      },
+      "status": "active"
+    }
+  ],
+  "size_chart": {},
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "sku": 1223462,
+    "mpn": "SE 3 BLACK/55037987",
+    "url": "https://birmarket.az/product/1223462-simsiz-qulaqliq-huawei-freebuds-se-3-black",
+    "name": "Simsiz qulaqlıq Huawei FreeBuds SE 3 Black",
+    "image": [
+      "https://strgimgr.umico.az/img/product/1680/e659a60b-7090-4514-8ad2-e77d210aa48d.jpeg",
+      "https://strgimgr.umico.az/img/product/1680/7f684ee6-0d8d-48af-a20e-bb0241fff5c3.jpeg",
+      "https://strgimgr.umico.az/img/product/1680/2141bc7e-4a09-44cf-b88f-042a6f6405fe.jpeg",
+      "https://strgimgr.umico.az/img/product/1680/d9f5ea48-aab6-4358-ac70-033f5aad701c.jpeg",
+      "https://strgimgr.umico.az/img/product/1680/fd9cab6f-c2b8-4a56-bcf5-7bcea5a3b3a6.jpeg",
+      "https://strgimgr.umico.az/img/product/1680/ae58ecf3-48eb-45c8-a81b-f5310d0082ad.jpeg",
+      "https://strgimgr.umico.az/img/product/1680/84ae8d13-e9c6-439f-9fc3-029699f62a9a.jpeg",
+      "https://strgimgr.umico.az/img/product/1680/8cb47617-29b7-4eec-9a5b-196fbdc96316.jpeg",
+      "https://strgimgr.umico.az/img/product/1680/ceececc0-afea-4dc9-8b68-24d2beb3753d.jpeg"
+    ],
+    "description": "Huawei FreeBuds SE 3 Black simsiz qulaqlıqları qabaqcıl texnologiyalara malik dəbdəbəli qulaqlıqlardır. Onlar keyfiyyətli stereo səs təmin edir və musiqidən əlavə naqillər olmadan zövq almağa imkan verir. Şum azaldıcı funksiyası sayəsində ətraf səs-küydən yayınmadan musiqi aləminə dalmaq imkanı əldə edirsiniz. Açıq akustik düzəni səsi təbii və dolğun edir. Daxili mikrofon zəng zamanı səsin dəqiq çatdırılmasını təmin edir. Qulaqlıqlar, Bluetooth ilə təmin edilərək cihazlara asan simsiz qoşulma imkanı yaradır. Müasir dizayn, qulaq seyvanında etibarlı bərkitmə və korpusun toz keçirməməsi aktiv həyat tərzi üçün mükəmməl seçimə çevirir. 9 saata qədər iş vaxtı bütün gün boyunca musiqi zövqü verir. Yalnız 33 qram ağırlığı ilə onları yüngül və istifadəsi rahat edir. Qara rəng qulaqlıqlara dəbli və modabaz görünüş verir.",
+    "itemCondition": "https://schema.org/NewCondition",
+    "offers": {
+      "@type": "AggregateOffer",
+      "availability": "https://schema.org/InStock",
+      "offerCount": 7,
+      "highPrice": 118.9,
+      "lowPrice": 93.96,
+      "priceCurrency": "AZN",
+      "hasMerchantReturnPolicy": {
+        "applicableCountry": "AZ",
+        "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+        "returnMethod": "https://schema.org/ReturnInStore",
+        "returnFees": "https://schema.org/FreeReturn",
+        "merchantReturnDays": 14
+      },
+      "shippingDetails": {
+        "@type": "OfferShippingDetails",
+        "shippingDestination": {
+          "@type": "DefinedRegion",
+          "addressCountry": "AZ"
+        },
+        "deliveryTime": {
+          "@type": "ShippingDeliveryTime",
+          "handlingTime": {
+            "@type": "QuantitativeValue",
+            "minValue": 0,
+            "maxValue": 1,
+            "unitCode": "DAY"
+          },
+          "transitTime": {
+            "@type": "QuantitativeValue",
+            "minValue": 0,
+            "maxValue": 1,
+            "unitCode": "DAY"
+          },
+          "businessDays": {
+            "@type": "OpeningHoursSpecification",
+            "dayOfWeek": [
+              "https://schema.org/Monday",
+              "https://schema.org/Tuesday",
+              "https://schema.org/Wednesday",
+              "https://schema.org/Thursday",
+              "https://schema.org/Friday",
+              "https://schema.org/Saturday",
+              "https://schema.org/Sunday"
+            ]
+          }
+        },
+        "shippingRate": {
+          "@type": "MonetaryAmount",
+          "value": 0,
+          "currency": "AZN"
+        }
+      }
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": 5,
+      "reviewCount": 2
+    },
+    "brand": {
+      "@type": "Brand",
+      "name": "Huawei",
+      "url": "https://birmarket.az/brands/Huawei"
+    }
+  }
+}

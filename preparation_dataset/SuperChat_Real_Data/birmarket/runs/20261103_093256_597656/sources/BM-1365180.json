@@ -1,0 +1,531 @@
+{
+  "product": {
+    "id": 1365180,
+    "gtin": "",
+    "mpn": "en_filacanta",
+    "name": "Bel çantası USB və AUX portları ilə, qara",
+    "slugged_name_az": "bel-chantasi-fila-qara-usb-ve-aux-ile",
+    "slugged_name_ru": "bel-chantasi-fila-qara-usb-ve-aux-ile",
+    "description": "Qara şəhər çantası USB və AUX girişlərinə malikdir - kişilər üçün ideal seçimdir. Dayanıqlı tekstildən hazırlanıb, rahat geyilmə üçün yumşaq arxa hissəyə malikdir. Çantanın ölçüləri 43 x 30 sm-dir. Fermuarla bağlanır. Naqışsız və naxışsızdır. Gündəlik istifadə üçün rahat və zövqlü aksessuar.",
+    "description_outlet": "",
+    "status": "active",
+    "uuid": "54514585-95dd-4e8a-bf01-bcfe51168354",
+    "variant_code": "VC_1365180",
+    "default_offer": {
+      "uuid": "44595713-4855-4894-96dc-e413b1e8033b",
+      "installment_enabled": true,
+      "max_installment_months": 18,
+      "product_offer_labels": [],
+      "old_price": 0,
+      "retail_price": 50,
+      "supplier_id": "6b5abae6-22df-420b-a79b-55e9cab907b7",
+      "qty": 0,
+      "seller": {
+        "ext_id": "6b5abae6-22df-420b-a79b-55e9cab907b7",
+        "marketing_name": {
+          "id": 12392,
+          "name": "elli"
+        },
+        "logo": {
+          "thumbnail": ""
+        },
+        "vat_payer": false,
+        "rating": 75,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "discount_effective_start_date": "",
+      "discount_effective_end_date": ""
+    },
+    "category_id": 2283,
+    "category": {
+      "id": 2283,
+      "name": "Şəhər bel çantaları"
+    },
+    "brand": {
+      "name": "No Brand"
+    },
+    "custom_fields": [
+      {
+        "master_field_id": 625,
+        "values": [
+          "Qara"
+        ]
+      },
+      {
+        "master_field_id": 637,
+        "values": [
+          "Parça"
+        ]
+      },
+      {
+        "master_field_id": 1412,
+        "values": [
+          "43"
+        ]
+      },
+      {
+        "master_field_id": 1206,
+        "values": [
+          "30"
+        ]
+      },
+      {
+        "master_field_id": 639,
+        "values": [
+          "Zəncirbənd"
+        ]
+      },
+      {
+        "master_field_id": 761,
+        "values": [
+          "Kişi"
+        ]
+      },
+      {
+        "master_field_id": 638,
+        "values": [
+          "Printsiz və naxışsız"
+        ]
+      },
+      {
+        "master_field_id": 623,
+        "values": [
+          "USB ilə",
+          "AUX ilə"
+        ]
+      },
+      {
+        "master_field_id": 2637,
+        "values": [
+          "Yumşaq"
+        ]
+      }
+    ],
+    "main_img": {
+      "big": "https://strgimgr.umico.az/img/product/1680/3f408e43-4a79-4e7c-b2ef-1567a65636bb.jpeg",
+      "medium": "https://strgimgr.umico.az/img/product/840/3f408e43-4a79-4e7c-b2ef-1567a65636bb.jpeg",
+      "small": "https://strgimgr.umico.az/img/product/280/3f408e43-4a79-4e7c-b2ef-1567a65636bb.jpeg"
+    },
+    "img_url_thumbnail": "https://strgimgr.umico.az/img/product/280/3f408e43-4a79-4e7c-b2ef-1567a65636bb.jpeg",
+    "main_video": "",
+    "imgs": [
+      {
+        "big": "https://strgimgr.umico.az/img/product/1680/3f408e43-4a79-4e7c-b2ef-1567a65636bb.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/3f408e43-4a79-4e7c-b2ef-1567a65636bb.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/3f408e43-4a79-4e7c-b2ef-1567a65636bb.jpeg"
+      },
+      {
+        "big": "https://strgimgr.umico.az/img/product/1680/e102c0c3-3e79-49a7-ab47-6a7765ee75a3.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/e102c0c3-3e79-49a7-ab47-6a7765ee75a3.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/e102c0c3-3e79-49a7-ab47-6a7765ee75a3.jpeg"
+      },
+      {
+        "big": "https://strgimgr.umico.az/img/product/1680/bb4eafa2-dc18-45ca-b285-dddc2a922b75.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/bb4eafa2-dc18-45ca-b285-dddc2a922b75.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/bb4eafa2-dc18-45ca-b285-dddc2a922b75.jpeg"
+      }
+    ],
+    "videos": [],
+    "min_qty": 1,
+    "preorder_available": false,
+    "is_assortment": false,
+    "is_bulk_heavy": false,
+    "is_refurbished": false,
+    "is_refundable": true,
+    "is_dangerous": false,
+    "show_tech_description": false,
+    "use_external_content": true,
+    "product_labels": [],
+    "ratings": {
+      "rating_value": 0,
+      "assessment_id": 0,
+      "session_count": 0
+    },
+    "default_show_stock_qty_threshold": 0,
+    "card_type": "public"
+  },
+  "category": {
+    "id": 2283,
+    "name": "Şəhər bel çantaları",
+    "slugged_name_az": "sheher-bel-chantalari",
+    "slugged_name_ru": "ryukzaki-gorodskie",
+    "view_mode": "products",
+    "mobile_visual_mode": "text",
+    "is_variant": false,
+    "depth": 2,
+    "parent_id": 2267,
+    "child_ids": [],
+    "node_type": "NODE",
+    "install_service_needed": false,
+    "fitting_allowed": false,
+    "vat": true,
+    "variations": [
+      {
+        "master_field_id": 638,
+        "name": "Naxışlar və printlər",
+        "variation_tool_type": "default",
+        "has_size_chart": false,
+        "display_variant": false
+      },
+      {
+        "master_field_id": 625,
+        "name": "Rəng",
+        "variation_tool_type": "default",
+        "has_size_chart": false,
+        "display_variant": false
+      }
+    ],
+    "custom_fields": [
+      {
+        "master_field_id": 625,
+        "category_master_field_id": 11134,
+        "name": "Rəng"
+      },
+      {
+        "master_field_id": 637,
+        "category_master_field_id": 11132,
+        "name": "Material"
+      },
+      {
+        "master_field_id": 639,
+        "category_master_field_id": 11141,
+        "name": "Kilid növü"
+      },
+      {
+        "master_field_id": 1412,
+        "category_master_field_id": 11136,
+        "name": "Uzunluğu, sm"
+      },
+      {
+        "master_field_id": 1206,
+        "category_master_field_id": 11137,
+        "name": "Eni, sm"
+      },
+      {
+        "master_field_id": 761,
+        "category_master_field_id": 11133,
+        "name": "Cins"
+      },
+      {
+        "master_field_id": 908,
+        "category_master_field_id": 11143,
+        "name": "Həcm, L"
+      },
+      {
+        "master_field_id": 638,
+        "category_master_field_id": 11135,
+        "name": "Naxışlar və printlər"
+      },
+      {
+        "master_field_id": 1448,
+        "category_master_field_id": 37676,
+        "name": "Dərinliyi, sm"
+      },
+      {
+        "master_field_id": 762,
+        "category_master_field_id": 11139,
+        "name": "Bölmələrin sayı"
+      },
+      {
+        "master_field_id": 623,
+        "category_master_field_id": 11140,
+        "name": "Xüsusiyyətlər"
+      },
+      {
+        "master_field_id": 2637,
+        "category_master_field_id": 11142,
+        "name": "Bel çantasının arxası"
+      },
+      {
+        "master_field_id": 870,
+        "category_master_field_id": 11144,
+        "name": "Çəki, q"
+      },
+      {
+        "master_field_id": 618,
+        "category_master_field_id": 11145,
+        "name": "İstehsalçı ölkə"
+      },
+      {
+        "master_field_id": 2210,
+        "category_master_field_id": 11146,
+        "name": "Brendin ölkəsi"
+      }
+    ],
+    "parent": {
+      "id": 2267,
+      "node_type": "NODE",
+      "name": "Çantalar, pul kisələri və aksessuarlar",
+      "slugged_name": "chantalar-pul-kiseleri-ve-aksessuarlar",
+      "parent": {
+        "id": 3003,
+        "node_type": "NODE",
+        "name": "Geyim,ayaqqabı və aksessuarlar",
+        "slugged_name": "geyim-ve-ayaqqabi",
+        "parent": null
+      }
+    },
+    "is_refundable": true,
+    "is_adult": false,
+    "icons": {
+      "thumbnail": "https://strgimgr.umico.az/img/category/188/4030f9db-3c53-4a51-905b-ab006bb8b9af.jpeg",
+      "original": "https://strgimgr.umico.az/img/category/original/4030f9db-3c53-4a51-905b-ab006bb8b9af.jpeg"
+    },
+    "is_active": true
+  },
+  "offers": [
+    {
+      "uuid": "55defd32-a73e-4a41-8661-6dba49ac47f4",
+      "installment_enabled": true,
+      "max_installment_months": 18,
+      "product_offer_labels": [],
+      "old_price": 0,
+      "retail_price": 78,
+      "supplier_id": "8352f248-bcca-4233-9f08-ab41b58b98c5",
+      "seller": {
+        "ext_id": "741d3df7-51db-4e54-ba6a-dee0d061b4c1",
+        "internal_id": 16336,
+        "marketing_name": {
+          "id": 16336,
+          "name": "1001 Xırdavat NN"
+        },
+        "logo": {
+          "thumbnail": ""
+        },
+        "vat_payer": false,
+        "rating": 100,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "allow_qty": 0
+    },
+    {
+      "uuid": "f578b1db-3921-41a9-b4db-dc6d5550f287",
+      "installment_enabled": true,
+      "max_installment_months": 3,
+      "product_offer_labels": [],
+      "old_price": 140,
+      "retail_price": 79,
+      "supplier_id": "4d07d35b-24ca-4c65-ad8e-22213e6f77d5",
+      "seller": {
+        "ext_id": "35fb3f6f-4582-497b-8bc7-a2e2b68b10f6",
+        "internal_id": 5315,
+        "marketing_name": {
+          "id": 5315,
+          "name": "Elli Nail Art"
+        },
+        "logo": {
+          "thumbnail": ""
+        },
+        "vat_payer": false,
+        "rating": 80,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "allow_qty": 0
+    },
+    {
+      "uuid": "44595713-4855-4894-96dc-e413b1e8033b",
+      "installment_enabled": true,
+      "max_installment_months": 18,
+      "product_offer_labels": [],
+      "old_price": 0,
+      "retail_price": 50,
+      "supplier_id": "6b5abae6-22df-420b-a79b-55e9cab907b7",
+      "seller": {
+        "ext_id": "5df6b2d6-8e3f-435a-a5ed-6e00b56778fb",
+        "internal_id": 12392,
+        "marketing_name": {
+          "id": 12392,
+          "name": "elli"
+        },
+        "logo": {
+          "thumbnail": ""
+        },
+        "vat_payer": false,
+        "rating": 75,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "allow_qty": 0
+    },
+    {
+      "uuid": "3168e7c0-334a-40a2-865e-21fd789fb43b",
+      "installment_enabled": true,
+      "max_installment_months": 18,
+      "product_offer_labels": [],
+      "old_price": 89,
+      "retail_price": 50,
+      "supplier_id": "27927d8d-fc12-45a0-a08f-7af4a72567fb",
+      "seller": {
+        "ext_id": "6eed9c82-b081-4a84-baf6-a6fd70d3864d",
+        "internal_id": 13456,
+        "marketing_name": {
+          "id": 13456,
+          "name": "TT Electronics"
+        },
+        "logo": {
+          "thumbnail": "https://storage.umico.az/cpcustomerprod01/ddd5049216693e876e6b9b124abffa0a.jpg"
+        },
+        "vat_payer": false,
+        "rating": 75,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "allow_qty": 0
+    },
+    {
+      "uuid": "e033a4cd-bf35-4cfd-b4e6-56a2f2aea6c7",
+      "installment_enabled": true,
+      "max_installment_months": 18,
+      "product_offer_labels": [],
+      "old_price": 74,
+      "retail_price": 50,
+      "supplier_id": "eb92c3dc-c6c3-4a3d-a266-600709a3718f",
+      "seller": {
+        "ext_id": "cae90a47-27dd-4cf3-a9eb-1654d41d8233",
+        "internal_id": 11747,
+        "marketing_name": {
+          "id": 11747,
+          "name": "Elya"
+        },
+        "logo": {
+          "thumbnail": ""
+        },
+        "vat_payer": false,
+        "rating": 88,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "allow_qty": 0
+    },
+    {
+      "uuid": "46c4dcb8-378f-407b-be03-dfa85e9a69b1",
+      "installment_enabled": true,
+      "max_installment_months": 18,
+      "product_offer_labels": [],
+      "old_price": 0,
+      "retail_price": 50,
+      "supplier_id": "03d54679-2fab-4227-a308-6eaea968deb9",
+      "seller": {
+        "ext_id": "35e60c97-cb71-4a56-87ee-e37e9bc569cc",
+        "internal_id": 15099,
+        "marketing_name": {
+          "id": 15099,
+          "name": "Grey Store"
+        },
+        "logo": {
+          "thumbnail": ""
+        },
+        "vat_payer": false,
+        "rating": 91,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "allow_qty": 0
+    }
+  ],
+  "variations": [
+    {
+      "id": 1365180,
+      "name": "Bel çantası USB və AUX portları ilə, qara",
+      "slugged_name": "bel-chantasi-fila-qara-usb-ve-aux-ile",
+      "custom_fields": [
+        {
+          "master_field_id": 638,
+          "values": [
+            "Printsiz və naxışsız"
+          ]
+        },
+        {
+          "master_field_id": 625,
+          "values": [
+            "Qara"
+          ]
+        }
+      ],
+      "main_img": {
+        "big": "https://strgimgr.umico.az/img/product/1680/3f408e43-4a79-4e7c-b2ef-1567a65636bb.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/3f408e43-4a79-4e7c-b2ef-1567a65636bb.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/3f408e43-4a79-4e7c-b2ef-1567a65636bb.jpeg"
+      },
+      "status": "active"
+    }
+  ],
+  "size_chart": {},
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "sku": 1365180,
+    "mpn": "en_filacanta",
+    "url": "https://birmarket.az/product/1365180-bel-chantasi-fila-qara-usb-ve-aux-ile",
+    "name": "Bel çantası USB və AUX portları ilə, qara",
+    "image": [
+      "https://strgimgr.umico.az/img/product/1680/3f408e43-4a79-4e7c-b2ef-1567a65636bb.jpeg",
+      "https://strgimgr.umico.az/img/product/1680/e102c0c3-3e79-49a7-ab47-6a7765ee75a3.jpeg",
+      "https://strgimgr.umico.az/img/product/1680/bb4eafa2-dc18-45ca-b285-dddc2a922b75.jpeg"
+    ],
+    "description": "Qara şəhər çantası USB və AUX girişlərinə malikdir - kişilər üçün ideal seçimdir. Dayanıqlı tekstildən hazırlanıb, rahat geyilmə üçün yumşaq arxa hissəyə malikdir. Çantanın ölçüləri 43 x 30 sm-dir. Fermuarla bağlanır. Naqışsız və naxışsızdır. Gündəlik istifadə üçün rahat və zövqlü aksessuar.",
+    "itemCondition": "https://schema.org/NewCondition",
+    "offers": {
+      "@type": "AggregateOffer",
+      "availability": "https://schema.org/InStock",
+      "offerCount": 6,
+      "highPrice": 79,
+      "lowPrice": 50,
+      "priceCurrency": "AZN",
+      "hasMerchantReturnPolicy": {
+        "applicableCountry": "AZ",
+        "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+        "returnMethod": "https://schema.org/ReturnInStore",
+        "returnFees": "https://schema.org/FreeReturn",
+        "merchantReturnDays": 14
+      },
+      "shippingDetails": {
+        "@type": "OfferShippingDetails",
+        "shippingDestination": {
+          "@type": "DefinedRegion",
+          "addressCountry": "AZ"
+        },
+        "deliveryTime": {
+          "@type": "ShippingDeliveryTime",
+          "handlingTime": {
+            "@type": "QuantitativeValue",
+            "minValue": 0,
+            "maxValue": 1,
+            "unitCode": "DAY"
+          },
+          "transitTime": {
+            "@type": "QuantitativeValue",
+            "minValue": 0,
+            "maxValue": 1,
+            "unitCode": "DAY"
+          },
+          "businessDays": {
+            "@type": "OpeningHoursSpecification",
+            "dayOfWeek": [
+              "https://schema.org/Monday",
+              "https://schema.org/Tuesday",
+              "https://schema.org/Wednesday",
+              "https://schema.org/Thursday",
+              "https://schema.org/Friday",
+              "https://schema.org/Saturday",
+              "https://schema.org/Sunday"
+            ]
+          }
+        },
+        "shippingRate": {
+          "@type": "MonetaryAmount",
+          "value": 0,
+          "currency": "AZN"
+        }
+      }
+    },
+    "brand": {
+      "@type": "Brand",
+      "name": "No Brand",
+      "url": "https://birmarket.az/brands/No%20Brand"
+    }
+  }
+}

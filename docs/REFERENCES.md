@@ -17,3 +17,13 @@ Reviewed 2 November 2026. Application implementation is original; no template re
 Runtime dependencies are installed from registries and pinned in `uv.lock`: FastAPI (MIT), Uvicorn (BSD-3-Clause), Pydantic (MIT), HTTPX (BSD-3-Clause), python-multipart (Apache-2.0), Pillow (MIT-CMU), python-dotenv (BSD-3-Clause); optional Transformers (Apache-2.0), PyTorch (BSD-style). Transitive packages retain their own licences. No upstream source files are redistributed as application code.
 
 A local, undistributed visual smoke-test photo came from [Headphones.jpg](https://commons.wikimedia.org/wiki/File:Headphones.jpg), by Atorero (Alexander Kozlov), [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/). It was used to validate category recognition, not included as an official catalogue asset. The application does not claim the photographed Koss headphones are the mock Sonivo product.
+
+
+## Real-data integration sources (checked 3 November 2026)
+
+- [Official Aviasales Data API contract](https://support.travelpayouts.com/hc/en-us/articles/203956163-Aviasales-Data-API): cached prices, X-Access-Token, currency, dates and pagination.
+- [Data API access](https://support.travelpayouts.com/hc/en-us/articles/203956083-Requirements-for-Aviasales-data-API-access).
+- [Live Search access requirements](https://support.travelpayouts.com/hc/en-us/articles/210995808-How-to-get-access-to-the-Aviasales-Search-API): a separate restricted product; not used here.
+- [Birmarket seller documentation](https://edu.business.umico.az/space/knowledge/18514233/1/): seller API mentions are not consumer catalogue access.
+- [CinemaPlus contact](https://web.cinemastercard.az/contacts): public website integration is not a supplied partner sandbox.
+- Existing project scraper modules in `preparation_dataset/` are reused; original source archives remain auditable. SQLite and the CLIP embedding index are local derived stores.

@@ -1,0 +1,490 @@
+{
+  "product": {
+    "id": 1475783,
+    "gtin": "",
+    "mpn": "EB_1000_qara_44",
+    "name": "Kişilər üçün krosovkalar EB_1000, rəngbərəng, eko dəri, ölçü 44",
+    "slugged_name_az": "kishiler-uchun-krosovkalar-eb_1000-rengbereng-eko-deri-olchu-44",
+    "slugged_name_ru": "krossovki-muzhskie-eb_1000-raznotsvetnyy-ekokozha-razmer-44",
+    "description": "<p>Qəşəng kişi idman ayaqqabıları gündəlik geyim, gəzinti və idman fəaliyyəti üçün ideal seçimdir. Bu idman ayaqqabıları rahatlıq və davamlılığı təmin edən keyfiyyətli materialdan hazırlanır. Sürüşməyən örtüklü rezin altlıq istənilən növ səthə əla yapışmağa zəmanət verir və onları aktiv həyat tərzi üçün ideal edir. Tekstil altlıq hər addımda lazımi dəstək və rahatlığı təmin edir. Bağlar&nbsp;ayaqqabını ayağınızın ölçüsünə dəqiq uyğunlaşdırmağa imkan verir və mükəmməl uyğunluğu təmin edir. Dekorativ elementlərin olmaması bu idman ayaqqabılarını universal edir və istənilən geyim tərzinə uyğun gəlir. Gündəlik həyatda keyfiyyətə və rahatlığa önəm verənlər üçün kişi idman ayaqqabılarını seçin.</p>",
+    "description_outlet": "",
+    "status": "active",
+    "uuid": "31068eec-bb70-4cb4-846f-79a2459b5998",
+    "variant_code": "EB_1000",
+    "default_offer": {
+      "uuid": "ace30a46-8a5d-49a9-b984-dceac2f34c03",
+      "installment_enabled": true,
+      "max_installment_months": 18,
+      "product_offer_labels": [],
+      "old_price": 60,
+      "retail_price": 34.9,
+      "supplier_id": "d2a7fc62-49c4-4551-91ff-b8a5f654668b",
+      "qty": 0,
+      "seller": {
+        "ext_id": "d2a7fc62-49c4-4551-91ff-b8a5f654668b",
+        "marketing_name": {
+          "id": 5850,
+          "name": "EBAYAZ"
+        },
+        "logo": {
+          "thumbnail": "https://storage.umico.az/cpcustomerprod01/4ae628c113f87d120bcdac0c6d92b343.jpeg"
+        },
+        "vat_payer": false,
+        "rating": 96,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "discount_effective_start_date": "",
+      "discount_effective_end_date": ""
+    },
+    "category_id": 3177,
+    "category": {
+      "id": 3177,
+      "name": "Kişi krosovkaları və kedləri"
+    },
+    "brand": {
+      "name": "No Brand"
+    },
+    "custom_fields": [
+      {
+        "master_field_id": 620,
+        "values": [
+          "Krosovkalar"
+        ]
+      },
+      {
+        "master_field_id": 625,
+        "values": [
+          "Rəngbərəng"
+        ]
+      },
+      {
+        "master_field_id": 637,
+        "values": [
+          "Eko dəri"
+        ]
+      },
+      {
+        "master_field_id": 1423,
+        "values": [
+          "44"
+        ]
+      }
+    ],
+    "main_img": {
+      "big": "https://strgimgr.umico.az/img/product/1680/d790be55-4b9c-460c-9682-7e241df96113.jpeg",
+      "medium": "https://strgimgr.umico.az/img/product/840/d790be55-4b9c-460c-9682-7e241df96113.jpeg",
+      "small": "https://strgimgr.umico.az/img/product/280/d790be55-4b9c-460c-9682-7e241df96113.jpeg"
+    },
+    "img_url_thumbnail": "https://strgimgr.umico.az/img/product/280/d790be55-4b9c-460c-9682-7e241df96113.jpeg",
+    "main_video": "",
+    "imgs": [
+      {
+        "big": "https://strgimgr.umico.az/img/product/1680/d790be55-4b9c-460c-9682-7e241df96113.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/d790be55-4b9c-460c-9682-7e241df96113.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/d790be55-4b9c-460c-9682-7e241df96113.jpeg"
+      },
+      {
+        "big": "https://strgimgr.umico.az/img/product/1680/e3ecc4d9-5361-43b4-843b-3d0d0caedb33.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/e3ecc4d9-5361-43b4-843b-3d0d0caedb33.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/e3ecc4d9-5361-43b4-843b-3d0d0caedb33.jpeg"
+      },
+      {
+        "big": "https://strgimgr.umico.az/img/product/1680/cbea579d-3bd4-4d7e-92f2-6ed7e2d4dffc.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/cbea579d-3bd4-4d7e-92f2-6ed7e2d4dffc.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/cbea579d-3bd4-4d7e-92f2-6ed7e2d4dffc.jpeg"
+      }
+    ],
+    "videos": [
+      ""
+    ],
+    "min_qty": 1,
+    "preorder_available": false,
+    "is_assortment": false,
+    "is_bulk_heavy": false,
+    "is_refurbished": false,
+    "is_refundable": true,
+    "is_dangerous": false,
+    "show_tech_description": false,
+    "use_external_content": false,
+    "product_labels": [],
+    "ratings": {
+      "rating_value": 5,
+      "assessment_id": 0,
+      "session_count": 2,
+      "score_count": 1,
+      "review_count": 1
+    },
+    "default_show_stock_qty_threshold": 0,
+    "card_type": "public"
+  },
+  "category": {
+    "id": 3177,
+    "name": "Kişi krosovkaları və kedləri",
+    "slugged_name_az": "kishi-krosovkalari",
+    "slugged_name_ru": "krossovki-muzhskie",
+    "view_mode": "products",
+    "mobile_visual_mode": "text",
+    "is_variant": false,
+    "depth": 3,
+    "parent_id": 3174,
+    "child_ids": [],
+    "node_type": "NODE",
+    "install_service_needed": false,
+    "fitting_allowed": true,
+    "vat": true,
+    "variations": [
+      {
+        "master_field_id": 1423,
+        "name": "Ölçü",
+        "variation_tool_type": "button",
+        "has_size_chart": true,
+        "display_variant": true
+      },
+      {
+        "master_field_id": 625,
+        "name": "Rəng",
+        "variation_tool_type": "image",
+        "has_size_chart": false,
+        "display_variant": true
+      }
+    ],
+    "custom_fields": [
+      {
+        "master_field_id": 620,
+        "category_master_field_id": 30908,
+        "name": "Tip"
+      },
+      {
+        "master_field_id": 625,
+        "category_master_field_id": 25206,
+        "name": "Rəng"
+      },
+      {
+        "master_field_id": 637,
+        "category_master_field_id": 25207,
+        "name": "Material"
+      },
+      {
+        "master_field_id": 1423,
+        "category_master_field_id": 25205,
+        "name": "Ölçü"
+      },
+      {
+        "master_field_id": 2103,
+        "category_master_field_id": 25204,
+        "name": "Fəsil"
+      },
+      {
+        "master_field_id": 4515,
+        "category_master_field_id": 30909,
+        "name": "İdman növü"
+      },
+      {
+        "master_field_id": 5943,
+        "category_master_field_id": 37260,
+        "name": "Dikdaban tipi"
+      },
+      {
+        "master_field_id": 2482,
+        "category_master_field_id": 30911,
+        "name": "Üslub"
+      },
+      {
+        "master_field_id": 618,
+        "category_master_field_id": 30912,
+        "name": "İstehsalçı ölkə"
+      },
+      {
+        "master_field_id": 2210,
+        "category_master_field_id": 30913,
+        "name": "Brendin ölkəsi"
+      }
+    ],
+    "parent": {
+      "id": 3174,
+      "node_type": "NODE",
+      "name": "Kişi ayaqqabıları",
+      "slugged_name": "kishi-ayaqqabilari",
+      "parent": {
+        "id": 3117,
+        "node_type": "NODE",
+        "name": "Kişilər üçün",
+        "slugged_name": "kishi",
+        "parent": {
+          "id": 3003,
+          "node_type": "NODE",
+          "name": "Geyim,ayaqqabı və aksessuarlar",
+          "slugged_name": "geyim-ve-ayaqqabi",
+          "parent": null
+        }
+      }
+    },
+    "is_refundable": true,
+    "is_adult": false,
+    "icons": {
+      "thumbnail": "https://strgimgr.umico.az/img/category/188/8701f1fd-b237-4ee2-bce5-ed487408e3d4.jpeg",
+      "original": "https://strgimgr.umico.az/img/category/original/8701f1fd-b237-4ee2-bce5-ed487408e3d4.png"
+    },
+    "is_active": true
+  },
+  "offers": [
+    {
+      "uuid": "ace30a46-8a5d-49a9-b984-dceac2f34c03",
+      "installment_enabled": true,
+      "max_installment_months": 18,
+      "product_offer_labels": [],
+      "old_price": 60,
+      "retail_price": 34.9,
+      "supplier_id": "d2a7fc62-49c4-4551-91ff-b8a5f654668b",
+      "seller": {
+        "ext_id": "8f2488b4-3573-4519-8804-af722332512a",
+        "internal_id": 5850,
+        "marketing_name": {
+          "id": 5850,
+          "name": "EBAYAZ"
+        },
+        "logo": {
+          "thumbnail": "https://storage.umico.az/cpcustomerprod01/4ae628c113f87d120bcdac0c6d92b343.jpeg"
+        },
+        "vat_payer": false,
+        "rating": 96,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "allow_qty": 0
+    }
+  ],
+  "variations": [
+    {
+      "id": 2071402,
+      "name": "Kişilər üçün krosovkalar EB_1000, bej, eko dəri, ölçü 43",
+      "slugged_name": "men-s-sneakers-no-brand-eb_1000-beige-eco-leather-size-43",
+      "custom_fields": [
+        {
+          "master_field_id": 1423,
+          "values": [
+            "43"
+          ]
+        },
+        {
+          "master_field_id": 625,
+          "values": [
+            "Bej"
+          ]
+        }
+      ],
+      "main_img": {
+        "big": "https://strgimgr.umico.az/img/product/1680/d61a8769-4e11-463c-9688-a0dc2f6bd8de.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/d61a8769-4e11-463c-9688-a0dc2f6bd8de.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/d61a8769-4e11-463c-9688-a0dc2f6bd8de.jpeg"
+      },
+      "status": "active"
+    },
+    {
+      "id": 2071392,
+      "name": "Kişilər üçün krosovkalar EB_1000, bej, eko dəri, ölçü 40",
+      "slugged_name": "kishi-idman-ayaqqabisi-no-brand-eb_1000-bej-eko-deri-olchu-40",
+      "custom_fields": [
+        {
+          "master_field_id": 1423,
+          "values": [
+            "40"
+          ]
+        },
+        {
+          "master_field_id": 625,
+          "values": [
+            "Bej"
+          ]
+        }
+      ],
+      "main_img": {
+        "big": "https://strgimgr.umico.az/img/product/1680/68ed4651-2423-4dc4-ae77-468e0c043433.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/68ed4651-2423-4dc4-ae77-468e0c043433.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/68ed4651-2423-4dc4-ae77-468e0c043433.jpeg"
+      },
+      "status": "active"
+    },
+    {
+      "id": 1475783,
+      "name": "Kişilər üçün krosovkalar EB_1000, rəngbərəng, eko dəri, ölçü 44",
+      "slugged_name": "kishiler-uchun-krosovkalar-eb_1000-rengbereng-eko-deri-olchu-44",
+      "custom_fields": [
+        {
+          "master_field_id": 1423,
+          "values": [
+            "44"
+          ]
+        },
+        {
+          "master_field_id": 625,
+          "values": [
+            "Rəngbərəng"
+          ]
+        }
+      ],
+      "main_img": {
+        "big": "https://strgimgr.umico.az/img/product/1680/d790be55-4b9c-460c-9682-7e241df96113.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/d790be55-4b9c-460c-9682-7e241df96113.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/d790be55-4b9c-460c-9682-7e241df96113.jpeg"
+      },
+      "status": "active"
+    },
+    {
+      "id": 2071395,
+      "name": "Kişilər üçün krosovkalar EB_1000, bej, eko dəri, ölçü 41",
+      "slugged_name": "kishi-idman-ayaqqabisi-no-brand-eb_1000-bej-eko-deri-olchu-41",
+      "custom_fields": [
+        {
+          "master_field_id": 1423,
+          "values": [
+            "41"
+          ]
+        },
+        {
+          "master_field_id": 625,
+          "values": [
+            "Bej"
+          ]
+        }
+      ],
+      "main_img": {
+        "big": "https://strgimgr.umico.az/img/product/1680/8d348e6e-1701-4cec-9444-9704e178158b.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/8d348e6e-1701-4cec-9444-9704e178158b.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/8d348e6e-1701-4cec-9444-9704e178158b.jpeg"
+      },
+      "status": "active"
+    },
+    {
+      "id": 2071406,
+      "name": "Kişilər üçün krosovkalar EB_1000, bej, eko dəri, ölçü 44",
+      "slugged_name": "kishi-idman-ayaqqabisi-no-brand-eb_1000-bej-eko-deri-olchu-44",
+      "custom_fields": [
+        {
+          "master_field_id": 1423,
+          "values": [
+            "44"
+          ]
+        },
+        {
+          "master_field_id": 625,
+          "values": [
+            "Bej"
+          ]
+        }
+      ],
+      "main_img": {
+        "big": "https://strgimgr.umico.az/img/product/1680/c3a82371-614d-4c97-9c5b-84d6ef6d9094.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/c3a82371-614d-4c97-9c5b-84d6ef6d9094.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/c3a82371-614d-4c97-9c5b-84d6ef6d9094.jpeg"
+      },
+      "status": "active"
+    },
+    {
+      "id": 2072156,
+      "name": "Kişilər üçün krosovkalar EB_1000, bej, eko dəri, ölçü 42",
+      "slugged_name": "men-s-sneakers-no-brand-eb_1000-beige-eco-leather-size-42",
+      "custom_fields": [
+        {
+          "master_field_id": 1423,
+          "values": [
+            "42"
+          ]
+        },
+        {
+          "master_field_id": 625,
+          "values": [
+            "Bej"
+          ]
+        }
+      ],
+      "main_img": {
+        "big": "https://strgimgr.umico.az/img/product/1680/e9a9bea1-9a8e-4302-8ac9-e286deb1bd68.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/e9a9bea1-9a8e-4302-8ac9-e286deb1bd68.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/e9a9bea1-9a8e-4302-8ac9-e286deb1bd68.jpeg"
+      },
+      "status": "active"
+    }
+  ],
+  "size_chart": {},
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "sku": 1475783,
+    "mpn": "EB_1000_qara_44",
+    "url": "https://birmarket.az/product/1475783-kishiler-uchun-krosovkalar-eb_1000-rengbereng-eko-deri-olchu-44",
+    "name": "Kişilər üçün krosovkalar EB_1000, rəngbərəng, eko dəri, ölçü 44",
+    "image": [
+      "https://strgimgr.umico.az/img/product/1680/d790be55-4b9c-460c-9682-7e241df96113.jpeg",
+      "https://strgimgr.umico.az/img/product/1680/e3ecc4d9-5361-43b4-843b-3d0d0caedb33.jpeg",
+      "https://strgimgr.umico.az/img/product/1680/cbea579d-3bd4-4d7e-92f2-6ed7e2d4dffc.jpeg"
+    ],
+    "description": "&lt;p&gt;Qəşəng kişi idman ayaqqabıları gündəlik geyim, gəzinti və idman fəaliyyəti üçün ideal seçimdir. Bu idman ayaqqabıları rahatlıq və davamlılığı təmin edən keyfiyyətli materialdan hazırlanır. Sürüşməyən örtüklü rezin altlıq istənilən növ səthə əla yapışmağa zəmanət verir və onları aktiv həyat tərzi üçün ideal edir. Tekstil altlıq hər addımda lazımi dəstək və rahatlığı təmin edir. Bağlar&amp;nbsp;ayaqqabını ayağınızın ölçüsünə dəqiq uyğunlaşdırmağa imkan verir və mükəmməl uyğunluğu təmin edir. Dekorativ elementlərin olmaması bu idman ayaqqabılarını universal edir və istənilən geyim tərzinə uyğun gəlir. Gündəlik həyatda keyfiyyətə və rahatlığa önəm verənlər üçün kişi idman ayaqqabılarını seçin.&lt;/p&gt;",
+    "itemCondition": "https://schema.org/NewCondition",
+    "offers": {
+      "@type": "Offer",
+      "availability": "https://schema.org/InStock",
+      "url": "https://birmarket.az/product/1475783-kishiler-uchun-krosovkalar-eb_1000-rengbereng-eko-deri-olchu-44",
+      "price": 34.9,
+      "priceCurrency": "AZN",
+      "priceValidUntil": "2026-12-02T16:37:58+00:00Z",
+      "hasMerchantReturnPolicy": {
+        "applicableCountry": "AZ",
+        "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+        "returnMethod": "https://schema.org/ReturnInStore",
+        "returnFees": "https://schema.org/FreeReturn",
+        "merchantReturnDays": 14
+      },
+      "shippingDetails": {
+        "@type": "OfferShippingDetails",
+        "shippingDestination": {
+          "@type": "DefinedRegion",
+          "addressCountry": "AZ"
+        },
+        "deliveryTime": {
+          "@type": "ShippingDeliveryTime",
+          "handlingTime": {
+            "@type": "QuantitativeValue",
+            "minValue": 0,
+            "maxValue": 1,
+            "unitCode": "DAY"
+          },
+          "transitTime": {
+            "@type": "QuantitativeValue",
+            "minValue": 0,
+            "maxValue": 1,
+            "unitCode": "DAY"
+          },
+          "businessDays": {
+            "@type": "OpeningHoursSpecification",
+            "dayOfWeek": [
+              "https://schema.org/Monday",
+              "https://schema.org/Tuesday",
+              "https://schema.org/Wednesday",
+              "https://schema.org/Thursday",
+              "https://schema.org/Friday",
+              "https://schema.org/Saturday",
+              "https://schema.org/Sunday"
+            ]
+          }
+        },
+        "shippingRate": {
+          "@type": "MonetaryAmount",
+          "value": 0,
+          "currency": "AZN"
+        }
+      }
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": 5,
+      "reviewCount": 1
+    },
+    "brand": {
+      "@type": "Brand",
+      "name": "No Brand",
+      "url": "https://birmarket.az/brands/No%20Brand"
+    }
+  }
+}

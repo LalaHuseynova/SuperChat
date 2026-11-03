@@ -1,0 +1,624 @@
+{
+  "product": {
+    "id": 1386630,
+    "gtin": "",
+    "mpn": "WS 10104",
+    "name": "Simsiz qulaqlıq No Brand Major 4 WS 10104",
+    "slugged_name_az": "simsiz-qulaqliq-marshall-major-iv-ws-10104-ws-10104",
+    "slugged_name_ru": "besprovodnye-naushniki-marshall-major-iv-ws-10104-ws-10104",
+    "description": "Simli Marshall Major IV WS 10104 baş üstü qulaqcıqlar yüksək keyfiyyətli səs və rahat istifadəni təmin edir. Model Bluetooth və mini jack 3.5 mm ilə birləşmiş qoşulmanı dəstəkləyir ki, bu da cihazlar arasında asan keçid etməyə imkan verir. Daxili mikrofon zənglər və səs idarəsi zamanı rahatlıq yaradır. Qulaqcıqlar klassik qara rəngdə hazırlanıb və aktiv səs dəqiqləşdirilməsi olmadan gündəlik istifadə üçün uyğundur.",
+    "description_outlet": "",
+    "status": "active",
+    "uuid": "5aa1d652-dd72-452b-9fa5-a20db2ef7cef",
+    "variant_code": "VC_1386630",
+    "default_offer": {
+      "uuid": "d9053760-191d-431c-a609-d7030436a112",
+      "installment_enabled": true,
+      "max_installment_months": 6,
+      "product_offer_labels": [],
+      "old_price": 45,
+      "retail_price": 22.15,
+      "supplier_id": "512bea58-04d0-4818-91d9-5c8b92d2c865",
+      "qty": 0,
+      "seller": {
+        "ext_id": "512bea58-04d0-4818-91d9-5c8b92d2c865",
+        "marketing_name": {
+          "id": 6390,
+          "name": "Elstar"
+        },
+        "logo": {
+          "thumbnail": "https://storage.umico.az/cpcustomerprod01/1fb0dc61154adc3b5f73cd78f0ddee12.jpeg"
+        },
+        "vat_payer": false,
+        "rating": 96,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "discount_effective_start_date": "",
+      "discount_effective_end_date": ""
+    },
+    "category_id": 6,
+    "category": {
+      "id": 6,
+      "name": "Qulaqlıqlar və qarniturlar"
+    },
+    "brand": {
+      "name": "No Brand"
+    },
+    "custom_fields": [
+      {
+        "master_field_id": 628,
+        "values": [
+          "Taxma"
+        ]
+      },
+      {
+        "master_field_id": 629,
+        "values": [
+          "Qarışıq"
+        ]
+      },
+      {
+        "master_field_id": 1568,
+        "values": [
+          "Xeyr"
+        ]
+      },
+      {
+        "master_field_id": 678,
+        "values": [
+          "Bluetooth",
+          "Mini jack 3.5 mm"
+        ]
+      },
+      {
+        "master_field_id": 625,
+        "values": [
+          "Qara"
+        ]
+      }
+    ],
+    "main_img": {
+      "big": "https://strgimgr.umico.az/img/product/1680/57a00e35-fd66-4d6f-8f84-4b0e0f9e9e4c.jpeg",
+      "medium": "https://strgimgr.umico.az/img/product/840/57a00e35-fd66-4d6f-8f84-4b0e0f9e9e4c.jpeg",
+      "small": "https://strgimgr.umico.az/img/product/280/57a00e35-fd66-4d6f-8f84-4b0e0f9e9e4c.jpeg"
+    },
+    "img_url_thumbnail": "https://strgimgr.umico.az/img/product/280/57a00e35-fd66-4d6f-8f84-4b0e0f9e9e4c.jpeg",
+    "main_video": "",
+    "imgs": [
+      {
+        "big": "https://strgimgr.umico.az/img/product/1680/57a00e35-fd66-4d6f-8f84-4b0e0f9e9e4c.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/57a00e35-fd66-4d6f-8f84-4b0e0f9e9e4c.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/57a00e35-fd66-4d6f-8f84-4b0e0f9e9e4c.jpeg"
+      }
+    ],
+    "videos": [],
+    "min_qty": 1,
+    "preorder_available": false,
+    "is_assortment": false,
+    "is_bulk_heavy": false,
+    "is_refurbished": false,
+    "is_refundable": true,
+    "is_dangerous": false,
+    "show_tech_description": false,
+    "use_external_content": true,
+    "product_labels": [],
+    "ratings": {
+      "rating_value": 4.4,
+      "assessment_id": 0,
+      "session_count": 7,
+      "score_count": 2,
+      "review_count": 5
+    },
+    "default_show_stock_qty_threshold": 0,
+    "card_type": "public"
+  },
+  "category": {
+    "id": 6,
+    "name": "Qulaqlıqlar və qarniturlar",
+    "slugged_name_az": "qulaqliqlar-ve-qarniturlar",
+    "slugged_name_ru": "naushniki-i-garnitury",
+    "view_mode": "products",
+    "mobile_visual_mode": "text",
+    "is_variant": true,
+    "depth": 2,
+    "parent_id": 2,
+    "child_ids": [],
+    "node_type": "NODE",
+    "install_service_needed": false,
+    "fitting_allowed": false,
+    "vat": true,
+    "variations": [
+      {
+        "master_field_id": 625,
+        "name": "Rəng",
+        "variation_tool_type": "image",
+        "has_size_chart": false,
+        "display_variant": false
+      }
+    ],
+    "custom_fields": [
+      {
+        "master_field_id": 1476,
+        "category_master_field_id": 10651,
+        "name": "Seriya"
+      },
+      {
+        "master_field_id": 628,
+        "category_master_field_id": 1455,
+        "name": "Qulaqlıq növü"
+      },
+      {
+        "master_field_id": 629,
+        "category_master_field_id": 1456,
+        "name": "Qoşulma tipi"
+      },
+      {
+        "master_field_id": 633,
+        "category_master_field_id": 1460,
+        "name": "Port tipi"
+      },
+      {
+        "master_field_id": 777,
+        "category_master_field_id": 45543,
+        "name": "Bluetooth standartı"
+      },
+      {
+        "master_field_id": 6487,
+        "category_master_field_id": 45544,
+        "name": "Aktiv səs-küyün boğulması (ANC)"
+      },
+      {
+        "master_field_id": 759,
+        "category_master_field_id": 4638,
+        "name": "Mikrofon"
+      },
+      {
+        "master_field_id": 1574,
+        "category_master_field_id": 4669,
+        "name": "İşləmə müddəti, saat"
+      },
+      {
+        "master_field_id": 2186,
+        "category_master_field_id": 45545,
+        "name": "Nəmə davamlı"
+      },
+      {
+        "master_field_id": 625,
+        "category_master_field_id": 4637,
+        "name": "Rəng"
+      },
+      {
+        "master_field_id": 2211,
+        "category_master_field_id": 10656,
+        "name": "Zəmanət müddəti"
+      },
+      {
+        "master_field_id": 1568,
+        "category_master_field_id": 4663,
+        "name": "Səs-küyün boğulması"
+      },
+      {
+        "master_field_id": 678,
+        "category_master_field_id": 10650,
+        "name": "Qoşulma interfeysi"
+      },
+      {
+        "master_field_id": 657,
+        "category_master_field_id": 4640,
+        "name": "Quruluş"
+      },
+      {
+        "master_field_id": 630,
+        "category_master_field_id": 1457,
+        "name": "Həssaslıq, dB"
+      },
+      {
+        "master_field_id": 631,
+        "category_master_field_id": 1458,
+        "name": "Minimal təkrarlanan tezlik, Hz"
+      },
+      {
+        "master_field_id": 632,
+        "category_master_field_id": 1459,
+        "name": "Maksimal təkrarlanan tezlik, Hz"
+      },
+      {
+        "master_field_id": 1838,
+        "category_master_field_id": 5557,
+        "name": "Port forması"
+      },
+      {
+        "master_field_id": 782,
+        "category_master_field_id": 4636,
+        "name": "Kabelin uzunluğu, m"
+      },
+      {
+        "master_field_id": 3287,
+        "category_master_field_id": 15468,
+        "name": "Qulaqlıqların bərkitməsi"
+      },
+      {
+        "master_field_id": 1840,
+        "category_master_field_id": 5559,
+        "name": "Akustik formalaşdırma"
+      },
+      {
+        "master_field_id": 1140,
+        "category_master_field_id": 15469,
+        "name": "Təsir radiusu, m"
+      },
+      {
+        "master_field_id": 1841,
+        "category_master_field_id": 5560,
+        "name": "Maksimal çıxış gücü, Vt"
+      },
+      {
+        "master_field_id": 1842,
+        "category_master_field_id": 5561,
+        "name": "Diapazonun yuxarı həddi, Hz"
+      },
+      {
+        "master_field_id": 1843,
+        "category_master_field_id": 5562,
+        "name": "Diapazonun aşağı həddi, Hz"
+      },
+      {
+        "master_field_id": 1844,
+        "category_master_field_id": 5563,
+        "name": "Siqnal/səs-küy nisbəti, dB"
+      },
+      {
+        "master_field_id": 797,
+        "category_master_field_id": 5570,
+        "name": "Empendans, Om"
+      },
+      {
+        "master_field_id": 1567,
+        "category_master_field_id": 4662,
+        "name": "Səs izolyasiyası"
+      },
+      {
+        "master_field_id": 1845,
+        "category_master_field_id": 5564,
+        "name": "Səs səviyyəsinin tənzimləyicisi"
+      },
+      {
+        "master_field_id": 1570,
+        "category_master_field_id": 4665,
+        "name": "Ətraf səs"
+      },
+      {
+        "master_field_id": 1573,
+        "category_master_field_id": 4668,
+        "name": "Dinamiklərin ümumi sayı"
+      },
+      {
+        "master_field_id": 1846,
+        "category_master_field_id": 5565,
+        "name": "Mikrofon növü"
+      },
+      {
+        "master_field_id": 1847,
+        "category_master_field_id": 5566,
+        "name": "Mikrofonun diapazonunun yuxarı həddi, Hz"
+      },
+      {
+        "master_field_id": 1848,
+        "category_master_field_id": 5567,
+        "name": "Mikrofonun diapazonunun aşağı həddi, Hz"
+      },
+      {
+        "master_field_id": 1849,
+        "category_master_field_id": 5568,
+        "name": "Mikrofonun siqnal/səs-küy nisbəti"
+      },
+      {
+        "master_field_id": 1850,
+        "category_master_field_id": 5569,
+        "name": "Mikrofonun bərkitməsi"
+      },
+      {
+        "master_field_id": 1740,
+        "category_master_field_id": 5571,
+        "name": "Digər funksiyalar və xüsusiyyətlər"
+      },
+      {
+        "master_field_id": 870,
+        "category_master_field_id": 4634,
+        "name": "Çəki, q"
+      },
+      {
+        "master_field_id": 2552,
+        "category_master_field_id": 10654,
+        "name": "Korpusun qorunması"
+      },
+      {
+        "master_field_id": 697,
+        "category_master_field_id": 10655,
+        "name": "Komplektasiya"
+      },
+      {
+        "master_field_id": 2210,
+        "category_master_field_id": 10649,
+        "name": "Brendin ölkəsi"
+      },
+      {
+        "master_field_id": 618,
+        "category_master_field_id": 4635,
+        "name": "İstehsalçı ölkə"
+      }
+    ],
+    "parent": {
+      "id": 2,
+      "node_type": "NODE",
+      "name": "Telefonlar, Smart cihazlar və telefon aksessuarları",
+      "slugged_name": "telefonlar-ve-aksessuarlar",
+      "parent": {
+        "id": 1,
+        "node_type": "NODE",
+        "name": "Elektronika və məişət texnikası",
+        "slugged_name": "elektronika-ve-meishet-texnikasi",
+        "parent": null
+      }
+    },
+    "is_refundable": true,
+    "is_adult": false,
+    "icons": {
+      "thumbnail": "https://strgimgr.umico.az/img/category/188/7a8b0d8a-c1a8-46f5-a7cd-c7483dbc6bee.jpeg",
+      "original": "https://strgimgr.umico.az/img/category/original/7a8b0d8a-c1a8-46f5-a7cd-c7483dbc6bee.jpeg"
+    },
+    "is_active": true
+  },
+  "offers": [
+    {
+      "uuid": "25d28685-13b4-4ae2-9597-ac3bb6dfb3de",
+      "installment_enabled": true,
+      "max_installment_months": 24,
+      "product_offer_labels": [],
+      "old_price": 51.31,
+      "retail_price": 27.27,
+      "supplier_id": "9da60cc3-6b88-4d03-bff7-f07e259f0703",
+      "seller": {
+        "ext_id": "a44ee0e7-e3d0-47bd-be4a-0118ca9fa697",
+        "internal_id": 15070,
+        "marketing_name": {
+          "id": 15070,
+          "name": "ElectroMall"
+        },
+        "logo": {
+          "thumbnail": "https://storage.umico.az/cpcustomerprod01/697cacaf09c3728fd130fb6c8674b55d.jpeg"
+        },
+        "vat_payer": false,
+        "rating": 100,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "allow_qty": 0
+    },
+    {
+      "uuid": "ed12a395-5fee-419a-9a9f-0d4671cc7291",
+      "installment_enabled": true,
+      "max_installment_months": 18,
+      "product_offer_labels": [],
+      "old_price": 51.95,
+      "retail_price": 25.75,
+      "supplier_id": "655d8cdd-d2ce-4ab6-8f7d-59aace122513",
+      "seller": {
+        "ext_id": "8f0a838d-8cd2-4332-9823-0334441f7742",
+        "internal_id": 12980,
+        "marketing_name": {
+          "id": 12980,
+          "name": "ELECTRON"
+        },
+        "logo": {
+          "thumbnail": "https://storage.umico.az/cpcustomerprod01/52fd442c1c447c3168035d98dceafc2a.jpeg"
+        },
+        "vat_payer": false,
+        "rating": 98,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "allow_qty": 0
+    },
+    {
+      "uuid": "93e771e7-e3f2-48e0-b72b-a45b7deacec0",
+      "installment_enabled": true,
+      "max_installment_months": 24,
+      "product_offer_labels": [],
+      "old_price": 50.8,
+      "retail_price": 26.92,
+      "supplier_id": "b3144cf9-6cf5-4acb-b8a6-c570f445d909",
+      "seller": {
+        "ext_id": "bdf094d5-350d-492c-b8b3-0fca5e771fa1",
+        "internal_id": 13683,
+        "marketing_name": {
+          "id": 13683,
+          "name": "HyperMall"
+        },
+        "logo": {
+          "thumbnail": "https://storage.umico.az/cpcustomerprod01/9a53a94352754f4a3b31f81e146e8e3e.jpeg"
+        },
+        "vat_payer": false,
+        "rating": 96,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "allow_qty": 0
+    },
+    {
+      "uuid": "53815982-59a7-448a-b881-4bf9f2a5c02c",
+      "installment_enabled": true,
+      "max_installment_months": 6,
+      "product_offer_labels": [],
+      "old_price": 48,
+      "retail_price": 29.99,
+      "supplier_id": "709191ff-00c0-4594-925c-f26dedb1c3b4",
+      "seller": {
+        "ext_id": "ec2e9e5e-7edb-477d-814e-e4ffda4d0b1c",
+        "internal_id": 9358,
+        "marketing_name": {
+          "id": 9358,
+          "name": "OneMarket"
+        },
+        "logo": {
+          "thumbnail": "https://storage.umico.az/cpcustomerprod01/6e964ff53af65aa5a2374ff7c586cb84.jpg"
+        },
+        "vat_payer": false,
+        "rating": 96,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "allow_qty": 0
+    },
+    {
+      "uuid": "d9053760-191d-431c-a609-d7030436a112",
+      "installment_enabled": true,
+      "max_installment_months": 6,
+      "product_offer_labels": [],
+      "old_price": 45,
+      "retail_price": 22.15,
+      "supplier_id": "512bea58-04d0-4818-91d9-5c8b92d2c865",
+      "seller": {
+        "ext_id": "f20b9dd5-5880-4ae9-abfd-677b214a5843",
+        "internal_id": 6390,
+        "marketing_name": {
+          "id": 6390,
+          "name": "Elstar"
+        },
+        "logo": {
+          "thumbnail": "https://storage.umico.az/cpcustomerprod01/1fb0dc61154adc3b5f73cd78f0ddee12.jpeg"
+        },
+        "vat_payer": false,
+        "rating": 96,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "allow_qty": 0
+    },
+    {
+      "uuid": "09127b4a-ff7d-4ffa-9b27-fe73cca02964",
+      "installment_enabled": true,
+      "max_installment_months": 18,
+      "product_offer_labels": [],
+      "old_price": 48,
+      "retail_price": 29.99,
+      "supplier_id": "210e0be1-6781-4099-a5db-c489e2aab5f6",
+      "seller": {
+        "ext_id": "35382ff5-59e8-4090-9d2b-398320b1869c",
+        "internal_id": 11450,
+        "marketing_name": {
+          "id": 11450,
+          "name": "OneMarket Plus"
+        },
+        "logo": {
+          "thumbnail": ""
+        },
+        "vat_payer": false,
+        "rating": 94,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "allow_qty": 0
+    }
+  ],
+  "variations": [
+    {
+      "id": 1386630,
+      "name": "Simsiz qulaqlıq No Brand Major 4 WS 10104",
+      "slugged_name": "simsiz-qulaqliq-marshall-major-iv-ws-10104-ws-10104",
+      "custom_fields": [
+        {
+          "master_field_id": 625,
+          "values": [
+            "Qara"
+          ]
+        }
+      ],
+      "main_img": {
+        "big": "https://strgimgr.umico.az/img/product/1680/57a00e35-fd66-4d6f-8f84-4b0e0f9e9e4c.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/57a00e35-fd66-4d6f-8f84-4b0e0f9e9e4c.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/57a00e35-fd66-4d6f-8f84-4b0e0f9e9e4c.jpeg"
+      },
+      "status": "active"
+    }
+  ],
+  "size_chart": {},
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "sku": 1386630,
+    "mpn": "WS 10104",
+    "url": "https://birmarket.az/product/1386630-simsiz-qulaqliq-marshall-major-iv-ws-10104-ws-10104",
+    "name": "Simsiz qulaqlıq No Brand Major 4 WS 10104",
+    "image": [
+      "https://strgimgr.umico.az/img/product/1680/57a00e35-fd66-4d6f-8f84-4b0e0f9e9e4c.jpeg"
+    ],
+    "description": "Simli Marshall Major IV WS 10104 baş üstü qulaqcıqlar yüksək keyfiyyətli səs və rahat istifadəni təmin edir. Model Bluetooth və mini jack 3.5 mm ilə birləşmiş qoşulmanı dəstəkləyir ki, bu da cihazlar arasında asan keçid etməyə imkan verir. Daxili mikrofon zənglər və səs idarəsi zamanı rahatlıq yaradır. Qulaqcıqlar klassik qara rəngdə hazırlanıb və aktiv səs dəqiqləşdirilməsi olmadan gündəlik istifadə üçün uyğundur.",
+    "itemCondition": "https://schema.org/NewCondition",
+    "offers": {
+      "@type": "AggregateOffer",
+      "availability": "https://schema.org/InStock",
+      "offerCount": 6,
+      "highPrice": 29.99,
+      "lowPrice": 22.15,
+      "priceCurrency": "AZN",
+      "hasMerchantReturnPolicy": {
+        "applicableCountry": "AZ",
+        "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+        "returnMethod": "https://schema.org/ReturnInStore",
+        "returnFees": "https://schema.org/FreeReturn",
+        "merchantReturnDays": 14
+      },
+      "shippingDetails": {
+        "@type": "OfferShippingDetails",
+        "shippingDestination": {
+          "@type": "DefinedRegion",
+          "addressCountry": "AZ"
+        },
+        "deliveryTime": {
+          "@type": "ShippingDeliveryTime",
+          "handlingTime": {
+            "@type": "QuantitativeValue",
+            "minValue": 0,
+            "maxValue": 1,
+            "unitCode": "DAY"
+          },
+          "transitTime": {
+            "@type": "QuantitativeValue",
+            "minValue": 0,
+            "maxValue": 1,
+            "unitCode": "DAY"
+          },
+          "businessDays": {
+            "@type": "OpeningHoursSpecification",
+            "dayOfWeek": [
+              "https://schema.org/Monday",
+              "https://schema.org/Tuesday",
+              "https://schema.org/Wednesday",
+              "https://schema.org/Thursday",
+              "https://schema.org/Friday",
+              "https://schema.org/Saturday",
+              "https://schema.org/Sunday"
+            ]
+          }
+        },
+        "shippingRate": {
+          "@type": "MonetaryAmount",
+          "value": 0,
+          "currency": "AZN"
+        }
+      }
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": 4,
+      "reviewCount": 5
+    },
+    "brand": {
+      "@type": "Brand",
+      "name": "No Brand",
+      "url": "https://birmarket.az/brands/No%20Brand"
+    }
+  }
+}

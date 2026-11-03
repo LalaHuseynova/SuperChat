@@ -1,0 +1,77 @@
+{
+  "catalogue_version": "5ad7880820c67fa9",
+  "products": 170,
+  "checks": [
+    {
+      "language": "en",
+      "prompt": "Find Xiaomi Redmi Note 15",
+      "card_ids": [
+        "BM-1866121",
+        "BM-1836274",
+        "BM-1836292"
+      ],
+      "source_links_valid": true
+    },
+    {
+      "language": "az",
+      "prompt": "Xiaomi Redmi Note 15 telefon göstər",
+      "card_ids": [
+        "BM-1866121",
+        "BM-1836274",
+        "BM-1836292"
+      ],
+      "source_links_valid": true
+    },
+    {
+      "language": "ru",
+      "prompt": "Покажи телефон Xiaomi Redmi Note 15",
+      "card_ids": [
+        "BM-1866121",
+        "BM-1836274",
+        "BM-1836292"
+      ],
+      "source_links_valid": true
+    },
+    {
+      "prompt": "339383994848+ ticket istanbul baku",
+      "cards": 0
+    },
+    {
+      "prompt": "Show Samsung Galaxy S999 phones",
+      "cards": 0
+    }
+  ],
+  "image_smoke": {
+    "input_product_id": "BM-1836292",
+    "accepted": true,
+    "label": "smartphone",
+    "method": "image_similarity",
+    "matches": [
+      {
+        "id": "BM-1836292",
+        "score": 0.9997
+      },
+      {
+        "id": "BM-1355557",
+        "score": 0.8427
+      },
+      {
+        "id": "BM-1866121",
+        "score": 0.8059
+      },
+      {
+        "id": "BM-1049157",
+        "score": 0.7816
+      },
+      {
+        "id": "BM-1388679",
+        "score": 0.7774
+      },
+      {
+        "id": "BM-1836274",
+        "score": 0.7624
+      }
+    ]
+  },
+  "indexed_images": 170
+}

@@ -1,0 +1,916 @@
+{
+  "product": {
+    "id": 682145,
+    "gtin": "",
+    "mpn": "NX.K7MER.009",
+    "name": "Notbuk Acer Swift 3 SF314-512 (NX.K7MER.009)",
+    "slugged_name_az": "notbuk-acer-swift-3-sf314-512-nx-k7mer-009",
+    "slugged_name_ru": "noutbuk-acer-swift-3-sf314-512-nx-k7mer-009",
+    "description": "",
+    "description_outlet": "",
+    "status": "active",
+    "uuid": "e4bab315-81f6-4f00-94f4-c2609cd5b4cc",
+    "variant_code": "VC_682145",
+    "default_offer": {
+      "uuid": "6d6938f8-4d5c-4be1-85f2-5552025c8b94",
+      "installment_enabled": true,
+      "max_installment_months": 3,
+      "product_offer_labels": [],
+      "old_price": 0,
+      "retail_price": 1499,
+      "supplier_id": "217b2604-2ea1-4855-bda3-9ce0add2dbf1",
+      "qty": 0,
+      "seller": {
+        "ext_id": "217b2604-2ea1-4855-bda3-9ce0add2dbf1",
+        "marketing_name": {
+          "id": 8399,
+          "name": "Minor Smart"
+        },
+        "logo": {
+          "thumbnail": "https://storage.umico.az/cpcustomerprod01/b166d3e558aea16abc9063a7a9ee5bf3.jpg"
+        },
+        "vat_payer": true,
+        "rating": 100,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "discount_effective_start_date": "",
+      "discount_effective_end_date": ""
+    },
+    "category_id": 16,
+    "category": {
+      "id": 16,
+      "name": "Notbuklar"
+    },
+    "brand": {
+      "name": "Acer"
+    },
+    "custom_fields": [
+      {
+        "master_field_id": 6044,
+        "values": [
+          "1260P"
+        ]
+      },
+      {
+        "master_field_id": 834,
+        "values": [
+          "LPDDR4X"
+        ]
+      },
+      {
+        "master_field_id": 661,
+        "values": [
+          "16"
+        ]
+      },
+      {
+        "master_field_id": 705,
+        "values": [
+          "Intel Iris Graphics"
+        ]
+      },
+      {
+        "master_field_id": 617,
+        "values": [
+          "14"
+        ]
+      },
+      {
+        "master_field_id": 1472,
+        "values": [
+          "60"
+        ]
+      },
+      {
+        "master_field_id": 675,
+        "values": [
+          "IPS"
+        ]
+      },
+      {
+        "master_field_id": 619,
+        "values": [
+          "1920 x 1080"
+        ]
+      },
+      {
+        "master_field_id": 659,
+        "values": [
+          "Windows 11"
+        ]
+      },
+      {
+        "master_field_id": 672,
+        "values": [
+          "Intel Core i7"
+        ]
+      },
+      {
+        "master_field_id": 673,
+        "values": [
+          "4700"
+        ]
+      },
+      {
+        "master_field_id": 664,
+        "values": [
+          "12"
+        ]
+      },
+      {
+        "master_field_id": 2595,
+        "values": [
+          "512"
+        ]
+      },
+      {
+        "master_field_id": 1488,
+        "values": [
+          "SSD"
+        ]
+      },
+      {
+        "master_field_id": 1744,
+        "values": [
+          "Intel"
+        ]
+      },
+      {
+        "master_field_id": 662,
+        "values": [
+          "SMA"
+        ]
+      },
+      {
+        "master_field_id": 1743,
+        "values": [
+          "İnteqrasiyalı"
+        ]
+      },
+      {
+        "master_field_id": 656,
+        "values": [
+          "1.25"
+        ]
+      },
+      {
+        "master_field_id": 625,
+        "values": [
+          "Göy"
+        ]
+      },
+      {
+        "master_field_id": 775,
+        "values": [
+          "320"
+        ]
+      },
+      {
+        "master_field_id": 776,
+        "values": [
+          "210.8"
+        ]
+      },
+      {
+        "master_field_id": 1637,
+        "values": [
+          "16"
+        ]
+      },
+      {
+        "master_field_id": 1476,
+        "values": [
+          "Acer Swift 3"
+        ]
+      },
+      {
+        "master_field_id": 620,
+        "values": [
+          "Ev və iş üçün"
+        ]
+      },
+      {
+        "master_field_id": 1739,
+        "values": [
+          "Xeyr"
+        ]
+      },
+      {
+        "master_field_id": 1594,
+        "values": [
+          "Xeyr"
+        ]
+      },
+      {
+        "master_field_id": 658,
+        "values": [
+          "Xeyr"
+        ]
+      },
+      {
+        "master_field_id": 697,
+        "values": [
+          "Təlimat"
+        ]
+      },
+      {
+        "master_field_id": 2210,
+        "values": [
+          "Tayvan"
+        ]
+      },
+      {
+        "master_field_id": 618,
+        "values": [
+          "Çin"
+        ]
+      },
+      {
+        "master_field_id": 2635,
+        "values": [
+          "2022"
+        ]
+      },
+      {
+        "master_field_id": 1493,
+        "values": [
+          "Ada şəklində"
+        ]
+      },
+      {
+        "master_field_id": 1557,
+        "values": [
+          "Qara"
+        ]
+      },
+      {
+        "master_field_id": 2600,
+        "values": [
+          "Xeyr"
+        ]
+      },
+      {
+        "master_field_id": 1508,
+        "values": [
+          "2"
+        ]
+      },
+      {
+        "master_field_id": 1811,
+        "values": [
+          "Bəli"
+        ]
+      },
+      {
+        "master_field_id": 2598,
+        "values": [
+          "Xeyr"
+        ]
+      },
+      {
+        "master_field_id": 777,
+        "values": [
+          "Bəli"
+        ]
+      },
+      {
+        "master_field_id": 2597,
+        "values": [
+          "Xeyr"
+        ]
+      },
+      {
+        "master_field_id": 2596,
+        "values": [
+          "Bəli"
+        ]
+      },
+      {
+        "master_field_id": 2559,
+        "values": [
+          "4"
+        ]
+      },
+      {
+        "master_field_id": 1556,
+        "values": [
+          "Yoxdur"
+        ]
+      },
+      {
+        "master_field_id": 1759,
+        "values": [
+          "Bəli"
+        ]
+      },
+      {
+        "master_field_id": 660,
+        "values": [
+          "Antiblik"
+        ]
+      },
+      {
+        "master_field_id": 6327,
+        "values": [
+          "Xeyr"
+        ]
+      }
+    ],
+    "main_img": {
+      "big": "https://strgimgr.umico.az/sized/1680/682145-61abae58ea73b77b2c56099438aa791a.jpg",
+      "medium": "https://strgimgr.umico.az/sized/840/682145-61abae58ea73b77b2c56099438aa791a.jpg",
+      "small": "https://strgimgr.umico.az/sized/280/682145-61abae58ea73b77b2c56099438aa791a.jpg"
+    },
+    "img_url_thumbnail": "https://strgimgr.umico.az/sized/280/682145-61abae58ea73b77b2c56099438aa791a.jpg",
+    "main_video": "",
+    "imgs": [
+      {
+        "big": "https://strgimgr.umico.az/sized/1680/682145-61abae58ea73b77b2c56099438aa791a.jpg",
+        "medium": "https://strgimgr.umico.az/sized/840/682145-61abae58ea73b77b2c56099438aa791a.jpg",
+        "small": "https://strgimgr.umico.az/sized/280/682145-61abae58ea73b77b2c56099438aa791a.jpg"
+      },
+      {
+        "big": "https://strgimgr.umico.az/sized/1680/682145-30bc02877dac978f9ca8c65abf39aa7e.jpg",
+        "medium": "https://strgimgr.umico.az/sized/840/682145-30bc02877dac978f9ca8c65abf39aa7e.jpg",
+        "small": "https://strgimgr.umico.az/sized/280/682145-30bc02877dac978f9ca8c65abf39aa7e.jpg"
+      },
+      {
+        "big": "https://strgimgr.umico.az/sized/1680/682145-0fdf6b59136a895dd8dd2138664b53a3.jpg",
+        "medium": "https://strgimgr.umico.az/sized/840/682145-0fdf6b59136a895dd8dd2138664b53a3.jpg",
+        "small": "https://strgimgr.umico.az/sized/280/682145-0fdf6b59136a895dd8dd2138664b53a3.jpg"
+      },
+      {
+        "big": "https://strgimgr.umico.az/sized/1680/682145-8faca36dc8246aad997bc7c4b3052fcb.jpg",
+        "medium": "https://strgimgr.umico.az/sized/840/682145-8faca36dc8246aad997bc7c4b3052fcb.jpg",
+        "small": "https://strgimgr.umico.az/sized/280/682145-8faca36dc8246aad997bc7c4b3052fcb.jpg"
+      }
+    ],
+    "videos": [],
+    "min_qty": 1,
+    "preorder_available": false,
+    "is_assortment": false,
+    "is_bulk_heavy": false,
+    "is_refurbished": false,
+    "is_refundable": true,
+    "is_dangerous": false,
+    "show_tech_description": false,
+    "use_external_content": true,
+    "product_labels": [],
+    "ratings": {
+      "rating_value": 5,
+      "assessment_id": 0,
+      "session_count": 1,
+      "score_count": 1
+    },
+    "default_show_stock_qty_threshold": 0,
+    "card_type": "public"
+  },
+  "category": {
+    "id": 16,
+    "name": "Notbuklar",
+    "slugged_name_az": "noutbuklar",
+    "slugged_name_ru": "noutbuki",
+    "view_mode": "products",
+    "mobile_visual_mode": "text",
+    "is_variant": true,
+    "depth": 2,
+    "parent_id": 15,
+    "child_ids": [],
+    "node_type": "NODE",
+    "install_service_needed": false,
+    "fitting_allowed": false,
+    "vat": true,
+    "variations": [
+      {
+        "master_field_id": 625,
+        "name": "Rəng",
+        "variation_tool_type": "image",
+        "has_size_chart": false,
+        "display_variant": false
+      },
+      {
+        "master_field_id": 2595,
+        "name": "SSD həcmi, Gb",
+        "variation_tool_type": "button",
+        "has_size_chart": false,
+        "display_variant": false
+      },
+      {
+        "master_field_id": 672,
+        "name": "Prosessorun növü",
+        "variation_tool_type": "button",
+        "has_size_chart": false,
+        "display_variant": false
+      }
+    ],
+    "custom_fields": [
+      {
+        "master_field_id": 1476,
+        "category_master_field_id": 4465,
+        "name": "Seriya"
+      },
+      {
+        "master_field_id": 620,
+        "category_master_field_id": 1503,
+        "name": "Tip"
+      },
+      {
+        "master_field_id": 672,
+        "category_master_field_id": 5316,
+        "name": "Prosessorun növü"
+      },
+      {
+        "master_field_id": 661,
+        "category_master_field_id": 1510,
+        "name": "Operativ yaddaşın həcmi, Gb"
+      },
+      {
+        "master_field_id": 834,
+        "category_master_field_id": 4473,
+        "name": "Yaddaşın növü"
+      },
+      {
+        "master_field_id": 2595,
+        "category_master_field_id": 10818,
+        "name": "SSD həcmi, Gb"
+      },
+      {
+        "master_field_id": 2594,
+        "category_master_field_id": 10817,
+        "name": "HDD həcmi, Gb"
+      },
+      {
+        "master_field_id": 1488,
+        "category_master_field_id": 4481,
+        "name": "Yığıcının növü"
+      },
+      {
+        "master_field_id": 617,
+        "category_master_field_id": 1506,
+        "name": "Ekranın diaqonalı, düym"
+      },
+      {
+        "master_field_id": 619,
+        "category_master_field_id": 4460,
+        "name": "Ekranın qətnaməsi"
+      },
+      {
+        "master_field_id": 675,
+        "category_master_field_id": 4458,
+        "name": "Matrisin növü"
+      },
+      {
+        "master_field_id": 1472,
+        "category_master_field_id": 4461,
+        "name": "Kadrların dəyişmə tezliyi, Hz"
+      },
+      {
+        "master_field_id": 659,
+        "category_master_field_id": 1507,
+        "name": "Əvvəlcədən quraşdırılmış ƏS"
+      },
+      {
+        "master_field_id": 625,
+        "category_master_field_id": 1509,
+        "name": "Rəng"
+      },
+      {
+        "master_field_id": 2211,
+        "category_master_field_id": 10835,
+        "name": "Zəmanət müddəti"
+      },
+      {
+        "master_field_id": 660,
+        "category_master_field_id": 1508,
+        "name": "Ekran örtüyünün növü"
+      },
+      {
+        "master_field_id": 6044,
+        "category_master_field_id": 38416,
+        "name": "Prosessorun kodu"
+      },
+      {
+        "master_field_id": 673,
+        "category_master_field_id": 5320,
+        "name": "Prosessorun tezliyi, MHz"
+      },
+      {
+        "master_field_id": 719,
+        "category_master_field_id": 4477,
+        "name": "Yaddaş yuvalarının sayı"
+      },
+      {
+        "master_field_id": 1482,
+        "category_master_field_id": 4472,
+        "name": "Maksimal artırıla bilən həcm, Gb"
+      },
+      {
+        "master_field_id": 662,
+        "category_master_field_id": 1511,
+        "name": "Video yaddaşın həcmi, Gb"
+      },
+      {
+        "master_field_id": 1743,
+        "category_master_field_id": 5321,
+        "name": "Qrafik kontrollerin növü"
+      },
+      {
+        "master_field_id": 656,
+        "category_master_field_id": 4590,
+        "name": "Çəki, kq"
+      },
+      {
+        "master_field_id": 826,
+        "category_master_field_id": 4588,
+        "name": "Akkumulyatorun həcmi, mA/saat"
+      },
+      {
+        "master_field_id": 775,
+        "category_master_field_id": 15508,
+        "name": "Uzunluğu, mm"
+      },
+      {
+        "master_field_id": 776,
+        "category_master_field_id": 15509,
+        "name": "Eni, mm"
+      },
+      {
+        "master_field_id": 1637,
+        "category_master_field_id": 10833,
+        "name": "Qalınlığı, mm"
+      },
+      {
+        "master_field_id": 705,
+        "category_master_field_id": 5324,
+        "name": "Qrafik çipset"
+      },
+      {
+        "master_field_id": 1739,
+        "category_master_field_id": 10815,
+        "name": "Sensor ekran"
+      },
+      {
+        "master_field_id": 658,
+        "category_master_field_id": 1505,
+        "name": "Ultrabuk"
+      },
+      {
+        "master_field_id": 697,
+        "category_master_field_id": 10834,
+        "name": "Komplektasiya"
+      },
+      {
+        "master_field_id": 1740,
+        "category_master_field_id": 5326,
+        "name": "Digər funksiyalar və xüsusiyyətlər"
+      },
+      {
+        "master_field_id": 2210,
+        "category_master_field_id": 10809,
+        "name": "Brendin ölkəsi"
+      },
+      {
+        "master_field_id": 618,
+        "category_master_field_id": 5330,
+        "name": "İstehsalçı ölkə"
+      },
+      {
+        "master_field_id": 2635,
+        "category_master_field_id": 37278,
+        "name": "Bazarın başlanğıc ili"
+      },
+      {
+        "master_field_id": 1493,
+        "category_master_field_id": 4487,
+        "name": "Düymələrin quruluşu"
+      },
+      {
+        "master_field_id": 1557,
+        "category_master_field_id": 4616,
+        "name": "Klaviaturanın rəngi"
+      },
+      {
+        "master_field_id": 2600,
+        "category_master_field_id": 10829,
+        "name": "Klaviaturanın işıqlandırılması"
+      },
+      {
+        "master_field_id": 1508,
+        "category_master_field_id": 10828,
+        "name": "Dinamiklərin sayı"
+      },
+      {
+        "master_field_id": 1554,
+        "category_master_field_id": 10826,
+        "name": "Yaddaş kartlarının dəstəklənməsi"
+      },
+      {
+        "master_field_id": 1811,
+        "category_master_field_id": 10825,
+        "name": "Wi-Fi standartı"
+      },
+      {
+        "master_field_id": 2598,
+        "category_master_field_id": 10824,
+        "name": "NFC mövcudluğu"
+      },
+      {
+        "master_field_id": 777,
+        "category_master_field_id": 10823,
+        "name": "Bluetooth standartı"
+      },
+      {
+        "master_field_id": 2597,
+        "category_master_field_id": 10822,
+        "name": "VGA (D-sub) port"
+      },
+      {
+        "master_field_id": 2596,
+        "category_master_field_id": 10821,
+        "name": "HDMI port"
+      },
+      {
+        "master_field_id": 1594,
+        "category_master_field_id": 4711,
+        "name": "Şəbəkəyə qoşulma (Ethernet)"
+      },
+      {
+        "master_field_id": 2559,
+        "category_master_field_id": 10820,
+        "name": "USB -portların sayı, əd."
+      },
+      {
+        "master_field_id": 1556,
+        "category_master_field_id": 4615,
+        "name": "Optik ötürücü"
+      },
+      {
+        "master_field_id": 1491,
+        "category_master_field_id": 4485,
+        "name": "Web-kamera"
+      },
+      {
+        "master_field_id": 1759,
+        "category_master_field_id": 10819,
+        "name": "Veb kamera"
+      },
+      {
+        "master_field_id": 2552,
+        "category_master_field_id": 10830,
+        "name": "Korpusun qorunması"
+      },
+      {
+        "master_field_id": 1492,
+        "category_master_field_id": 4486,
+        "name": "Səs formatı"
+      },
+      {
+        "master_field_id": 1744,
+        "category_master_field_id": 5322,
+        "name": "Qrafik çipsetin istehsalçısı"
+      },
+      {
+        "master_field_id": 664,
+        "category_master_field_id": 4468,
+        "name": "Prosessorun nüvələr sayı"
+      },
+      {
+        "master_field_id": 6327,
+        "category_master_field_id": 41934,
+        "name": "Oyun"
+      }
+    ],
+    "parent": {
+      "id": 15,
+      "node_type": "NODE",
+      "name": "Notbuk və kompüterlər",
+      "slugged_name": "noutbuklar-ve-komputer-texnikasi",
+      "parent": {
+        "id": 1,
+        "node_type": "NODE",
+        "name": "Elektronika və məişət texnikası",
+        "slugged_name": "elektronika-ve-meishet-texnikasi",
+        "parent": null
+      }
+    },
+    "is_refundable": true,
+    "is_adult": false,
+    "icons": {
+      "thumbnail": "https://strgimgr.umico.az/img/category/188/6c2913d6-8b63-4253-ac83-0d99e74ad30a.jpeg",
+      "original": "https://strgimgr.umico.az/img/category/original/6c2913d6-8b63-4253-ac83-0d99e74ad30a.png"
+    },
+    "is_active": true
+  },
+  "offers": [
+    {
+      "uuid": "6d6938f8-4d5c-4be1-85f2-5552025c8b94",
+      "installment_enabled": true,
+      "max_installment_months": 3,
+      "product_offer_labels": [],
+      "old_price": 0,
+      "retail_price": 1499,
+      "supplier_id": "217b2604-2ea1-4855-bda3-9ce0add2dbf1",
+      "seller": {
+        "ext_id": "fc8cbcbe-afe9-41ad-8e06-d9e0a8094d6e",
+        "internal_id": 8399,
+        "marketing_name": {
+          "id": 8399,
+          "name": "Minor Smart"
+        },
+        "logo": {
+          "thumbnail": "https://storage.umico.az/cpcustomerprod01/b166d3e558aea16abc9063a7a9ee5bf3.jpg"
+        },
+        "vat_payer": true,
+        "rating": 100,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "allow_qty": 0
+    },
+    {
+      "uuid": "bd5dd313-53e0-49db-b88b-79623214a783",
+      "installment_enabled": true,
+      "max_installment_months": 18,
+      "product_offer_labels": [],
+      "old_price": 0,
+      "retail_price": 1699.99,
+      "supplier_id": "53e262e0-7e7e-4fc8-bada-921174338e76",
+      "seller": {
+        "ext_id": "07e11126-371c-430e-b5fb-b643dbff59d0",
+        "internal_id": 16377,
+        "marketing_name": {
+          "id": 16377,
+          "name": "One.Price"
+        },
+        "logo": {
+          "thumbnail": ""
+        },
+        "vat_payer": false,
+        "rating": 85,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "allow_qty": 0
+    },
+    {
+      "uuid": "5ce95861-d10a-4254-934f-669cce3c5a5d",
+      "installment_enabled": true,
+      "max_installment_months": 18,
+      "product_offer_labels": [],
+      "old_price": 2180,
+      "retail_price": 1699.99,
+      "supplier_id": "7c10cbde-35d9-461a-a5de-c17446757a90",
+      "seller": {
+        "ext_id": "e551b642-a4f6-41ed-894b-e46f9b556864",
+        "internal_id": 16421,
+        "marketing_name": {
+          "id": 16421,
+          "name": "OK Store"
+        },
+        "logo": {
+          "thumbnail": ""
+        },
+        "vat_payer": false,
+        "rating": 92,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "allow_qty": 0
+    },
+    {
+      "uuid": "c0f171d5-099d-450e-b7ef-867cf766d8d7",
+      "installment_enabled": true,
+      "max_installment_months": 18,
+      "product_offer_labels": [],
+      "old_price": 2180,
+      "retail_price": 1769,
+      "supplier_id": "b8f93d34-f67f-47a0-8afa-77e99de702c7",
+      "seller": {
+        "ext_id": "eb7a82ea-4a59-4b87-acfa-17c5f2bf4a5f",
+        "internal_id": 15755,
+        "marketing_name": {
+          "id": 15755,
+          "name": "LL Store"
+        },
+        "logo": {
+          "thumbnail": ""
+        },
+        "vat_payer": false,
+        "rating": 88,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "allow_qty": 0
+    }
+  ],
+  "variations": [
+    {
+      "id": 682145,
+      "name": "Notbuk Acer Swift 3 SF314-512 (NX.K7MER.009)",
+      "slugged_name": "notbuk-acer-swift-3-sf314-512-nx-k7mer-009",
+      "custom_fields": [
+        {
+          "master_field_id": 625,
+          "values": [
+            "Göy"
+          ]
+        },
+        {
+          "master_field_id": 2595,
+          "values": [
+            "512"
+          ]
+        },
+        {
+          "master_field_id": 672,
+          "values": [
+            "Intel Core i7"
+          ]
+        }
+      ],
+      "main_img": {
+        "big": "https://strgimgr.umico.az/sized/1680/682145-61abae58ea73b77b2c56099438aa791a.jpg",
+        "medium": "https://strgimgr.umico.az/sized/840/682145-61abae58ea73b77b2c56099438aa791a.jpg",
+        "small": "https://strgimgr.umico.az/sized/280/682145-61abae58ea73b77b2c56099438aa791a.jpg"
+      },
+      "status": "active"
+    }
+  ],
+  "size_chart": {},
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "sku": 682145,
+    "mpn": "NX.K7MER.009",
+    "url": "https://birmarket.az/product/682145-notbuk-acer-swift-3-sf314-512-nx-k7mer-009",
+    "name": "Notbuk Acer Swift 3 SF314-512 (NX.K7MER.009)",
+    "image": [
+      "https://strgimgr.umico.az/sized/1680/682145-61abae58ea73b77b2c56099438aa791a.jpg",
+      "https://strgimgr.umico.az/sized/1680/682145-30bc02877dac978f9ca8c65abf39aa7e.jpg",
+      "https://strgimgr.umico.az/sized/1680/682145-0fdf6b59136a895dd8dd2138664b53a3.jpg",
+      "https://strgimgr.umico.az/sized/1680/682145-8faca36dc8246aad997bc7c4b3052fcb.jpg"
+    ],
+    "description": "Notbuk Acer Swift 3 SF314-512 (NX.K7MER.009) - kreditlə ayda 76.82 ₼-dən ♢BIRMARKET-dən Bakı və Azərbaycan üzrə çatdırılma ilə əldə et. ⭐Kredit və taksit ⚡Endirimlər və kampaniyalar. ⏩ Zəmanət. ⏩ Müştəri rəyləri. ● Sifarişini ♢Birmarket saytından və ya mobil tətbiqindən et!",
+    "itemCondition": "https://schema.org/NewCondition",
+    "offers": {
+      "@type": "AggregateOffer",
+      "availability": "https://schema.org/InStock",
+      "offerCount": 4,
+      "highPrice": 1769,
+      "lowPrice": 1499,
+      "priceCurrency": "AZN",
+      "hasMerchantReturnPolicy": {
+        "applicableCountry": "AZ",
+        "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+        "returnMethod": "https://schema.org/ReturnInStore",
+        "returnFees": "https://schema.org/FreeReturn",
+        "merchantReturnDays": 14
+      },
+      "shippingDetails": {
+        "@type": "OfferShippingDetails",
+        "shippingDestination": {
+          "@type": "DefinedRegion",
+          "addressCountry": "AZ"
+        },
+        "deliveryTime": {
+          "@type": "ShippingDeliveryTime",
+          "handlingTime": {
+            "@type": "QuantitativeValue",
+            "minValue": 0,
+            "maxValue": 1,
+            "unitCode": "DAY"
+          },
+          "transitTime": {
+            "@type": "QuantitativeValue",
+            "minValue": 0,
+            "maxValue": 1,
+            "unitCode": "DAY"
+          },
+          "businessDays": {
+            "@type": "OpeningHoursSpecification",
+            "dayOfWeek": [
+              "https://schema.org/Monday",
+              "https://schema.org/Tuesday",
+              "https://schema.org/Wednesday",
+              "https://schema.org/Thursday",
+              "https://schema.org/Friday",
+              "https://schema.org/Saturday",
+              "https://schema.org/Sunday"
+            ]
+          }
+        },
+        "shippingRate": {
+          "@type": "MonetaryAmount",
+          "value": 0,
+          "currency": "AZN"
+        }
+      }
+    },
+    "brand": {
+      "@type": "Brand",
+      "name": "Acer",
+      "url": "https://birmarket.az/brands/Acer"
+    }
+  }
+}

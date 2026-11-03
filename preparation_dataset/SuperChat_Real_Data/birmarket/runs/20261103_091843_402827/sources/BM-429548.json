@@ -1,0 +1,407 @@
+{
+  "product": {
+    "id": 429548,
+    "gtin": "",
+    "mpn": "РА-1010286",
+    "name": "Şəhər bel çantası РА-1010286 3-ü 1-də, oksford, qara",
+    "slugged_name_az": "sheher-bel-chantasi-ra-1010286-3-u-1-de-oksford-qara",
+    "slugged_name_ru": "ryukzak-gorodskoy-ra-1010286-3-v-1-oksford-chernyy",
+    "description": "Oksford parça, Nəmdən qoruyan, Suya davamlıdır.\nRəng qara\n3-ü 1 dəstdə - bel çantası, çiyin çantası və qələm qutusu. Kişilər və qadınlar üçün şəhər bel çantaları yeniyetmə oğlan və qızlar üçün uyğundur. Məktəb çantası idman tədbirləri üçün əlverişlidir. Qara sırt çantası çantası qadın və kişi şəkillərinə mükəmməl uyğunlaşacaq. Təqdim olunan bel çantasının digər rəngləri - mavi boz və qırmızı - 3-11-ci siniflərə gedən qız və oğlanları sevindirəcək, ayaqqabı dəyişdirmək üçün çantanı dəbli çiyin çantası əvəz edəcək. Həmçinin, dəbli dəst noutbukdan istifadə edən kişilər üçün təbii hədiyyədir. Çantanın böyük daxili bölməsində 15,6 düymlük noutbuk var. Gündəlik istifadə və səyahət fəaliyyətləri üçün uyğundur.\nPaketin hündürlüyü 44 sm\nQablaşdırma uzunluğu 4 sm\nQablaşdırma eni 34 sm\nFermuar növü; Velcro\nDekorativ elementlər\nCiblər Velcro ön cib; daxili; Yanlarda\nQayışların sayı 2 ədəd\nAstar materialı polyester\nŞəhər bel çantasının məqsədi; gəzinti üçün; kişi\nSırt çantasının nəmə davamlı xüsusiyyətləri; USB port; noutbuk kupesi\nSırt çantasının ölçüsü genişdir\nRəsmsiz çəkmək\nİdman görüşlərinin keçirilməsi; turizm; fitnes\nMəhsulun qablaşdırmasız çəkisi (q) 750 q\n\nElementin hündürlüyü 43 sm\nElementin dərinliyi 3,5 sm\nKolleksiya 2022\nEni 33 sm\nTam dəst bel çantası - 1 ədəd; çiyin çantası - 1 ədəd; çanta-qələm qutusu - 1 ədəd; USB uzatma kabeli ata-ana - 1 ədəd.",
+    "description_outlet": "",
+    "status": "active",
+    "uuid": "4e324d66-780e-420d-805d-a208b8bc67e5",
+    "variant_code": "VC_429548",
+    "default_offer": {
+      "uuid": "6f63f0fa-a409-41dc-ad1c-db687fd2c3a0",
+      "installment_enabled": true,
+      "max_installment_months": 18,
+      "product_offer_labels": [],
+      "old_price": 109.43,
+      "retail_price": 39.58,
+      "supplier_id": "88d0d00f-df40-4ef0-84a6-573d0bd6647c",
+      "qty": 0,
+      "seller": {
+        "ext_id": "88d0d00f-df40-4ef0-84a6-573d0bd6647c",
+        "marketing_name": {
+          "id": 10947,
+          "name": "Air Signature"
+        },
+        "logo": {
+          "thumbnail": "https://storage.umico.az/cpcustomerprod01/e7afa89b40935a8bb6ffd038177d8418.jpg"
+        },
+        "vat_payer": false,
+        "rating": 83,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "discount_effective_start_date": "",
+      "discount_effective_end_date": ""
+    },
+    "category_id": 2283,
+    "category": {
+      "id": 2283,
+      "name": "Şəhər bel çantaları"
+    },
+    "brand": {
+      "name": "No Brand"
+    },
+    "custom_fields": [
+      {
+        "master_field_id": 625,
+        "values": [
+          "Qara"
+        ]
+      },
+      {
+        "master_field_id": 637,
+        "values": [
+          "Oksford"
+        ]
+      },
+      {
+        "master_field_id": 1206,
+        "values": [
+          "33"
+        ]
+      },
+      {
+        "master_field_id": 639,
+        "values": [
+          "Zəncirbənd"
+        ]
+      },
+      {
+        "master_field_id": 761,
+        "values": [
+          "Kişi"
+        ]
+      },
+      {
+        "master_field_id": 638,
+        "values": [
+          "Naxışsız və printsiz"
+        ]
+      },
+      {
+        "master_field_id": 1448,
+        "values": [
+          "3.5"
+        ]
+      },
+      {
+        "master_field_id": 762,
+        "values": [
+          "1-dən 50-yə qədər"
+        ]
+      },
+      {
+        "master_field_id": 623,
+        "values": [
+          "Uzun tutacaqlar ilə",
+          "Qısa tutacaqlar ilə",
+          "Tənzimlənən tutacaqlar ilə"
+        ]
+      },
+      {
+        "master_field_id": 870,
+        "values": [
+          "750"
+        ]
+      }
+    ],
+    "main_img": {
+      "big": "https://strgimgr.umico.az/sized/1680/429548-210cd61f357b179938fecd881ebd8a21.jpg",
+      "medium": "https://strgimgr.umico.az/sized/840/429548-210cd61f357b179938fecd881ebd8a21.jpg",
+      "small": "https://strgimgr.umico.az/sized/280/429548-210cd61f357b179938fecd881ebd8a21.jpg"
+    },
+    "img_url_thumbnail": "https://strgimgr.umico.az/sized/280/429548-210cd61f357b179938fecd881ebd8a21.jpg",
+    "main_video": "",
+    "imgs": [
+      {
+        "big": "https://strgimgr.umico.az/sized/1680/429548-210cd61f357b179938fecd881ebd8a21.jpg",
+        "medium": "https://strgimgr.umico.az/sized/840/429548-210cd61f357b179938fecd881ebd8a21.jpg",
+        "small": "https://strgimgr.umico.az/sized/280/429548-210cd61f357b179938fecd881ebd8a21.jpg"
+      },
+      {
+        "big": "https://strgimgr.umico.az/sized/1680/429548-210cd61f357b179938fecd881ebd8a21.jpg",
+        "medium": "https://strgimgr.umico.az/sized/840/429548-210cd61f357b179938fecd881ebd8a21.jpg",
+        "small": "https://strgimgr.umico.az/sized/280/429548-210cd61f357b179938fecd881ebd8a21.jpg"
+      }
+    ],
+    "videos": [],
+    "min_qty": 1,
+    "preorder_available": false,
+    "is_assortment": false,
+    "is_bulk_heavy": false,
+    "is_refurbished": false,
+    "is_refundable": true,
+    "is_dangerous": false,
+    "show_tech_description": false,
+    "use_external_content": true,
+    "product_labels": [],
+    "ratings": {
+      "rating_value": 0,
+      "assessment_id": 0,
+      "session_count": 0
+    },
+    "default_show_stock_qty_threshold": 0,
+    "card_type": "public"
+  },
+  "category": {
+    "id": 2283,
+    "name": "Şəhər bel çantaları",
+    "slugged_name_az": "sheher-bel-chantalari",
+    "slugged_name_ru": "ryukzaki-gorodskie",
+    "view_mode": "products",
+    "mobile_visual_mode": "text",
+    "is_variant": false,
+    "depth": 2,
+    "parent_id": 2267,
+    "child_ids": [],
+    "node_type": "NODE",
+    "install_service_needed": false,
+    "fitting_allowed": false,
+    "vat": true,
+    "variations": [
+      {
+        "master_field_id": 638,
+        "name": "Naxışlar və printlər",
+        "variation_tool_type": "default",
+        "has_size_chart": false,
+        "display_variant": false
+      },
+      {
+        "master_field_id": 625,
+        "name": "Rəng",
+        "variation_tool_type": "default",
+        "has_size_chart": false,
+        "display_variant": false
+      }
+    ],
+    "custom_fields": [
+      {
+        "master_field_id": 625,
+        "category_master_field_id": 11134,
+        "name": "Rəng"
+      },
+      {
+        "master_field_id": 637,
+        "category_master_field_id": 11132,
+        "name": "Material"
+      },
+      {
+        "master_field_id": 639,
+        "category_master_field_id": 11141,
+        "name": "Kilid növü"
+      },
+      {
+        "master_field_id": 1412,
+        "category_master_field_id": 11136,
+        "name": "Uzunluğu, sm"
+      },
+      {
+        "master_field_id": 1206,
+        "category_master_field_id": 11137,
+        "name": "Eni, sm"
+      },
+      {
+        "master_field_id": 761,
+        "category_master_field_id": 11133,
+        "name": "Cins"
+      },
+      {
+        "master_field_id": 908,
+        "category_master_field_id": 11143,
+        "name": "Həcm, L"
+      },
+      {
+        "master_field_id": 638,
+        "category_master_field_id": 11135,
+        "name": "Naxışlar və printlər"
+      },
+      {
+        "master_field_id": 1448,
+        "category_master_field_id": 37676,
+        "name": "Dərinliyi, sm"
+      },
+      {
+        "master_field_id": 762,
+        "category_master_field_id": 11139,
+        "name": "Bölmələrin sayı"
+      },
+      {
+        "master_field_id": 623,
+        "category_master_field_id": 11140,
+        "name": "Xüsusiyyətlər"
+      },
+      {
+        "master_field_id": 2637,
+        "category_master_field_id": 11142,
+        "name": "Bel çantasının arxası"
+      },
+      {
+        "master_field_id": 870,
+        "category_master_field_id": 11144,
+        "name": "Çəki, q"
+      },
+      {
+        "master_field_id": 618,
+        "category_master_field_id": 11145,
+        "name": "İstehsalçı ölkə"
+      },
+      {
+        "master_field_id": 2210,
+        "category_master_field_id": 11146,
+        "name": "Brendin ölkəsi"
+      }
+    ],
+    "parent": {
+      "id": 2267,
+      "node_type": "NODE",
+      "name": "Çantalar, pul kisələri və aksessuarlar",
+      "slugged_name": "chantalar-pul-kiseleri-ve-aksessuarlar",
+      "parent": {
+        "id": 3003,
+        "node_type": "NODE",
+        "name": "Geyim,ayaqqabı və aksessuarlar",
+        "slugged_name": "geyim-ve-ayaqqabi",
+        "parent": null
+      }
+    },
+    "is_refundable": true,
+    "is_adult": false,
+    "icons": {
+      "thumbnail": "https://strgimgr.umico.az/img/category/188/4030f9db-3c53-4a51-905b-ab006bb8b9af.jpeg",
+      "original": "https://strgimgr.umico.az/img/category/original/4030f9db-3c53-4a51-905b-ab006bb8b9af.jpeg"
+    },
+    "is_active": true
+  },
+  "offers": [
+    {
+      "uuid": "6f63f0fa-a409-41dc-ad1c-db687fd2c3a0",
+      "installment_enabled": true,
+      "max_installment_months": 18,
+      "product_offer_labels": [],
+      "old_price": 109.43,
+      "retail_price": 39.58,
+      "supplier_id": "88d0d00f-df40-4ef0-84a6-573d0bd6647c",
+      "seller": {
+        "ext_id": "69e9dad2-de68-487b-bd29-3b28e0adb861",
+        "internal_id": 10947,
+        "marketing_name": {
+          "id": 10947,
+          "name": "Air Signature"
+        },
+        "logo": {
+          "thumbnail": "https://storage.umico.az/cpcustomerprod01/e7afa89b40935a8bb6ffd038177d8418.jpg"
+        },
+        "vat_payer": false,
+        "rating": 83,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "allow_qty": 0
+    }
+  ],
+  "variations": [
+    {
+      "id": 429548,
+      "name": "Şəhər bel çantası РА-1010286 3-ü 1-də, oksford, qara",
+      "slugged_name": "sheher-bel-chantasi-ra-1010286-3-u-1-de-oksford-qara",
+      "custom_fields": [
+        {
+          "master_field_id": 638,
+          "values": [
+            "Naxışsız və printsiz"
+          ]
+        },
+        {
+          "master_field_id": 625,
+          "values": [
+            "Qara"
+          ]
+        }
+      ],
+      "main_img": {
+        "big": "https://strgimgr.umico.az/sized/1680/429548-210cd61f357b179938fecd881ebd8a21.jpg",
+        "medium": "https://strgimgr.umico.az/sized/840/429548-210cd61f357b179938fecd881ebd8a21.jpg",
+        "small": "https://strgimgr.umico.az/sized/280/429548-210cd61f357b179938fecd881ebd8a21.jpg"
+      },
+      "status": "active"
+    }
+  ],
+  "size_chart": {},
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "sku": 429548,
+    "mpn": "РА-1010286",
+    "url": "https://birmarket.az/product/429548-sheher-bel-chantasi-ra-1010286-3-u-1-de-oksford-qara",
+    "name": "Şəhər bel çantası РА-1010286 3-ü 1-də, oksford, qara",
+    "image": [
+      "https://strgimgr.umico.az/sized/1680/429548-210cd61f357b179938fecd881ebd8a21.jpg",
+      "https://strgimgr.umico.az/sized/1680/429548-210cd61f357b179938fecd881ebd8a21.jpg"
+    ],
+    "description": "Oksford parça, Nəmdən qoruyan, Suya davamlıdır.\nRəng qara\n3-ü 1 dəstdə - bel çantası, çiyin çantası və qələm qutusu. Kişilər və qadınlar üçün şəhər bel çantaları yeniyetmə oğlan və qızlar üçün uyğundur. Məktəb çantası idman tədbirləri üçün əlverişlidir. Qara sırt çantası çantası qadın və kişi şəkillərinə mükəmməl uyğunlaşacaq. Təqdim olunan bel çantasının digər rəngləri - mavi boz və qırmızı - 3-11-ci siniflərə gedən qız və oğlanları sevindirəcək, ayaqqabı dəyişdirmək üçün çantanı dəbli çiyin çantası əvəz edəcək. Həmçinin, dəbli dəst noutbukdan istifadə edən kişilər üçün təbii hədiyyədir. Çantanın böyük daxili bölməsində 15,6 düymlük noutbuk var. Gündəlik istifadə və səyahət fəaliyyətləri üçün uyğundur.\nPaketin hündürlüyü 44 sm\nQablaşdırma uzunluğu 4 sm\nQablaşdırma eni 34 sm\nFermuar növü; Velcro\nDekorativ elementlər\nCiblər Velcro ön cib; daxili; Yanlarda\nQayışların sayı 2 ədəd\nAstar materialı polyester\nŞəhər bel çantasının məqsədi; gəzinti üçün; kişi\nSırt çantasının nəmə davamlı xüsusiyyətləri; USB port; noutbuk kupesi\nSırt çantasının ölçüsü genişdir\nRəsmsiz çəkmək\nİdman görüşlərinin keçirilməsi; turizm; fitnes\nMəhsulun qablaşdırmasız çəkisi (q) 750 q\n\nElementin hündürlüyü 43 sm\nElementin dərinliyi 3,5 sm\nKolleksiya 2022\nEni 33 sm\nTam dəst bel çantası - 1 ədəd; çiyin çantası - 1 ədəd; çanta-qələm qutusu - 1 ədəd; USB uzatma kabeli ata-ana - 1 ədəd.",
+    "itemCondition": "https://schema.org/NewCondition",
+    "offers": {
+      "@type": "Offer",
+      "availability": "https://schema.org/InStock",
+      "url": "https://birmarket.az/product/429548-sheher-bel-chantasi-ra-1010286-3-u-1-de-oksford-qara",
+      "price": 39.58,
+      "priceCurrency": "AZN",
+      "priceValidUntil": "2026-12-03T05:19:01+00:00Z",
+      "hasMerchantReturnPolicy": {
+        "applicableCountry": "AZ",
+        "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+        "returnMethod": "https://schema.org/ReturnInStore",
+        "returnFees": "https://schema.org/FreeReturn",
+        "merchantReturnDays": 14
+      },
+      "shippingDetails": {
+        "@type": "OfferShippingDetails",
+        "shippingDestination": {
+          "@type": "DefinedRegion",
+          "addressCountry": "AZ"
+        },
+        "deliveryTime": {
+          "@type": "ShippingDeliveryTime",
+          "handlingTime": {
+            "@type": "QuantitativeValue",
+            "minValue": 0,
+            "maxValue": 1,
+            "unitCode": "DAY"
+          },
+          "transitTime": {
+            "@type": "QuantitativeValue",
+            "minValue": 0,
+            "maxValue": 1,
+            "unitCode": "DAY"
+          },
+          "businessDays": {
+            "@type": "OpeningHoursSpecification",
+            "dayOfWeek": [
+              "https://schema.org/Monday",
+              "https://schema.org/Tuesday",
+              "https://schema.org/Wednesday",
+              "https://schema.org/Thursday",
+              "https://schema.org/Friday",
+              "https://schema.org/Saturday",
+              "https://schema.org/Sunday"
+            ]
+          }
+        },
+        "shippingRate": {
+          "@type": "MonetaryAmount",
+          "value": 0,
+          "currency": "AZN"
+        }
+      }
+    },
+    "brand": {
+      "@type": "Brand",
+      "name": "No Brand",
+      "url": "https://birmarket.az/brands/No%20Brand"
+    }
+  }
+}

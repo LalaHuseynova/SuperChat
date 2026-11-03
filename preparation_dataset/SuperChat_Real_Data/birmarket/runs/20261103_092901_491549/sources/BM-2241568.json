@@ -1,0 +1,981 @@
+{
+  "product": {
+    "id": 2241568,
+    "gtin": "",
+    "mpn": "55020GVF",
+    "name": "Fitnes qolbaq Huawei Band 11 Polymer Black (55020GVF)",
+    "slugged_name_az": "fitnes-qolbaq-huawei-band-11-black-55020gvf",
+    "slugged_name_ru": "fitnes-braslet-huawei-band-11-black-55020gvf",
+    "description": "<img src=\"https://strgimgr.umico.az/img/product/1680/cadad2c9-164b-4dcd-a2aa-3b36903f7bea.jpeg\"><img src=\"https://strgimgr.umico.az/img/product/1680/3613a701-03e9-49a3-a1dc-c75a10547649.jpeg\"><img src=\"https://strgimgr.umico.az/img/product/1680/b28fae71-a681-4bff-9617-77d36d8b78b3.jpeg\"><img src=\"https://strgimgr.umico.az/img/product/1680/6e13d1f1-ad93-4d30-8e40-7a0cc09185eb.jpeg\"><img src=\"https://strgimgr.umico.az/img/product/1680/3c0e83ab-ca6e-4631-bf15-2379abd03eba.jpeg\"><img src=\"https://strgimgr.umico.az/img/product/1680/cf98c34a-0587-4275-b502-c36dc7c674d3.jpeg\">",
+    "description_outlet": "",
+    "status": "active",
+    "uuid": "4b4111ee-f75f-49ad-aaa5-01b5f7d89c5e",
+    "variant_code": "HuaweiBand11",
+    "default_offer": {
+      "uuid": "ec5a2931-b555-42f5-9564-d4e78ffebcbb",
+      "installment_enabled": true,
+      "max_installment_months": 3,
+      "product_offer_labels": [],
+      "old_price": 399.99,
+      "retail_price": 74.99,
+      "supplier_id": "9101a576-5f91-44c6-9f42-89910444d807",
+      "qty": 0,
+      "seller": {
+        "ext_id": "9101a576-5f91-44c6-9f42-89910444d807",
+        "marketing_name": {
+          "id": 6859,
+          "name": "PLAY ELECTRONICS"
+        },
+        "logo": {
+          "thumbnail": "https://storage.umico.az/cpcustomerprod01/929f3f515595300ebb5118ef662bd264.png"
+        },
+        "vat_payer": true,
+        "rating": 100,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "discount_effective_start_date": "",
+      "discount_effective_end_date": ""
+    },
+    "category_id": 4,
+    "category": {
+      "id": 4,
+      "name": "Ağıllı saatlar və fitnes qolbaqları"
+    },
+    "brand": {
+      "name": "Huawei"
+    },
+    "custom_fields": [
+      {
+        "master_field_id": 620,
+        "values": [
+          "Fitnes qolbaq"
+        ]
+      },
+      {
+        "master_field_id": 1476,
+        "values": [
+          "Huawei Band 11"
+        ]
+      },
+      {
+        "master_field_id": 625,
+        "values": [
+          "Qara"
+        ]
+      },
+      {
+        "master_field_id": 621,
+        "values": [
+          "iOS",
+          "Android"
+        ]
+      },
+      {
+        "master_field_id": 761,
+        "values": [
+          "Hər kəs üçün"
+        ]
+      },
+      {
+        "master_field_id": 1325,
+        "values": [
+          "Böyüklər üçün",
+          "Uşaqlar üçün"
+        ]
+      },
+      {
+        "master_field_id": 1826,
+        "values": [
+          "Xeyr"
+        ]
+      },
+      {
+        "master_field_id": 616,
+        "values": [
+          "Harmony OS"
+        ]
+      },
+      {
+        "master_field_id": 622,
+        "values": [
+          "Bluetooth"
+        ]
+      },
+      {
+        "master_field_id": 634,
+        "values": [
+          "Rəngli"
+        ]
+      },
+      {
+        "master_field_id": 1739,
+        "values": [
+          "Bəli"
+        ]
+      },
+      {
+        "master_field_id": 1827,
+        "values": [
+          "AMOLED"
+        ]
+      },
+      {
+        "master_field_id": 1828,
+        "values": [
+          "1.62"
+        ]
+      },
+      {
+        "master_field_id": 1829,
+        "values": [
+          "Düzbucaq"
+        ]
+      },
+      {
+        "master_field_id": 708,
+        "values": [
+          "Polimer"
+        ]
+      },
+      {
+        "master_field_id": 2552,
+        "values": [
+          "Suya davamlı"
+        ]
+      },
+      {
+        "master_field_id": 1830,
+        "values": [
+          "Bəli"
+        ]
+      },
+      {
+        "master_field_id": 624,
+        "values": [
+          "Ftorelastomer"
+        ]
+      },
+      {
+        "master_field_id": 1832,
+        "values": [
+          "SMS haqqında məlumatlandırma",
+          "Zənglər haqqında məlumatlandırma",
+          "Telefonun tapılması",
+          "Kameranın idarə olunması",
+          "Pleyerin idarə olunması"
+        ]
+      },
+      {
+        "master_field_id": 1833,
+        "values": [
+          "Bəli"
+        ]
+      },
+      {
+        "master_field_id": 1752,
+        "values": [
+          "Xeyr"
+        ]
+      },
+      {
+        "master_field_id": 1834,
+        "values": [
+          "Bəli"
+        ]
+      },
+      {
+        "master_field_id": 1836,
+        "values": [
+          "Maqnitli enerji toplama"
+        ]
+      },
+      {
+        "master_field_id": 826,
+        "values": [
+          "300"
+        ]
+      },
+      {
+        "master_field_id": 721,
+        "values": [
+          "Li-Ion"
+        ]
+      },
+      {
+        "master_field_id": 870,
+        "values": [
+          "16"
+        ]
+      },
+      {
+        "master_field_id": 2635,
+        "values": [
+          "2026"
+        ]
+      },
+      {
+        "master_field_id": 2211,
+        "values": [
+          "12 ay"
+        ]
+      },
+      {
+        "master_field_id": 2210,
+        "values": [
+          "Çin"
+        ]
+      },
+      {
+        "master_field_id": 618,
+        "values": [
+          "Çin"
+        ]
+      }
+    ],
+    "main_img": {
+      "big": "https://strgimgr.umico.az/img/product/1680/9db1814e-085f-47cc-9e23-b0512117ed76.jpeg",
+      "medium": "https://strgimgr.umico.az/img/product/840/9db1814e-085f-47cc-9e23-b0512117ed76.jpeg",
+      "small": "https://strgimgr.umico.az/img/product/280/9db1814e-085f-47cc-9e23-b0512117ed76.jpeg"
+    },
+    "img_url_thumbnail": "https://strgimgr.umico.az/img/product/280/9db1814e-085f-47cc-9e23-b0512117ed76.jpeg",
+    "main_video": "",
+    "imgs": [
+      {
+        "big": "https://strgimgr.umico.az/img/product/1680/9db1814e-085f-47cc-9e23-b0512117ed76.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/9db1814e-085f-47cc-9e23-b0512117ed76.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/9db1814e-085f-47cc-9e23-b0512117ed76.jpeg"
+      },
+      {
+        "big": "https://strgimgr.umico.az/img/product/1680/a81d727e-1e0a-4627-a552-41fd9a958d5e.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/a81d727e-1e0a-4627-a552-41fd9a958d5e.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/a81d727e-1e0a-4627-a552-41fd9a958d5e.jpeg"
+      },
+      {
+        "big": "https://strgimgr.umico.az/img/product/1680/1d562f0e-b32c-480f-9504-1d11e458dadd.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/1d562f0e-b32c-480f-9504-1d11e458dadd.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/1d562f0e-b32c-480f-9504-1d11e458dadd.jpeg"
+      },
+      {
+        "big": "https://strgimgr.umico.az/img/product/1680/0b6435aa-cd19-405e-b981-b0b2d400c763.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/0b6435aa-cd19-405e-b981-b0b2d400c763.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/0b6435aa-cd19-405e-b981-b0b2d400c763.jpeg"
+      },
+      {
+        "big": "https://strgimgr.umico.az/img/product/1680/e2fc0998-7865-4b5d-8457-9b303c6d1cae.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/e2fc0998-7865-4b5d-8457-9b303c6d1cae.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/e2fc0998-7865-4b5d-8457-9b303c6d1cae.jpeg"
+      },
+      {
+        "big": "https://strgimgr.umico.az/img/product/1680/ea350001-e373-44c5-9e36-ebbbc071f607.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/ea350001-e373-44c5-9e36-ebbbc071f607.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/ea350001-e373-44c5-9e36-ebbbc071f607.jpeg"
+      },
+      {
+        "big": "https://strgimgr.umico.az/img/product/1680/0116e64a-cbd5-4a27-87e0-e525d19fd557.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/0116e64a-cbd5-4a27-87e0-e525d19fd557.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/0116e64a-cbd5-4a27-87e0-e525d19fd557.jpeg"
+      },
+      {
+        "big": "https://strgimgr.umico.az/img/product/1680/b9c221df-6f2e-4a48-aea9-76ef98dec9dd.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/b9c221df-6f2e-4a48-aea9-76ef98dec9dd.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/b9c221df-6f2e-4a48-aea9-76ef98dec9dd.jpeg"
+      },
+      {
+        "big": "https://strgimgr.umico.az/img/product/1680/93edabc5-f99c-4cf6-a2eb-d2fe30f7779e.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/93edabc5-f99c-4cf6-a2eb-d2fe30f7779e.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/93edabc5-f99c-4cf6-a2eb-d2fe30f7779e.jpeg"
+      },
+      {
+        "big": "https://strgimgr.umico.az/img/product/1680/749fc3ae-339b-4f0b-92a1-72c56dbf9dd7.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/749fc3ae-339b-4f0b-92a1-72c56dbf9dd7.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/749fc3ae-339b-4f0b-92a1-72c56dbf9dd7.jpeg"
+      }
+    ],
+    "videos": [
+      ""
+    ],
+    "min_qty": 1,
+    "preorder_available": false,
+    "is_assortment": false,
+    "is_bulk_heavy": false,
+    "is_refurbished": false,
+    "is_refundable": true,
+    "is_dangerous": false,
+    "show_tech_description": false,
+    "use_external_content": true,
+    "product_labels": [],
+    "ratings": {
+      "rating_value": 5,
+      "assessment_id": 0,
+      "session_count": 3,
+      "review_count": 3
+    },
+    "default_show_stock_qty_threshold": 0,
+    "card_type": "public"
+  },
+  "category": {
+    "id": 4,
+    "name": "Ağıllı saatlar və fitnes qolbaqları",
+    "slugged_name_az": "agilli-saatlar-ve-fitnes-qolbaqlari",
+    "slugged_name_ru": "umnye-chasy-i-fitnes-braslety",
+    "view_mode": "products",
+    "mobile_visual_mode": "text",
+    "is_variant": false,
+    "depth": 2,
+    "parent_id": 2,
+    "child_ids": [],
+    "node_type": "NODE",
+    "install_service_needed": false,
+    "fitting_allowed": false,
+    "vat": true,
+    "variations": [
+      {
+        "master_field_id": 625,
+        "name": "Rəng",
+        "variation_tool_type": "image",
+        "has_size_chart": false,
+        "display_variant": false
+      },
+      {
+        "master_field_id": 1828,
+        "name": "Korpusun ölçüsü, mm",
+        "variation_tool_type": "button",
+        "has_size_chart": false,
+        "display_variant": false
+      },
+      {
+        "master_field_id": 1476,
+        "name": "Seriya",
+        "variation_tool_type": "button",
+        "has_size_chart": false,
+        "display_variant": false
+      }
+    ],
+    "custom_fields": [
+      {
+        "master_field_id": 1476,
+        "category_master_field_id": 10643,
+        "name": "Seriya"
+      },
+      {
+        "master_field_id": 620,
+        "category_master_field_id": 1445,
+        "name": "Tip"
+      },
+      {
+        "master_field_id": 621,
+        "category_master_field_id": 1446,
+        "name": "Uyğunluğu"
+      },
+      {
+        "master_field_id": 1828,
+        "category_master_field_id": 5545,
+        "name": "Korpusun ölçüsü, mm"
+      },
+      {
+        "master_field_id": 1827,
+        "category_master_field_id": 5544,
+        "name": "Ağıllı saatın ekranı"
+      },
+      {
+        "master_field_id": 1826,
+        "category_master_field_id": 5541,
+        "name": "SIM kartı"
+      },
+      {
+        "master_field_id": 826,
+        "category_master_field_id": 4623,
+        "name": "Akkumulyatorun həcmi, mA/saat"
+      },
+      {
+        "master_field_id": 2186,
+        "category_master_field_id": 45755,
+        "name": "Nəmə davamlı"
+      },
+      {
+        "master_field_id": 708,
+        "category_master_field_id": 4624,
+        "name": "Korpusun materialı"
+      },
+      {
+        "master_field_id": 625,
+        "category_master_field_id": 1451,
+        "name": "Rəng"
+      },
+      {
+        "master_field_id": 2211,
+        "category_master_field_id": 10648,
+        "name": "Zəmanət müddəti"
+      },
+      {
+        "master_field_id": 806,
+        "category_master_field_id": 15464,
+        "name": "Funksiyalar"
+      },
+      {
+        "master_field_id": 616,
+        "category_master_field_id": 1447,
+        "name": "Əməliyyat sistemi"
+      },
+      {
+        "master_field_id": 624,
+        "category_master_field_id": 1450,
+        "name": "Qayışın materialı"
+      },
+      {
+        "master_field_id": 1825,
+        "category_master_field_id": 5540,
+        "name": "Operativ yaddaş"
+      },
+      {
+        "master_field_id": 623,
+        "category_master_field_id": 1449,
+        "name": "Xüsusiyyətlər"
+      },
+      {
+        "master_field_id": 634,
+        "category_master_field_id": 5542,
+        "name": "Ekranın növü"
+      },
+      {
+        "master_field_id": 1739,
+        "category_master_field_id": 5543,
+        "name": "Sensor ekran"
+      },
+      {
+        "master_field_id": 1833,
+        "category_master_field_id": 5550,
+        "name": "Zənglər"
+      },
+      {
+        "master_field_id": 1752,
+        "category_master_field_id": 5551,
+        "name": "Kamera"
+      },
+      {
+        "master_field_id": 622,
+        "category_master_field_id": 1448,
+        "name": "İnterfeyslər"
+      },
+      {
+        "master_field_id": 1829,
+        "category_master_field_id": 5546,
+        "name": "Korpusun forması"
+      },
+      {
+        "master_field_id": 2552,
+        "category_master_field_id": 10645,
+        "name": "Korpusun qorunması"
+      },
+      {
+        "master_field_id": 1830,
+        "category_master_field_id": 5547,
+        "name": "Çıxarılan kəmər"
+      },
+      {
+        "master_field_id": 1831,
+        "category_master_field_id": 5548,
+        "name": "Multimedia"
+      },
+      {
+        "master_field_id": 1824,
+        "category_master_field_id": 5539,
+        "name": "Uzaqdan idarəetmə"
+      },
+      {
+        "master_field_id": 1832,
+        "category_master_field_id": 5549,
+        "name": "Smartfonlarla qarşılıqlı əlaqə"
+      },
+      {
+        "master_field_id": 1834,
+        "category_master_field_id": 5552,
+        "name": "Vibrasiya"
+      },
+      {
+        "master_field_id": 1835,
+        "category_master_field_id": 5553,
+        "name": "Naviqasiya, məlumatların ötürülməsi"
+      },
+      {
+        "master_field_id": 1836,
+        "category_master_field_id": 5554,
+        "name": "Enerji toplamanın xüsusiyyətləri"
+      },
+      {
+        "master_field_id": 721,
+        "category_master_field_id": 5555,
+        "name": "Akkumulyatorun növü"
+      },
+      {
+        "master_field_id": 761,
+        "category_master_field_id": 5537,
+        "name": "Cins"
+      },
+      {
+        "master_field_id": 1325,
+        "category_master_field_id": 4354,
+        "name": "Yaş qrupu"
+      },
+      {
+        "master_field_id": 870,
+        "category_master_field_id": 4626,
+        "name": "Çəki, q"
+      },
+      {
+        "master_field_id": 697,
+        "category_master_field_id": 10647,
+        "name": "Komplektasiya"
+      },
+      {
+        "master_field_id": 2635,
+        "category_master_field_id": 37277,
+        "name": "Bazarın başlanğıc ili"
+      },
+      {
+        "master_field_id": 2210,
+        "category_master_field_id": 10641,
+        "name": "Brendin ölkəsi"
+      },
+      {
+        "master_field_id": 618,
+        "category_master_field_id": 1444,
+        "name": "İstehsalçı ölkə"
+      },
+      {
+        "master_field_id": 6541,
+        "category_master_field_id": 44303,
+        "name": "İstehsalçı rəngi"
+      },
+      {
+        "master_field_id": 6334,
+        "category_master_field_id": 45122,
+        "name": "Vəziyyət"
+      }
+    ],
+    "parent": {
+      "id": 2,
+      "node_type": "NODE",
+      "name": "Telefonlar, Smart cihazlar və telefon aksessuarları",
+      "slugged_name": "telefonlar-ve-aksessuarlar",
+      "parent": {
+        "id": 1,
+        "node_type": "NODE",
+        "name": "Elektronika və məişət texnikası",
+        "slugged_name": "elektronika-ve-meishet-texnikasi",
+        "parent": null
+      }
+    },
+    "is_refundable": true,
+    "is_adult": false,
+    "icons": {
+      "thumbnail": "https://strgimgr.umico.az/img/category/188/358f11b7-3edc-4811-83af-955a1941b985.jpeg",
+      "original": "https://strgimgr.umico.az/img/category/original/358f11b7-3edc-4811-83af-955a1941b985.png"
+    },
+    "is_active": true
+  },
+  "offers": [
+    {
+      "uuid": "e43883a0-d54d-4ba8-9a90-7d660496f5b9",
+      "installment_enabled": true,
+      "max_installment_months": 12,
+      "product_offer_labels": [],
+      "old_price": 180,
+      "retail_price": 140,
+      "supplier_id": "2187d41c-d58a-48fe-919c-d5b6b9a37565",
+      "seller": {
+        "ext_id": "11d92ddd-aaec-41b5-abc3-dede604e4ea5",
+        "internal_id": 5216,
+        "marketing_name": {
+          "id": 5216,
+          "name": "ALI STORE"
+        },
+        "logo": {
+          "thumbnail": "https://storage.umico.az/cpcustomerprod01/7ba56a6e93a884271eb2e357927e4ded.jpg"
+        },
+        "vat_payer": false,
+        "rating": 100,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "allow_qty": 0
+    },
+    {
+      "uuid": "ec5a2931-b555-42f5-9564-d4e78ffebcbb",
+      "installment_enabled": true,
+      "max_installment_months": 3,
+      "product_offer_labels": [],
+      "old_price": 399.99,
+      "retail_price": 74.99,
+      "supplier_id": "9101a576-5f91-44c6-9f42-89910444d807",
+      "seller": {
+        "ext_id": "4e896030-fd5a-4e3d-8957-2df6402d343a",
+        "internal_id": 6859,
+        "marketing_name": {
+          "id": 6859,
+          "name": "PLAY ELECTRONICS"
+        },
+        "logo": {
+          "thumbnail": "https://storage.umico.az/cpcustomerprod01/929f3f515595300ebb5118ef662bd264.png"
+        },
+        "vat_payer": true,
+        "rating": 100,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "allow_qty": 0
+    },
+    {
+      "uuid": "ce990e9a-b758-4f96-8935-b2beb3f11579",
+      "installment_enabled": true,
+      "max_installment_months": 18,
+      "product_offer_labels": [],
+      "old_price": 200,
+      "retail_price": 139.5,
+      "supplier_id": "a1e60bd2-5eba-43fe-94d9-a326f8041948",
+      "seller": {
+        "ext_id": "4ff27b97-4506-463f-96af-cc56c467ec66",
+        "internal_id": 11131,
+        "marketing_name": {
+          "id": 11131,
+          "name": "Proshop"
+        },
+        "logo": {
+          "thumbnail": "https://storage.umico.az/cpcustomerprod01/0dbf4459bd7700377e04e341d99f0c7e.png"
+        },
+        "vat_payer": false,
+        "rating": 100,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "allow_qty": 0
+    },
+    {
+      "uuid": "158da973-9bdf-4908-b55f-dd919032328c",
+      "installment_enabled": true,
+      "max_installment_months": 18,
+      "product_offer_labels": [],
+      "old_price": 249.99,
+      "retail_price": 199.99,
+      "supplier_id": "27746afa-94bc-475a-907c-8b07ec11f39f",
+      "seller": {
+        "ext_id": "b835c41f-740f-4d1d-8099-f48b0e27e828",
+        "internal_id": 11936,
+        "marketing_name": {
+          "id": 11936,
+          "name": "ABEL Shop"
+        },
+        "logo": {
+          "thumbnail": "https://storage.umico.az/cpcustomerprod01/83fd7b84020b731e7b4f96bc26404a1a.png"
+        },
+        "vat_payer": false,
+        "rating": 100,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "allow_qty": 0
+    },
+    {
+      "uuid": "64f32343-aba3-4d87-96d4-798c6847e7d4",
+      "installment_enabled": true,
+      "max_installment_months": 3,
+      "product_offer_labels": [],
+      "old_price": 149,
+      "retail_price": 75,
+      "supplier_id": "2166e74a-d844-4c8d-a80f-423f95079a17",
+      "seller": {
+        "ext_id": "09616069-19a3-4414-a807-1dc0d3dad024",
+        "internal_id": 7908,
+        "marketing_name": {
+          "id": 7908,
+          "name": "Birmarket.az"
+        },
+        "logo": {
+          "thumbnail": "https://storage.umico.az/cpcustomerprod01/32e1599b42555bf3dbae2eba71ef461d.png"
+        },
+        "vat_payer": true,
+        "rating": 99,
+        "role_name": "FBU"
+      },
+      "comment": "",
+      "allow_qty": 0
+    },
+    {
+      "uuid": "459f27f3-38d5-45af-a68b-e5a4a468af8c",
+      "installment_enabled": true,
+      "max_installment_months": 18,
+      "product_offer_labels": [],
+      "old_price": 200,
+      "retail_price": 140,
+      "supplier_id": "96a0d6d3-2f03-4bff-b206-3f7cafc39592",
+      "seller": {
+        "ext_id": "d08bb818-f9eb-4ef3-8846-1bdd3db277d3",
+        "internal_id": 9423,
+        "marketing_name": {
+          "id": 9423,
+          "name": "Alibaba"
+        },
+        "logo": {
+          "thumbnail": "https://storage.umico.az/cpcustomerprod01/1c9733cd01a8ff2d9caff8f285308feb.jpg"
+        },
+        "vat_payer": false,
+        "rating": 88,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "allow_qty": 0
+    }
+  ],
+  "variations": [
+    {
+      "id": 2241630,
+      "name": "Fitnes qolbaq Huawei Band 11 Aluminum White (55020GVC)",
+      "slugged_name": "fitnes-qolbaq-huawei-band-11-white-55020gvc",
+      "custom_fields": [
+        {
+          "master_field_id": 625,
+          "values": [
+            "Ağ"
+          ]
+        },
+        {
+          "master_field_id": 1476,
+          "values": [
+            "Huawei Band 11"
+          ]
+        }
+      ],
+      "main_img": {
+        "big": "https://strgimgr.umico.az/img/product/1680/cda05c3c-11ef-4a72-9fc5-8553e8e2c402.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/cda05c3c-11ef-4a72-9fc5-8553e8e2c402.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/cda05c3c-11ef-4a72-9fc5-8553e8e2c402.jpeg"
+      },
+      "status": "active"
+    },
+    {
+      "id": 2363521,
+      "name": "Fitnes qolbaq Huawei Band 11 Aluminum Black (55020GVD)",
+      "slugged_name": "fitnes-qolbaq-huawei-band-11-aluminum-black-55020gvd",
+      "custom_fields": [
+        {
+          "master_field_id": 625,
+          "values": [
+            "Qara"
+          ]
+        },
+        {
+          "master_field_id": 1476,
+          "values": [
+            "Huawei Band 11"
+          ]
+        }
+      ],
+      "main_img": {
+        "big": "https://strgimgr.umico.az/img/product/1680/960fbe23-37f2-43a4-b71f-9faf6163fdfd.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/960fbe23-37f2-43a4-b71f-9faf6163fdfd.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/960fbe23-37f2-43a4-b71f-9faf6163fdfd.jpeg"
+      },
+      "status": "active"
+    },
+    {
+      "id": 2237235,
+      "name": "Fitnes qolbaq Huawei Band 11 Aluminum Beige (55020GVA)",
+      "slugged_name": "fitnes-qolbaq-huawei-band-11-beige-55020gva",
+      "custom_fields": [
+        {
+          "master_field_id": 625,
+          "values": [
+            "Bej"
+          ]
+        },
+        {
+          "master_field_id": 1476,
+          "values": [
+            "Huawei Band 11"
+          ]
+        }
+      ],
+      "main_img": {
+        "big": "https://strgimgr.umico.az/img/product/1680/74f77a0f-1fde-4eeb-83aa-920e410a5544.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/74f77a0f-1fde-4eeb-83aa-920e410a5544.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/74f77a0f-1fde-4eeb-83aa-920e410a5544.jpeg"
+      },
+      "status": "active"
+    },
+    {
+      "id": 2363423,
+      "name": "Fitnes qolbaq Huawei Band 11 Aluminum Purple (55020GVB)",
+      "slugged_name": "fitnes-qolbaq-huawei-band-11-aluminum-purple-55020gvb",
+      "custom_fields": [
+        {
+          "master_field_id": 625,
+          "values": [
+            "Bənövşəyi"
+          ]
+        },
+        {
+          "master_field_id": 1476,
+          "values": [
+            "Huawei Band 11"
+          ]
+        }
+      ],
+      "main_img": {
+        "big": "https://strgimgr.umico.az/img/product/1680/d95e60ca-47ee-4268-b9bf-6d2baf463dd8.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/d95e60ca-47ee-4268-b9bf-6d2baf463dd8.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/d95e60ca-47ee-4268-b9bf-6d2baf463dd8.jpeg"
+      },
+      "status": "active"
+    },
+    {
+      "id": 2241568,
+      "name": "Fitnes qolbaq Huawei Band 11 Polymer Black (55020GVF)",
+      "slugged_name": "fitnes-qolbaq-huawei-band-11-black-55020gvf",
+      "custom_fields": [
+        {
+          "master_field_id": 625,
+          "values": [
+            "Qara"
+          ]
+        },
+        {
+          "master_field_id": 1828,
+          "values": [
+            "1.62"
+          ]
+        },
+        {
+          "master_field_id": 1476,
+          "values": [
+            "Huawei Band 11"
+          ]
+        }
+      ],
+      "main_img": {
+        "big": "https://strgimgr.umico.az/img/product/1680/9db1814e-085f-47cc-9e23-b0512117ed76.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/9db1814e-085f-47cc-9e23-b0512117ed76.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/9db1814e-085f-47cc-9e23-b0512117ed76.jpeg"
+      },
+      "status": "active"
+    },
+    {
+      "id": 2241606,
+      "name": "Fitnes qolbaq Huawei Band 11 Polymer Purple (55020GVE)",
+      "slugged_name": "fitnes-qolbaq-huawei-band-11-purple-55020gve",
+      "custom_fields": [
+        {
+          "master_field_id": 625,
+          "values": [
+            "Bənövşəyi"
+          ]
+        },
+        {
+          "master_field_id": 1828,
+          "values": [
+            "1.62"
+          ]
+        },
+        {
+          "master_field_id": 1476,
+          "values": [
+            "Huawei Band 11"
+          ]
+        }
+      ],
+      "main_img": {
+        "big": "https://strgimgr.umico.az/img/product/1680/a35ac0e2-8f6b-4fad-bf83-f69882ac202a.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/a35ac0e2-8f6b-4fad-bf83-f69882ac202a.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/a35ac0e2-8f6b-4fad-bf83-f69882ac202a.jpeg"
+      },
+      "status": "active"
+    }
+  ],
+  "size_chart": {},
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "sku": 2241568,
+    "mpn": "55020GVF",
+    "url": "https://birmarket.az/product/2241568-fitnes-qolbaq-huawei-band-11-black-55020gvf",
+    "name": "Fitnes qolbaq Huawei Band 11 Polymer Black (55020GVF)",
+    "image": [
+      "https://strgimgr.umico.az/img/product/1680/9db1814e-085f-47cc-9e23-b0512117ed76.jpeg",
+      "https://strgimgr.umico.az/img/product/1680/a81d727e-1e0a-4627-a552-41fd9a958d5e.jpeg",
+      "https://strgimgr.umico.az/img/product/1680/1d562f0e-b32c-480f-9504-1d11e458dadd.jpeg",
+      "https://strgimgr.umico.az/img/product/1680/0b6435aa-cd19-405e-b981-b0b2d400c763.jpeg",
+      "https://strgimgr.umico.az/img/product/1680/e2fc0998-7865-4b5d-8457-9b303c6d1cae.jpeg",
+      "https://strgimgr.umico.az/img/product/1680/ea350001-e373-44c5-9e36-ebbbc071f607.jpeg",
+      "https://strgimgr.umico.az/img/product/1680/0116e64a-cbd5-4a27-87e0-e525d19fd557.jpeg",
+      "https://strgimgr.umico.az/img/product/1680/b9c221df-6f2e-4a48-aea9-76ef98dec9dd.jpeg",
+      "https://strgimgr.umico.az/img/product/1680/93edabc5-f99c-4cf6-a2eb-d2fe30f7779e.jpeg",
+      "https://strgimgr.umico.az/img/product/1680/749fc3ae-339b-4f0b-92a1-72c56dbf9dd7.jpeg"
+    ],
+    "description": "&lt;img src=&quot;https://strgimgr.umico.az/img/product/1680/cadad2c9-164b-4dcd-a2aa-3b36903f7bea.jpeg&quot;&gt;&lt;img src=&quot;https://strgimgr.umico.az/img/product/1680/3613a701-03e9-49a3-a1dc-c75a10547649.jpeg&quot;&gt;&lt;img src=&quot;https://strgimgr.umico.az/img/product/1680/b28fae71-a681-4bff-9617-77d36d8b78b3.jpeg&quot;&gt;&lt;img src=&quot;https://strgimgr.umico.az/img/product/1680/6e13d1f1-ad93-4d30-8e40-7a0cc09185eb.jpeg&quot;&gt;&lt;img src=&quot;https://strgimgr.umico.az/img/product/1680/3c0e83ab-ca6e-4631-bf15-2379abd03eba.jpeg&quot;&gt;&lt;img src=&quot;https://strgimgr.umico.az/img/product/1680/cf98c34a-0587-4275-b502-c36dc7c674d3.jpeg&quot;&gt;",
+    "itemCondition": "https://schema.org/NewCondition",
+    "offers": {
+      "@type": "AggregateOffer",
+      "availability": "https://schema.org/InStock",
+      "offerCount": 6,
+      "highPrice": 199.99,
+      "lowPrice": 74.99,
+      "priceCurrency": "AZN",
+      "hasMerchantReturnPolicy": {
+        "applicableCountry": "AZ",
+        "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+        "returnMethod": "https://schema.org/ReturnInStore",
+        "returnFees": "https://schema.org/FreeReturn",
+        "merchantReturnDays": 14
+      },
+      "shippingDetails": {
+        "@type": "OfferShippingDetails",
+        "shippingDestination": {
+          "@type": "DefinedRegion",
+          "addressCountry": "AZ"
+        },
+        "deliveryTime": {
+          "@type": "ShippingDeliveryTime",
+          "handlingTime": {
+            "@type": "QuantitativeValue",
+            "minValue": 0,
+            "maxValue": 1,
+            "unitCode": "DAY"
+          },
+          "transitTime": {
+            "@type": "QuantitativeValue",
+            "minValue": 0,
+            "maxValue": 1,
+            "unitCode": "DAY"
+          },
+          "businessDays": {
+            "@type": "OpeningHoursSpecification",
+            "dayOfWeek": [
+              "https://schema.org/Monday",
+              "https://schema.org/Tuesday",
+              "https://schema.org/Wednesday",
+              "https://schema.org/Thursday",
+              "https://schema.org/Friday",
+              "https://schema.org/Saturday",
+              "https://schema.org/Sunday"
+            ]
+          }
+        },
+        "shippingRate": {
+          "@type": "MonetaryAmount",
+          "value": 0,
+          "currency": "AZN"
+        }
+      }
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": 5,
+      "reviewCount": 3
+    },
+    "brand": {
+      "@type": "Brand",
+      "name": "Huawei",
+      "url": "https://birmarket.az/brands/Huawei"
+    }
+  }
+}

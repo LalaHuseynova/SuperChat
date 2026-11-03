@@ -1,0 +1,662 @@
+{
+  "product": {
+    "id": 622402,
+    "gtin": "6931474782441",
+    "mpn": "hoco M101 max type-c white",
+    "name": "Simli qulaqlıq Hoco M101 Max White",
+    "slugged_name_az": "simli-qulaqliq-hoco-m101-max-white",
+    "slugged_name_ru": "provodnye-naushniki-hoco-m101-max-white",
+    "description": "HOCO M101 Max Crystal Grace Rəqəmsal qulaqlıqlar Type-C Ağ mikrofonlu və idarəetmə düymələri ilə ─ Type-C yuvası ilə telefona qoşulan simli qulaqlıqlar. Onların köməyi ilə siz musiqini yüksək və keyfiyyətli şəkildə dinləyə biləcəksiniz və ətrafınızdakıları narahat etməyəcəksiniz. Qulaqlıqlarda quraşdırılmış mikrofon var, buna görə də zənglərə cavab verə və danışa bilərsiniz, onları telefondan ayırmadan. HOCO M101 Max qulaqlıqlar daxili kanal dizaynına malikdir, bu da rahat geyinmə və keyfiyyətli səs izolyasiyasını təmin edir. Qulaqlıqlar yüksək keyfiyyətli plastikdən hazırlanmışdır, ona görə də uzun müddət xidmət edəcək. Və müasir dizayn heç kəsi laqeyd qoymayacaq, çünki onlar hər hansı üslub ilə harmonik görünəcək. Üstünlüklər: - müasir dizayn; - rahat kabel uzunluğu: 1,2 m; - əla material keyfiyyəti; - qulaqlıqlar qulaqda yaxşı oturur və düşmür; - qoşulma Type-C yuvası ilə həyata keçirilir; - mikrofon zənglərə cavab verməyə imkan verir; - səs tənzimləmə düymələrinin olması.",
+    "description_outlet": "",
+    "status": "active",
+    "uuid": "cbfe7ad4-0331-41fc-8488-750b644fb466",
+    "variant_code": "VC_622402",
+    "default_offer": {
+      "uuid": "ea454af5-07ee-4a64-8fd4-79ea69ce3a9b",
+      "installment_enabled": true,
+      "max_installment_months": 12,
+      "product_offer_labels": [],
+      "old_price": 25,
+      "retail_price": 14.92,
+      "supplier_id": "1f7b4a25-7c8f-4e67-9a2f-bd40bf9e7a37",
+      "qty": 0,
+      "seller": {
+        "ext_id": "1f7b4a25-7c8f-4e67-9a2f-bd40bf9e7a37",
+        "marketing_name": {
+          "id": 4052,
+          "name": "Brend Aksesuar"
+        },
+        "logo": {
+          "thumbnail": "https://storage.umico.az/cpcustomerprod01/4708876baebaaad9c3effe88ff54738e.jpg"
+        },
+        "vat_payer": false,
+        "rating": 98,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "discount_effective_start_date": "",
+      "discount_effective_end_date": ""
+    },
+    "category_id": 6,
+    "category": {
+      "id": 6,
+      "name": "Qulaqlıqlar və qarniturlar"
+    },
+    "brand": {
+      "name": "Hoco"
+    },
+    "custom_fields": [
+      {
+        "master_field_id": 1476,
+        "values": [
+          "Hoco M101 Max"
+        ]
+      },
+      {
+        "master_field_id": 628,
+        "values": [
+          "İçlik (qapaq)"
+        ]
+      },
+      {
+        "master_field_id": 629,
+        "values": [
+          "Simli"
+        ]
+      },
+      {
+        "master_field_id": 1568,
+        "values": [
+          "Xeyr"
+        ]
+      },
+      {
+        "master_field_id": 678,
+        "values": [
+          "Type-C"
+        ]
+      },
+      {
+        "master_field_id": 657,
+        "values": [
+          "Klassik"
+        ]
+      },
+      {
+        "master_field_id": 1846,
+        "values": [
+          "Hərtərəfli"
+        ]
+      },
+      {
+        "master_field_id": 1570,
+        "values": [
+          "Stereo"
+        ]
+      },
+      {
+        "master_field_id": 797,
+        "values": [
+          "32"
+        ]
+      },
+      {
+        "master_field_id": 630,
+        "values": [
+          "98"
+        ]
+      },
+      {
+        "master_field_id": 631,
+        "values": [
+          "20"
+        ]
+      },
+      {
+        "master_field_id": 632,
+        "values": [
+          "20000"
+        ]
+      },
+      {
+        "master_field_id": 1840,
+        "values": [
+          "Qapalı"
+        ]
+      },
+      {
+        "master_field_id": 1573,
+        "values": [
+          "2"
+        ]
+      },
+      {
+        "master_field_id": 1850,
+        "values": [
+          "Kabeldə"
+        ]
+      },
+      {
+        "master_field_id": 1740,
+        "values": [
+          "Mikrofon"
+        ]
+      },
+      {
+        "master_field_id": 782,
+        "values": [
+          "1.2"
+        ]
+      },
+      {
+        "master_field_id": 3287,
+        "values": [
+          "Qulaq içi"
+        ]
+      },
+      {
+        "master_field_id": 625,
+        "values": [
+          "Ağ"
+        ]
+      },
+      {
+        "master_field_id": 697,
+        "values": [
+          "Təlimat"
+        ]
+      },
+      {
+        "master_field_id": 2210,
+        "values": [
+          "Çin"
+        ]
+      },
+      {
+        "master_field_id": 618,
+        "values": [
+          "Çin"
+        ]
+      }
+    ],
+    "main_img": {
+      "big": "https://strgimgr.umico.az/sized/1680/622402-e34b680b9af11c9ad5dd3f3e0da2bba7.jpg",
+      "medium": "https://strgimgr.umico.az/sized/840/622402-e34b680b9af11c9ad5dd3f3e0da2bba7.jpg",
+      "small": "https://strgimgr.umico.az/sized/280/622402-e34b680b9af11c9ad5dd3f3e0da2bba7.jpg"
+    },
+    "img_url_thumbnail": "https://strgimgr.umico.az/sized/280/622402-e34b680b9af11c9ad5dd3f3e0da2bba7.jpg",
+    "main_video": "",
+    "imgs": [
+      {
+        "big": "https://strgimgr.umico.az/sized/1680/622402-e34b680b9af11c9ad5dd3f3e0da2bba7.jpg",
+        "medium": "https://strgimgr.umico.az/sized/840/622402-e34b680b9af11c9ad5dd3f3e0da2bba7.jpg",
+        "small": "https://strgimgr.umico.az/sized/280/622402-e34b680b9af11c9ad5dd3f3e0da2bba7.jpg"
+      },
+      {
+        "big": "https://strgimgr.umico.az/sized/1680/622402-5430af32de9f9d162aa7fc41e2a1695a.jpg",
+        "medium": "https://strgimgr.umico.az/sized/840/622402-5430af32de9f9d162aa7fc41e2a1695a.jpg",
+        "small": "https://strgimgr.umico.az/sized/280/622402-5430af32de9f9d162aa7fc41e2a1695a.jpg"
+      },
+      {
+        "big": "https://strgimgr.umico.az/sized/1680/622402-7c9124e016135483d4fbd3008e4564ab.jpg",
+        "medium": "https://strgimgr.umico.az/sized/840/622402-7c9124e016135483d4fbd3008e4564ab.jpg",
+        "small": "https://strgimgr.umico.az/sized/280/622402-7c9124e016135483d4fbd3008e4564ab.jpg"
+      }
+    ],
+    "videos": [],
+    "min_qty": 1,
+    "preorder_available": false,
+    "is_assortment": false,
+    "is_bulk_heavy": false,
+    "is_refurbished": false,
+    "is_refundable": true,
+    "is_dangerous": false,
+    "show_tech_description": false,
+    "use_external_content": true,
+    "product_labels": [],
+    "ratings": {
+      "rating_value": 4.9,
+      "assessment_id": 0,
+      "session_count": 7,
+      "score_count": 2,
+      "review_count": 5
+    },
+    "default_show_stock_qty_threshold": 0,
+    "card_type": "public"
+  },
+  "category": {
+    "id": 6,
+    "name": "Qulaqlıqlar və qarniturlar",
+    "slugged_name_az": "qulaqliqlar-ve-qarniturlar",
+    "slugged_name_ru": "naushniki-i-garnitury",
+    "view_mode": "products",
+    "mobile_visual_mode": "text",
+    "is_variant": true,
+    "depth": 2,
+    "parent_id": 2,
+    "child_ids": [],
+    "node_type": "NODE",
+    "install_service_needed": false,
+    "fitting_allowed": false,
+    "vat": true,
+    "variations": [
+      {
+        "master_field_id": 625,
+        "name": "Rəng",
+        "variation_tool_type": "image",
+        "has_size_chart": false,
+        "display_variant": false
+      }
+    ],
+    "custom_fields": [
+      {
+        "master_field_id": 1476,
+        "category_master_field_id": 10651,
+        "name": "Seriya"
+      },
+      {
+        "master_field_id": 628,
+        "category_master_field_id": 1455,
+        "name": "Qulaqlıq növü"
+      },
+      {
+        "master_field_id": 629,
+        "category_master_field_id": 1456,
+        "name": "Qoşulma tipi"
+      },
+      {
+        "master_field_id": 633,
+        "category_master_field_id": 1460,
+        "name": "Port tipi"
+      },
+      {
+        "master_field_id": 777,
+        "category_master_field_id": 45543,
+        "name": "Bluetooth standartı"
+      },
+      {
+        "master_field_id": 6487,
+        "category_master_field_id": 45544,
+        "name": "Aktiv səs-küyün boğulması (ANC)"
+      },
+      {
+        "master_field_id": 759,
+        "category_master_field_id": 4638,
+        "name": "Mikrofon"
+      },
+      {
+        "master_field_id": 1574,
+        "category_master_field_id": 4669,
+        "name": "İşləmə müddəti, saat"
+      },
+      {
+        "master_field_id": 2186,
+        "category_master_field_id": 45545,
+        "name": "Nəmə davamlı"
+      },
+      {
+        "master_field_id": 625,
+        "category_master_field_id": 4637,
+        "name": "Rəng"
+      },
+      {
+        "master_field_id": 2211,
+        "category_master_field_id": 10656,
+        "name": "Zəmanət müddəti"
+      },
+      {
+        "master_field_id": 1568,
+        "category_master_field_id": 4663,
+        "name": "Səs-küyün boğulması"
+      },
+      {
+        "master_field_id": 678,
+        "category_master_field_id": 10650,
+        "name": "Qoşulma interfeysi"
+      },
+      {
+        "master_field_id": 657,
+        "category_master_field_id": 4640,
+        "name": "Quruluş"
+      },
+      {
+        "master_field_id": 630,
+        "category_master_field_id": 1457,
+        "name": "Həssaslıq, dB"
+      },
+      {
+        "master_field_id": 631,
+        "category_master_field_id": 1458,
+        "name": "Minimal təkrarlanan tezlik, Hz"
+      },
+      {
+        "master_field_id": 632,
+        "category_master_field_id": 1459,
+        "name": "Maksimal təkrarlanan tezlik, Hz"
+      },
+      {
+        "master_field_id": 1838,
+        "category_master_field_id": 5557,
+        "name": "Port forması"
+      },
+      {
+        "master_field_id": 782,
+        "category_master_field_id": 4636,
+        "name": "Kabelin uzunluğu, m"
+      },
+      {
+        "master_field_id": 3287,
+        "category_master_field_id": 15468,
+        "name": "Qulaqlıqların bərkitməsi"
+      },
+      {
+        "master_field_id": 1840,
+        "category_master_field_id": 5559,
+        "name": "Akustik formalaşdırma"
+      },
+      {
+        "master_field_id": 1140,
+        "category_master_field_id": 15469,
+        "name": "Təsir radiusu, m"
+      },
+      {
+        "master_field_id": 1841,
+        "category_master_field_id": 5560,
+        "name": "Maksimal çıxış gücü, Vt"
+      },
+      {
+        "master_field_id": 1842,
+        "category_master_field_id": 5561,
+        "name": "Diapazonun yuxarı həddi, Hz"
+      },
+      {
+        "master_field_id": 1843,
+        "category_master_field_id": 5562,
+        "name": "Diapazonun aşağı həddi, Hz"
+      },
+      {
+        "master_field_id": 1844,
+        "category_master_field_id": 5563,
+        "name": "Siqnal/səs-küy nisbəti, dB"
+      },
+      {
+        "master_field_id": 797,
+        "category_master_field_id": 5570,
+        "name": "Empendans, Om"
+      },
+      {
+        "master_field_id": 1567,
+        "category_master_field_id": 4662,
+        "name": "Səs izolyasiyası"
+      },
+      {
+        "master_field_id": 1845,
+        "category_master_field_id": 5564,
+        "name": "Səs səviyyəsinin tənzimləyicisi"
+      },
+      {
+        "master_field_id": 1570,
+        "category_master_field_id": 4665,
+        "name": "Ətraf səs"
+      },
+      {
+        "master_field_id": 1573,
+        "category_master_field_id": 4668,
+        "name": "Dinamiklərin ümumi sayı"
+      },
+      {
+        "master_field_id": 1846,
+        "category_master_field_id": 5565,
+        "name": "Mikrofon növü"
+      },
+      {
+        "master_field_id": 1847,
+        "category_master_field_id": 5566,
+        "name": "Mikrofonun diapazonunun yuxarı həddi, Hz"
+      },
+      {
+        "master_field_id": 1848,
+        "category_master_field_id": 5567,
+        "name": "Mikrofonun diapazonunun aşağı həddi, Hz"
+      },
+      {
+        "master_field_id": 1849,
+        "category_master_field_id": 5568,
+        "name": "Mikrofonun siqnal/səs-küy nisbəti"
+      },
+      {
+        "master_field_id": 1850,
+        "category_master_field_id": 5569,
+        "name": "Mikrofonun bərkitməsi"
+      },
+      {
+        "master_field_id": 1740,
+        "category_master_field_id": 5571,
+        "name": "Digər funksiyalar və xüsusiyyətlər"
+      },
+      {
+        "master_field_id": 870,
+        "category_master_field_id": 4634,
+        "name": "Çəki, q"
+      },
+      {
+        "master_field_id": 2552,
+        "category_master_field_id": 10654,
+        "name": "Korpusun qorunması"
+      },
+      {
+        "master_field_id": 697,
+        "category_master_field_id": 10655,
+        "name": "Komplektasiya"
+      },
+      {
+        "master_field_id": 2210,
+        "category_master_field_id": 10649,
+        "name": "Brendin ölkəsi"
+      },
+      {
+        "master_field_id": 618,
+        "category_master_field_id": 4635,
+        "name": "İstehsalçı ölkə"
+      }
+    ],
+    "parent": {
+      "id": 2,
+      "node_type": "NODE",
+      "name": "Telefonlar, Smart cihazlar və telefon aksessuarları",
+      "slugged_name": "telefonlar-ve-aksessuarlar",
+      "parent": {
+        "id": 1,
+        "node_type": "NODE",
+        "name": "Elektronika və məişət texnikası",
+        "slugged_name": "elektronika-ve-meishet-texnikasi",
+        "parent": null
+      }
+    },
+    "is_refundable": true,
+    "is_adult": false,
+    "icons": {
+      "thumbnail": "https://strgimgr.umico.az/img/category/188/7a8b0d8a-c1a8-46f5-a7cd-c7483dbc6bee.jpeg",
+      "original": "https://strgimgr.umico.az/img/category/original/7a8b0d8a-c1a8-46f5-a7cd-c7483dbc6bee.jpeg"
+    },
+    "is_active": true
+  },
+  "offers": [
+    {
+      "uuid": "ea454af5-07ee-4a64-8fd4-79ea69ce3a9b",
+      "installment_enabled": true,
+      "max_installment_months": 12,
+      "product_offer_labels": [],
+      "old_price": 25,
+      "retail_price": 14.92,
+      "supplier_id": "1f7b4a25-7c8f-4e67-9a2f-bd40bf9e7a37",
+      "seller": {
+        "ext_id": "f86227b7-8952-4c59-84ce-b070e6a4978a",
+        "internal_id": 4052,
+        "marketing_name": {
+          "id": 4052,
+          "name": "Brend Aksesuar"
+        },
+        "logo": {
+          "thumbnail": "https://storage.umico.az/cpcustomerprod01/4708876baebaaad9c3effe88ff54738e.jpg"
+        },
+        "vat_payer": false,
+        "rating": 98,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "allow_qty": 0
+    },
+    {
+      "uuid": "0ab7dbc8-96e7-4067-923f-385bcfe634d9",
+      "installment_enabled": true,
+      "max_installment_months": 3,
+      "product_offer_labels": [],
+      "old_price": 20,
+      "retail_price": 17.9,
+      "supplier_id": "2ca454a0-cd29-482c-a796-1e082b82617d",
+      "seller": {
+        "ext_id": "ff89f652-2119-4316-bbd6-8c3f33d13858",
+        "internal_id": 10310,
+        "marketing_name": {
+          "id": 10310,
+          "name": "FF GROUP"
+        },
+        "logo": {
+          "thumbnail": "https://storage.umico.az/cpcustomerprod01/b11687ce348bebe034ffd748be550512.jpg"
+        },
+        "vat_payer": false,
+        "rating": 99,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "allow_qty": 0
+    },
+    {
+      "uuid": "b6ba358c-f50f-411c-8795-8878b8f447a5",
+      "installment_enabled": true,
+      "max_installment_months": 18,
+      "product_offer_labels": [],
+      "old_price": 26,
+      "retail_price": 18,
+      "supplier_id": "6baf773c-ab7e-4800-9794-70b88d79bea2",
+      "seller": {
+        "ext_id": "1338185b-1be1-4974-885a-8800202131ce",
+        "internal_id": 14174,
+        "marketing_name": {
+          "id": 14174,
+          "name": "Electro World"
+        },
+        "logo": {
+          "thumbnail": ""
+        },
+        "vat_payer": false,
+        "rating": 91,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "allow_qty": 0
+    }
+  ],
+  "variations": [
+    {
+      "id": 622402,
+      "name": "Simli qulaqlıq Hoco M101 Max White",
+      "slugged_name": "simli-qulaqliq-hoco-m101-max-white",
+      "custom_fields": [
+        {
+          "master_field_id": 625,
+          "values": [
+            "Ağ"
+          ]
+        }
+      ],
+      "main_img": {
+        "big": "https://strgimgr.umico.az/sized/1680/622402-e34b680b9af11c9ad5dd3f3e0da2bba7.jpg",
+        "medium": "https://strgimgr.umico.az/sized/840/622402-e34b680b9af11c9ad5dd3f3e0da2bba7.jpg",
+        "small": "https://strgimgr.umico.az/sized/280/622402-e34b680b9af11c9ad5dd3f3e0da2bba7.jpg"
+      },
+      "status": "active"
+    }
+  ],
+  "size_chart": {},
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "sku": 622402,
+    "mpn": "hoco M101 max type-c white",
+    "url": "https://birmarket.az/product/622402-simli-qulaqliq-hoco-m101-max-white",
+    "name": "Simli qulaqlıq Hoco M101 Max White",
+    "image": [
+      "https://strgimgr.umico.az/sized/1680/622402-e34b680b9af11c9ad5dd3f3e0da2bba7.jpg",
+      "https://strgimgr.umico.az/sized/1680/622402-5430af32de9f9d162aa7fc41e2a1695a.jpg",
+      "https://strgimgr.umico.az/sized/1680/622402-7c9124e016135483d4fbd3008e4564ab.jpg"
+    ],
+    "description": "HOCO M101 Max Crystal Grace Rəqəmsal qulaqlıqlar Type-C Ağ mikrofonlu və idarəetmə düymələri ilə ─ Type-C yuvası ilə telefona qoşulan simli qulaqlıqlar. Onların köməyi ilə siz musiqini yüksək və keyfiyyətli şəkildə dinləyə biləcəksiniz və ətrafınızdakıları narahat etməyəcəksiniz. Qulaqlıqlarda quraşdırılmış mikrofon var, buna görə də zənglərə cavab verə və danışa bilərsiniz, onları telefondan ayırmadan. HOCO M101 Max qulaqlıqlar daxili kanal dizaynına malikdir, bu da rahat geyinmə və keyfiyyətli səs izolyasiyasını təmin edir. Qulaqlıqlar yüksək keyfiyyətli plastikdən hazırlanmışdır, ona görə də uzun müddət xidmət edəcək. Və müasir dizayn heç kəsi laqeyd qoymayacaq, çünki onlar hər hansı üslub ilə harmonik görünəcək. Üstünlüklər: - müasir dizayn; - rahat kabel uzunluğu: 1,2 m; - əla material keyfiyyəti; - qulaqlıqlar qulaqda yaxşı oturur və düşmür; - qoşulma Type-C yuvası ilə həyata keçirilir; - mikrofon zənglərə cavab verməyə imkan verir; - səs tənzimləmə düymələrinin olması.",
+    "itemCondition": "https://schema.org/NewCondition",
+    "offers": {
+      "@type": "AggregateOffer",
+      "availability": "https://schema.org/InStock",
+      "offerCount": 3,
+      "highPrice": 18,
+      "lowPrice": 14.92,
+      "priceCurrency": "AZN",
+      "hasMerchantReturnPolicy": {
+        "applicableCountry": "AZ",
+        "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+        "returnMethod": "https://schema.org/ReturnInStore",
+        "returnFees": "https://schema.org/FreeReturn",
+        "merchantReturnDays": 14
+      },
+      "shippingDetails": {
+        "@type": "OfferShippingDetails",
+        "shippingDestination": {
+          "@type": "DefinedRegion",
+          "addressCountry": "AZ"
+        },
+        "deliveryTime": {
+          "@type": "ShippingDeliveryTime",
+          "handlingTime": {
+            "@type": "QuantitativeValue",
+            "minValue": 0,
+            "maxValue": 1,
+            "unitCode": "DAY"
+          },
+          "transitTime": {
+            "@type": "QuantitativeValue",
+            "minValue": 0,
+            "maxValue": 1,
+            "unitCode": "DAY"
+          },
+          "businessDays": {
+            "@type": "OpeningHoursSpecification",
+            "dayOfWeek": [
+              "https://schema.org/Monday",
+              "https://schema.org/Tuesday",
+              "https://schema.org/Wednesday",
+              "https://schema.org/Thursday",
+              "https://schema.org/Friday",
+              "https://schema.org/Saturday",
+              "https://schema.org/Sunday"
+            ]
+          }
+        },
+        "shippingRate": {
+          "@type": "MonetaryAmount",
+          "value": 0,
+          "currency": "AZN"
+        }
+      }
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": 5,
+      "reviewCount": 5
+    },
+    "brand": {
+      "@type": "Brand",
+      "name": "Hoco",
+      "url": "https://birmarket.az/brands/Hoco"
+    }
+  }
+}

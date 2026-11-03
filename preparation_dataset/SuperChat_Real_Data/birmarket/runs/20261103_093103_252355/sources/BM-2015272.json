@@ -1,0 +1,607 @@
+{
+  "product": {
+    "id": 2015272,
+    "gtin": "",
+    "mpn": "ML_2655_qara_44",
+    "name": "Kişilər üçün sliponlar ML_2655, qara, eko dəri/zamşa, ölçü 44",
+    "slugged_name_az": "kishiler-uchun-krosovka-ml_2655-eko-deri-zamsha-qara-olchu-44",
+    "slugged_name_ru": "muzhskie-krossovki-ml_2655-eko-kozha-zamsha-chernyy-razmer-44",
+    "description": "Kişilər üçün dəbli və müasir krosovka — stil və rahatlığın mükəmməl balansı. Eko dəri və zamşa materialının harmonik birləşməsi modelə həm premium görünüş, həm də fərqli tekstura qazandırır.\n\nYumşaq zamşa detalları dizayna xüsusi xarakter verir, eko dəri isə davamlılıq və praktik istifadə üstünlüyü təmin edir. Yüngül və rahat konstruksiyası sayəsində gün boyu komfort hiss edəcəksiniz.\n\nŞəhər üslubuna uyğun, universal kombinlənə bilən bu model həm gündəlik geyimlərlə, həm də daha səliqəli obrazlarla ideal uyğunlaşır. Müasir dizayn, keyfiyyətli material və diqqətçəkən görünüş — stilinə dəyər verən kişilər üçün.",
+    "description_outlet": "",
+    "status": "active",
+    "uuid": "ed936171-f654-4876-b6d7-d69a62b25f30",
+    "variant_code": "ML_2655",
+    "default_offer": {
+      "uuid": "07221aea-e298-4a1d-b582-389d03a52ff8",
+      "installment_enabled": true,
+      "max_installment_months": 3,
+      "product_offer_labels": [],
+      "old_price": 118.63,
+      "retail_price": 58.36,
+      "supplier_id": "fdee1007-f8f6-45f3-bc58-0172bb9e2406",
+      "qty": 0,
+      "seller": {
+        "ext_id": "fdee1007-f8f6-45f3-bc58-0172bb9e2406",
+        "marketing_name": {
+          "id": 4275,
+          "name": "Moonlight Boutique"
+        },
+        "logo": {
+          "thumbnail": "https://storage.umico.az/cpcustomerprod01/3437f1ffb48463d503d0c079c7d2c792.jpg"
+        },
+        "vat_payer": false,
+        "rating": 96,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "discount_effective_start_date": "",
+      "discount_effective_end_date": ""
+    },
+    "category_id": 3177,
+    "category": {
+      "id": 3177,
+      "name": "Kişi krosovkaları və kedləri"
+    },
+    "brand": {
+      "name": "No Brand"
+    },
+    "custom_fields": [
+      {
+        "master_field_id": 620,
+        "values": [
+          "Sliponlar"
+        ]
+      },
+      {
+        "master_field_id": 625,
+        "values": [
+          "Qara"
+        ]
+      },
+      {
+        "master_field_id": 637,
+        "values": [
+          "Eko dəri",
+          "Zamşa"
+        ]
+      },
+      {
+        "master_field_id": 1423,
+        "values": [
+          "44"
+        ]
+      }
+    ],
+    "main_img": {
+      "big": "https://strgimgr.umico.az/img/product/1680/99688ca1-cb40-417c-96e7-80fd806856ea.jpeg",
+      "medium": "https://strgimgr.umico.az/img/product/840/99688ca1-cb40-417c-96e7-80fd806856ea.jpeg",
+      "small": "https://strgimgr.umico.az/img/product/280/99688ca1-cb40-417c-96e7-80fd806856ea.jpeg"
+    },
+    "img_url_thumbnail": "https://strgimgr.umico.az/img/product/280/99688ca1-cb40-417c-96e7-80fd806856ea.jpeg",
+    "main_video": "",
+    "imgs": [
+      {
+        "big": "https://strgimgr.umico.az/img/product/1680/99688ca1-cb40-417c-96e7-80fd806856ea.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/99688ca1-cb40-417c-96e7-80fd806856ea.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/99688ca1-cb40-417c-96e7-80fd806856ea.jpeg"
+      },
+      {
+        "big": "https://strgimgr.umico.az/img/product/1680/55a77c2c-ab27-4462-8a50-f2245d57720a.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/55a77c2c-ab27-4462-8a50-f2245d57720a.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/55a77c2c-ab27-4462-8a50-f2245d57720a.jpeg"
+      },
+      {
+        "big": "https://strgimgr.umico.az/img/product/1680/1854f534-d84b-4651-941f-8d0cae6214be.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/1854f534-d84b-4651-941f-8d0cae6214be.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/1854f534-d84b-4651-941f-8d0cae6214be.jpeg"
+      }
+    ],
+    "videos": [],
+    "min_qty": 1,
+    "preorder_available": false,
+    "is_assortment": false,
+    "is_bulk_heavy": false,
+    "is_refurbished": false,
+    "is_refundable": true,
+    "is_dangerous": false,
+    "show_tech_description": false,
+    "use_external_content": true,
+    "product_labels": [],
+    "ratings": {
+      "rating_value": 0,
+      "assessment_id": 0,
+      "session_count": 0
+    },
+    "default_show_stock_qty_threshold": 0,
+    "card_type": "public"
+  },
+  "category": {
+    "id": 3177,
+    "name": "Kişi krosovkaları və kedləri",
+    "slugged_name_az": "kishi-krosovkalari",
+    "slugged_name_ru": "krossovki-muzhskie",
+    "view_mode": "products",
+    "mobile_visual_mode": "text",
+    "is_variant": false,
+    "depth": 3,
+    "parent_id": 3174,
+    "child_ids": [],
+    "node_type": "NODE",
+    "install_service_needed": false,
+    "fitting_allowed": true,
+    "vat": true,
+    "variations": [
+      {
+        "master_field_id": 1423,
+        "name": "Ölçü",
+        "variation_tool_type": "button",
+        "has_size_chart": true,
+        "display_variant": true
+      },
+      {
+        "master_field_id": 625,
+        "name": "Rəng",
+        "variation_tool_type": "image",
+        "has_size_chart": false,
+        "display_variant": true
+      }
+    ],
+    "custom_fields": [
+      {
+        "master_field_id": 620,
+        "category_master_field_id": 30908,
+        "name": "Tip"
+      },
+      {
+        "master_field_id": 625,
+        "category_master_field_id": 25206,
+        "name": "Rəng"
+      },
+      {
+        "master_field_id": 637,
+        "category_master_field_id": 25207,
+        "name": "Material"
+      },
+      {
+        "master_field_id": 1423,
+        "category_master_field_id": 25205,
+        "name": "Ölçü"
+      },
+      {
+        "master_field_id": 2103,
+        "category_master_field_id": 25204,
+        "name": "Fəsil"
+      },
+      {
+        "master_field_id": 4515,
+        "category_master_field_id": 30909,
+        "name": "İdman növü"
+      },
+      {
+        "master_field_id": 5943,
+        "category_master_field_id": 37260,
+        "name": "Dikdaban tipi"
+      },
+      {
+        "master_field_id": 2482,
+        "category_master_field_id": 30911,
+        "name": "Üslub"
+      },
+      {
+        "master_field_id": 618,
+        "category_master_field_id": 30912,
+        "name": "İstehsalçı ölkə"
+      },
+      {
+        "master_field_id": 2210,
+        "category_master_field_id": 30913,
+        "name": "Brendin ölkəsi"
+      }
+    ],
+    "parent": {
+      "id": 3174,
+      "node_type": "NODE",
+      "name": "Kişi ayaqqabıları",
+      "slugged_name": "kishi-ayaqqabilari",
+      "parent": {
+        "id": 3117,
+        "node_type": "NODE",
+        "name": "Kişilər üçün",
+        "slugged_name": "kishi",
+        "parent": {
+          "id": 3003,
+          "node_type": "NODE",
+          "name": "Geyim,ayaqqabı və aksessuarlar",
+          "slugged_name": "geyim-ve-ayaqqabi",
+          "parent": null
+        }
+      }
+    },
+    "is_refundable": true,
+    "is_adult": false,
+    "icons": {
+      "thumbnail": "https://strgimgr.umico.az/img/category/188/8701f1fd-b237-4ee2-bce5-ed487408e3d4.jpeg",
+      "original": "https://strgimgr.umico.az/img/category/original/8701f1fd-b237-4ee2-bce5-ed487408e3d4.png"
+    },
+    "is_active": true
+  },
+  "offers": [
+    {
+      "uuid": "07221aea-e298-4a1d-b582-389d03a52ff8",
+      "installment_enabled": true,
+      "max_installment_months": 3,
+      "product_offer_labels": [],
+      "old_price": 118.63,
+      "retail_price": 58.36,
+      "supplier_id": "fdee1007-f8f6-45f3-bc58-0172bb9e2406",
+      "seller": {
+        "ext_id": "e292d430-aff2-4f7a-8a80-49f5dea181b2",
+        "internal_id": 4275,
+        "marketing_name": {
+          "id": 4275,
+          "name": "Moonlight Boutique"
+        },
+        "logo": {
+          "thumbnail": "https://storage.umico.az/cpcustomerprod01/3437f1ffb48463d503d0c079c7d2c792.jpg"
+        },
+        "vat_payer": false,
+        "rating": 96,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "allow_qty": 0
+    }
+  ],
+  "variations": [
+    {
+      "id": 2015273,
+      "name": "Kişilər üçün sliponlar ML_2655, qara, eko dəri/zamşa, ölçü 45",
+      "slugged_name": "kishiler-uchun-krosovka-ml_2655-eko-deri-zamsha-qara-olchu-45",
+      "custom_fields": [
+        {
+          "master_field_id": 1423,
+          "values": [
+            "45"
+          ]
+        },
+        {
+          "master_field_id": 625,
+          "values": [
+            "Qara"
+          ]
+        }
+      ],
+      "main_img": {
+        "big": "https://strgimgr.umico.az/img/product/1680/c6f5a196-8916-45b1-bd83-e8e39d3986a1.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/c6f5a196-8916-45b1-bd83-e8e39d3986a1.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/c6f5a196-8916-45b1-bd83-e8e39d3986a1.jpeg"
+      },
+      "status": "active"
+    },
+    {
+      "id": 2015274,
+      "name": "Kişilər üçün sliponlar ML_2655, göy, eko dəri/zamşa, ölçü 40",
+      "slugged_name": "kishiler-uchun-krosovka-ml_2655-eko-deri-zamsha-goy-olchu-40",
+      "custom_fields": [
+        {
+          "master_field_id": 1423,
+          "values": [
+            "40"
+          ]
+        },
+        {
+          "master_field_id": 625,
+          "values": [
+            "Göy"
+          ]
+        }
+      ],
+      "main_img": {
+        "big": "https://strgimgr.umico.az/img/product/1680/6151d4e0-54c4-4d5b-a045-5ab74124254a.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/6151d4e0-54c4-4d5b-a045-5ab74124254a.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/6151d4e0-54c4-4d5b-a045-5ab74124254a.jpeg"
+      },
+      "status": "active"
+    },
+    {
+      "id": 2015276,
+      "name": "Kişilər üçün sliponlar ML_2655, göy, eko dəri/zamşa, ölçü 42",
+      "slugged_name": "kishiler-uchun-krosovka-ml_2655-eko-deri-zamsha-goy-olchu-42",
+      "custom_fields": [
+        {
+          "master_field_id": 1423,
+          "values": [
+            "42"
+          ]
+        },
+        {
+          "master_field_id": 625,
+          "values": [
+            "Göy"
+          ]
+        }
+      ],
+      "main_img": {
+        "big": "https://strgimgr.umico.az/img/product/1680/4294b4d3-159d-458c-866d-db4fc1ccebf3.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/4294b4d3-159d-458c-866d-db4fc1ccebf3.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/4294b4d3-159d-458c-866d-db4fc1ccebf3.jpeg"
+      },
+      "status": "active"
+    },
+    {
+      "id": 2015269,
+      "name": "Kişilər üçün sliponlar ML_2655, qara, eko dəri/zamşa, ölçü 41",
+      "slugged_name": "kishiler-uchun-krosovka-ml_2655-eko-deri-zamsha-qara-olchu-41",
+      "custom_fields": [
+        {
+          "master_field_id": 1423,
+          "values": [
+            "41"
+          ]
+        },
+        {
+          "master_field_id": 625,
+          "values": [
+            "Qara"
+          ]
+        }
+      ],
+      "main_img": {
+        "big": "https://strgimgr.umico.az/img/product/1680/ea6a5d0d-865b-4097-a2cd-953904702e45.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/ea6a5d0d-865b-4097-a2cd-953904702e45.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/ea6a5d0d-865b-4097-a2cd-953904702e45.jpeg"
+      },
+      "status": "active"
+    },
+    {
+      "id": 2015270,
+      "name": "Kişilər üçün sliponlar ML_2655, qara, eko dəri/zamşa, ölçü 42",
+      "slugged_name": "kishiler-uchun-krosovka-ml_2655-eko-deri-zamsha-qara-olchu-42",
+      "custom_fields": [
+        {
+          "master_field_id": 1423,
+          "values": [
+            "42"
+          ]
+        },
+        {
+          "master_field_id": 625,
+          "values": [
+            "Qara"
+          ]
+        }
+      ],
+      "main_img": {
+        "big": "https://strgimgr.umico.az/img/product/1680/d125ce31-6740-4122-be28-31f3442c7667.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/d125ce31-6740-4122-be28-31f3442c7667.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/d125ce31-6740-4122-be28-31f3442c7667.jpeg"
+      },
+      "status": "active"
+    },
+    {
+      "id": 2015272,
+      "name": "Kişilər üçün sliponlar ML_2655, qara, eko dəri/zamşa, ölçü 44",
+      "slugged_name": "kishiler-uchun-krosovka-ml_2655-eko-deri-zamsha-qara-olchu-44",
+      "custom_fields": [
+        {
+          "master_field_id": 1423,
+          "values": [
+            "44"
+          ]
+        },
+        {
+          "master_field_id": 625,
+          "values": [
+            "Qara"
+          ]
+        }
+      ],
+      "main_img": {
+        "big": "https://strgimgr.umico.az/img/product/1680/99688ca1-cb40-417c-96e7-80fd806856ea.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/99688ca1-cb40-417c-96e7-80fd806856ea.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/99688ca1-cb40-417c-96e7-80fd806856ea.jpeg"
+      },
+      "status": "active"
+    },
+    {
+      "id": 2015277,
+      "name": "Kişilər üçün sliponlar ML_2655, göy, eko dəri/zamşa, ölçü 43",
+      "slugged_name": "kishiler-uchun-krosovka-ml_2655-eko-deri-zamsha-goy-olchu-43",
+      "custom_fields": [
+        {
+          "master_field_id": 1423,
+          "values": [
+            "43"
+          ]
+        },
+        {
+          "master_field_id": 625,
+          "values": [
+            "Göy"
+          ]
+        }
+      ],
+      "main_img": {
+        "big": "https://strgimgr.umico.az/img/product/1680/4c6e0d6f-81b8-4313-bf75-d43f538f0100.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/4c6e0d6f-81b8-4313-bf75-d43f538f0100.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/4c6e0d6f-81b8-4313-bf75-d43f538f0100.jpeg"
+      },
+      "status": "active"
+    },
+    {
+      "id": 2015268,
+      "name": "Kişilər üçün sliponlar ML_2655, qara, eko dəri/zamşa, ölçü 40",
+      "slugged_name": "kishiler-uchun-krosovka-ml_2655-eko-deri-zamsha-qara-olchu-40",
+      "custom_fields": [
+        {
+          "master_field_id": 1423,
+          "values": [
+            "40"
+          ]
+        },
+        {
+          "master_field_id": 625,
+          "values": [
+            "Qara"
+          ]
+        }
+      ],
+      "main_img": {
+        "big": "https://strgimgr.umico.az/img/product/1680/914e6252-affc-4ec8-be37-37f2a485e5c5.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/914e6252-affc-4ec8-be37-37f2a485e5c5.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/914e6252-affc-4ec8-be37-37f2a485e5c5.jpeg"
+      },
+      "status": "active"
+    },
+    {
+      "id": 2015278,
+      "name": "Kişilər üçün sliponlar ML_2655, göy, eko dəri/zamşa, ölçü 44",
+      "slugged_name": "kishiler-uchun-krosovka-ml_2655-eko-deri-zamsha-goy-olchu-44",
+      "custom_fields": [
+        {
+          "master_field_id": 1423,
+          "values": [
+            "44"
+          ]
+        },
+        {
+          "master_field_id": 625,
+          "values": [
+            "Göy"
+          ]
+        }
+      ],
+      "main_img": {
+        "big": "https://strgimgr.umico.az/img/product/1680/7fdaf9ed-e53f-496f-a495-a2e08c8ed3b3.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/7fdaf9ed-e53f-496f-a495-a2e08c8ed3b3.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/7fdaf9ed-e53f-496f-a495-a2e08c8ed3b3.jpeg"
+      },
+      "status": "active"
+    },
+    {
+      "id": 2015271,
+      "name": "Kişilər üçün sliponlar ML_2655, qara, eko dəri/zamşa, ölçü 43",
+      "slugged_name": "kishiler-uchun-krosovka-ml_2655-eko-deri-zamsha-qara-olchu-43",
+      "custom_fields": [
+        {
+          "master_field_id": 1423,
+          "values": [
+            "43"
+          ]
+        },
+        {
+          "master_field_id": 625,
+          "values": [
+            "Qara"
+          ]
+        }
+      ],
+      "main_img": {
+        "big": "https://strgimgr.umico.az/img/product/1680/1964899d-d568-4260-8c15-38385e7807ad.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/1964899d-d568-4260-8c15-38385e7807ad.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/1964899d-d568-4260-8c15-38385e7807ad.jpeg"
+      },
+      "status": "active"
+    },
+    {
+      "id": 2015275,
+      "name": "Kişilər üçün sliponlar ML_2655, göy, eko dəri/zamşa, ölçü 41",
+      "slugged_name": "kishiler-uchun-krosovka-ml_2655-eko-deri-zamsha-goy-olchu-41",
+      "custom_fields": [
+        {
+          "master_field_id": 1423,
+          "values": [
+            "41"
+          ]
+        },
+        {
+          "master_field_id": 625,
+          "values": [
+            "Göy"
+          ]
+        }
+      ],
+      "main_img": {
+        "big": "https://strgimgr.umico.az/img/product/1680/d052865c-a523-431d-ae33-8836c3eaf883.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/d052865c-a523-431d-ae33-8836c3eaf883.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/d052865c-a523-431d-ae33-8836c3eaf883.jpeg"
+      },
+      "status": "active"
+    }
+  ],
+  "size_chart": {},
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "sku": 2015272,
+    "mpn": "ML_2655_qara_44",
+    "url": "https://birmarket.az/product/2015272-kishiler-uchun-krosovka-ml_2655-eko-deri-zamsha-qara-olchu-44",
+    "name": "Kişilər üçün sliponlar ML_2655, qara, eko dəri/zamşa, ölçü 44",
+    "image": [
+      "https://strgimgr.umico.az/img/product/1680/99688ca1-cb40-417c-96e7-80fd806856ea.jpeg",
+      "https://strgimgr.umico.az/img/product/1680/55a77c2c-ab27-4462-8a50-f2245d57720a.jpeg",
+      "https://strgimgr.umico.az/img/product/1680/1854f534-d84b-4651-941f-8d0cae6214be.jpeg"
+    ],
+    "description": "Kişilər üçün dəbli və müasir krosovka — stil və rahatlığın mükəmməl balansı. Eko dəri və zamşa materialının harmonik birləşməsi modelə həm premium görünüş, həm də fərqli tekstura qazandırır.\n\nYumşaq zamşa detalları dizayna xüsusi xarakter verir, eko dəri isə davamlılıq və praktik istifadə üstünlüyü təmin edir. Yüngül və rahat konstruksiyası sayəsində gün boyu komfort hiss edəcəksiniz.\n\nŞəhər üslubuna uyğun, universal kombinlənə bilən bu model həm gündəlik geyimlərlə, həm də daha səliqəli obrazlarla ideal uyğunlaşır. Müasir dizayn, keyfiyyətli material və diqqətçəkən görünüş — stilinə dəyər verən kişilər üçün.",
+    "itemCondition": "https://schema.org/NewCondition",
+    "offers": {
+      "@type": "Offer",
+      "availability": "https://schema.org/InStock",
+      "url": "https://birmarket.az/product/2015272-kishiler-uchun-krosovka-ml_2655-eko-deri-zamsha-qara-olchu-44",
+      "price": 58.36,
+      "priceCurrency": "AZN",
+      "priceValidUntil": "2026-12-03T05:32:10+00:00Z",
+      "hasMerchantReturnPolicy": {
+        "applicableCountry": "AZ",
+        "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+        "returnMethod": "https://schema.org/ReturnInStore",
+        "returnFees": "https://schema.org/FreeReturn",
+        "merchantReturnDays": 14
+      },
+      "shippingDetails": {
+        "@type": "OfferShippingDetails",
+        "shippingDestination": {
+          "@type": "DefinedRegion",
+          "addressCountry": "AZ"
+        },
+        "deliveryTime": {
+          "@type": "ShippingDeliveryTime",
+          "handlingTime": {
+            "@type": "QuantitativeValue",
+            "minValue": 0,
+            "maxValue": 1,
+            "unitCode": "DAY"
+          },
+          "transitTime": {
+            "@type": "QuantitativeValue",
+            "minValue": 0,
+            "maxValue": 1,
+            "unitCode": "DAY"
+          },
+          "businessDays": {
+            "@type": "OpeningHoursSpecification",
+            "dayOfWeek": [
+              "https://schema.org/Monday",
+              "https://schema.org/Tuesday",
+              "https://schema.org/Wednesday",
+              "https://schema.org/Thursday",
+              "https://schema.org/Friday",
+              "https://schema.org/Saturday",
+              "https://schema.org/Sunday"
+            ]
+          }
+        },
+        "shippingRate": {
+          "@type": "MonetaryAmount",
+          "value": 0,
+          "currency": "AZN"
+        }
+      }
+    },
+    "brand": {
+      "@type": "Brand",
+      "name": "No Brand",
+      "url": "https://birmarket.az/brands/No%20Brand"
+    }
+  }
+}

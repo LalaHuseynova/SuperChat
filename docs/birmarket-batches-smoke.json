@@ -1,0 +1,79 @@
+{
+  "version": "345c31f21cbe4421",
+  "before": 170,
+  "after": 320,
+  "added": 150,
+  "category_counts": {
+    "audio": 40,
+    "computers": 40,
+    "phones": 40,
+    "wearables": 40,
+    "sport": 40,
+    "accessories": 40,
+    "home": 40,
+    "gifts": 40
+  },
+  "original_timestamps_preserved": true,
+  "source_files_and_links_valid": true,
+  "all_products_accessible_via_api_pagination": true,
+  "chat_pagination": [
+    20,
+    20
+  ],
+  "language_checks": [
+    {
+      "language": "en",
+      "prompt": "Find Celebrat G13 headphones",
+      "ids": [
+        "BM-130593"
+      ]
+    },
+    {
+      "language": "az",
+      "prompt": "Celebrat G13 qulaqlıq göstər",
+      "ids": [
+        "BM-130593"
+      ]
+    },
+    {
+      "language": "ru",
+      "prompt": "Покажи наушники Celebrat G13",
+      "ids": [
+        "BM-130593"
+      ]
+    }
+  ],
+  "indexed_images": 320,
+  "image_smoke": {
+    "input_id": "BM-130593",
+    "accepted": true,
+    "label": "earbuds",
+    "method": "image_similarity",
+    "matches": [
+      {
+        "id": "BM-130593",
+        "score": 0.9999
+      },
+      {
+        "id": "BM-1312779",
+        "score": 0.8002
+      },
+      {
+        "id": "BM-58975",
+        "score": 0.7975
+      },
+      {
+        "id": "BM-622402",
+        "score": 0.7722
+      },
+      {
+        "id": "BM-1240697",
+        "score": 0.772
+      },
+      {
+        "id": "BM-632497",
+        "score": 0.7697
+      }
+    ]
+  }
+}

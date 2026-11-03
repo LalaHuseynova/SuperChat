@@ -1,0 +1,393 @@
+{
+  "product": {
+    "id": 95535,
+    "gtin": "6934177706134",
+    "mpn": "ZJB4147GL",
+    "name": "Bel çantası Xiaomi Mi Casual Daypack 13.3\" Rose",
+    "slugged_name_az": "bel-chantasi-xiaomi-mi-casual-daypack-13-3-chehrayi",
+    "slugged_name_ru": "ryukzak-xiaomi-mi-casual-daypack-13-3-rozovyy",
+    "description": "",
+    "description_outlet": "",
+    "status": "active",
+    "uuid": "b7a287b1-7b44-4f0d-8228-fa931b1f7763",
+    "variant_code": "VC_95535",
+    "default_offer": {
+      "uuid": "9030c117-84f0-4da4-8d9f-9190fe077ae4",
+      "installment_enabled": true,
+      "max_installment_months": 3,
+      "product_offer_labels": [],
+      "old_price": 27.99,
+      "retail_price": 20.99,
+      "supplier_id": "08efecf5-1ebd-4308-83d1-90556dd64be9",
+      "qty": 0,
+      "seller": {
+        "ext_id": "08efecf5-1ebd-4308-83d1-90556dd64be9",
+        "marketing_name": {
+          "id": 2189,
+          "name": "Texno Home"
+        },
+        "logo": {
+          "thumbnail": "https://storage.umico.az/cpcustomerprod01/0d9a9e502354fbf0c8dc605bb52591e9.jpg"
+        },
+        "vat_payer": true,
+        "rating": 98,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "discount_effective_start_date": "2026-11-02T00:00:00.000Z",
+      "discount_effective_end_date": "2026-11-02T23:59:59.999Z"
+    },
+    "category_id": 2283,
+    "category": {
+      "id": 2283,
+      "name": "Şəhər bel çantaları"
+    },
+    "brand": {
+      "name": "Xiaomi"
+    },
+    "custom_fields": [
+      {
+        "master_field_id": 625,
+        "values": [
+          "Çəhrayı"
+        ]
+      },
+      {
+        "master_field_id": 637,
+        "values": [
+          "Poliester"
+        ]
+      },
+      {
+        "master_field_id": 639,
+        "values": [
+          "Zəncirbənd"
+        ]
+      },
+      {
+        "master_field_id": 761,
+        "values": [
+          "Uniseks"
+        ]
+      },
+      {
+        "master_field_id": 762,
+        "values": [
+          "1"
+        ]
+      },
+      {
+        "master_field_id": 870,
+        "values": [
+          "170"
+        ]
+      },
+      {
+        "master_field_id": 618,
+        "values": [
+          "Çin"
+        ]
+      },
+      {
+        "master_field_id": 2210,
+        "values": [
+          "Çin"
+        ]
+      }
+    ],
+    "main_img": {
+      "big": "https://strgimgr.umico.az/sized/1680/95535-2cfcb3a0e424d3283a8d9516c860b062.jpg",
+      "medium": "https://strgimgr.umico.az/sized/840/95535-2cfcb3a0e424d3283a8d9516c860b062.jpg",
+      "small": "https://strgimgr.umico.az/sized/280/95535-2cfcb3a0e424d3283a8d9516c860b062.jpg"
+    },
+    "img_url_thumbnail": "https://strgimgr.umico.az/sized/280/95535-2cfcb3a0e424d3283a8d9516c860b062.jpg",
+    "main_video": "",
+    "imgs": [
+      {
+        "big": "https://strgimgr.umico.az/sized/1680/95535-2cfcb3a0e424d3283a8d9516c860b062.jpg",
+        "medium": "https://strgimgr.umico.az/sized/840/95535-2cfcb3a0e424d3283a8d9516c860b062.jpg",
+        "small": "https://strgimgr.umico.az/sized/280/95535-2cfcb3a0e424d3283a8d9516c860b062.jpg"
+      },
+      {
+        "big": "https://strgimgr.umico.az/sized/1680/95535-ce9124e6fa95a1c1fedc08328cc7219e.jpg",
+        "medium": "https://strgimgr.umico.az/sized/840/95535-ce9124e6fa95a1c1fedc08328cc7219e.jpg",
+        "small": "https://strgimgr.umico.az/sized/280/95535-ce9124e6fa95a1c1fedc08328cc7219e.jpg"
+      },
+      {
+        "big": "https://strgimgr.umico.az/sized/1680/95535-6fd931d53c4983f400e4ba29119d2fed.jpg",
+        "medium": "https://strgimgr.umico.az/sized/840/95535-6fd931d53c4983f400e4ba29119d2fed.jpg",
+        "small": "https://strgimgr.umico.az/sized/280/95535-6fd931d53c4983f400e4ba29119d2fed.jpg"
+      }
+    ],
+    "videos": [],
+    "min_qty": 1,
+    "preorder_available": false,
+    "is_assortment": false,
+    "is_bulk_heavy": false,
+    "is_refurbished": false,
+    "is_refundable": true,
+    "is_dangerous": false,
+    "show_tech_description": false,
+    "use_external_content": true,
+    "product_labels": [],
+    "ratings": {
+      "rating_value": 0,
+      "assessment_id": 0,
+      "session_count": 0
+    },
+    "default_show_stock_qty_threshold": 0,
+    "card_type": "public"
+  },
+  "category": {
+    "id": 2283,
+    "name": "Şəhər bel çantaları",
+    "slugged_name_az": "sheher-bel-chantalari",
+    "slugged_name_ru": "ryukzaki-gorodskie",
+    "view_mode": "products",
+    "mobile_visual_mode": "text",
+    "is_variant": false,
+    "depth": 2,
+    "parent_id": 2267,
+    "child_ids": [],
+    "node_type": "NODE",
+    "install_service_needed": false,
+    "fitting_allowed": false,
+    "vat": true,
+    "variations": [
+      {
+        "master_field_id": 638,
+        "name": "Naxışlar və printlər",
+        "variation_tool_type": "default",
+        "has_size_chart": false,
+        "display_variant": false
+      },
+      {
+        "master_field_id": 625,
+        "name": "Rəng",
+        "variation_tool_type": "default",
+        "has_size_chart": false,
+        "display_variant": false
+      }
+    ],
+    "custom_fields": [
+      {
+        "master_field_id": 625,
+        "category_master_field_id": 11134,
+        "name": "Rəng"
+      },
+      {
+        "master_field_id": 637,
+        "category_master_field_id": 11132,
+        "name": "Material"
+      },
+      {
+        "master_field_id": 639,
+        "category_master_field_id": 11141,
+        "name": "Kilid növü"
+      },
+      {
+        "master_field_id": 1412,
+        "category_master_field_id": 11136,
+        "name": "Uzunluğu, sm"
+      },
+      {
+        "master_field_id": 1206,
+        "category_master_field_id": 11137,
+        "name": "Eni, sm"
+      },
+      {
+        "master_field_id": 761,
+        "category_master_field_id": 11133,
+        "name": "Cins"
+      },
+      {
+        "master_field_id": 908,
+        "category_master_field_id": 11143,
+        "name": "Həcm, L"
+      },
+      {
+        "master_field_id": 638,
+        "category_master_field_id": 11135,
+        "name": "Naxışlar və printlər"
+      },
+      {
+        "master_field_id": 1448,
+        "category_master_field_id": 37676,
+        "name": "Dərinliyi, sm"
+      },
+      {
+        "master_field_id": 762,
+        "category_master_field_id": 11139,
+        "name": "Bölmələrin sayı"
+      },
+      {
+        "master_field_id": 623,
+        "category_master_field_id": 11140,
+        "name": "Xüsusiyyətlər"
+      },
+      {
+        "master_field_id": 2637,
+        "category_master_field_id": 11142,
+        "name": "Bel çantasının arxası"
+      },
+      {
+        "master_field_id": 870,
+        "category_master_field_id": 11144,
+        "name": "Çəki, q"
+      },
+      {
+        "master_field_id": 618,
+        "category_master_field_id": 11145,
+        "name": "İstehsalçı ölkə"
+      },
+      {
+        "master_field_id": 2210,
+        "category_master_field_id": 11146,
+        "name": "Brendin ölkəsi"
+      }
+    ],
+    "parent": {
+      "id": 2267,
+      "node_type": "NODE",
+      "name": "Çantalar, pul kisələri və aksessuarlar",
+      "slugged_name": "chantalar-pul-kiseleri-ve-aksessuarlar",
+      "parent": {
+        "id": 3003,
+        "node_type": "NODE",
+        "name": "Geyim,ayaqqabı və aksessuarlar",
+        "slugged_name": "geyim-ve-ayaqqabi",
+        "parent": null
+      }
+    },
+    "is_refundable": true,
+    "is_adult": false,
+    "icons": {
+      "thumbnail": "https://strgimgr.umico.az/img/category/188/4030f9db-3c53-4a51-905b-ab006bb8b9af.jpeg",
+      "original": "https://strgimgr.umico.az/img/category/original/4030f9db-3c53-4a51-905b-ab006bb8b9af.jpeg"
+    },
+    "is_active": true
+  },
+  "offers": [
+    {
+      "uuid": "9030c117-84f0-4da4-8d9f-9190fe077ae4",
+      "installment_enabled": true,
+      "max_installment_months": 3,
+      "product_offer_labels": [],
+      "old_price": 27.99,
+      "retail_price": 20.99,
+      "supplier_id": "08efecf5-1ebd-4308-83d1-90556dd64be9",
+      "seller": {
+        "ext_id": "7f7bb32b-14c6-4485-9dac-1b78a114e140",
+        "internal_id": 2189,
+        "marketing_name": {
+          "id": 2189,
+          "name": "Texno Home"
+        },
+        "logo": {
+          "thumbnail": "https://storage.umico.az/cpcustomerprod01/0d9a9e502354fbf0c8dc605bb52591e9.jpg"
+        },
+        "vat_payer": true,
+        "rating": 98,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "allow_qty": 0
+    }
+  ],
+  "variations": [
+    {
+      "id": 95535,
+      "name": "Bel çantası Xiaomi Mi Casual Daypack 13.3\" Rose",
+      "slugged_name": "bel-chantasi-xiaomi-mi-casual-daypack-13-3-chehrayi",
+      "custom_fields": [
+        {
+          "master_field_id": 625,
+          "values": [
+            "Çəhrayı"
+          ]
+        }
+      ],
+      "main_img": {
+        "big": "https://strgimgr.umico.az/sized/1680/95535-2cfcb3a0e424d3283a8d9516c860b062.jpg",
+        "medium": "https://strgimgr.umico.az/sized/840/95535-2cfcb3a0e424d3283a8d9516c860b062.jpg",
+        "small": "https://strgimgr.umico.az/sized/280/95535-2cfcb3a0e424d3283a8d9516c860b062.jpg"
+      },
+      "status": "active"
+    }
+  ],
+  "size_chart": {},
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "sku": 95535,
+    "mpn": "ZJB4147GL",
+    "url": "https://birmarket.az/product/95535-bel-chantasi-xiaomi-mi-casual-daypack-13-3-chehrayi",
+    "name": "Bel çantası Xiaomi Mi Casual Daypack 13.3&quot; Rose",
+    "image": [
+      "https://strgimgr.umico.az/sized/1680/95535-2cfcb3a0e424d3283a8d9516c860b062.jpg",
+      "https://strgimgr.umico.az/sized/1680/95535-ce9124e6fa95a1c1fedc08328cc7219e.jpg",
+      "https://strgimgr.umico.az/sized/1680/95535-6fd931d53c4983f400e4ba29119d2fed.jpg"
+    ],
+    "description": "Bel çantası Xiaomi Mi Casual Daypack 13.3&quot; Rose - KREDİTLƏ ayda ◉ 1.08₼-dən ♢Birmarket-dən Bakı və Azərbaycan üzrə çatdırılma",
+    "itemCondition": "https://schema.org/NewCondition",
+    "offers": {
+      "@type": "Offer",
+      "availability": "https://schema.org/InStock",
+      "url": "https://birmarket.az/product/95535-bel-chantasi-xiaomi-mi-casual-daypack-13-3-chehrayi",
+      "price": 20.99,
+      "priceCurrency": "AZN",
+      "priceValidUntil": "2026-12-02T16:39:51+00:00Z",
+      "hasMerchantReturnPolicy": {
+        "applicableCountry": "AZ",
+        "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+        "returnMethod": "https://schema.org/ReturnInStore",
+        "returnFees": "https://schema.org/FreeReturn",
+        "merchantReturnDays": 14
+      },
+      "shippingDetails": {
+        "@type": "OfferShippingDetails",
+        "shippingDestination": {
+          "@type": "DefinedRegion",
+          "addressCountry": "AZ"
+        },
+        "deliveryTime": {
+          "@type": "ShippingDeliveryTime",
+          "handlingTime": {
+            "@type": "QuantitativeValue",
+            "minValue": 0,
+            "maxValue": 1,
+            "unitCode": "DAY"
+          },
+          "transitTime": {
+            "@type": "QuantitativeValue",
+            "minValue": 0,
+            "maxValue": 1,
+            "unitCode": "DAY"
+          },
+          "businessDays": {
+            "@type": "OpeningHoursSpecification",
+            "dayOfWeek": [
+              "https://schema.org/Monday",
+              "https://schema.org/Tuesday",
+              "https://schema.org/Wednesday",
+              "https://schema.org/Thursday",
+              "https://schema.org/Friday",
+              "https://schema.org/Saturday",
+              "https://schema.org/Sunday"
+            ]
+          }
+        },
+        "shippingRate": {
+          "@type": "MonetaryAmount",
+          "value": 0,
+          "currency": "AZN"
+        }
+      }
+    },
+    "brand": {
+      "@type": "Brand",
+      "name": "Xiaomi",
+      "url": "https://birmarket.az/brands/Xiaomi"
+    }
+  }
+}

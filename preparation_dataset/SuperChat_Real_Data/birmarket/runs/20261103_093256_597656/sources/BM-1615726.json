@@ -1,0 +1,331 @@
+{
+  "product": {
+    "id": 1615726,
+    "gtin": "",
+    "mpn": "CODE994_003",
+    "name": "Şəhər rükzaki Eastpak Padded Pak'R Blue Bouncing, poliamid, uniseks - CODE994_003",
+    "slugged_name_az": "sheher-rukzaki-eastpak-padded-pak-r-blue-bouncing-poliamid-uniseks-code994_003",
+    "slugged_name_ru": "ryukzak-gorodskoy-eastpak-padded-pak-r-blue-bouncing-uniseks-poliamid-code994_003",
+    "description": "Рюкзак EASTPAK PADDED PAK'R BLUE BOUNCING создан для тех, кто ценит стиль, комфорт и надёжность в одном аксессуаре. Яркий голубой оттенок с динамичным принтом выглядит современно и привлекает внимание, подчёркивая индивидуальность владельца.Модель выполнена из прочного, износостойкого материала, устойчивого к влаге и легкому загрязнению, поэтому рюкзак сохраняет аккуратный внешний вид даже при активном использовании. Вместительное основное отделение легко вмещает книги, документы, ноутбук или сменную одежду, что делает его удобным для учёбы, работы и путешествий.Передний карман на молнии позволяет держать под рукой ключи, телефон, зарядку или другие мелкие аксессуары. Мягкие регулируемые лямки равномерно распределяют нагрузку и обеспечивают комфорт при длительном ношении. Уплотнённая спинка поддерживает удобное положение и снижает давление на плечи.EASTPAK PADDED PAK'R BLUE BOUNCING — это функциональность, лёгкость и стиль в одном рюкзаке, который идеально подходит для городской жизни, поездок, учёбы и повседневного использования.",
+    "description_outlet": "",
+    "status": "active",
+    "uuid": "93b263ed-05df-4968-a71b-fd9fdf4355df",
+    "variant_code": "VC_1615726",
+    "default_offer": {
+      "uuid": "d3ecdbd9-c3b0-4e3e-b374-82a055c8d3e9",
+      "installment_enabled": true,
+      "max_installment_months": 18,
+      "product_offer_labels": [],
+      "old_price": 160,
+      "retail_price": 129.9,
+      "supplier_id": "85f90c9b-9af7-4120-bbca-c37493c479bf",
+      "qty": 0,
+      "seller": {
+        "ext_id": "85f90c9b-9af7-4120-bbca-c37493c479bf",
+        "marketing_name": {
+          "id": 5859,
+          "name": "Code994"
+        },
+        "logo": {
+          "thumbnail": "https://storage.umico.az/cpcustomerprod01/a6ba5a8f218f69d91f1eea5ff8272162.png"
+        },
+        "vat_payer": false,
+        "rating": 75,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "discount_effective_start_date": "",
+      "discount_effective_end_date": ""
+    },
+    "category_id": 2283,
+    "category": {
+      "id": 2283,
+      "name": "Şəhər bel çantaları"
+    },
+    "brand": {
+      "name": ""
+    },
+    "custom_fields": [],
+    "main_img": {
+      "big": "https://strgimgr.umico.az/img/product/1680/99549c55-8588-4a93-be58-b8cf5b2f62c8.jpeg",
+      "medium": "https://strgimgr.umico.az/img/product/840/99549c55-8588-4a93-be58-b8cf5b2f62c8.jpeg",
+      "small": "https://strgimgr.umico.az/img/product/280/99549c55-8588-4a93-be58-b8cf5b2f62c8.jpeg"
+    },
+    "img_url_thumbnail": "https://strgimgr.umico.az/img/product/280/99549c55-8588-4a93-be58-b8cf5b2f62c8.jpeg",
+    "main_video": "",
+    "imgs": [
+      {
+        "big": "https://strgimgr.umico.az/img/product/1680/99549c55-8588-4a93-be58-b8cf5b2f62c8.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/99549c55-8588-4a93-be58-b8cf5b2f62c8.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/99549c55-8588-4a93-be58-b8cf5b2f62c8.jpeg"
+      },
+      {
+        "big": "https://strgimgr.umico.az/img/product/1680/ee5157be-b94e-4c95-a585-b79d7d0a472c.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/ee5157be-b94e-4c95-a585-b79d7d0a472c.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/ee5157be-b94e-4c95-a585-b79d7d0a472c.jpeg"
+      },
+      {
+        "big": "https://strgimgr.umico.az/img/product/1680/703256a1-97e9-471f-9e79-fa59d0475cb2.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/703256a1-97e9-471f-9e79-fa59d0475cb2.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/703256a1-97e9-471f-9e79-fa59d0475cb2.jpeg"
+      },
+      {
+        "big": "https://strgimgr.umico.az/img/product/1680/70beea35-a196-4abc-9756-4396210c36dd.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/70beea35-a196-4abc-9756-4396210c36dd.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/70beea35-a196-4abc-9756-4396210c36dd.jpeg"
+      },
+      {
+        "big": "https://strgimgr.umico.az/img/product/1680/e44a0dbd-fca0-48e8-8991-b15b7698dc4b.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/e44a0dbd-fca0-48e8-8991-b15b7698dc4b.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/e44a0dbd-fca0-48e8-8991-b15b7698dc4b.jpeg"
+      }
+    ],
+    "videos": [],
+    "min_qty": 1,
+    "preorder_available": false,
+    "is_assortment": false,
+    "is_bulk_heavy": false,
+    "is_refurbished": false,
+    "is_refundable": true,
+    "is_dangerous": false,
+    "show_tech_description": false,
+    "use_external_content": true,
+    "product_labels": [],
+    "ratings": {
+      "rating_value": 0,
+      "assessment_id": 0,
+      "session_count": 0
+    },
+    "default_show_stock_qty_threshold": 0,
+    "card_type": "public"
+  },
+  "category": {
+    "id": 2283,
+    "name": "Şəhər bel çantaları",
+    "slugged_name_az": "sheher-bel-chantalari",
+    "slugged_name_ru": "ryukzaki-gorodskie",
+    "view_mode": "products",
+    "mobile_visual_mode": "text",
+    "is_variant": false,
+    "depth": 2,
+    "parent_id": 2267,
+    "child_ids": [],
+    "node_type": "NODE",
+    "install_service_needed": false,
+    "fitting_allowed": false,
+    "vat": true,
+    "variations": [
+      {
+        "master_field_id": 638,
+        "name": "Naxışlar və printlər",
+        "variation_tool_type": "default",
+        "has_size_chart": false,
+        "display_variant": false
+      },
+      {
+        "master_field_id": 625,
+        "name": "Rəng",
+        "variation_tool_type": "default",
+        "has_size_chart": false,
+        "display_variant": false
+      }
+    ],
+    "custom_fields": [
+      {
+        "master_field_id": 625,
+        "category_master_field_id": 11134,
+        "name": "Rəng"
+      },
+      {
+        "master_field_id": 637,
+        "category_master_field_id": 11132,
+        "name": "Material"
+      },
+      {
+        "master_field_id": 639,
+        "category_master_field_id": 11141,
+        "name": "Kilid növü"
+      },
+      {
+        "master_field_id": 1412,
+        "category_master_field_id": 11136,
+        "name": "Uzunluğu, sm"
+      },
+      {
+        "master_field_id": 1206,
+        "category_master_field_id": 11137,
+        "name": "Eni, sm"
+      },
+      {
+        "master_field_id": 761,
+        "category_master_field_id": 11133,
+        "name": "Cins"
+      },
+      {
+        "master_field_id": 908,
+        "category_master_field_id": 11143,
+        "name": "Həcm, L"
+      },
+      {
+        "master_field_id": 638,
+        "category_master_field_id": 11135,
+        "name": "Naxışlar və printlər"
+      },
+      {
+        "master_field_id": 1448,
+        "category_master_field_id": 37676,
+        "name": "Dərinliyi, sm"
+      },
+      {
+        "master_field_id": 762,
+        "category_master_field_id": 11139,
+        "name": "Bölmələrin sayı"
+      },
+      {
+        "master_field_id": 623,
+        "category_master_field_id": 11140,
+        "name": "Xüsusiyyətlər"
+      },
+      {
+        "master_field_id": 2637,
+        "category_master_field_id": 11142,
+        "name": "Bel çantasının arxası"
+      },
+      {
+        "master_field_id": 870,
+        "category_master_field_id": 11144,
+        "name": "Çəki, q"
+      },
+      {
+        "master_field_id": 618,
+        "category_master_field_id": 11145,
+        "name": "İstehsalçı ölkə"
+      },
+      {
+        "master_field_id": 2210,
+        "category_master_field_id": 11146,
+        "name": "Brendin ölkəsi"
+      }
+    ],
+    "parent": {
+      "id": 2267,
+      "node_type": "NODE",
+      "name": "Çantalar, pul kisələri və aksessuarlar",
+      "slugged_name": "chantalar-pul-kiseleri-ve-aksessuarlar",
+      "parent": {
+        "id": 3003,
+        "node_type": "NODE",
+        "name": "Geyim,ayaqqabı və aksessuarlar",
+        "slugged_name": "geyim-ve-ayaqqabi",
+        "parent": null
+      }
+    },
+    "is_refundable": true,
+    "is_adult": false,
+    "icons": {
+      "thumbnail": "https://strgimgr.umico.az/img/category/188/4030f9db-3c53-4a51-905b-ab006bb8b9af.jpeg",
+      "original": "https://strgimgr.umico.az/img/category/original/4030f9db-3c53-4a51-905b-ab006bb8b9af.jpeg"
+    },
+    "is_active": true
+  },
+  "offers": [
+    {
+      "uuid": "d3ecdbd9-c3b0-4e3e-b374-82a055c8d3e9",
+      "installment_enabled": true,
+      "max_installment_months": 18,
+      "product_offer_labels": [],
+      "old_price": 160,
+      "retail_price": 129.9,
+      "supplier_id": "85f90c9b-9af7-4120-bbca-c37493c479bf",
+      "seller": {
+        "ext_id": "eee776b6-d2b4-4e30-b81a-5395c98b2fd0",
+        "internal_id": 5859,
+        "marketing_name": {
+          "id": 5859,
+          "name": "Code994"
+        },
+        "logo": {
+          "thumbnail": "https://storage.umico.az/cpcustomerprod01/a6ba5a8f218f69d91f1eea5ff8272162.png"
+        },
+        "vat_payer": false,
+        "rating": 75,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "allow_qty": 0
+    }
+  ],
+  "variations": [],
+  "size_chart": {},
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "sku": 1615726,
+    "mpn": "CODE994_003",
+    "url": "https://birmarket.az/product/1615726-sheher-rukzaki-eastpak-padded-pak-r-blue-bouncing-poliamid-uniseks-code994_003",
+    "name": "Şəhər rükzaki Eastpak Padded Pak&#x27;R Blue Bouncing, poliamid, uniseks - CODE994_003",
+    "image": [
+      "https://strgimgr.umico.az/img/product/1680/99549c55-8588-4a93-be58-b8cf5b2f62c8.jpeg",
+      "https://strgimgr.umico.az/img/product/1680/ee5157be-b94e-4c95-a585-b79d7d0a472c.jpeg",
+      "https://strgimgr.umico.az/img/product/1680/703256a1-97e9-471f-9e79-fa59d0475cb2.jpeg",
+      "https://strgimgr.umico.az/img/product/1680/70beea35-a196-4abc-9756-4396210c36dd.jpeg",
+      "https://strgimgr.umico.az/img/product/1680/e44a0dbd-fca0-48e8-8991-b15b7698dc4b.jpeg"
+    ],
+    "description": "Рюкзак EASTPAK PADDED PAK&#x27;R BLUE BOUNCING создан для тех, кто ценит стиль, комфорт и надёжность в одном аксессуаре. Яркий голубой оттенок с динамичным принтом выглядит современно и привлекает внимание, подчёркивая индивидуальность владельца.Модель выполнена из прочного, износостойкого материала, устойчивого к влаге и легкому загрязнению, поэтому рюкзак сохраняет аккуратный внешний вид даже при активном использовании. Вместительное основное отделение легко вмещает книги, документы, ноутбук или сменную одежду, что делает его удобным для учёбы, работы и путешествий.Передний карман на молнии позволяет держать под рукой ключи, телефон, зарядку или другие мелкие аксессуары. Мягкие регулируемые лямки равномерно распределяют нагрузку и обеспечивают комфорт при длительном ношении. Уплотнённая спинка поддерживает удобное положение и снижает давление на плечи.EASTPAK PADDED PAK&#x27;R BLUE BOUNCING — это функциональность, лёгкость и стиль в одном рюкзаке, который идеально подходит для городской жизни, поездок, учёбы и повседневного использования.",
+    "itemCondition": "https://schema.org/NewCondition",
+    "offers": {
+      "@type": "Offer",
+      "availability": "https://schema.org/InStock",
+      "url": "https://birmarket.az/product/1615726-sheher-rukzaki-eastpak-padded-pak-r-blue-bouncing-poliamid-uniseks-code994_003",
+      "price": 129.9,
+      "priceCurrency": "AZN",
+      "priceValidUntil": "2026-12-03T05:34:15+00:00Z",
+      "hasMerchantReturnPolicy": {
+        "applicableCountry": "AZ",
+        "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+        "returnMethod": "https://schema.org/ReturnInStore",
+        "returnFees": "https://schema.org/FreeReturn",
+        "merchantReturnDays": 14
+      },
+      "shippingDetails": {
+        "@type": "OfferShippingDetails",
+        "shippingDestination": {
+          "@type": "DefinedRegion",
+          "addressCountry": "AZ"
+        },
+        "deliveryTime": {
+          "@type": "ShippingDeliveryTime",
+          "handlingTime": {
+            "@type": "QuantitativeValue",
+            "minValue": 0,
+            "maxValue": 1,
+            "unitCode": "DAY"
+          },
+          "transitTime": {
+            "@type": "QuantitativeValue",
+            "minValue": 0,
+            "maxValue": 1,
+            "unitCode": "DAY"
+          },
+          "businessDays": {
+            "@type": "OpeningHoursSpecification",
+            "dayOfWeek": [
+              "https://schema.org/Monday",
+              "https://schema.org/Tuesday",
+              "https://schema.org/Wednesday",
+              "https://schema.org/Thursday",
+              "https://schema.org/Friday",
+              "https://schema.org/Saturday",
+              "https://schema.org/Sunday"
+            ]
+          }
+        },
+        "shippingRate": {
+          "@type": "MonetaryAmount",
+          "value": 0,
+          "currency": "AZN"
+        }
+      }
+    }
+  }
+}

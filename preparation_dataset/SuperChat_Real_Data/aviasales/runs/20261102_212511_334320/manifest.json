@@ -1,0 +1,169 @@
+{
+  "source": "https://www.aviasales.az",
+  "fetched_at": "2026-11-02T21:25:11.334320+04:00",
+  "run_directory": "aviasales/runs/20261102_212511_334320",
+  "mode": "published_cached_fares",
+  "live_search_performed": false,
+  "routes_requested": [
+    {
+      "origin": "BAK",
+      "destination": "IST",
+      "mock_airport_pairs": [
+        "GYD-IST"
+      ],
+      "mock_departure_dates": [
+        "2026-11-06",
+        "2026-11-07"
+      ],
+      "mock_cabins": [
+        "economy",
+        "business"
+      ]
+    },
+    {
+      "origin": "IST",
+      "destination": "BAK",
+      "mock_airport_pairs": [
+        "IST-GYD"
+      ],
+      "mock_departure_dates": [
+        "2026-11-09",
+        "2026-11-10"
+      ],
+      "mock_cabins": [
+        "economy"
+      ]
+    },
+    {
+      "origin": "BAK",
+      "destination": "DXB",
+      "mock_airport_pairs": [
+        "GYD-DXB"
+      ],
+      "mock_departure_dates": [
+        "2026-11-05",
+        "2026-11-08",
+        "2026-11-06"
+      ],
+      "mock_cabins": [
+        "economy"
+      ]
+    },
+    {
+      "origin": "DXB",
+      "destination": "BAK",
+      "mock_airport_pairs": [
+        "DXB-GYD"
+      ],
+      "mock_departure_dates": [
+        "2026-11-12"
+      ],
+      "mock_cabins": [
+        "economy"
+      ]
+    },
+    {
+      "origin": "BAK",
+      "destination": "MOW",
+      "mock_airport_pairs": [
+        "GYD-SVO"
+      ],
+      "mock_departure_dates": [
+        "2026-11-04",
+        "2026-11-07"
+      ],
+      "mock_cabins": [
+        "economy"
+      ]
+    },
+    {
+      "origin": "MOW",
+      "destination": "BAK",
+      "mock_airport_pairs": [
+        "SVO-GYD"
+      ],
+      "mock_departure_dates": [
+        "2026-11-11"
+      ],
+      "mock_cabins": [
+        "economy"
+      ]
+    },
+    {
+      "origin": "BAK",
+      "destination": "TBS",
+      "mock_airport_pairs": [
+        "GYD-TBS"
+      ],
+      "mock_departure_dates": [
+        "2026-11-03"
+      ],
+      "mock_cabins": [
+        "economy"
+      ]
+    },
+    {
+      "origin": "TBS",
+      "destination": "BAK",
+      "mock_airport_pairs": [
+        "TBS-GYD"
+      ],
+      "mock_departure_dates": [
+        "2026-11-09"
+      ],
+      "mock_cabins": [
+        "economy"
+      ]
+    },
+    {
+      "origin": "BAK",
+      "destination": "TAS",
+      "mock_airport_pairs": [
+        "GYD-TAS"
+      ],
+      "mock_departure_dates": [
+        "2026-11-09"
+      ],
+      "mock_cabins": [
+        "economy"
+      ]
+    }
+  ],
+  "routes_collected": 9,
+  "fares_by_route_before_filters": {
+    "BAK-IST": 4,
+    "IST-BAK": 4,
+    "BAK-DXB": 5,
+    "DXB-BAK": 6,
+    "BAK-MOW": 4,
+    "MOW-BAK": 4,
+    "BAK-TBS": 4,
+    "TBS-BAK": 4,
+    "BAK-TAS": 4
+  },
+  "one_way_fares": 19,
+  "round_trip_fares": 20,
+  "all_fares": 39,
+  "filtered_out": 0,
+  "date_filter": {
+    "from": null,
+    "to": null
+  },
+  "coverage": "published_route_cards_collected",
+  "errors": [],
+  "reference_sources": {
+    "cities": "https://api.travelpayouts.com/data/en/cities.json",
+    "airports": "https://api.travelpayouts.com/data/en/airports.json",
+    "airlines": "https://api.travelpayouts.com/data/en/airlines.json"
+  },
+  "limitations": [
+    "These are advertised cached examples, not live search results or guaranteed availability.",
+    "Dates are the real dates published on route pages; the mock dates are not substituted.",
+    "City route codes are not confirmed flight airport codes. Search links may use nearby cities/airports.",
+    "Flight numbers, exact airports, cabin, baggage kilograms, seat counts and stopover airports are not inferred.",
+    "Round-trip prices cover the complete itinerary and are exported separately from one-way flights.",
+    "Arrival dates are derived from displayed duration and official city timezones, only when the displayed clock matches.",
+    "Link search dates can be older than the page headline describing recent prices.",
+    "Date options filter published cards; they do not initiate a fresh flight search."
+  ]
+}

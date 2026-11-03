@@ -1,0 +1,825 @@
+{
+  "product": {
+    "id": 130593,
+    "gtin": "6925146950801",
+    "mpn": "Celebrat G13 black",
+    "name": "Simli qulaqlıq Celebrat G13 Black",
+    "slugged_name_az": "simli-qulaqliq-celebrat-g13-black",
+    "slugged_name_ru": "provodnye-naushniki-celebrat-g13-black",
+    "description": "Celebrat G13 vakuum qulaqlıqları klassik dizaynı ilə praktik və rahat bir qarniturdu. Aksessuar bir neçə rəngdə təqdim olunur. Aşağı tezliklərin reallaşdırılması ilə seçilir. Qulaq elementlərinin korpusu dayanıqlı və uzun müddət istifadə üçün nəzərdə tutulmuş materiallardan hazırlanıb. Qulaqlıqlar qulaqda rahat oturur, aktiv hərəkətlər zamanı düşmür və uzun müddətli istifadədə narahatlıq yaratmır. Model standart mini-jack 3,5 mm-lik konnektora malikdir. Aksessuar, səsi mükəmməl ötürən mikrofon və zəngləri qəbul etmə, səs tənzimləmə düymələri ilə təchiz olunub. Cihazın rahat və praktik kabeli möhkəm bir örtdə hazırlanıb və uzun ömürlü istifadə üçün nəzərdə tutulub. Celebrat şirkətinin müasir dizayn həlləri istifadəçilərinin fərdi stilini parlaq şəkildə tamamlayır.",
+    "description_outlet": "",
+    "status": "active",
+    "uuid": "e15ca275-0567-4cf1-918e-4f7aa8c7c36a",
+    "variant_code": "VC_130593",
+    "default_offer": {
+      "uuid": "7b1b361b-1956-4a79-8dbd-05b9d475d048",
+      "installment_enabled": true,
+      "max_installment_months": 18,
+      "product_offer_labels": [],
+      "old_price": 6.8,
+      "retail_price": 2.9,
+      "supplier_id": "7554119b-0471-425f-b080-911df816b43a",
+      "qty": 0,
+      "seller": {
+        "ext_id": "7554119b-0471-425f-b080-911df816b43a",
+        "marketing_name": {
+          "id": 4084,
+          "name": "Maimi Baku Store"
+        },
+        "logo": {
+          "thumbnail": "https://storage.umico.az/cpcustomerprod01/87e226a94560d8930a80b72d60ed4c0f.jpg"
+        },
+        "vat_payer": false,
+        "rating": 96,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "discount_effective_start_date": "",
+      "discount_effective_end_date": ""
+    },
+    "category_id": 6,
+    "category": {
+      "id": 6,
+      "name": "Qulaqlıqlar və qarniturlar"
+    },
+    "brand": {
+      "name": "Celebrat"
+    },
+    "custom_fields": [
+      {
+        "master_field_id": 1476,
+        "values": [
+          "Celebrat G13"
+        ]
+      },
+      {
+        "master_field_id": 628,
+        "values": [
+          "İçlik (qapaq)"
+        ]
+      },
+      {
+        "master_field_id": 629,
+        "values": [
+          "Simli"
+        ]
+      },
+      {
+        "master_field_id": 1568,
+        "values": [
+          "Xeyr"
+        ]
+      },
+      {
+        "master_field_id": 633,
+        "values": [
+          "Mini jack 3.5 mm"
+        ]
+      },
+      {
+        "master_field_id": 678,
+        "values": [
+          "Mini jack 3.5 mm"
+        ]
+      },
+      {
+        "master_field_id": 657,
+        "values": [
+          "Klassik"
+        ]
+      },
+      {
+        "master_field_id": 1842,
+        "values": [
+          "20000"
+        ]
+      },
+      {
+        "master_field_id": 1843,
+        "values": [
+          "20"
+        ]
+      },
+      {
+        "master_field_id": 797,
+        "values": [
+          "32"
+        ]
+      },
+      {
+        "master_field_id": 630,
+        "values": [
+          "94"
+        ]
+      },
+      {
+        "master_field_id": 631,
+        "values": [
+          "20"
+        ]
+      },
+      {
+        "master_field_id": 632,
+        "values": [
+          "20000"
+        ]
+      },
+      {
+        "master_field_id": 1840,
+        "values": [
+          "Qapalı"
+        ]
+      },
+      {
+        "master_field_id": 1567,
+        "values": [
+          "Xeyr"
+        ]
+      },
+      {
+        "master_field_id": 1845,
+        "values": [
+          "Bəli"
+        ]
+      },
+      {
+        "master_field_id": 1850,
+        "values": [
+          "Kabeldə"
+        ]
+      },
+      {
+        "master_field_id": 1740,
+        "values": [
+          "Mikrofon"
+        ]
+      },
+      {
+        "master_field_id": 1838,
+        "values": [
+          "Düz"
+        ]
+      },
+      {
+        "master_field_id": 782,
+        "values": [
+          "1.2"
+        ]
+      },
+      {
+        "master_field_id": 3287,
+        "values": [
+          "Qulaq içi"
+        ]
+      },
+      {
+        "master_field_id": 625,
+        "values": [
+          "Qara"
+        ]
+      },
+      {
+        "master_field_id": 697,
+        "values": [
+          "Qulaqlıq",
+          "Zəmanət kartı",
+          "Təlimat"
+        ]
+      },
+      {
+        "master_field_id": 2210,
+        "values": [
+          "Çin"
+        ]
+      },
+      {
+        "master_field_id": 618,
+        "values": [
+          "Çin"
+        ]
+      }
+    ],
+    "main_img": {
+      "big": "https://strgimgr.umico.az/sized/1680/130593-8c6b66709e1157901c4e01c8ff73aa0e.jpg",
+      "medium": "https://strgimgr.umico.az/sized/840/130593-8c6b66709e1157901c4e01c8ff73aa0e.jpg",
+      "small": "https://strgimgr.umico.az/sized/280/130593-8c6b66709e1157901c4e01c8ff73aa0e.jpg"
+    },
+    "img_url_thumbnail": "https://strgimgr.umico.az/sized/280/130593-8c6b66709e1157901c4e01c8ff73aa0e.jpg",
+    "main_video": "",
+    "imgs": [
+      {
+        "big": "https://strgimgr.umico.az/sized/1680/130593-8c6b66709e1157901c4e01c8ff73aa0e.jpg",
+        "medium": "https://strgimgr.umico.az/sized/840/130593-8c6b66709e1157901c4e01c8ff73aa0e.jpg",
+        "small": "https://strgimgr.umico.az/sized/280/130593-8c6b66709e1157901c4e01c8ff73aa0e.jpg"
+      },
+      {
+        "big": "https://strgimgr.umico.az/sized/1680/130593-92d83bc11a493ca8aa14c3be7fe760cd.jpg",
+        "medium": "https://strgimgr.umico.az/sized/840/130593-92d83bc11a493ca8aa14c3be7fe760cd.jpg",
+        "small": "https://strgimgr.umico.az/sized/280/130593-92d83bc11a493ca8aa14c3be7fe760cd.jpg"
+      },
+      {
+        "big": "https://strgimgr.umico.az/sized/1680/130593-bb062ccd8d4dee3c05b79ea3d4a146fa.jpg",
+        "medium": "https://strgimgr.umico.az/sized/840/130593-bb062ccd8d4dee3c05b79ea3d4a146fa.jpg",
+        "small": "https://strgimgr.umico.az/sized/280/130593-bb062ccd8d4dee3c05b79ea3d4a146fa.jpg"
+      },
+      {
+        "big": "https://strgimgr.umico.az/sized/1680/130593-d190ddd2087abb5bda34d694cd248b38.jpg",
+        "medium": "https://strgimgr.umico.az/sized/840/130593-d190ddd2087abb5bda34d694cd248b38.jpg",
+        "small": "https://strgimgr.umico.az/sized/280/130593-d190ddd2087abb5bda34d694cd248b38.jpg"
+      },
+      {
+        "big": "https://strgimgr.umico.az/sized/1680/130593-b46f0886212b05505315365966ca42a0.jpg",
+        "medium": "https://strgimgr.umico.az/sized/840/130593-b46f0886212b05505315365966ca42a0.jpg",
+        "small": "https://strgimgr.umico.az/sized/280/130593-b46f0886212b05505315365966ca42a0.jpg"
+      },
+      {
+        "big": "https://strgimgr.umico.az/sized/1680/130593-8dab4e70dd50aa1cdbf4a76f49867f1b.jpg",
+        "medium": "https://strgimgr.umico.az/sized/840/130593-8dab4e70dd50aa1cdbf4a76f49867f1b.jpg",
+        "small": "https://strgimgr.umico.az/sized/280/130593-8dab4e70dd50aa1cdbf4a76f49867f1b.jpg"
+      }
+    ],
+    "videos": [],
+    "min_qty": 1,
+    "preorder_available": false,
+    "is_assortment": false,
+    "is_bulk_heavy": false,
+    "is_refurbished": false,
+    "is_refundable": true,
+    "is_dangerous": false,
+    "show_tech_description": false,
+    "use_external_content": true,
+    "product_labels": [],
+    "ratings": {
+      "rating_value": 4.2,
+      "assessment_id": 0,
+      "session_count": 34,
+      "score_count": 10,
+      "review_count": 24
+    },
+    "default_show_stock_qty_threshold": 0,
+    "card_type": "public"
+  },
+  "category": {
+    "id": 6,
+    "name": "Qulaqlıqlar və qarniturlar",
+    "slugged_name_az": "qulaqliqlar-ve-qarniturlar",
+    "slugged_name_ru": "naushniki-i-garnitury",
+    "view_mode": "products",
+    "mobile_visual_mode": "text",
+    "is_variant": true,
+    "depth": 2,
+    "parent_id": 2,
+    "child_ids": [],
+    "node_type": "NODE",
+    "install_service_needed": false,
+    "fitting_allowed": false,
+    "vat": true,
+    "variations": [
+      {
+        "master_field_id": 625,
+        "name": "Rəng",
+        "variation_tool_type": "image",
+        "has_size_chart": false,
+        "display_variant": false
+      }
+    ],
+    "custom_fields": [
+      {
+        "master_field_id": 1476,
+        "category_master_field_id": 10651,
+        "name": "Seriya"
+      },
+      {
+        "master_field_id": 628,
+        "category_master_field_id": 1455,
+        "name": "Qulaqlıq növü"
+      },
+      {
+        "master_field_id": 629,
+        "category_master_field_id": 1456,
+        "name": "Qoşulma tipi"
+      },
+      {
+        "master_field_id": 633,
+        "category_master_field_id": 1460,
+        "name": "Port tipi"
+      },
+      {
+        "master_field_id": 777,
+        "category_master_field_id": 45543,
+        "name": "Bluetooth standartı"
+      },
+      {
+        "master_field_id": 6487,
+        "category_master_field_id": 45544,
+        "name": "Aktiv səs-küyün boğulması (ANC)"
+      },
+      {
+        "master_field_id": 759,
+        "category_master_field_id": 4638,
+        "name": "Mikrofon"
+      },
+      {
+        "master_field_id": 1574,
+        "category_master_field_id": 4669,
+        "name": "İşləmə müddəti, saat"
+      },
+      {
+        "master_field_id": 2186,
+        "category_master_field_id": 45545,
+        "name": "Nəmə davamlı"
+      },
+      {
+        "master_field_id": 625,
+        "category_master_field_id": 4637,
+        "name": "Rəng"
+      },
+      {
+        "master_field_id": 2211,
+        "category_master_field_id": 10656,
+        "name": "Zəmanət müddəti"
+      },
+      {
+        "master_field_id": 1568,
+        "category_master_field_id": 4663,
+        "name": "Səs-küyün boğulması"
+      },
+      {
+        "master_field_id": 678,
+        "category_master_field_id": 10650,
+        "name": "Qoşulma interfeysi"
+      },
+      {
+        "master_field_id": 657,
+        "category_master_field_id": 4640,
+        "name": "Quruluş"
+      },
+      {
+        "master_field_id": 630,
+        "category_master_field_id": 1457,
+        "name": "Həssaslıq, dB"
+      },
+      {
+        "master_field_id": 631,
+        "category_master_field_id": 1458,
+        "name": "Minimal təkrarlanan tezlik, Hz"
+      },
+      {
+        "master_field_id": 632,
+        "category_master_field_id": 1459,
+        "name": "Maksimal təkrarlanan tezlik, Hz"
+      },
+      {
+        "master_field_id": 1838,
+        "category_master_field_id": 5557,
+        "name": "Port forması"
+      },
+      {
+        "master_field_id": 782,
+        "category_master_field_id": 4636,
+        "name": "Kabelin uzunluğu, m"
+      },
+      {
+        "master_field_id": 3287,
+        "category_master_field_id": 15468,
+        "name": "Qulaqlıqların bərkitməsi"
+      },
+      {
+        "master_field_id": 1840,
+        "category_master_field_id": 5559,
+        "name": "Akustik formalaşdırma"
+      },
+      {
+        "master_field_id": 1140,
+        "category_master_field_id": 15469,
+        "name": "Təsir radiusu, m"
+      },
+      {
+        "master_field_id": 1841,
+        "category_master_field_id": 5560,
+        "name": "Maksimal çıxış gücü, Vt"
+      },
+      {
+        "master_field_id": 1842,
+        "category_master_field_id": 5561,
+        "name": "Diapazonun yuxarı həddi, Hz"
+      },
+      {
+        "master_field_id": 1843,
+        "category_master_field_id": 5562,
+        "name": "Diapazonun aşağı həddi, Hz"
+      },
+      {
+        "master_field_id": 1844,
+        "category_master_field_id": 5563,
+        "name": "Siqnal/səs-küy nisbəti, dB"
+      },
+      {
+        "master_field_id": 797,
+        "category_master_field_id": 5570,
+        "name": "Empendans, Om"
+      },
+      {
+        "master_field_id": 1567,
+        "category_master_field_id": 4662,
+        "name": "Səs izolyasiyası"
+      },
+      {
+        "master_field_id": 1845,
+        "category_master_field_id": 5564,
+        "name": "Səs səviyyəsinin tənzimləyicisi"
+      },
+      {
+        "master_field_id": 1570,
+        "category_master_field_id": 4665,
+        "name": "Ətraf səs"
+      },
+      {
+        "master_field_id": 1573,
+        "category_master_field_id": 4668,
+        "name": "Dinamiklərin ümumi sayı"
+      },
+      {
+        "master_field_id": 1846,
+        "category_master_field_id": 5565,
+        "name": "Mikrofon növü"
+      },
+      {
+        "master_field_id": 1847,
+        "category_master_field_id": 5566,
+        "name": "Mikrofonun diapazonunun yuxarı həddi, Hz"
+      },
+      {
+        "master_field_id": 1848,
+        "category_master_field_id": 5567,
+        "name": "Mikrofonun diapazonunun aşağı həddi, Hz"
+      },
+      {
+        "master_field_id": 1849,
+        "category_master_field_id": 5568,
+        "name": "Mikrofonun siqnal/səs-küy nisbəti"
+      },
+      {
+        "master_field_id": 1850,
+        "category_master_field_id": 5569,
+        "name": "Mikrofonun bərkitməsi"
+      },
+      {
+        "master_field_id": 1740,
+        "category_master_field_id": 5571,
+        "name": "Digər funksiyalar və xüsusiyyətlər"
+      },
+      {
+        "master_field_id": 870,
+        "category_master_field_id": 4634,
+        "name": "Çəki, q"
+      },
+      {
+        "master_field_id": 2552,
+        "category_master_field_id": 10654,
+        "name": "Korpusun qorunması"
+      },
+      {
+        "master_field_id": 697,
+        "category_master_field_id": 10655,
+        "name": "Komplektasiya"
+      },
+      {
+        "master_field_id": 2210,
+        "category_master_field_id": 10649,
+        "name": "Brendin ölkəsi"
+      },
+      {
+        "master_field_id": 618,
+        "category_master_field_id": 4635,
+        "name": "İstehsalçı ölkə"
+      }
+    ],
+    "parent": {
+      "id": 2,
+      "node_type": "NODE",
+      "name": "Telefonlar, Smart cihazlar və telefon aksessuarları",
+      "slugged_name": "telefonlar-ve-aksessuarlar",
+      "parent": {
+        "id": 1,
+        "node_type": "NODE",
+        "name": "Elektronika və məişət texnikası",
+        "slugged_name": "elektronika-ve-meishet-texnikasi",
+        "parent": null
+      }
+    },
+    "is_refundable": true,
+    "is_adult": false,
+    "icons": {
+      "thumbnail": "https://strgimgr.umico.az/img/category/188/7a8b0d8a-c1a8-46f5-a7cd-c7483dbc6bee.jpeg",
+      "original": "https://strgimgr.umico.az/img/category/original/7a8b0d8a-c1a8-46f5-a7cd-c7483dbc6bee.jpeg"
+    },
+    "is_active": true
+  },
+  "offers": [
+    {
+      "uuid": "88216c8b-febf-4d9a-bac7-739161c75ae7",
+      "installment_enabled": true,
+      "max_installment_months": 18,
+      "product_offer_labels": [],
+      "old_price": 15,
+      "retail_price": 5.99,
+      "supplier_id": "4487fb1f-0cbb-4b26-ae18-c0eaf5b47477",
+      "seller": {
+        "ext_id": "85aed90f-733e-48dd-af31-36b3540fbbc5",
+        "internal_id": 12399,
+        "marketing_name": {
+          "id": 12399,
+          "name": "Case de Baku"
+        },
+        "logo": {
+          "thumbnail": "https://storage.umico.az/cpcustomerprod01/a2cfd439c6e242ae69f75e2f9b08ac55.png"
+        },
+        "vat_payer": false,
+        "rating": 96,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "allow_qty": 0
+    },
+    {
+      "uuid": "7b1b361b-1956-4a79-8dbd-05b9d475d048",
+      "installment_enabled": true,
+      "max_installment_months": 18,
+      "product_offer_labels": [],
+      "old_price": 6.8,
+      "retail_price": 2.9,
+      "supplier_id": "7554119b-0471-425f-b080-911df816b43a",
+      "seller": {
+        "ext_id": "ebbef564-dc84-4c46-bd71-464cd8dd8867",
+        "internal_id": 4084,
+        "marketing_name": {
+          "id": 4084,
+          "name": "Maimi Baku Store"
+        },
+        "logo": {
+          "thumbnail": "https://storage.umico.az/cpcustomerprod01/87e226a94560d8930a80b72d60ed4c0f.jpg"
+        },
+        "vat_payer": false,
+        "rating": 96,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "allow_qty": 0
+    },
+    {
+      "uuid": "b6ac83d4-b9ac-40d3-a214-80239df67c70",
+      "installment_enabled": true,
+      "max_installment_months": 18,
+      "product_offer_labels": [],
+      "old_price": 6.88,
+      "retail_price": 2.9,
+      "supplier_id": "0380310d-7bb7-493b-9ab4-b863294b5937",
+      "seller": {
+        "ext_id": "47ddac3b-5349-4a9f-bbc0-ee91f31e18d5",
+        "internal_id": 8070,
+        "marketing_name": {
+          "id": 8070,
+          "name": "Minur Store"
+        },
+        "logo": {
+          "thumbnail": "https://storage.umico.az/cpcustomerprod01/55c99e4014864a0557c935826c56dc25.jpg"
+        },
+        "vat_payer": false,
+        "rating": 96,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "allow_qty": 0
+    },
+    {
+      "uuid": "40ce9000-64f8-4d6c-99f5-f03f23c26b60",
+      "installment_enabled": true,
+      "max_installment_months": 18,
+      "product_offer_labels": [],
+      "old_price": 5,
+      "retail_price": 3,
+      "supplier_id": "456cd0df-a50e-484b-8e20-ad97e081c65d",
+      "seller": {
+        "ext_id": "d5706941-6a28-4c3a-b64f-7f0abcece2e3",
+        "internal_id": 10978,
+        "marketing_name": {
+          "id": 10978,
+          "name": "modexa"
+        },
+        "logo": {
+          "thumbnail": "https://storage.umico.az/cpcustomerprod01/c517ca95455932cac81bf2700da54c11.png"
+        },
+        "vat_payer": false,
+        "rating": 100,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "allow_qty": 0
+    },
+    {
+      "uuid": "c60f9feb-fec4-402d-b1c2-793261ed76e8",
+      "installment_enabled": true,
+      "max_installment_months": 18,
+      "product_offer_labels": [],
+      "old_price": 6.88,
+      "retail_price": 2.9,
+      "supplier_id": "832d88c0-9ead-42f8-a794-02b9fe21d42b",
+      "seller": {
+        "ext_id": "2bc7fabd-b704-42ca-8c5e-387f90d0bd03",
+        "internal_id": 5101,
+        "marketing_name": {
+          "id": 5101,
+          "name": "888 STORE"
+        },
+        "logo": {
+          "thumbnail": "https://storage.umico.az/cpcustomerprod01/95f6188d5d4ebaffa68f5482eb4d97aa.png"
+        },
+        "vat_payer": false,
+        "rating": 97,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "allow_qty": 0
+    },
+    {
+      "uuid": "475f3a7b-efcc-4858-9872-84a9fd5095c6",
+      "installment_enabled": true,
+      "max_installment_months": 18,
+      "product_offer_labels": [],
+      "old_price": 11.99,
+      "retail_price": 8.97,
+      "supplier_id": "36853efb-d3b4-476e-af85-53ab24a91fed",
+      "seller": {
+        "ext_id": "a66fc8f0-93ed-494a-9b9d-5e56f3278135",
+        "internal_id": 9945,
+        "marketing_name": {
+          "id": 9945,
+          "name": "RS Baku"
+        },
+        "logo": {
+          "thumbnail": "https://storage.umico.az/cpcustomerprod01/7868a54325713cef37e1c32d2ca077c3.jpg"
+        },
+        "vat_payer": false,
+        "rating": 95,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "allow_qty": 0
+    },
+    {
+      "uuid": "8be06217-e054-436e-a769-23215bdfd9c6",
+      "installment_enabled": true,
+      "max_installment_months": 18,
+      "product_offer_labels": [],
+      "old_price": 5,
+      "retail_price": 3,
+      "supplier_id": "224036a7-a64c-4ef0-b040-dc1e6eb4c512",
+      "seller": {
+        "ext_id": "c20e41cc-d8bd-4da4-941d-c6cb8b016d84",
+        "internal_id": 12884,
+        "marketing_name": {
+          "id": 12884,
+          "name": "Mobimax"
+        },
+        "logo": {
+          "thumbnail": ""
+        },
+        "vat_payer": false,
+        "rating": 94,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "allow_qty": 0
+    },
+    {
+      "uuid": "9a09aabd-e2f0-47af-984b-fdbec730f986",
+      "installment_enabled": true,
+      "max_installment_months": 18,
+      "product_offer_labels": [],
+      "old_price": 7,
+      "retail_price": 6,
+      "supplier_id": "db1060eb-7049-4e18-a0d2-50b0e757e217",
+      "seller": {
+        "ext_id": "4865228e-3db7-41c6-a9f7-6e7880e13b4b",
+        "internal_id": 11916,
+        "marketing_name": {
+          "id": 11916,
+          "name": "Texno Servis"
+        },
+        "logo": {
+          "thumbnail": ""
+        },
+        "vat_payer": false,
+        "rating": 100,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "allow_qty": 0
+    }
+  ],
+  "variations": [
+    {
+      "id": 130593,
+      "name": "Simli qulaqlıq Celebrat G13 Black",
+      "slugged_name": "simli-qulaqliq-celebrat-g13-black",
+      "custom_fields": [
+        {
+          "master_field_id": 625,
+          "values": [
+            "Qara"
+          ]
+        }
+      ],
+      "main_img": {
+        "big": "https://strgimgr.umico.az/sized/1680/130593-8c6b66709e1157901c4e01c8ff73aa0e.jpg",
+        "medium": "https://strgimgr.umico.az/sized/840/130593-8c6b66709e1157901c4e01c8ff73aa0e.jpg",
+        "small": "https://strgimgr.umico.az/sized/280/130593-8c6b66709e1157901c4e01c8ff73aa0e.jpg"
+      },
+      "status": "active"
+    }
+  ],
+  "size_chart": {},
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "sku": 130593,
+    "mpn": "Celebrat G13 black",
+    "url": "https://birmarket.az/product/130593-simli-qulaqliq-celebrat-g13-black",
+    "name": "Simli qulaqlıq Celebrat G13 Black",
+    "image": [
+      "https://strgimgr.umico.az/sized/1680/130593-8c6b66709e1157901c4e01c8ff73aa0e.jpg",
+      "https://strgimgr.umico.az/sized/1680/130593-92d83bc11a493ca8aa14c3be7fe760cd.jpg",
+      "https://strgimgr.umico.az/sized/1680/130593-bb062ccd8d4dee3c05b79ea3d4a146fa.jpg",
+      "https://strgimgr.umico.az/sized/1680/130593-d190ddd2087abb5bda34d694cd248b38.jpg",
+      "https://strgimgr.umico.az/sized/1680/130593-b46f0886212b05505315365966ca42a0.jpg",
+      "https://strgimgr.umico.az/sized/1680/130593-8dab4e70dd50aa1cdbf4a76f49867f1b.jpg"
+    ],
+    "description": "Celebrat G13 vakuum qulaqlıqları klassik dizaynı ilə praktik və rahat bir qarniturdu. Aksessuar bir neçə rəngdə təqdim olunur. Aşağı tezliklərin reallaşdırılması ilə seçilir. Qulaq elementlərinin korpusu dayanıqlı və uzun müddət istifadə üçün nəzərdə tutulmuş materiallardan hazırlanıb. Qulaqlıqlar qulaqda rahat oturur, aktiv hərəkətlər zamanı düşmür və uzun müddətli istifadədə narahatlıq yaratmır. Model standart mini-jack 3,5 mm-lik konnektora malikdir. Aksessuar, səsi mükəmməl ötürən mikrofon və zəngləri qəbul etmə, səs tənzimləmə düymələri ilə təchiz olunub. Cihazın rahat və praktik kabeli möhkəm bir örtdə hazırlanıb və uzun ömürlü istifadə üçün nəzərdə tutulub. Celebrat şirkətinin müasir dizayn həlləri istifadəçilərinin fərdi stilini parlaq şəkildə tamamlayır.",
+    "itemCondition": "https://schema.org/NewCondition",
+    "offers": {
+      "@type": "AggregateOffer",
+      "availability": "https://schema.org/InStock",
+      "offerCount": 8,
+      "highPrice": 8.97,
+      "lowPrice": 2.9,
+      "priceCurrency": "AZN",
+      "hasMerchantReturnPolicy": {
+        "applicableCountry": "AZ",
+        "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+        "returnMethod": "https://schema.org/ReturnInStore",
+        "returnFees": "https://schema.org/FreeReturn",
+        "merchantReturnDays": 14
+      },
+      "shippingDetails": {
+        "@type": "OfferShippingDetails",
+        "shippingDestination": {
+          "@type": "DefinedRegion",
+          "addressCountry": "AZ"
+        },
+        "deliveryTime": {
+          "@type": "ShippingDeliveryTime",
+          "handlingTime": {
+            "@type": "QuantitativeValue",
+            "minValue": 0,
+            "maxValue": 1,
+            "unitCode": "DAY"
+          },
+          "transitTime": {
+            "@type": "QuantitativeValue",
+            "minValue": 0,
+            "maxValue": 1,
+            "unitCode": "DAY"
+          },
+          "businessDays": {
+            "@type": "OpeningHoursSpecification",
+            "dayOfWeek": [
+              "https://schema.org/Monday",
+              "https://schema.org/Tuesday",
+              "https://schema.org/Wednesday",
+              "https://schema.org/Thursday",
+              "https://schema.org/Friday",
+              "https://schema.org/Saturday",
+              "https://schema.org/Sunday"
+            ]
+          }
+        },
+        "shippingRate": {
+          "@type": "MonetaryAmount",
+          "value": 0,
+          "currency": "AZN"
+        }
+      }
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": 4,
+      "reviewCount": 24
+    },
+    "brand": {
+      "@type": "Brand",
+      "name": "Celebrat",
+      "url": "https://birmarket.az/brands/Celebrat"
+    }
+  }
+}

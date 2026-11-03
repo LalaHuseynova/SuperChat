@@ -1,0 +1,362 @@
+{
+  "product": {
+    "id": 1621154,
+    "gtin": "",
+    "mpn": "7018_76076304",
+    "name": "Tarot kartları Таро Уэйта",
+    "slugged_name_az": "taro-ueita-rusca-tarot",
+    "slugged_name_ru": "taro-ueita-rusca-tarot",
+    "description": "",
+    "description_outlet": "",
+    "status": "active",
+    "uuid": "e98ae853-7efe-40b8-a77d-8bad59499852",
+    "variant_code": "VC_1621154",
+    "default_offer": {
+      "uuid": "7fee435f-4cfa-4d05-b50f-663806477cd6",
+      "installment_enabled": true,
+      "max_installment_months": 18,
+      "product_offer_labels": [],
+      "old_price": 35,
+      "retail_price": 27,
+      "supplier_id": "f4a99665-77fd-46e3-bc10-54a371b534cf",
+      "qty": 0,
+      "seller": {
+        "ext_id": "f4a99665-77fd-46e3-bc10-54a371b534cf",
+        "marketing_name": {
+          "id": 6654,
+          "name": "RİTUAL.AZ"
+        },
+        "logo": {
+          "thumbnail": "https://storage.umico.az/cpcustomerprod01/e94e04a15a7aa03ab2b34af90cc95216.png"
+        },
+        "vat_payer": false,
+        "rating": 100,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "discount_effective_start_date": "",
+      "discount_effective_end_date": ""
+    },
+    "category_id": 1344,
+    "category": {
+      "id": 1344,
+      "name": "Masaüstü oyunlar"
+    },
+    "brand": {
+      "name": "No Brand"
+    },
+    "custom_fields": [
+      {
+        "master_field_id": 2634,
+        "values": [
+          "Kartlar"
+        ]
+      },
+      {
+        "master_field_id": 751,
+        "values": [
+          "14+"
+        ]
+      },
+      {
+        "master_field_id": 761,
+        "values": [
+          "Böyüklər üçün"
+        ]
+      },
+      {
+        "master_field_id": 750,
+        "values": [
+          "Kart"
+        ]
+      },
+      {
+        "master_field_id": 5289,
+        "values": [
+          "1"
+        ]
+      },
+      {
+        "master_field_id": 5290,
+        "values": [
+          "99"
+        ]
+      }
+    ],
+    "main_img": {
+      "big": "https://strgimgr.umico.az/img/product/1680/37cdd52a-f5f2-433c-be07-c0a3eb83121d.jpeg",
+      "medium": "https://strgimgr.umico.az/img/product/840/37cdd52a-f5f2-433c-be07-c0a3eb83121d.jpeg",
+      "small": "https://strgimgr.umico.az/img/product/280/37cdd52a-f5f2-433c-be07-c0a3eb83121d.jpeg"
+    },
+    "img_url_thumbnail": "https://strgimgr.umico.az/img/product/280/37cdd52a-f5f2-433c-be07-c0a3eb83121d.jpeg",
+    "main_video": "",
+    "imgs": [
+      {
+        "big": "https://strgimgr.umico.az/img/product/1680/37cdd52a-f5f2-433c-be07-c0a3eb83121d.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/37cdd52a-f5f2-433c-be07-c0a3eb83121d.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/37cdd52a-f5f2-433c-be07-c0a3eb83121d.jpeg"
+      },
+      {
+        "big": "https://strgimgr.umico.az/img/product/1680/be7d3e3b-e177-42c2-a686-2f13a326db40.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/be7d3e3b-e177-42c2-a686-2f13a326db40.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/be7d3e3b-e177-42c2-a686-2f13a326db40.jpeg"
+      },
+      {
+        "big": "https://strgimgr.umico.az/img/product/1680/c34f5946-129c-4bbd-8b7b-b76a2981bdc8.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/c34f5946-129c-4bbd-8b7b-b76a2981bdc8.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/c34f5946-129c-4bbd-8b7b-b76a2981bdc8.jpeg"
+      },
+      {
+        "big": "https://strgimgr.umico.az/img/product/1680/59c87b96-27a8-499b-93d3-beea2b8332bb.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/59c87b96-27a8-499b-93d3-beea2b8332bb.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/59c87b96-27a8-499b-93d3-beea2b8332bb.jpeg"
+      },
+      {
+        "big": "https://strgimgr.umico.az/img/product/1680/a4ea1972-0bf3-4bee-9774-4a0dbc895b28.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/a4ea1972-0bf3-4bee-9774-4a0dbc895b28.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/a4ea1972-0bf3-4bee-9774-4a0dbc895b28.jpeg"
+      },
+      {
+        "big": "https://strgimgr.umico.az/img/product/1680/c5389f15-a3ef-41fb-bb5e-d5013c98d7dc.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/c5389f15-a3ef-41fb-bb5e-d5013c98d7dc.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/c5389f15-a3ef-41fb-bb5e-d5013c98d7dc.jpeg"
+      }
+    ],
+    "videos": [],
+    "min_qty": 1,
+    "preorder_available": false,
+    "is_assortment": false,
+    "is_bulk_heavy": false,
+    "is_refurbished": false,
+    "is_refundable": true,
+    "is_dangerous": false,
+    "show_tech_description": false,
+    "use_external_content": true,
+    "product_labels": [],
+    "ratings": {
+      "rating_value": 4.8,
+      "assessment_id": 0,
+      "session_count": 5,
+      "score_count": 4,
+      "review_count": 1
+    },
+    "default_show_stock_qty_threshold": 0,
+    "card_type": "public"
+  },
+  "category": {
+    "id": 1344,
+    "name": "Masaüstü oyunlar",
+    "slugged_name_az": "stolustu-oyunlar",
+    "slugged_name_ru": "nastolnye-igry",
+    "view_mode": "products",
+    "mobile_visual_mode": "text",
+    "is_variant": true,
+    "depth": 3,
+    "parent_id": 1341,
+    "child_ids": [],
+    "node_type": "NODE",
+    "install_service_needed": false,
+    "fitting_allowed": false,
+    "vat": true,
+    "variations": [],
+    "custom_fields": [
+      {
+        "master_field_id": 2634,
+        "category_master_field_id": 13225,
+        "name": "Məhsulun növü"
+      },
+      {
+        "master_field_id": 751,
+        "category_master_field_id": 7078,
+        "name": "Yaş"
+      },
+      {
+        "master_field_id": 761,
+        "category_master_field_id": 32418,
+        "name": "Cins"
+      },
+      {
+        "master_field_id": 750,
+        "category_master_field_id": 32419,
+        "name": "Oyunun janrı"
+      },
+      {
+        "master_field_id": 3917,
+        "category_master_field_id": 32420,
+        "name": "Mövzu"
+      },
+      {
+        "master_field_id": 5090,
+        "category_master_field_id": 32421,
+        "name": "Xətkeş"
+      },
+      {
+        "master_field_id": 5289,
+        "category_master_field_id": 32422,
+        "name": "Minimal oyunçu sayı"
+      },
+      {
+        "master_field_id": 5290,
+        "category_master_field_id": 32423,
+        "name": "Maksimal oyunçu sayı"
+      },
+      {
+        "master_field_id": 637,
+        "category_master_field_id": 32424,
+        "name": "Material"
+      },
+      {
+        "master_field_id": 5226,
+        "category_master_field_id": 32425,
+        "name": "Personaj"
+      },
+      {
+        "master_field_id": 623,
+        "category_master_field_id": 32426,
+        "name": "Xüsusiyyətlər"
+      },
+      {
+        "master_field_id": 618,
+        "category_master_field_id": 32427,
+        "name": "İstehsalçı ölkə"
+      }
+    ],
+    "parent": {
+      "id": 1341,
+      "node_type": "NODE",
+      "name": "Əyləncə və oyunlar",
+      "slugged_name": "oyunlar",
+      "parent": {
+        "id": 1348,
+        "node_type": "NODE",
+        "name": "Hobbi",
+        "slugged_name": "hobbi-ve-yaradiciliq-uchun-mehsullar",
+        "parent": {
+          "id": 1657,
+          "node_type": "NODE",
+          "name": "Kitablar, Hobbi, Məktəb və ofis ləvazimatları",
+          "slugged_name": "ofis-ve-mekteb-levazimatlari",
+          "parent": null
+        }
+      }
+    },
+    "is_refundable": true,
+    "is_adult": false,
+    "icons": {
+      "thumbnail": "https://strgimgr.umico.az/img/category/188/5cfc95a7-2d71-4b3d-87c4-c36cc0370974.jpeg",
+      "original": "https://strgimgr.umico.az/img/category/original/5cfc95a7-2d71-4b3d-87c4-c36cc0370974.jpeg"
+    },
+    "is_active": true
+  },
+  "offers": [
+    {
+      "uuid": "7fee435f-4cfa-4d05-b50f-663806477cd6",
+      "installment_enabled": true,
+      "max_installment_months": 18,
+      "product_offer_labels": [],
+      "old_price": 35,
+      "retail_price": 27,
+      "supplier_id": "f4a99665-77fd-46e3-bc10-54a371b534cf",
+      "seller": {
+        "ext_id": "43e794fb-057a-4d37-a11a-944ed7f70687",
+        "internal_id": 6654,
+        "marketing_name": {
+          "id": 6654,
+          "name": "RİTUAL.AZ"
+        },
+        "logo": {
+          "thumbnail": "https://storage.umico.az/cpcustomerprod01/e94e04a15a7aa03ab2b34af90cc95216.png"
+        },
+        "vat_payer": false,
+        "rating": 100,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "allow_qty": 0
+    }
+  ],
+  "variations": [],
+  "size_chart": {},
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "sku": 1621154,
+    "mpn": "7018_76076304",
+    "url": "https://birmarket.az/product/1621154-taro-ueita-rusca-tarot",
+    "name": "Tarot kartları Таро Уэйта",
+    "image": [
+      "https://strgimgr.umico.az/img/product/1680/37cdd52a-f5f2-433c-be07-c0a3eb83121d.jpeg",
+      "https://strgimgr.umico.az/img/product/1680/be7d3e3b-e177-42c2-a686-2f13a326db40.jpeg",
+      "https://strgimgr.umico.az/img/product/1680/c34f5946-129c-4bbd-8b7b-b76a2981bdc8.jpeg",
+      "https://strgimgr.umico.az/img/product/1680/59c87b96-27a8-499b-93d3-beea2b8332bb.jpeg",
+      "https://strgimgr.umico.az/img/product/1680/a4ea1972-0bf3-4bee-9774-4a0dbc895b28.jpeg",
+      "https://strgimgr.umico.az/img/product/1680/c5389f15-a3ef-41fb-bb5e-d5013c98d7dc.jpeg"
+    ],
+    "description": "Tarot kartları Таро Уэйта - KREDİTLƏ ayda ◉ 1.38₼-dən ♢Birmarket-dən Bakı və Azərbaycan üzrə çatdırılma",
+    "itemCondition": "https://schema.org/NewCondition",
+    "offers": {
+      "@type": "Offer",
+      "availability": "https://schema.org/InStock",
+      "url": "https://birmarket.az/product/1621154-taro-ueita-rusca-tarot",
+      "price": 27,
+      "priceCurrency": "AZN",
+      "priceValidUntil": "2026-12-03T05:37:30+00:00Z",
+      "hasMerchantReturnPolicy": {
+        "applicableCountry": "AZ",
+        "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+        "returnMethod": "https://schema.org/ReturnInStore",
+        "returnFees": "https://schema.org/FreeReturn",
+        "merchantReturnDays": 14
+      },
+      "shippingDetails": {
+        "@type": "OfferShippingDetails",
+        "shippingDestination": {
+          "@type": "DefinedRegion",
+          "addressCountry": "AZ"
+        },
+        "deliveryTime": {
+          "@type": "ShippingDeliveryTime",
+          "handlingTime": {
+            "@type": "QuantitativeValue",
+            "minValue": 0,
+            "maxValue": 1,
+            "unitCode": "DAY"
+          },
+          "transitTime": {
+            "@type": "QuantitativeValue",
+            "minValue": 0,
+            "maxValue": 1,
+            "unitCode": "DAY"
+          },
+          "businessDays": {
+            "@type": "OpeningHoursSpecification",
+            "dayOfWeek": [
+              "https://schema.org/Monday",
+              "https://schema.org/Tuesday",
+              "https://schema.org/Wednesday",
+              "https://schema.org/Thursday",
+              "https://schema.org/Friday",
+              "https://schema.org/Saturday",
+              "https://schema.org/Sunday"
+            ]
+          }
+        },
+        "shippingRate": {
+          "@type": "MonetaryAmount",
+          "value": 0,
+          "currency": "AZN"
+        }
+      }
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": 5,
+      "reviewCount": 1
+    },
+    "brand": {
+      "@type": "Brand",
+      "name": "No Brand",
+      "url": "https://birmarket.az/brands/No%20Brand"
+    }
+  }
+}

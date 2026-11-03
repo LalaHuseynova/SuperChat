@@ -93,6 +93,7 @@ class SessionStore:
         if source_id:
             old = self.load(source_id)
             state = copy.deepcopy(old["state"])
+            state["language"] = language
             # Preferences and search context are inherited explicitly, not actions.
             state["cart"], state["reservations"], state["pending"] = {}, [], None
             source = {"id": source_id, "title": old["title"]}
@@ -141,11 +142,17 @@ class SessionStore:
             )
         return sorted(items, key=lambda s: s["updated_at"], reverse=True)
 
+    def delete(self, session_id):
+        """Delete one conversation log. Caller holds the transaction lock."""
+        self.path(session_id).unlink()
+
     def inventory(self):
         used = {}
         for path in self.directory.glob("*.jsonl"):
             session = self.load(path.stem)
             for r in session["state"]["reservations"]:
+                if r.get('status') == 'saved_local':
+                    continue
                 used[r["item_id"]] = used.get(r["item_id"], 0) + r["quantity"]
         return used
 

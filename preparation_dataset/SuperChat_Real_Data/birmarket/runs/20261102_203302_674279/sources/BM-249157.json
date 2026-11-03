@@ -1,0 +1,333 @@
+{
+  "product": {
+    "id": 249157,
+    "gtin": "",
+    "mpn": "148_2639",
+    "name": "200 fiş üçün poker dəsti nominal ilə + parça",
+    "slugged_name_az": "200-fish-uchun-poker-desti-nominal-ile-parcha",
+    "slugged_name_ru": "pokernyy-nabor-na-200-fishek-s-nominalom-sukno",
+    "description": "Əgər siz bu qumar oyununun azarkəşısınızsa və kazino atmosferinə tam immersiya etmək istəyirsinizsə, nominal ilə 200 fişlik poker dəsti mütləq dəyər. Biz əminik ki, belə bir təsvirdə və birbaşa belə oyun komponentləri ilə hər bir oyun sizə böyük həzz verəcəkdir, fərqi yoxdur ki, siz qalib gəldiniz ya uduzdunuz.\n\nYaş: 10 yaşdan\nOyunçular: 2 və daha çox\n\nQutunun tərkibi:\noyun müsəlləsi (36 x 24 sm)\nnominal ilə 200 plastik fiş, çəkisi 4 qram\n2 kort dəsti\n\"Diller\" fişi\n\"Böyük Güclü\" fişi\n\"Kiçik Güclü\" fişi\npoker fişləri üçün dəstək",
+    "description_outlet": "",
+    "status": "active",
+    "uuid": "798d4e74-5b44-4f53-a21a-8c9c2c42ffe3",
+    "variant_code": "VC_249157",
+    "default_offer": {
+      "uuid": "74391cdd-6864-494c-ac80-244568d946d6",
+      "installment_enabled": true,
+      "max_installment_months": 18,
+      "product_offer_labels": [],
+      "old_price": 49.99,
+      "retail_price": 34.99,
+      "supplier_id": "1e8d85f8-bee1-4839-94b5-f88deffee1e6",
+      "qty": 0,
+      "seller": {
+        "ext_id": "1e8d85f8-bee1-4839-94b5-f88deffee1e6",
+        "marketing_name": {
+          "id": 12070,
+          "name": "Oyuncaqci2019"
+        },
+        "logo": {
+          "thumbnail": ""
+        },
+        "vat_payer": false,
+        "rating": 100,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "discount_effective_start_date": "",
+      "discount_effective_end_date": ""
+    },
+    "category_id": 1344,
+    "category": {
+      "id": 1344,
+      "name": "Masaüstü oyunlar"
+    },
+    "brand": {
+      "name": "NO BRAND"
+    },
+    "custom_fields": [
+      {
+        "master_field_id": 2634,
+        "values": [
+          "Poker dəsti"
+        ]
+      },
+      {
+        "master_field_id": 751,
+        "values": [
+          "10 yaşdan"
+        ]
+      }
+    ],
+    "main_img": {
+      "big": "https://strgimgr.umico.az/sized/1680/249157-3dff84c6f6062aade53c18173222e46f.jpg",
+      "medium": "https://strgimgr.umico.az/sized/840/249157-3dff84c6f6062aade53c18173222e46f.jpg",
+      "small": "https://strgimgr.umico.az/sized/280/249157-3dff84c6f6062aade53c18173222e46f.jpg"
+    },
+    "img_url_thumbnail": "https://strgimgr.umico.az/sized/280/249157-3dff84c6f6062aade53c18173222e46f.jpg",
+    "main_video": "",
+    "imgs": [
+      {
+        "big": "https://strgimgr.umico.az/sized/1680/249157-3dff84c6f6062aade53c18173222e46f.jpg",
+        "medium": "https://strgimgr.umico.az/sized/840/249157-3dff84c6f6062aade53c18173222e46f.jpg",
+        "small": "https://strgimgr.umico.az/sized/280/249157-3dff84c6f6062aade53c18173222e46f.jpg"
+      },
+      {
+        "big": "https://strgimgr.umico.az/sized/1680/249157-dd24e440c00f5b31de0df78761f85a45.jpg",
+        "medium": "https://strgimgr.umico.az/sized/840/249157-dd24e440c00f5b31de0df78761f85a45.jpg",
+        "small": "https://strgimgr.umico.az/sized/280/249157-dd24e440c00f5b31de0df78761f85a45.jpg"
+      }
+    ],
+    "videos": [],
+    "min_qty": 1,
+    "preorder_available": false,
+    "is_assortment": false,
+    "is_bulk_heavy": false,
+    "is_refurbished": false,
+    "is_refundable": true,
+    "is_dangerous": false,
+    "show_tech_description": false,
+    "use_external_content": true,
+    "product_labels": [],
+    "ratings": {
+      "rating_value": 5,
+      "assessment_id": 0,
+      "session_count": 4,
+      "score_count": 4
+    },
+    "default_show_stock_qty_threshold": 0,
+    "card_type": "public"
+  },
+  "category": {
+    "id": 1344,
+    "name": "Masaüstü oyunlar",
+    "slugged_name_az": "stolustu-oyunlar",
+    "slugged_name_ru": "nastolnye-igry",
+    "view_mode": "products",
+    "mobile_visual_mode": "text",
+    "is_variant": true,
+    "depth": 3,
+    "parent_id": 1341,
+    "child_ids": [],
+    "node_type": "NODE",
+    "install_service_needed": false,
+    "fitting_allowed": false,
+    "vat": true,
+    "variations": [],
+    "custom_fields": [
+      {
+        "master_field_id": 2634,
+        "category_master_field_id": 13225,
+        "name": "Məhsulun növü"
+      },
+      {
+        "master_field_id": 751,
+        "category_master_field_id": 7078,
+        "name": "Yaş"
+      },
+      {
+        "master_field_id": 761,
+        "category_master_field_id": 32418,
+        "name": "Cins"
+      },
+      {
+        "master_field_id": 750,
+        "category_master_field_id": 32419,
+        "name": "Oyunun janrı"
+      },
+      {
+        "master_field_id": 3917,
+        "category_master_field_id": 32420,
+        "name": "Mövzu"
+      },
+      {
+        "master_field_id": 5090,
+        "category_master_field_id": 32421,
+        "name": "Xətkeş"
+      },
+      {
+        "master_field_id": 5289,
+        "category_master_field_id": 32422,
+        "name": "Minimal oyunçu sayı"
+      },
+      {
+        "master_field_id": 5290,
+        "category_master_field_id": 32423,
+        "name": "Maksimal oyunçu sayı"
+      },
+      {
+        "master_field_id": 637,
+        "category_master_field_id": 32424,
+        "name": "Material"
+      },
+      {
+        "master_field_id": 5226,
+        "category_master_field_id": 32425,
+        "name": "Personaj"
+      },
+      {
+        "master_field_id": 623,
+        "category_master_field_id": 32426,
+        "name": "Xüsusiyyətlər"
+      },
+      {
+        "master_field_id": 618,
+        "category_master_field_id": 32427,
+        "name": "İstehsalçı ölkə"
+      }
+    ],
+    "parent": {
+      "id": 1341,
+      "node_type": "NODE",
+      "name": "Əyləncə və oyunlar",
+      "slugged_name": "oyunlar",
+      "parent": {
+        "id": 1348,
+        "node_type": "NODE",
+        "name": "Hobbi",
+        "slugged_name": "hobbi-ve-yaradiciliq-uchun-mehsullar",
+        "parent": {
+          "id": 1657,
+          "node_type": "NODE",
+          "name": "Kitablar, Hobbi, Məktəb və ofis ləvazimatları",
+          "slugged_name": "ofis-ve-mekteb-levazimatlari",
+          "parent": null
+        }
+      }
+    },
+    "is_refundable": true,
+    "is_adult": false,
+    "icons": {
+      "thumbnail": "https://strgimgr.umico.az/img/category/188/5cfc95a7-2d71-4b3d-87c4-c36cc0370974.jpeg",
+      "original": "https://strgimgr.umico.az/img/category/original/5cfc95a7-2d71-4b3d-87c4-c36cc0370974.jpeg"
+    },
+    "is_active": true
+  },
+  "offers": [
+    {
+      "uuid": "7554fba3-04c8-44ed-9882-5c92bd0505a7",
+      "installment_enabled": true,
+      "max_installment_months": 18,
+      "product_offer_labels": [],
+      "old_price": 0,
+      "retail_price": 35,
+      "supplier_id": "3060c2e2-2489-4567-9bb1-c22a866de50b",
+      "seller": {
+        "ext_id": "852846d0-cbf0-4673-86b3-06820cf115aa",
+        "internal_id": 5999,
+        "marketing_name": {
+          "id": 5999,
+          "name": "Ultra"
+        },
+        "logo": {
+          "thumbnail": "https://storage.umico.az/cpcustomerprod01/03f5ecf9c36ce3870177883a0c8ce9fa.jpg"
+        },
+        "vat_payer": false,
+        "rating": 96,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "allow_qty": 0
+    },
+    {
+      "uuid": "74391cdd-6864-494c-ac80-244568d946d6",
+      "installment_enabled": true,
+      "max_installment_months": 18,
+      "product_offer_labels": [],
+      "old_price": 49.99,
+      "retail_price": 34.99,
+      "supplier_id": "1e8d85f8-bee1-4839-94b5-f88deffee1e6",
+      "seller": {
+        "ext_id": "f0bd2be2-3678-4ecd-a180-d029a747b6e1",
+        "internal_id": 12070,
+        "marketing_name": {
+          "id": 12070,
+          "name": "Oyuncaqci2019"
+        },
+        "logo": {
+          "thumbnail": ""
+        },
+        "vat_payer": false,
+        "rating": 100,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "allow_qty": 0
+    }
+  ],
+  "variations": [],
+  "size_chart": {},
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "sku": 249157,
+    "mpn": "148_2639",
+    "url": "https://birmarket.az/product/249157-200-fish-uchun-poker-desti-nominal-ile-parcha",
+    "name": "200 fiş üçün poker dəsti nominal ilə + parça",
+    "image": [
+      "https://strgimgr.umico.az/sized/1680/249157-3dff84c6f6062aade53c18173222e46f.jpg",
+      "https://strgimgr.umico.az/sized/1680/249157-dd24e440c00f5b31de0df78761f85a45.jpg"
+    ],
+    "description": "Əgər siz bu qumar oyununun azarkəşısınızsa və kazino atmosferinə tam immersiya etmək istəyirsinizsə, nominal ilə 200 fişlik poker dəsti mütləq dəyər. Biz əminik ki, belə bir təsvirdə və birbaşa belə oyun komponentləri ilə hər bir oyun sizə böyük həzz verəcəkdir, fərqi yoxdur ki, siz qalib gəldiniz ya uduzdunuz.\n\nYaş: 10 yaşdan\nOyunçular: 2 və daha çox\n\nQutunun tərkibi:\noyun müsəlləsi (36 x 24 sm)\nnominal ilə 200 plastik fiş, çəkisi 4 qram\n2 kort dəsti\n&quot;Diller&quot; fişi\n&quot;Böyük Güclü&quot; fişi\n&quot;Kiçik Güclü&quot; fişi\npoker fişləri üçün dəstək",
+    "itemCondition": "https://schema.org/NewCondition",
+    "offers": {
+      "@type": "AggregateOffer",
+      "availability": "https://schema.org/InStock",
+      "offerCount": 2,
+      "highPrice": 35,
+      "lowPrice": 34.99,
+      "priceCurrency": "AZN",
+      "hasMerchantReturnPolicy": {
+        "applicableCountry": "AZ",
+        "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+        "returnMethod": "https://schema.org/ReturnInStore",
+        "returnFees": "https://schema.org/FreeReturn",
+        "merchantReturnDays": 14
+      },
+      "shippingDetails": {
+        "@type": "OfferShippingDetails",
+        "shippingDestination": {
+          "@type": "DefinedRegion",
+          "addressCountry": "AZ"
+        },
+        "deliveryTime": {
+          "@type": "ShippingDeliveryTime",
+          "handlingTime": {
+            "@type": "QuantitativeValue",
+            "minValue": 0,
+            "maxValue": 1,
+            "unitCode": "DAY"
+          },
+          "transitTime": {
+            "@type": "QuantitativeValue",
+            "minValue": 0,
+            "maxValue": 1,
+            "unitCode": "DAY"
+          },
+          "businessDays": {
+            "@type": "OpeningHoursSpecification",
+            "dayOfWeek": [
+              "https://schema.org/Monday",
+              "https://schema.org/Tuesday",
+              "https://schema.org/Wednesday",
+              "https://schema.org/Thursday",
+              "https://schema.org/Friday",
+              "https://schema.org/Saturday",
+              "https://schema.org/Sunday"
+            ]
+          }
+        },
+        "shippingRate": {
+          "@type": "MonetaryAmount",
+          "value": 0,
+          "currency": "AZN"
+        }
+      }
+    },
+    "brand": {
+      "@type": "Brand",
+      "name": "NO BRAND",
+      "url": "https://birmarket.az/brands/NO%20BRAND"
+    }
+  }
+}

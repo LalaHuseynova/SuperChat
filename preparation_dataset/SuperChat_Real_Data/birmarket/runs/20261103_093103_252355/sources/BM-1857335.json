@@ -1,0 +1,480 @@
+{
+  "product": {
+    "id": 1857335,
+    "gtin": "",
+    "mpn": "ML_2605_qara_40",
+    "name": "Kişilər üçün krosovkalar ML_2605, qara, zamşa, ölçü 40",
+    "slugged_name_az": "kishiler-uchun-krosovkalar-ml_2605-qara-zamsha-olchu-40-ml_2605_qara_40",
+    "slugged_name_ru": "krossovki-muzhskie-ml_2605-chernyy-zamsha-razmer-40-ml_2605_qara_40",
+    "description": "Kişilər üçün zamşa materialdan hazırlanmış krosovka gündəlik və aktiv istifadə üçün nəzərdə tutulmuşdur, yumşaq və davamlı üst material ayağın rahat nəfəs almasını təmin edir, anatomik qəlibi və iç hissəsinin komfortlu quruluşu uzun müddət geyim zamanı yorğunluğu azaldır, sürüşməyə qarşı dayanıqlı altlıq sabit addım və etibarlı yol tutumu yaradır, müasir dizaynı isə gündəlik geyim və idman üslubu ilə asanlıqla uyğunlaşır.",
+    "description_outlet": "",
+    "status": "active",
+    "uuid": "d6f8b1e6-a9c9-4745-9416-8ae14aaca833",
+    "variant_code": "ML_2605",
+    "default_offer": {
+      "uuid": "0fc24aca-c59b-4787-955d-14ee21d76166",
+      "installment_enabled": true,
+      "max_installment_months": 3,
+      "product_offer_labels": [],
+      "old_price": 118.49,
+      "retail_price": 54.89,
+      "supplier_id": "fdee1007-f8f6-45f3-bc58-0172bb9e2406",
+      "qty": 0,
+      "seller": {
+        "ext_id": "fdee1007-f8f6-45f3-bc58-0172bb9e2406",
+        "marketing_name": {
+          "id": 4275,
+          "name": "Moonlight Boutique"
+        },
+        "logo": {
+          "thumbnail": "https://storage.umico.az/cpcustomerprod01/3437f1ffb48463d503d0c079c7d2c792.jpg"
+        },
+        "vat_payer": false,
+        "rating": 96,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "discount_effective_start_date": "",
+      "discount_effective_end_date": ""
+    },
+    "category_id": 3177,
+    "category": {
+      "id": 3177,
+      "name": "Kişi krosovkaları və kedləri"
+    },
+    "brand": {
+      "name": "No Brand"
+    },
+    "custom_fields": [
+      {
+        "master_field_id": 620,
+        "values": [
+          "Krosovkalar"
+        ]
+      },
+      {
+        "master_field_id": 625,
+        "values": [
+          "Qara"
+        ]
+      },
+      {
+        "master_field_id": 637,
+        "values": [
+          "Zamşa"
+        ]
+      },
+      {
+        "master_field_id": 1423,
+        "values": [
+          "40"
+        ]
+      }
+    ],
+    "main_img": {
+      "big": "https://strgimgr.umico.az/img/product/1680/6656fec0-4024-463b-b2d0-23196e2ea707.jpeg",
+      "medium": "https://strgimgr.umico.az/img/product/840/6656fec0-4024-463b-b2d0-23196e2ea707.jpeg",
+      "small": "https://strgimgr.umico.az/img/product/280/6656fec0-4024-463b-b2d0-23196e2ea707.jpeg"
+    },
+    "img_url_thumbnail": "https://strgimgr.umico.az/img/product/280/6656fec0-4024-463b-b2d0-23196e2ea707.jpeg",
+    "main_video": "",
+    "imgs": [
+      {
+        "big": "https://strgimgr.umico.az/img/product/1680/6656fec0-4024-463b-b2d0-23196e2ea707.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/6656fec0-4024-463b-b2d0-23196e2ea707.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/6656fec0-4024-463b-b2d0-23196e2ea707.jpeg"
+      },
+      {
+        "big": "https://strgimgr.umico.az/img/product/1680/5915e3b2-c582-401e-b066-5b24bd7fcb0b.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/5915e3b2-c582-401e-b066-5b24bd7fcb0b.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/5915e3b2-c582-401e-b066-5b24bd7fcb0b.jpeg"
+      },
+      {
+        "big": "https://strgimgr.umico.az/img/product/1680/ec7d8fd4-38d8-4c58-a0fa-afd62288bd6b.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/ec7d8fd4-38d8-4c58-a0fa-afd62288bd6b.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/ec7d8fd4-38d8-4c58-a0fa-afd62288bd6b.jpeg"
+      },
+      {
+        "big": "https://strgimgr.umico.az/img/product/1680/6135d2bb-56df-4953-a735-d641c80db59f.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/6135d2bb-56df-4953-a735-d641c80db59f.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/6135d2bb-56df-4953-a735-d641c80db59f.jpeg"
+      },
+      {
+        "big": "https://strgimgr.umico.az/img/product/1680/ca4aa606-3ee3-4264-8517-4f4844fa0ca6.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/ca4aa606-3ee3-4264-8517-4f4844fa0ca6.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/ca4aa606-3ee3-4264-8517-4f4844fa0ca6.jpeg"
+      },
+      {
+        "big": "https://strgimgr.umico.az/img/product/1680/81241851-da25-4ce7-9670-cbfb58742d58.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/81241851-da25-4ce7-9670-cbfb58742d58.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/81241851-da25-4ce7-9670-cbfb58742d58.jpeg"
+      },
+      {
+        "big": "https://strgimgr.umico.az/img/product/1680/15a5312d-0be9-441d-9a9c-2915d2089512.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/15a5312d-0be9-441d-9a9c-2915d2089512.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/15a5312d-0be9-441d-9a9c-2915d2089512.jpeg"
+      }
+    ],
+    "videos": [],
+    "min_qty": 1,
+    "preorder_available": false,
+    "is_assortment": false,
+    "is_bulk_heavy": false,
+    "is_refurbished": false,
+    "is_refundable": true,
+    "is_dangerous": false,
+    "show_tech_description": false,
+    "use_external_content": true,
+    "product_labels": [],
+    "ratings": {
+      "rating_value": 0,
+      "assessment_id": 0,
+      "session_count": 0
+    },
+    "default_show_stock_qty_threshold": 0,
+    "card_type": "public"
+  },
+  "category": {
+    "id": 3177,
+    "name": "Kişi krosovkaları və kedləri",
+    "slugged_name_az": "kishi-krosovkalari",
+    "slugged_name_ru": "krossovki-muzhskie",
+    "view_mode": "products",
+    "mobile_visual_mode": "text",
+    "is_variant": false,
+    "depth": 3,
+    "parent_id": 3174,
+    "child_ids": [],
+    "node_type": "NODE",
+    "install_service_needed": false,
+    "fitting_allowed": true,
+    "vat": true,
+    "variations": [
+      {
+        "master_field_id": 1423,
+        "name": "Ölçü",
+        "variation_tool_type": "button",
+        "has_size_chart": true,
+        "display_variant": true
+      },
+      {
+        "master_field_id": 625,
+        "name": "Rəng",
+        "variation_tool_type": "image",
+        "has_size_chart": false,
+        "display_variant": true
+      }
+    ],
+    "custom_fields": [
+      {
+        "master_field_id": 620,
+        "category_master_field_id": 30908,
+        "name": "Tip"
+      },
+      {
+        "master_field_id": 625,
+        "category_master_field_id": 25206,
+        "name": "Rəng"
+      },
+      {
+        "master_field_id": 637,
+        "category_master_field_id": 25207,
+        "name": "Material"
+      },
+      {
+        "master_field_id": 1423,
+        "category_master_field_id": 25205,
+        "name": "Ölçü"
+      },
+      {
+        "master_field_id": 2103,
+        "category_master_field_id": 25204,
+        "name": "Fəsil"
+      },
+      {
+        "master_field_id": 4515,
+        "category_master_field_id": 30909,
+        "name": "İdman növü"
+      },
+      {
+        "master_field_id": 5943,
+        "category_master_field_id": 37260,
+        "name": "Dikdaban tipi"
+      },
+      {
+        "master_field_id": 2482,
+        "category_master_field_id": 30911,
+        "name": "Üslub"
+      },
+      {
+        "master_field_id": 618,
+        "category_master_field_id": 30912,
+        "name": "İstehsalçı ölkə"
+      },
+      {
+        "master_field_id": 2210,
+        "category_master_field_id": 30913,
+        "name": "Brendin ölkəsi"
+      }
+    ],
+    "parent": {
+      "id": 3174,
+      "node_type": "NODE",
+      "name": "Kişi ayaqqabıları",
+      "slugged_name": "kishi-ayaqqabilari",
+      "parent": {
+        "id": 3117,
+        "node_type": "NODE",
+        "name": "Kişilər üçün",
+        "slugged_name": "kishi",
+        "parent": {
+          "id": 3003,
+          "node_type": "NODE",
+          "name": "Geyim,ayaqqabı və aksessuarlar",
+          "slugged_name": "geyim-ve-ayaqqabi",
+          "parent": null
+        }
+      }
+    },
+    "is_refundable": true,
+    "is_adult": false,
+    "icons": {
+      "thumbnail": "https://strgimgr.umico.az/img/category/188/8701f1fd-b237-4ee2-bce5-ed487408e3d4.jpeg",
+      "original": "https://strgimgr.umico.az/img/category/original/8701f1fd-b237-4ee2-bce5-ed487408e3d4.png"
+    },
+    "is_active": true
+  },
+  "offers": [
+    {
+      "uuid": "0fc24aca-c59b-4787-955d-14ee21d76166",
+      "installment_enabled": true,
+      "max_installment_months": 3,
+      "product_offer_labels": [],
+      "old_price": 118.49,
+      "retail_price": 54.89,
+      "supplier_id": "fdee1007-f8f6-45f3-bc58-0172bb9e2406",
+      "seller": {
+        "ext_id": "e292d430-aff2-4f7a-8a80-49f5dea181b2",
+        "internal_id": 4275,
+        "marketing_name": {
+          "id": 4275,
+          "name": "Moonlight Boutique"
+        },
+        "logo": {
+          "thumbnail": "https://storage.umico.az/cpcustomerprod01/3437f1ffb48463d503d0c079c7d2c792.jpg"
+        },
+        "vat_payer": false,
+        "rating": 96,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "allow_qty": 0
+    }
+  ],
+  "variations": [
+    {
+      "id": 1857363,
+      "name": "Kişilər üçün krosovkalar ML_2605, qara, zamşa, ölçü 44",
+      "slugged_name": "kishiler-uchun-krosovkalar-ml_2605-qara-zamsha-olchu-44-ml_2605_qara_44",
+      "custom_fields": [
+        {
+          "master_field_id": 1423,
+          "values": [
+            "44"
+          ]
+        },
+        {
+          "master_field_id": 625,
+          "values": [
+            "Qara"
+          ]
+        }
+      ],
+      "main_img": {
+        "big": "https://strgimgr.umico.az/img/product/1680/fe286a7e-5971-46fe-90cd-417d20e110fe.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/fe286a7e-5971-46fe-90cd-417d20e110fe.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/fe286a7e-5971-46fe-90cd-417d20e110fe.jpeg"
+      },
+      "status": "active"
+    },
+    {
+      "id": 1857335,
+      "name": "Kişilər üçün krosovkalar ML_2605, qara, zamşa, ölçü 40",
+      "slugged_name": "kishiler-uchun-krosovkalar-ml_2605-qara-zamsha-olchu-40-ml_2605_qara_40",
+      "custom_fields": [
+        {
+          "master_field_id": 1423,
+          "values": [
+            "40"
+          ]
+        },
+        {
+          "master_field_id": 625,
+          "values": [
+            "Qara"
+          ]
+        }
+      ],
+      "main_img": {
+        "big": "https://strgimgr.umico.az/img/product/1680/6656fec0-4024-463b-b2d0-23196e2ea707.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/6656fec0-4024-463b-b2d0-23196e2ea707.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/6656fec0-4024-463b-b2d0-23196e2ea707.jpeg"
+      },
+      "status": "active"
+    },
+    {
+      "id": 1857340,
+      "name": "Kişilər üçün krosovkalar ML_2605, qara, zamşa, ölçü 41",
+      "slugged_name": "kishiler-uchun-krosovkalar-ml_2605-qara-zamsha-olchu-41-ml_2605_qara_41",
+      "custom_fields": [
+        {
+          "master_field_id": 1423,
+          "values": [
+            "41"
+          ]
+        },
+        {
+          "master_field_id": 625,
+          "values": [
+            "Qara"
+          ]
+        }
+      ],
+      "main_img": {
+        "big": "https://strgimgr.umico.az/img/product/1680/5b9a3268-f361-45cd-96cd-5a12203de7c3.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/5b9a3268-f361-45cd-96cd-5a12203de7c3.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/5b9a3268-f361-45cd-96cd-5a12203de7c3.jpeg"
+      },
+      "status": "active"
+    },
+    {
+      "id": 1857345,
+      "name": "Kişilər üçün krosovkalar ML_2605, qara, zamşa, ölçü 42",
+      "slugged_name": "kishiler-uchun-krosovkalar-ml_2605-qara-zamsha-olchu-42-ml_2605_qara_42",
+      "custom_fields": [
+        {
+          "master_field_id": 1423,
+          "values": [
+            "42"
+          ]
+        },
+        {
+          "master_field_id": 625,
+          "values": [
+            "Qara"
+          ]
+        }
+      ],
+      "main_img": {
+        "big": "https://strgimgr.umico.az/img/product/1680/5f65283d-62d3-44d3-b1c6-f64bc18540f8.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/5f65283d-62d3-44d3-b1c6-f64bc18540f8.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/5f65283d-62d3-44d3-b1c6-f64bc18540f8.jpeg"
+      },
+      "status": "active"
+    },
+    {
+      "id": 1857352,
+      "name": "Kişilər üçün krosovkalar ML_2605, qara, zamşa, ölçü 43",
+      "slugged_name": "kishiler-uchun-krosovkalar-ml_2605-qara-zamsha-olchu-43-ml_2605_qara_43",
+      "custom_fields": [
+        {
+          "master_field_id": 1423,
+          "values": [
+            "43"
+          ]
+        },
+        {
+          "master_field_id": 625,
+          "values": [
+            "Qara"
+          ]
+        }
+      ],
+      "main_img": {
+        "big": "https://strgimgr.umico.az/img/product/1680/c03f4711-8c59-4234-bb67-09ab01d96b98.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/c03f4711-8c59-4234-bb67-09ab01d96b98.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/c03f4711-8c59-4234-bb67-09ab01d96b98.jpeg"
+      },
+      "status": "active"
+    }
+  ],
+  "size_chart": {},
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "sku": 1857335,
+    "mpn": "ML_2605_qara_40",
+    "url": "https://birmarket.az/product/1857335-kishiler-uchun-krosovkalar-ml_2605-qara-zamsha-olchu-40-ml_2605_qara_40",
+    "name": "Kişilər üçün krosovkalar ML_2605, qara, zamşa, ölçü 40",
+    "image": [
+      "https://strgimgr.umico.az/img/product/1680/6656fec0-4024-463b-b2d0-23196e2ea707.jpeg",
+      "https://strgimgr.umico.az/img/product/1680/5915e3b2-c582-401e-b066-5b24bd7fcb0b.jpeg",
+      "https://strgimgr.umico.az/img/product/1680/ec7d8fd4-38d8-4c58-a0fa-afd62288bd6b.jpeg",
+      "https://strgimgr.umico.az/img/product/1680/6135d2bb-56df-4953-a735-d641c80db59f.jpeg",
+      "https://strgimgr.umico.az/img/product/1680/ca4aa606-3ee3-4264-8517-4f4844fa0ca6.jpeg",
+      "https://strgimgr.umico.az/img/product/1680/81241851-da25-4ce7-9670-cbfb58742d58.jpeg",
+      "https://strgimgr.umico.az/img/product/1680/15a5312d-0be9-441d-9a9c-2915d2089512.jpeg"
+    ],
+    "description": "Kişilər üçün zamşa materialdan hazırlanmış krosovka gündəlik və aktiv istifadə üçün nəzərdə tutulmuşdur, yumşaq və davamlı üst material ayağın rahat nəfəs almasını təmin edir, anatomik qəlibi və iç hissəsinin komfortlu quruluşu uzun müddət geyim zamanı yorğunluğu azaldır, sürüşməyə qarşı dayanıqlı altlıq sabit addım və etibarlı yol tutumu yaradır, müasir dizaynı isə gündəlik geyim və idman üslubu ilə asanlıqla uyğunlaşır.",
+    "itemCondition": "https://schema.org/NewCondition",
+    "offers": {
+      "@type": "Offer",
+      "availability": "https://schema.org/InStock",
+      "url": "https://birmarket.az/product/1857335-kishiler-uchun-krosovkalar-ml_2605-qara-zamsha-olchu-40-ml_2605_qara_40",
+      "price": 54.89,
+      "priceCurrency": "AZN",
+      "priceValidUntil": "2026-12-03T05:32:40+00:00Z",
+      "hasMerchantReturnPolicy": {
+        "applicableCountry": "AZ",
+        "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+        "returnMethod": "https://schema.org/ReturnInStore",
+        "returnFees": "https://schema.org/FreeReturn",
+        "merchantReturnDays": 14
+      },
+      "shippingDetails": {
+        "@type": "OfferShippingDetails",
+        "shippingDestination": {
+          "@type": "DefinedRegion",
+          "addressCountry": "AZ"
+        },
+        "deliveryTime": {
+          "@type": "ShippingDeliveryTime",
+          "handlingTime": {
+            "@type": "QuantitativeValue",
+            "minValue": 0,
+            "maxValue": 1,
+            "unitCode": "DAY"
+          },
+          "transitTime": {
+            "@type": "QuantitativeValue",
+            "minValue": 0,
+            "maxValue": 1,
+            "unitCode": "DAY"
+          },
+          "businessDays": {
+            "@type": "OpeningHoursSpecification",
+            "dayOfWeek": [
+              "https://schema.org/Monday",
+              "https://schema.org/Tuesday",
+              "https://schema.org/Wednesday",
+              "https://schema.org/Thursday",
+              "https://schema.org/Friday",
+              "https://schema.org/Saturday",
+              "https://schema.org/Sunday"
+            ]
+          }
+        },
+        "shippingRate": {
+          "@type": "MonetaryAmount",
+          "value": 0,
+          "currency": "AZN"
+        }
+      }
+    },
+    "brand": {
+      "@type": "Brand",
+      "name": "No Brand",
+      "url": "https://birmarket.az/brands/No%20Brand"
+    }
+  }
+}

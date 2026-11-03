@@ -201,3 +201,30 @@ def test_bad_image_rejected(client):
         data={"request_id": str(uuid.uuid4())},
     )
     assert r.status_code == 400
+
+
+def test_delete_chat_removes_log_and_allows_other_chats_to_continue(client, offline):
+    sid, other = create(client), create(client)
+    send(client, sid, 'Show me laptops')
+    send(client, sid, 'Add P001 to cart')
+    directory = client.app.state.store.directory
+    assert (directory / f'{sid}.jsonl').exists()
+    response = client.delete(f'/api/sessions/{sid}')
+    assert response.status_code == 200 and response.json()['deleted'] == sid
+    assert not (directory / f'{sid}.jsonl').exists()
+    assert {s['id'] for s in client.get('/api/sessions').json()} == {other}
+    for suffix in ['', '/export']:
+        assert client.get(f'/api/sessions/{sid}{suffix}').status_code == 404
+    assert client.post(f'/api/sessions/{sid}/messages', json={'text':'Show flights'}).status_code == 404
+    assert not (directory / f'{sid}.jsonl').exists()
+    reopened = TestClient(create_app(directory, DATA_DIR, offline))
+    assert reopened.get(f'/api/sessions/{sid}').status_code == 404
+    assert send(reopened, other, 'Show laptops')['reply']['sections'][0]['cards']
+
+
+def test_delete_chat_rejects_invalid_ids_and_cross_origin_requests(client):
+    sid = create(client)
+    assert client.delete('/api/sessions/not-a-uuid').status_code == 400
+    assert client.delete(f'/api/sessions/{sid}', headers={'origin':'https://unrelated.example'}).status_code == 403
+    assert client.get(f'/api/sessions/{sid}').status_code == 200
+    assert client.delete(f'/api/sessions/{uuid.uuid4()}').status_code == 404

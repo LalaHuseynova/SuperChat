@@ -1,0 +1,393 @@
+{
+  "product": {
+    "id": 1397417,
+    "gtin": "",
+    "mpn": "FX1235_black",
+    "name": "Bel çantası FX1235, eko dəri, 32x48 sm, qara",
+    "slugged_name_az": "yol-chantasi-eko-deri-32x48-turkiye-rahat-ve-keyfiyyetli-fx1235_black",
+    "slugged_name_ru": "dorozhnaya-sumka-eko-kozha-32x48-turtsiya-udobnaya-i-kachestvennaya-fx1235_black",
+    "description": "Eko dəri.rahat və keyfiyyətli .əşyaları rahat yerləşdirmək olur.ölçü 32x48.Türkiyə",
+    "description_outlet": "",
+    "status": "active",
+    "uuid": "122b7298-07e0-424b-8c06-82dfc35c5f0d",
+    "variant_code": "VC_1397417",
+    "default_offer": {
+      "uuid": "3c68cba5-b81b-440a-9f54-b547fbf5e947",
+      "installment_enabled": true,
+      "max_installment_months": 18,
+      "product_offer_labels": [],
+      "old_price": 95,
+      "retail_price": 79,
+      "supplier_id": "38ba9fe7-3998-46aa-a9bd-009df491c022",
+      "qty": 0,
+      "seller": {
+        "ext_id": "38ba9fe7-3998-46aa-a9bd-009df491c022",
+        "marketing_name": {
+          "id": 7028,
+          "name": "Bagglo"
+        },
+        "logo": {
+          "thumbnail": ""
+        },
+        "vat_payer": false,
+        "rating": 100,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "discount_effective_start_date": "",
+      "discount_effective_end_date": ""
+    },
+    "category_id": 2283,
+    "category": {
+      "id": 2283,
+      "name": "Şəhər bel çantaları"
+    },
+    "brand": {
+      "name": "No Brand"
+    },
+    "custom_fields": [
+      {
+        "master_field_id": 625,
+        "values": [
+          "Qara"
+        ]
+      },
+      {
+        "master_field_id": 637,
+        "values": [
+          "Eko dəri"
+        ]
+      },
+      {
+        "master_field_id": 1412,
+        "values": [
+          "32"
+        ]
+      },
+      {
+        "master_field_id": 1206,
+        "values": [
+          "48"
+        ]
+      },
+      {
+        "master_field_id": 639,
+        "values": [
+          "Zəncirbənd"
+        ]
+      },
+      {
+        "master_field_id": 761,
+        "values": [
+          "Hər kəs üçün"
+        ]
+      },
+      {
+        "master_field_id": 638,
+        "values": [
+          "Printsiz və naxışsız"
+        ]
+      },
+      {
+        "master_field_id": 2637,
+        "values": [
+          "Yumşaq"
+        ]
+      },
+      {
+        "master_field_id": 618,
+        "values": [
+          "Türkiyə"
+        ]
+      }
+    ],
+    "main_img": {
+      "big": "https://strgimgr.umico.az/img/product/1680/1df7847c-60aa-4edf-a4e1-ad825945668a.jpeg",
+      "medium": "https://strgimgr.umico.az/img/product/840/1df7847c-60aa-4edf-a4e1-ad825945668a.jpeg",
+      "small": "https://strgimgr.umico.az/img/product/280/1df7847c-60aa-4edf-a4e1-ad825945668a.jpeg"
+    },
+    "img_url_thumbnail": "https://strgimgr.umico.az/img/product/280/1df7847c-60aa-4edf-a4e1-ad825945668a.jpeg",
+    "main_video": "",
+    "imgs": [
+      {
+        "big": "https://strgimgr.umico.az/img/product/1680/1df7847c-60aa-4edf-a4e1-ad825945668a.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/1df7847c-60aa-4edf-a4e1-ad825945668a.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/1df7847c-60aa-4edf-a4e1-ad825945668a.jpeg"
+      }
+    ],
+    "videos": [],
+    "min_qty": 1,
+    "preorder_available": false,
+    "is_assortment": false,
+    "is_bulk_heavy": false,
+    "is_refurbished": false,
+    "is_refundable": true,
+    "is_dangerous": false,
+    "show_tech_description": false,
+    "use_external_content": true,
+    "product_labels": [],
+    "ratings": {
+      "rating_value": 0,
+      "assessment_id": 0,
+      "session_count": 0
+    },
+    "default_show_stock_qty_threshold": 0,
+    "card_type": "public"
+  },
+  "category": {
+    "id": 2283,
+    "name": "Şəhər bel çantaları",
+    "slugged_name_az": "sheher-bel-chantalari",
+    "slugged_name_ru": "ryukzaki-gorodskie",
+    "view_mode": "products",
+    "mobile_visual_mode": "text",
+    "is_variant": false,
+    "depth": 2,
+    "parent_id": 2267,
+    "child_ids": [],
+    "node_type": "NODE",
+    "install_service_needed": false,
+    "fitting_allowed": false,
+    "vat": true,
+    "variations": [
+      {
+        "master_field_id": 638,
+        "name": "Naxışlar və printlər",
+        "variation_tool_type": "default",
+        "has_size_chart": false,
+        "display_variant": false
+      },
+      {
+        "master_field_id": 625,
+        "name": "Rəng",
+        "variation_tool_type": "default",
+        "has_size_chart": false,
+        "display_variant": false
+      }
+    ],
+    "custom_fields": [
+      {
+        "master_field_id": 625,
+        "category_master_field_id": 11134,
+        "name": "Rəng"
+      },
+      {
+        "master_field_id": 637,
+        "category_master_field_id": 11132,
+        "name": "Material"
+      },
+      {
+        "master_field_id": 639,
+        "category_master_field_id": 11141,
+        "name": "Kilid növü"
+      },
+      {
+        "master_field_id": 1412,
+        "category_master_field_id": 11136,
+        "name": "Uzunluğu, sm"
+      },
+      {
+        "master_field_id": 1206,
+        "category_master_field_id": 11137,
+        "name": "Eni, sm"
+      },
+      {
+        "master_field_id": 761,
+        "category_master_field_id": 11133,
+        "name": "Cins"
+      },
+      {
+        "master_field_id": 908,
+        "category_master_field_id": 11143,
+        "name": "Həcm, L"
+      },
+      {
+        "master_field_id": 638,
+        "category_master_field_id": 11135,
+        "name": "Naxışlar və printlər"
+      },
+      {
+        "master_field_id": 1448,
+        "category_master_field_id": 37676,
+        "name": "Dərinliyi, sm"
+      },
+      {
+        "master_field_id": 762,
+        "category_master_field_id": 11139,
+        "name": "Bölmələrin sayı"
+      },
+      {
+        "master_field_id": 623,
+        "category_master_field_id": 11140,
+        "name": "Xüsusiyyətlər"
+      },
+      {
+        "master_field_id": 2637,
+        "category_master_field_id": 11142,
+        "name": "Bel çantasının arxası"
+      },
+      {
+        "master_field_id": 870,
+        "category_master_field_id": 11144,
+        "name": "Çəki, q"
+      },
+      {
+        "master_field_id": 618,
+        "category_master_field_id": 11145,
+        "name": "İstehsalçı ölkə"
+      },
+      {
+        "master_field_id": 2210,
+        "category_master_field_id": 11146,
+        "name": "Brendin ölkəsi"
+      }
+    ],
+    "parent": {
+      "id": 2267,
+      "node_type": "NODE",
+      "name": "Çantalar, pul kisələri və aksessuarlar",
+      "slugged_name": "chantalar-pul-kiseleri-ve-aksessuarlar",
+      "parent": {
+        "id": 3003,
+        "node_type": "NODE",
+        "name": "Geyim,ayaqqabı və aksessuarlar",
+        "slugged_name": "geyim-ve-ayaqqabi",
+        "parent": null
+      }
+    },
+    "is_refundable": true,
+    "is_adult": false,
+    "icons": {
+      "thumbnail": "https://strgimgr.umico.az/img/category/188/4030f9db-3c53-4a51-905b-ab006bb8b9af.jpeg",
+      "original": "https://strgimgr.umico.az/img/category/original/4030f9db-3c53-4a51-905b-ab006bb8b9af.jpeg"
+    },
+    "is_active": true
+  },
+  "offers": [
+    {
+      "uuid": "3c68cba5-b81b-440a-9f54-b547fbf5e947",
+      "installment_enabled": true,
+      "max_installment_months": 18,
+      "product_offer_labels": [],
+      "old_price": 95,
+      "retail_price": 79,
+      "supplier_id": "38ba9fe7-3998-46aa-a9bd-009df491c022",
+      "seller": {
+        "ext_id": "a7d7d59d-fbed-4026-81a6-edc55650b0e5",
+        "internal_id": 7028,
+        "marketing_name": {
+          "id": 7028,
+          "name": "Bagglo"
+        },
+        "logo": {
+          "thumbnail": ""
+        },
+        "vat_payer": false,
+        "rating": 100,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "allow_qty": 0
+    }
+  ],
+  "variations": [
+    {
+      "id": 1397417,
+      "name": "Bel çantası FX1235, eko dəri, 32x48 sm, qara",
+      "slugged_name": "yol-chantasi-eko-deri-32x48-turkiye-rahat-ve-keyfiyyetli-fx1235_black",
+      "custom_fields": [
+        {
+          "master_field_id": 638,
+          "values": [
+            "Printsiz və naxışsız"
+          ]
+        },
+        {
+          "master_field_id": 625,
+          "values": [
+            "Qara"
+          ]
+        }
+      ],
+      "main_img": {
+        "big": "https://strgimgr.umico.az/img/product/1680/1df7847c-60aa-4edf-a4e1-ad825945668a.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/1df7847c-60aa-4edf-a4e1-ad825945668a.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/1df7847c-60aa-4edf-a4e1-ad825945668a.jpeg"
+      },
+      "status": "active"
+    }
+  ],
+  "size_chart": {},
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "sku": 1397417,
+    "mpn": "FX1235_black",
+    "url": "https://birmarket.az/product/1397417-yol-chantasi-eko-deri-32x48-turkiye-rahat-ve-keyfiyyetli-fx1235_black",
+    "name": "Bel çantası FX1235, eko dəri, 32x48 sm, qara",
+    "image": [
+      "https://strgimgr.umico.az/img/product/1680/1df7847c-60aa-4edf-a4e1-ad825945668a.jpeg"
+    ],
+    "description": "Eko dəri.rahat və keyfiyyətli .əşyaları rahat yerləşdirmək olur.ölçü 32x48.Türkiyə",
+    "itemCondition": "https://schema.org/NewCondition",
+    "offers": {
+      "@type": "Offer",
+      "availability": "https://schema.org/InStock",
+      "url": "https://birmarket.az/product/1397417-yol-chantasi-eko-deri-32x48-turkiye-rahat-ve-keyfiyyetli-fx1235_black",
+      "price": 79,
+      "priceCurrency": "AZN",
+      "priceValidUntil": "2026-12-02T16:39:21+00:00Z",
+      "hasMerchantReturnPolicy": {
+        "applicableCountry": "AZ",
+        "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+        "returnMethod": "https://schema.org/ReturnInStore",
+        "returnFees": "https://schema.org/FreeReturn",
+        "merchantReturnDays": 14
+      },
+      "shippingDetails": {
+        "@type": "OfferShippingDetails",
+        "shippingDestination": {
+          "@type": "DefinedRegion",
+          "addressCountry": "AZ"
+        },
+        "deliveryTime": {
+          "@type": "ShippingDeliveryTime",
+          "handlingTime": {
+            "@type": "QuantitativeValue",
+            "minValue": 0,
+            "maxValue": 1,
+            "unitCode": "DAY"
+          },
+          "transitTime": {
+            "@type": "QuantitativeValue",
+            "minValue": 0,
+            "maxValue": 1,
+            "unitCode": "DAY"
+          },
+          "businessDays": {
+            "@type": "OpeningHoursSpecification",
+            "dayOfWeek": [
+              "https://schema.org/Monday",
+              "https://schema.org/Tuesday",
+              "https://schema.org/Wednesday",
+              "https://schema.org/Thursday",
+              "https://schema.org/Friday",
+              "https://schema.org/Saturday",
+              "https://schema.org/Sunday"
+            ]
+          }
+        },
+        "shippingRate": {
+          "@type": "MonetaryAmount",
+          "value": 0,
+          "currency": "AZN"
+        }
+      }
+    },
+    "brand": {
+      "@type": "Brand",
+      "name": "No Brand",
+      "url": "https://birmarket.az/brands/No%20Brand"
+    }
+  }
+}

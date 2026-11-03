@@ -1,0 +1,411 @@
+{
+  "product": {
+    "id": 318354,
+    "gtin": "",
+    "mpn": "PA-111003",
+    "name": "Bel çantası SmartPack PA-111003, eko dəri, qara",
+    "slugged_name_az": "bel-chantasi-smartpack-pa-111003-eko-deri-qara",
+    "slugged_name_ru": "ryukzak-smartpack-pa-111003-ekokozha-chernyy",
+    "description": "Qadın SmartPack bel çantası ekodəridən ibarətdir. Ölçüsü: 23x27x12sm. Keyfiyyətli metal fitinqlər və materiallar. Şəhər bel çantası rahat tənzimlənən çiyin qayışları ilə təchiz olunmuşdur (yumşaq qayışlardır, çiyinlərə təzyiq etməz), forması yaxşı saxlayır. Bel çantasına bütün lazımi qadın aksesuarları yerləşəcək: ətir, kosmetika, qeyd dəftəri, su şüşəsi, cüzdan, kitab və digər xırda şeylər. Çantanı yuxarıdan tutacaqdan rahat saxlamaq mümkündür. Daxili: kilidli cib, bir böyük bölmə, üç əlavə bölmə. Xarici: ön tərəfdə kilidli cib, 2 açıq yan cib (eynək, su yerləşdirmək olar), bel çantasının arxa tərəfində fermuarlı cib (sənədlər, telefon üçün uyğundur). Dəri bel çantası qıza, həmçinin anaya və qıza əla hədiyyədir. İdman bel çantası həm ofis, həm də gündəlik istifadə üçün mükəmməldir. RƏNG QARA. Tərkibi ekodəri 100%",
+    "description_outlet": "",
+    "status": "active",
+    "uuid": "1468b0c6-dcd9-4cae-aa61-ee0e0901f4ca",
+    "variant_code": "Paint Art_PA-111001",
+    "default_offer": {
+      "uuid": "bdf87681-c19a-4d13-8a4d-c068811ff54d",
+      "installment_enabled": true,
+      "max_installment_months": 3,
+      "product_offer_labels": [],
+      "old_price": 77,
+      "retail_price": 15,
+      "supplier_id": "b1d83e11-c6f5-4070-b7bb-edc339d94fc8",
+      "qty": 0,
+      "seller": {
+        "ext_id": "b1d83e11-c6f5-4070-b7bb-edc339d94fc8",
+        "marketing_name": {
+          "id": 3012,
+          "name": "Paint Art"
+        },
+        "logo": {
+          "thumbnail": "https://storage.umico.az/cpcustomerprod01/8d6b4584be6621ca8b4a4588a6173e52.jpg"
+        },
+        "vat_payer": false,
+        "rating": 100,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "discount_effective_start_date": "",
+      "discount_effective_end_date": ""
+    },
+    "category_id": 2283,
+    "category": {
+      "id": 2283,
+      "name": "Şəhər bel çantaları"
+    },
+    "brand": {
+      "name": "SmartPack"
+    },
+    "custom_fields": [
+      {
+        "master_field_id": 625,
+        "values": [
+          "Qara"
+        ]
+      },
+      {
+        "master_field_id": 637,
+        "values": [
+          "Eko dəri"
+        ]
+      },
+      {
+        "master_field_id": 1412,
+        "values": [
+          "27"
+        ]
+      },
+      {
+        "master_field_id": 1206,
+        "values": [
+          "23"
+        ]
+      },
+      {
+        "master_field_id": 639,
+        "values": [
+          "Zəncirbənd"
+        ]
+      },
+      {
+        "master_field_id": 761,
+        "values": [
+          "Qadın"
+        ]
+      },
+      {
+        "master_field_id": 638,
+        "values": [
+          "Naxışsız və printsiz"
+        ]
+      },
+      {
+        "master_field_id": 1448,
+        "values": [
+          "12"
+        ]
+      },
+      {
+        "master_field_id": 623,
+        "values": [
+          "Tənzimlənən tutacaqlar ilə"
+        ]
+      },
+      {
+        "master_field_id": 2637,
+        "values": [
+          "Yumşaq"
+        ]
+      }
+    ],
+    "main_img": {
+      "big": "https://strgimgr.umico.az/sized/1680/318354-9d4a8d68c6801a61d02de7a3d44cf8e3.jpg",
+      "medium": "https://strgimgr.umico.az/sized/840/318354-9d4a8d68c6801a61d02de7a3d44cf8e3.jpg",
+      "small": "https://strgimgr.umico.az/sized/280/318354-9d4a8d68c6801a61d02de7a3d44cf8e3.jpg"
+    },
+    "img_url_thumbnail": "https://strgimgr.umico.az/sized/280/318354-9d4a8d68c6801a61d02de7a3d44cf8e3.jpg",
+    "main_video": "",
+    "imgs": [
+      {
+        "big": "https://strgimgr.umico.az/sized/1680/318354-9d4a8d68c6801a61d02de7a3d44cf8e3.jpg",
+        "medium": "https://strgimgr.umico.az/sized/840/318354-9d4a8d68c6801a61d02de7a3d44cf8e3.jpg",
+        "small": "https://strgimgr.umico.az/sized/280/318354-9d4a8d68c6801a61d02de7a3d44cf8e3.jpg"
+      },
+      {
+        "big": "https://strgimgr.umico.az/sized/1680/318354-1c55be0d6dc62b8587d64064b711d9da.jpg",
+        "medium": "https://strgimgr.umico.az/sized/840/318354-1c55be0d6dc62b8587d64064b711d9da.jpg",
+        "small": "https://strgimgr.umico.az/sized/280/318354-1c55be0d6dc62b8587d64064b711d9da.jpg"
+      },
+      {
+        "big": "https://strgimgr.umico.az/sized/1680/318354-aa11650b94670c585b89ad0d091c720d.jpg",
+        "medium": "https://strgimgr.umico.az/sized/840/318354-aa11650b94670c585b89ad0d091c720d.jpg",
+        "small": "https://strgimgr.umico.az/sized/280/318354-aa11650b94670c585b89ad0d091c720d.jpg"
+      }
+    ],
+    "videos": [],
+    "min_qty": 1,
+    "preorder_available": false,
+    "is_assortment": false,
+    "is_bulk_heavy": false,
+    "is_refurbished": false,
+    "is_refundable": true,
+    "is_dangerous": false,
+    "show_tech_description": false,
+    "use_external_content": true,
+    "product_labels": [],
+    "ratings": {
+      "rating_value": 0,
+      "assessment_id": 0,
+      "session_count": 0
+    },
+    "default_show_stock_qty_threshold": 0,
+    "card_type": "public"
+  },
+  "category": {
+    "id": 2283,
+    "name": "Şəhər bel çantaları",
+    "slugged_name_az": "sheher-bel-chantalari",
+    "slugged_name_ru": "ryukzaki-gorodskie",
+    "view_mode": "products",
+    "mobile_visual_mode": "text",
+    "is_variant": false,
+    "depth": 2,
+    "parent_id": 2267,
+    "child_ids": [],
+    "node_type": "NODE",
+    "install_service_needed": false,
+    "fitting_allowed": false,
+    "vat": true,
+    "variations": [
+      {
+        "master_field_id": 638,
+        "name": "Naxışlar və printlər",
+        "variation_tool_type": "default",
+        "has_size_chart": false,
+        "display_variant": false
+      },
+      {
+        "master_field_id": 625,
+        "name": "Rəng",
+        "variation_tool_type": "default",
+        "has_size_chart": false,
+        "display_variant": false
+      }
+    ],
+    "custom_fields": [
+      {
+        "master_field_id": 625,
+        "category_master_field_id": 11134,
+        "name": "Rəng"
+      },
+      {
+        "master_field_id": 637,
+        "category_master_field_id": 11132,
+        "name": "Material"
+      },
+      {
+        "master_field_id": 639,
+        "category_master_field_id": 11141,
+        "name": "Kilid növü"
+      },
+      {
+        "master_field_id": 1412,
+        "category_master_field_id": 11136,
+        "name": "Uzunluğu, sm"
+      },
+      {
+        "master_field_id": 1206,
+        "category_master_field_id": 11137,
+        "name": "Eni, sm"
+      },
+      {
+        "master_field_id": 761,
+        "category_master_field_id": 11133,
+        "name": "Cins"
+      },
+      {
+        "master_field_id": 908,
+        "category_master_field_id": 11143,
+        "name": "Həcm, L"
+      },
+      {
+        "master_field_id": 638,
+        "category_master_field_id": 11135,
+        "name": "Naxışlar və printlər"
+      },
+      {
+        "master_field_id": 1448,
+        "category_master_field_id": 37676,
+        "name": "Dərinliyi, sm"
+      },
+      {
+        "master_field_id": 762,
+        "category_master_field_id": 11139,
+        "name": "Bölmələrin sayı"
+      },
+      {
+        "master_field_id": 623,
+        "category_master_field_id": 11140,
+        "name": "Xüsusiyyətlər"
+      },
+      {
+        "master_field_id": 2637,
+        "category_master_field_id": 11142,
+        "name": "Bel çantasının arxası"
+      },
+      {
+        "master_field_id": 870,
+        "category_master_field_id": 11144,
+        "name": "Çəki, q"
+      },
+      {
+        "master_field_id": 618,
+        "category_master_field_id": 11145,
+        "name": "İstehsalçı ölkə"
+      },
+      {
+        "master_field_id": 2210,
+        "category_master_field_id": 11146,
+        "name": "Brendin ölkəsi"
+      }
+    ],
+    "parent": {
+      "id": 2267,
+      "node_type": "NODE",
+      "name": "Çantalar, pul kisələri və aksessuarlar",
+      "slugged_name": "chantalar-pul-kiseleri-ve-aksessuarlar",
+      "parent": {
+        "id": 3003,
+        "node_type": "NODE",
+        "name": "Geyim,ayaqqabı və aksessuarlar",
+        "slugged_name": "geyim-ve-ayaqqabi",
+        "parent": null
+      }
+    },
+    "is_refundable": true,
+    "is_adult": false,
+    "icons": {
+      "thumbnail": "https://strgimgr.umico.az/img/category/188/4030f9db-3c53-4a51-905b-ab006bb8b9af.jpeg",
+      "original": "https://strgimgr.umico.az/img/category/original/4030f9db-3c53-4a51-905b-ab006bb8b9af.jpeg"
+    },
+    "is_active": true
+  },
+  "offers": [
+    {
+      "uuid": "bdf87681-c19a-4d13-8a4d-c068811ff54d",
+      "installment_enabled": true,
+      "max_installment_months": 3,
+      "product_offer_labels": [],
+      "old_price": 77,
+      "retail_price": 15,
+      "supplier_id": "b1d83e11-c6f5-4070-b7bb-edc339d94fc8",
+      "seller": {
+        "ext_id": "ea821d43-7537-41a4-8c49-fc8d35051c05",
+        "internal_id": 3012,
+        "marketing_name": {
+          "id": 3012,
+          "name": "Paint Art"
+        },
+        "logo": {
+          "thumbnail": "https://storage.umico.az/cpcustomerprod01/8d6b4584be6621ca8b4a4588a6173e52.jpg"
+        },
+        "vat_payer": false,
+        "rating": 100,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "allow_qty": 0
+    }
+  ],
+  "variations": [
+    {
+      "id": 318354,
+      "name": "Bel çantası SmartPack PA-111003, eko dəri, qara",
+      "slugged_name": "bel-chantasi-smartpack-pa-111003-eko-deri-qara",
+      "custom_fields": [
+        {
+          "master_field_id": 638,
+          "values": [
+            "Naxışsız və printsiz"
+          ]
+        },
+        {
+          "master_field_id": 625,
+          "values": [
+            "Qara"
+          ]
+        }
+      ],
+      "main_img": {
+        "big": "https://strgimgr.umico.az/sized/1680/318354-9d4a8d68c6801a61d02de7a3d44cf8e3.jpg",
+        "medium": "https://strgimgr.umico.az/sized/840/318354-9d4a8d68c6801a61d02de7a3d44cf8e3.jpg",
+        "small": "https://strgimgr.umico.az/sized/280/318354-9d4a8d68c6801a61d02de7a3d44cf8e3.jpg"
+      },
+      "status": "active"
+    }
+  ],
+  "size_chart": {},
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "sku": 318354,
+    "mpn": "PA-111003",
+    "url": "https://birmarket.az/product/318354-bel-chantasi-smartpack-pa-111003-eko-deri-qara",
+    "name": "Bel çantası SmartPack PA-111003, eko dəri, qara",
+    "image": [
+      "https://strgimgr.umico.az/sized/1680/318354-9d4a8d68c6801a61d02de7a3d44cf8e3.jpg",
+      "https://strgimgr.umico.az/sized/1680/318354-1c55be0d6dc62b8587d64064b711d9da.jpg",
+      "https://strgimgr.umico.az/sized/1680/318354-aa11650b94670c585b89ad0d091c720d.jpg"
+    ],
+    "description": "Qadın SmartPack bel çantası ekodəridən ibarətdir. Ölçüsü: 23x27x12sm. Keyfiyyətli metal fitinqlər və materiallar. Şəhər bel çantası rahat tənzimlənən çiyin qayışları ilə təchiz olunmuşdur (yumşaq qayışlardır, çiyinlərə təzyiq etməz), forması yaxşı saxlayır. Bel çantasına bütün lazımi qadın aksesuarları yerləşəcək: ətir, kosmetika, qeyd dəftəri, su şüşəsi, cüzdan, kitab və digər xırda şeylər. Çantanı yuxarıdan tutacaqdan rahat saxlamaq mümkündür. Daxili: kilidli cib, bir böyük bölmə, üç əlavə bölmə. Xarici: ön tərəfdə kilidli cib, 2 açıq yan cib (eynək, su yerləşdirmək olar), bel çantasının arxa tərəfində fermuarlı cib (sənədlər, telefon üçün uyğundur). Dəri bel çantası qıza, həmçinin anaya və qıza əla hədiyyədir. İdman bel çantası həm ofis, həm də gündəlik istifadə üçün mükəmməldir. RƏNG QARA. Tərkibi ekodəri 100%",
+    "itemCondition": "https://schema.org/NewCondition",
+    "offers": {
+      "@type": "Offer",
+      "availability": "https://schema.org/InStock",
+      "url": "https://birmarket.az/product/318354-bel-chantasi-smartpack-pa-111003-eko-deri-qara",
+      "price": 15,
+      "priceCurrency": "AZN",
+      "priceValidUntil": "2026-12-03T05:18:53+00:00Z",
+      "hasMerchantReturnPolicy": {
+        "applicableCountry": "AZ",
+        "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+        "returnMethod": "https://schema.org/ReturnInStore",
+        "returnFees": "https://schema.org/FreeReturn",
+        "merchantReturnDays": 14
+      },
+      "shippingDetails": {
+        "@type": "OfferShippingDetails",
+        "shippingDestination": {
+          "@type": "DefinedRegion",
+          "addressCountry": "AZ"
+        },
+        "deliveryTime": {
+          "@type": "ShippingDeliveryTime",
+          "handlingTime": {
+            "@type": "QuantitativeValue",
+            "minValue": 0,
+            "maxValue": 1,
+            "unitCode": "DAY"
+          },
+          "transitTime": {
+            "@type": "QuantitativeValue",
+            "minValue": 0,
+            "maxValue": 1,
+            "unitCode": "DAY"
+          },
+          "businessDays": {
+            "@type": "OpeningHoursSpecification",
+            "dayOfWeek": [
+              "https://schema.org/Monday",
+              "https://schema.org/Tuesday",
+              "https://schema.org/Wednesday",
+              "https://schema.org/Thursday",
+              "https://schema.org/Friday",
+              "https://schema.org/Saturday",
+              "https://schema.org/Sunday"
+            ]
+          }
+        },
+        "shippingRate": {
+          "@type": "MonetaryAmount",
+          "value": 0,
+          "currency": "AZN"
+        }
+      }
+    },
+    "brand": {
+      "@type": "Brand",
+      "name": "SmartPack",
+      "url": "https://birmarket.az/brands/SmartPack"
+    }
+  }
+}

@@ -1,0 +1,357 @@
+{
+  "product": {
+    "id": 984886,
+    "gtin": "",
+    "mpn": "Oyuncaqimaz_187",
+    "name": "Masaüstü oyun Monopoliya Mini Baku 187",
+    "slugged_name_az": "masaustu-oyun-monopoliya-mini-baku-187",
+    "slugged_name_ru": "nastolnaya-igra-monopoliya-mini-baku-187",
+    "description": "Mini-Bakı oyunu Bakının 8 rayonunu əhatə edir. Bütün məzmun Azərbaycan dilindədir. Kartlar milli ruhda hazırlanır və milli dəyərlərə uyğundur. ",
+    "description_outlet": "",
+    "status": "active",
+    "uuid": "983365ec-8443-4bfd-901f-880efcf76e48",
+    "variant_code": "VC_984886",
+    "default_offer": {
+      "uuid": "acf6d84f-b2dd-474b-b49c-8a1972c22d7d",
+      "installment_enabled": true,
+      "max_installment_months": 18,
+      "product_offer_labels": [],
+      "old_price": 0,
+      "retail_price": 22.07,
+      "supplier_id": "3060c2e2-2489-4567-9bb1-c22a866de50b",
+      "qty": 0,
+      "seller": {
+        "ext_id": "3060c2e2-2489-4567-9bb1-c22a866de50b",
+        "marketing_name": {
+          "id": 5999,
+          "name": "Ultra"
+        },
+        "logo": {
+          "thumbnail": "https://storage.umico.az/cpcustomerprod01/03f5ecf9c36ce3870177883a0c8ce9fa.jpg"
+        },
+        "vat_payer": false,
+        "rating": 96,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "discount_effective_start_date": "",
+      "discount_effective_end_date": ""
+    },
+    "category_id": 1344,
+    "category": {
+      "id": 1344,
+      "name": "Masaüstü oyunlar"
+    },
+    "brand": {
+      "name": "No Brand"
+    },
+    "custom_fields": [
+      {
+        "master_field_id": 2634,
+        "values": [
+          "Stolüstü oyun"
+        ]
+      },
+      {
+        "master_field_id": 761,
+        "values": [
+          "Hər kəs üçün"
+        ]
+      },
+      {
+        "master_field_id": 750,
+        "values": [
+          "İrəli hərəkət oyunu"
+        ]
+      },
+      {
+        "master_field_id": 3917,
+        "values": [
+          "Digər"
+        ]
+      },
+      {
+        "master_field_id": 618,
+        "values": [
+          "Çin"
+        ]
+      }
+    ],
+    "main_img": {
+      "big": "https://strgimgr.umico.az/sized/1680/984886-c43e34b873ca7093b97dad4586f08c8c.jpg",
+      "medium": "https://strgimgr.umico.az/sized/840/984886-c43e34b873ca7093b97dad4586f08c8c.jpg",
+      "small": "https://strgimgr.umico.az/sized/280/984886-c43e34b873ca7093b97dad4586f08c8c.jpg"
+    },
+    "img_url_thumbnail": "https://strgimgr.umico.az/sized/280/984886-c43e34b873ca7093b97dad4586f08c8c.jpg",
+    "main_video": "",
+    "imgs": [
+      {
+        "big": "https://strgimgr.umico.az/sized/1680/984886-c43e34b873ca7093b97dad4586f08c8c.jpg",
+        "medium": "https://strgimgr.umico.az/sized/840/984886-c43e34b873ca7093b97dad4586f08c8c.jpg",
+        "small": "https://strgimgr.umico.az/sized/280/984886-c43e34b873ca7093b97dad4586f08c8c.jpg"
+      },
+      {
+        "big": "https://strgimgr.umico.az/sized/1680/984886-d87a339ac1aa6bb0e5490cff2279d8a7.jpg",
+        "medium": "https://strgimgr.umico.az/sized/840/984886-d87a339ac1aa6bb0e5490cff2279d8a7.jpg",
+        "small": "https://strgimgr.umico.az/sized/280/984886-d87a339ac1aa6bb0e5490cff2279d8a7.jpg"
+      }
+    ],
+    "videos": [],
+    "min_qty": 1,
+    "preorder_available": false,
+    "is_assortment": false,
+    "is_bulk_heavy": false,
+    "is_refurbished": false,
+    "is_refundable": true,
+    "is_dangerous": false,
+    "show_tech_description": false,
+    "use_external_content": true,
+    "product_labels": [],
+    "ratings": {
+      "rating_value": 5,
+      "assessment_id": 0,
+      "session_count": 5,
+      "score_count": 3,
+      "review_count": 2
+    },
+    "default_show_stock_qty_threshold": 0,
+    "card_type": "public"
+  },
+  "category": {
+    "id": 1344,
+    "name": "Masaüstü oyunlar",
+    "slugged_name_az": "stolustu-oyunlar",
+    "slugged_name_ru": "nastolnye-igry",
+    "view_mode": "products",
+    "mobile_visual_mode": "text",
+    "is_variant": true,
+    "depth": 3,
+    "parent_id": 1341,
+    "child_ids": [],
+    "node_type": "NODE",
+    "install_service_needed": false,
+    "fitting_allowed": false,
+    "vat": true,
+    "variations": [],
+    "custom_fields": [
+      {
+        "master_field_id": 2634,
+        "category_master_field_id": 13225,
+        "name": "Məhsulun növü"
+      },
+      {
+        "master_field_id": 751,
+        "category_master_field_id": 7078,
+        "name": "Yaş"
+      },
+      {
+        "master_field_id": 761,
+        "category_master_field_id": 32418,
+        "name": "Cins"
+      },
+      {
+        "master_field_id": 750,
+        "category_master_field_id": 32419,
+        "name": "Oyunun janrı"
+      },
+      {
+        "master_field_id": 3917,
+        "category_master_field_id": 32420,
+        "name": "Mövzu"
+      },
+      {
+        "master_field_id": 5090,
+        "category_master_field_id": 32421,
+        "name": "Xətkeş"
+      },
+      {
+        "master_field_id": 5289,
+        "category_master_field_id": 32422,
+        "name": "Minimal oyunçu sayı"
+      },
+      {
+        "master_field_id": 5290,
+        "category_master_field_id": 32423,
+        "name": "Maksimal oyunçu sayı"
+      },
+      {
+        "master_field_id": 637,
+        "category_master_field_id": 32424,
+        "name": "Material"
+      },
+      {
+        "master_field_id": 5226,
+        "category_master_field_id": 32425,
+        "name": "Personaj"
+      },
+      {
+        "master_field_id": 623,
+        "category_master_field_id": 32426,
+        "name": "Xüsusiyyətlər"
+      },
+      {
+        "master_field_id": 618,
+        "category_master_field_id": 32427,
+        "name": "İstehsalçı ölkə"
+      }
+    ],
+    "parent": {
+      "id": 1341,
+      "node_type": "NODE",
+      "name": "Əyləncə və oyunlar",
+      "slugged_name": "oyunlar",
+      "parent": {
+        "id": 1348,
+        "node_type": "NODE",
+        "name": "Hobbi",
+        "slugged_name": "hobbi-ve-yaradiciliq-uchun-mehsullar",
+        "parent": {
+          "id": 1657,
+          "node_type": "NODE",
+          "name": "Kitablar, Hobbi, Məktəb və ofis ləvazimatları",
+          "slugged_name": "ofis-ve-mekteb-levazimatlari",
+          "parent": null
+        }
+      }
+    },
+    "is_refundable": true,
+    "is_adult": false,
+    "icons": {
+      "thumbnail": "https://strgimgr.umico.az/img/category/188/5cfc95a7-2d71-4b3d-87c4-c36cc0370974.jpeg",
+      "original": "https://strgimgr.umico.az/img/category/original/5cfc95a7-2d71-4b3d-87c4-c36cc0370974.jpeg"
+    },
+    "is_active": true
+  },
+  "offers": [
+    {
+      "uuid": "d0c1bc9c-ba91-4622-9425-3086b192bf5a",
+      "installment_enabled": true,
+      "max_installment_months": 18,
+      "product_offer_labels": [],
+      "old_price": 35,
+      "retail_price": 27.99,
+      "supplier_id": "ada19a4c-97bc-4c5d-9df9-16ca1158a48c",
+      "seller": {
+        "ext_id": "f31a6abc-e8ac-4c4a-b903-5ce5bec1bce4",
+        "internal_id": 15663,
+        "marketing_name": {
+          "id": 15663,
+          "name": "Çarşı Bazar"
+        },
+        "logo": {
+          "thumbnail": "https://storage.umico.az/cpcustomerprod01/b847ee076574e1d295297cab0077ee48.png"
+        },
+        "vat_payer": false,
+        "rating": 97,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "allow_qty": 0
+    },
+    {
+      "uuid": "acf6d84f-b2dd-474b-b49c-8a1972c22d7d",
+      "installment_enabled": true,
+      "max_installment_months": 18,
+      "product_offer_labels": [],
+      "old_price": 0,
+      "retail_price": 22.07,
+      "supplier_id": "3060c2e2-2489-4567-9bb1-c22a866de50b",
+      "seller": {
+        "ext_id": "852846d0-cbf0-4673-86b3-06820cf115aa",
+        "internal_id": 5999,
+        "marketing_name": {
+          "id": 5999,
+          "name": "Ultra"
+        },
+        "logo": {
+          "thumbnail": "https://storage.umico.az/cpcustomerprod01/03f5ecf9c36ce3870177883a0c8ce9fa.jpg"
+        },
+        "vat_payer": false,
+        "rating": 96,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "allow_qty": 0
+    }
+  ],
+  "variations": [],
+  "size_chart": {},
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "sku": 984886,
+    "mpn": "Oyuncaqimaz_187",
+    "url": "https://birmarket.az/product/984886-masaustu-oyun-monopoliya-mini-baku-187",
+    "name": "Masaüstü oyun Monopoliya Mini Baku 187",
+    "image": [
+      "https://strgimgr.umico.az/sized/1680/984886-c43e34b873ca7093b97dad4586f08c8c.jpg",
+      "https://strgimgr.umico.az/sized/1680/984886-d87a339ac1aa6bb0e5490cff2279d8a7.jpg"
+    ],
+    "description": "Mini-Bakı oyunu Bakının 8 rayonunu əhatə edir. Bütün məzmun Azərbaycan dilindədir. Kartlar milli ruhda hazırlanır və milli dəyərlərə uyğundur. ",
+    "itemCondition": "https://schema.org/NewCondition",
+    "offers": {
+      "@type": "AggregateOffer",
+      "availability": "https://schema.org/InStock",
+      "offerCount": 2,
+      "highPrice": 27.99,
+      "lowPrice": 22.07,
+      "priceCurrency": "AZN",
+      "hasMerchantReturnPolicy": {
+        "applicableCountry": "AZ",
+        "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+        "returnMethod": "https://schema.org/ReturnInStore",
+        "returnFees": "https://schema.org/FreeReturn",
+        "merchantReturnDays": 14
+      },
+      "shippingDetails": {
+        "@type": "OfferShippingDetails",
+        "shippingDestination": {
+          "@type": "DefinedRegion",
+          "addressCountry": "AZ"
+        },
+        "deliveryTime": {
+          "@type": "ShippingDeliveryTime",
+          "handlingTime": {
+            "@type": "QuantitativeValue",
+            "minValue": 0,
+            "maxValue": 1,
+            "unitCode": "DAY"
+          },
+          "transitTime": {
+            "@type": "QuantitativeValue",
+            "minValue": 0,
+            "maxValue": 1,
+            "unitCode": "DAY"
+          },
+          "businessDays": {
+            "@type": "OpeningHoursSpecification",
+            "dayOfWeek": [
+              "https://schema.org/Monday",
+              "https://schema.org/Tuesday",
+              "https://schema.org/Wednesday",
+              "https://schema.org/Thursday",
+              "https://schema.org/Friday",
+              "https://schema.org/Saturday",
+              "https://schema.org/Sunday"
+            ]
+          }
+        },
+        "shippingRate": {
+          "@type": "MonetaryAmount",
+          "value": 0,
+          "currency": "AZN"
+        }
+      }
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": 5,
+      "reviewCount": 2
+    },
+    "brand": {
+      "@type": "Brand",
+      "name": "No Brand",
+      "url": "https://birmarket.az/brands/No%20Brand"
+    }
+  }
+}

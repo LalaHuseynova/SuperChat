@@ -1,0 +1,861 @@
+{
+  "product": {
+    "id": 526458,
+    "gtin": "",
+    "mpn": "N5305PVNB3520EMEA01_UBU",
+    "name": "Notbuk Dell Vostro 3520 (N5305PVNB3520EMEA01_UBU)",
+    "slugged_name_az": "noutbuk-dell-vostro-n5305pvnb3520emea01-ubu",
+    "slugged_name_ru": "noutbuk-dell-vostro-n5305pvnb3520emea01-ubu",
+    "description": "Noutbuk Dell Vostro 3520 (N5305PVNB3520EMEA01_UBU) - bu, 15,6 düym ekranlı və WVA texnologiyası sayəsində parlaq və dəqiq görüntü təmin edən güclü bir cihazdır. Ekranın əks olma əleyhinə örtüyü, hər hansı işıqlandırma şərtlərində komfortlu işləməyə imkan verir. Noutbuk, yüksək məhsuldarlıq təmin edən 10 nüvəli Intel Core i7 prosessoru ilə təchiz olunub. 16 GB DDR4 əməli yaddaş və 512 GB SSD proqramların sürətli yüklənməsi və böyük həcmli məlumatların saxlanmasını təmin edir. HDMI, Ethernet və 3 USB portunun mövcudluğu onu xarici qurğulara qoşulmaq üçün rahat edir. İnterqrasiya olunmuş Intel Iris XE Graphics qrafik kontrolleri yüksək detallıqla video izləməyə imkan verir. 1280x720 (HD) çözünürlüğü olan veb-kamera və daxili dinamıklar onlayn rahat ünsiyyət təmin edir. Noutbuk, alındıqdan dərhal sonra istifadəyə hazır olması üçün əvvəlcədən quraşdırılmış Linux əməliyyat sistemi ilə təchiz olunur.",
+    "description_outlet": "",
+    "status": "active",
+    "uuid": "c4faa8ae-273b-4e25-8f36-ed6b922b5e8d",
+    "variant_code": "VC_526458",
+    "default_offer": {
+      "uuid": "a507f59f-06b6-4a41-849a-168d5e1d442a",
+      "installment_enabled": true,
+      "max_installment_months": 3,
+      "product_offer_labels": [],
+      "old_price": 2199,
+      "retail_price": 1899.89,
+      "supplier_id": "64911831-0499-422e-9905-0ec88f0d3a3c",
+      "qty": 0,
+      "seller": {
+        "ext_id": "64911831-0499-422e-9905-0ec88f0d3a3c",
+        "marketing_name": {
+          "id": 5529,
+          "name": "T-Mobile.az"
+        },
+        "logo": {
+          "thumbnail": "https://storage.umico.az/cpcustomerprod01/2c55f723ac0b759ce069eedfda0c742c.png"
+        },
+        "vat_payer": true,
+        "rating": 75,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "discount_effective_start_date": "",
+      "discount_effective_end_date": ""
+    },
+    "category_id": 16,
+    "category": {
+      "id": 16,
+      "name": "Notbuklar"
+    },
+    "brand": {
+      "name": "Dell"
+    },
+    "custom_fields": [
+      {
+        "master_field_id": 6044,
+        "values": [
+          "1255U"
+        ]
+      },
+      {
+        "master_field_id": 834,
+        "values": [
+          "DDR4"
+        ]
+      },
+      {
+        "master_field_id": 661,
+        "values": [
+          "16"
+        ]
+      },
+      {
+        "master_field_id": 705,
+        "values": [
+          "Intel Iris Xe Graphics"
+        ]
+      },
+      {
+        "master_field_id": 617,
+        "values": [
+          "15.6"
+        ]
+      },
+      {
+        "master_field_id": 1472,
+        "values": [
+          "120"
+        ]
+      },
+      {
+        "master_field_id": 675,
+        "values": [
+          "IPS"
+        ]
+      },
+      {
+        "master_field_id": 619,
+        "values": [
+          "1920 x 1080"
+        ]
+      },
+      {
+        "master_field_id": 659,
+        "values": [
+          "Linux"
+        ]
+      },
+      {
+        "master_field_id": 672,
+        "values": [
+          "Intel Core i7"
+        ]
+      },
+      {
+        "master_field_id": 673,
+        "values": [
+          "4700"
+        ]
+      },
+      {
+        "master_field_id": 664,
+        "values": [
+          "10"
+        ]
+      },
+      {
+        "master_field_id": 2595,
+        "values": [
+          "512"
+        ]
+      },
+      {
+        "master_field_id": 1488,
+        "values": [
+          "SSD"
+        ]
+      },
+      {
+        "master_field_id": 1744,
+        "values": [
+          "Intel"
+        ]
+      },
+      {
+        "master_field_id": 1743,
+        "values": [
+          "İnteqrasiyalı"
+        ]
+      },
+      {
+        "master_field_id": 656,
+        "values": [
+          "1.9"
+        ]
+      },
+      {
+        "master_field_id": 625,
+        "values": [
+          "Qara"
+        ]
+      },
+      {
+        "master_field_id": 775,
+        "values": [
+          "358"
+        ]
+      },
+      {
+        "master_field_id": 776,
+        "values": [
+          "235.6"
+        ]
+      },
+      {
+        "master_field_id": 1637,
+        "values": [
+          "19"
+        ]
+      },
+      {
+        "master_field_id": 1476,
+        "values": [
+          "Dell Vostro"
+        ]
+      },
+      {
+        "master_field_id": 620,
+        "values": [
+          "Ev və iş üçün"
+        ]
+      },
+      {
+        "master_field_id": 1739,
+        "values": [
+          "Xeyr"
+        ]
+      },
+      {
+        "master_field_id": 1594,
+        "values": [
+          "Bəli"
+        ]
+      },
+      {
+        "master_field_id": 697,
+        "values": [
+          "Noutbuk",
+          "Adapter",
+          "Təlimat"
+        ]
+      },
+      {
+        "master_field_id": 2210,
+        "values": [
+          "ABŞ"
+        ]
+      },
+      {
+        "master_field_id": 2635,
+        "values": [
+          "2022"
+        ]
+      },
+      {
+        "master_field_id": 1493,
+        "values": [
+          "Ada şəklində"
+        ]
+      },
+      {
+        "master_field_id": 1557,
+        "values": [
+          "Qara"
+        ]
+      },
+      {
+        "master_field_id": 1508,
+        "values": [
+          "2"
+        ]
+      },
+      {
+        "master_field_id": 1554,
+        "values": [
+          "SD"
+        ]
+      },
+      {
+        "master_field_id": 1811,
+        "values": [
+          "Bəli"
+        ]
+      },
+      {
+        "master_field_id": 2598,
+        "values": [
+          "Xeyr"
+        ]
+      },
+      {
+        "master_field_id": 777,
+        "values": [
+          "Bəli"
+        ]
+      },
+      {
+        "master_field_id": 2597,
+        "values": [
+          "Xeyr"
+        ]
+      },
+      {
+        "master_field_id": 2596,
+        "values": [
+          "Bəli"
+        ]
+      },
+      {
+        "master_field_id": 2559,
+        "values": [
+          "3"
+        ]
+      },
+      {
+        "master_field_id": 1556,
+        "values": [
+          "Yoxdur"
+        ]
+      },
+      {
+        "master_field_id": 1759,
+        "values": [
+          "1280x720(HD)"
+        ]
+      },
+      {
+        "master_field_id": 1482,
+        "values": [
+          "16"
+        ]
+      },
+      {
+        "master_field_id": 719,
+        "values": [
+          "2"
+        ]
+      },
+      {
+        "master_field_id": 660,
+        "values": [
+          "Antiblik"
+        ]
+      },
+      {
+        "master_field_id": 6327,
+        "values": [
+          "Xeyr"
+        ]
+      }
+    ],
+    "main_img": {
+      "big": "https://strgimgr.umico.az/sized/1680/526458-297e5f88a0182a4e8087a600298fcd9e.jpg",
+      "medium": "https://strgimgr.umico.az/sized/840/526458-297e5f88a0182a4e8087a600298fcd9e.jpg",
+      "small": "https://strgimgr.umico.az/sized/280/526458-297e5f88a0182a4e8087a600298fcd9e.jpg"
+    },
+    "img_url_thumbnail": "https://strgimgr.umico.az/sized/280/526458-297e5f88a0182a4e8087a600298fcd9e.jpg",
+    "main_video": "",
+    "imgs": [
+      {
+        "big": "https://strgimgr.umico.az/sized/1680/526458-297e5f88a0182a4e8087a600298fcd9e.jpg",
+        "medium": "https://strgimgr.umico.az/sized/840/526458-297e5f88a0182a4e8087a600298fcd9e.jpg",
+        "small": "https://strgimgr.umico.az/sized/280/526458-297e5f88a0182a4e8087a600298fcd9e.jpg"
+      },
+      {
+        "big": "https://strgimgr.umico.az/sized/1680/526458-36d907348b820a0b8717db900b3f24e6.jpg",
+        "medium": "https://strgimgr.umico.az/sized/840/526458-36d907348b820a0b8717db900b3f24e6.jpg",
+        "small": "https://strgimgr.umico.az/sized/280/526458-36d907348b820a0b8717db900b3f24e6.jpg"
+      },
+      {
+        "big": "https://strgimgr.umico.az/sized/1680/526458-f5809b6efa7bde90af5c75cad3169b4d.jpg",
+        "medium": "https://strgimgr.umico.az/sized/840/526458-f5809b6efa7bde90af5c75cad3169b4d.jpg",
+        "small": "https://strgimgr.umico.az/sized/280/526458-f5809b6efa7bde90af5c75cad3169b4d.jpg"
+      },
+      {
+        "big": "https://strgimgr.umico.az/sized/1680/526458-f637995d8bdc004a7506a2308ff821cc.jpg",
+        "medium": "https://strgimgr.umico.az/sized/840/526458-f637995d8bdc004a7506a2308ff821cc.jpg",
+        "small": "https://strgimgr.umico.az/sized/280/526458-f637995d8bdc004a7506a2308ff821cc.jpg"
+      }
+    ],
+    "videos": [],
+    "min_qty": 1,
+    "preorder_available": false,
+    "is_assortment": false,
+    "is_bulk_heavy": false,
+    "is_refurbished": false,
+    "is_refundable": true,
+    "is_dangerous": false,
+    "show_tech_description": false,
+    "use_external_content": true,
+    "product_labels": [],
+    "ratings": {
+      "rating_value": 0,
+      "assessment_id": 0,
+      "session_count": 0
+    },
+    "default_show_stock_qty_threshold": 0,
+    "card_type": "public"
+  },
+  "category": {
+    "id": 16,
+    "name": "Notbuklar",
+    "slugged_name_az": "noutbuklar",
+    "slugged_name_ru": "noutbuki",
+    "view_mode": "products",
+    "mobile_visual_mode": "text",
+    "is_variant": true,
+    "depth": 2,
+    "parent_id": 15,
+    "child_ids": [],
+    "node_type": "NODE",
+    "install_service_needed": false,
+    "fitting_allowed": false,
+    "vat": true,
+    "variations": [
+      {
+        "master_field_id": 625,
+        "name": "Rəng",
+        "variation_tool_type": "image",
+        "has_size_chart": false,
+        "display_variant": false
+      },
+      {
+        "master_field_id": 2595,
+        "name": "SSD həcmi, Gb",
+        "variation_tool_type": "button",
+        "has_size_chart": false,
+        "display_variant": false
+      },
+      {
+        "master_field_id": 672,
+        "name": "Prosessorun növü",
+        "variation_tool_type": "button",
+        "has_size_chart": false,
+        "display_variant": false
+      }
+    ],
+    "custom_fields": [
+      {
+        "master_field_id": 1476,
+        "category_master_field_id": 4465,
+        "name": "Seriya"
+      },
+      {
+        "master_field_id": 620,
+        "category_master_field_id": 1503,
+        "name": "Tip"
+      },
+      {
+        "master_field_id": 672,
+        "category_master_field_id": 5316,
+        "name": "Prosessorun növü"
+      },
+      {
+        "master_field_id": 661,
+        "category_master_field_id": 1510,
+        "name": "Operativ yaddaşın həcmi, Gb"
+      },
+      {
+        "master_field_id": 834,
+        "category_master_field_id": 4473,
+        "name": "Yaddaşın növü"
+      },
+      {
+        "master_field_id": 2595,
+        "category_master_field_id": 10818,
+        "name": "SSD həcmi, Gb"
+      },
+      {
+        "master_field_id": 2594,
+        "category_master_field_id": 10817,
+        "name": "HDD həcmi, Gb"
+      },
+      {
+        "master_field_id": 1488,
+        "category_master_field_id": 4481,
+        "name": "Yığıcının növü"
+      },
+      {
+        "master_field_id": 617,
+        "category_master_field_id": 1506,
+        "name": "Ekranın diaqonalı, düym"
+      },
+      {
+        "master_field_id": 619,
+        "category_master_field_id": 4460,
+        "name": "Ekranın qətnaməsi"
+      },
+      {
+        "master_field_id": 675,
+        "category_master_field_id": 4458,
+        "name": "Matrisin növü"
+      },
+      {
+        "master_field_id": 1472,
+        "category_master_field_id": 4461,
+        "name": "Kadrların dəyişmə tezliyi, Hz"
+      },
+      {
+        "master_field_id": 659,
+        "category_master_field_id": 1507,
+        "name": "Əvvəlcədən quraşdırılmış ƏS"
+      },
+      {
+        "master_field_id": 625,
+        "category_master_field_id": 1509,
+        "name": "Rəng"
+      },
+      {
+        "master_field_id": 2211,
+        "category_master_field_id": 10835,
+        "name": "Zəmanət müddəti"
+      },
+      {
+        "master_field_id": 660,
+        "category_master_field_id": 1508,
+        "name": "Ekran örtüyünün növü"
+      },
+      {
+        "master_field_id": 6044,
+        "category_master_field_id": 38416,
+        "name": "Prosessorun kodu"
+      },
+      {
+        "master_field_id": 673,
+        "category_master_field_id": 5320,
+        "name": "Prosessorun tezliyi, MHz"
+      },
+      {
+        "master_field_id": 719,
+        "category_master_field_id": 4477,
+        "name": "Yaddaş yuvalarının sayı"
+      },
+      {
+        "master_field_id": 1482,
+        "category_master_field_id": 4472,
+        "name": "Maksimal artırıla bilən həcm, Gb"
+      },
+      {
+        "master_field_id": 662,
+        "category_master_field_id": 1511,
+        "name": "Video yaddaşın həcmi, Gb"
+      },
+      {
+        "master_field_id": 1743,
+        "category_master_field_id": 5321,
+        "name": "Qrafik kontrollerin növü"
+      },
+      {
+        "master_field_id": 656,
+        "category_master_field_id": 4590,
+        "name": "Çəki, kq"
+      },
+      {
+        "master_field_id": 826,
+        "category_master_field_id": 4588,
+        "name": "Akkumulyatorun həcmi, mA/saat"
+      },
+      {
+        "master_field_id": 775,
+        "category_master_field_id": 15508,
+        "name": "Uzunluğu, mm"
+      },
+      {
+        "master_field_id": 776,
+        "category_master_field_id": 15509,
+        "name": "Eni, mm"
+      },
+      {
+        "master_field_id": 1637,
+        "category_master_field_id": 10833,
+        "name": "Qalınlığı, mm"
+      },
+      {
+        "master_field_id": 705,
+        "category_master_field_id": 5324,
+        "name": "Qrafik çipset"
+      },
+      {
+        "master_field_id": 1739,
+        "category_master_field_id": 10815,
+        "name": "Sensor ekran"
+      },
+      {
+        "master_field_id": 658,
+        "category_master_field_id": 1505,
+        "name": "Ultrabuk"
+      },
+      {
+        "master_field_id": 697,
+        "category_master_field_id": 10834,
+        "name": "Komplektasiya"
+      },
+      {
+        "master_field_id": 1740,
+        "category_master_field_id": 5326,
+        "name": "Digər funksiyalar və xüsusiyyətlər"
+      },
+      {
+        "master_field_id": 2210,
+        "category_master_field_id": 10809,
+        "name": "Brendin ölkəsi"
+      },
+      {
+        "master_field_id": 618,
+        "category_master_field_id": 5330,
+        "name": "İstehsalçı ölkə"
+      },
+      {
+        "master_field_id": 2635,
+        "category_master_field_id": 37278,
+        "name": "Bazarın başlanğıc ili"
+      },
+      {
+        "master_field_id": 1493,
+        "category_master_field_id": 4487,
+        "name": "Düymələrin quruluşu"
+      },
+      {
+        "master_field_id": 1557,
+        "category_master_field_id": 4616,
+        "name": "Klaviaturanın rəngi"
+      },
+      {
+        "master_field_id": 2600,
+        "category_master_field_id": 10829,
+        "name": "Klaviaturanın işıqlandırılması"
+      },
+      {
+        "master_field_id": 1508,
+        "category_master_field_id": 10828,
+        "name": "Dinamiklərin sayı"
+      },
+      {
+        "master_field_id": 1554,
+        "category_master_field_id": 10826,
+        "name": "Yaddaş kartlarının dəstəklənməsi"
+      },
+      {
+        "master_field_id": 1811,
+        "category_master_field_id": 10825,
+        "name": "Wi-Fi standartı"
+      },
+      {
+        "master_field_id": 2598,
+        "category_master_field_id": 10824,
+        "name": "NFC mövcudluğu"
+      },
+      {
+        "master_field_id": 777,
+        "category_master_field_id": 10823,
+        "name": "Bluetooth standartı"
+      },
+      {
+        "master_field_id": 2597,
+        "category_master_field_id": 10822,
+        "name": "VGA (D-sub) port"
+      },
+      {
+        "master_field_id": 2596,
+        "category_master_field_id": 10821,
+        "name": "HDMI port"
+      },
+      {
+        "master_field_id": 1594,
+        "category_master_field_id": 4711,
+        "name": "Şəbəkəyə qoşulma (Ethernet)"
+      },
+      {
+        "master_field_id": 2559,
+        "category_master_field_id": 10820,
+        "name": "USB -portların sayı, əd."
+      },
+      {
+        "master_field_id": 1556,
+        "category_master_field_id": 4615,
+        "name": "Optik ötürücü"
+      },
+      {
+        "master_field_id": 1491,
+        "category_master_field_id": 4485,
+        "name": "Web-kamera"
+      },
+      {
+        "master_field_id": 1759,
+        "category_master_field_id": 10819,
+        "name": "Veb kamera"
+      },
+      {
+        "master_field_id": 2552,
+        "category_master_field_id": 10830,
+        "name": "Korpusun qorunması"
+      },
+      {
+        "master_field_id": 1492,
+        "category_master_field_id": 4486,
+        "name": "Səs formatı"
+      },
+      {
+        "master_field_id": 1744,
+        "category_master_field_id": 5322,
+        "name": "Qrafik çipsetin istehsalçısı"
+      },
+      {
+        "master_field_id": 664,
+        "category_master_field_id": 4468,
+        "name": "Prosessorun nüvələr sayı"
+      },
+      {
+        "master_field_id": 6327,
+        "category_master_field_id": 41934,
+        "name": "Oyun"
+      }
+    ],
+    "parent": {
+      "id": 15,
+      "node_type": "NODE",
+      "name": "Notbuk və kompüterlər",
+      "slugged_name": "noutbuklar-ve-komputer-texnikasi",
+      "parent": {
+        "id": 1,
+        "node_type": "NODE",
+        "name": "Elektronika və məişət texnikası",
+        "slugged_name": "elektronika-ve-meishet-texnikasi",
+        "parent": null
+      }
+    },
+    "is_refundable": true,
+    "is_adult": false,
+    "icons": {
+      "thumbnail": "https://strgimgr.umico.az/img/category/188/6c2913d6-8b63-4253-ac83-0d99e74ad30a.jpeg",
+      "original": "https://strgimgr.umico.az/img/category/original/6c2913d6-8b63-4253-ac83-0d99e74ad30a.png"
+    },
+    "is_active": true
+  },
+  "offers": [
+    {
+      "uuid": "a507f59f-06b6-4a41-849a-168d5e1d442a",
+      "installment_enabled": true,
+      "max_installment_months": 3,
+      "product_offer_labels": [],
+      "old_price": 2199,
+      "retail_price": 1899.89,
+      "supplier_id": "64911831-0499-422e-9905-0ec88f0d3a3c",
+      "seller": {
+        "ext_id": "02f93c46-0e2a-4d1a-9a40-a32040d075a6",
+        "internal_id": 5529,
+        "marketing_name": {
+          "id": 5529,
+          "name": "T-Mobile.az"
+        },
+        "logo": {
+          "thumbnail": "https://storage.umico.az/cpcustomerprod01/2c55f723ac0b759ce069eedfda0c742c.png"
+        },
+        "vat_payer": true,
+        "rating": 75,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "allow_qty": 0
+    },
+    {
+      "uuid": "3f191b85-f6a0-45f6-9250-3948dd8d219e",
+      "installment_enabled": true,
+      "max_installment_months": 3,
+      "product_offer_labels": [],
+      "old_price": 0,
+      "retail_price": 1899.9,
+      "supplier_id": "99b25781-c233-4d52-8e32-83665b6d461f",
+      "seller": {
+        "ext_id": "f7a67cd2-ff74-4003-a9fa-ae6378d08931",
+        "internal_id": 5051,
+        "marketing_name": {
+          "id": 5051,
+          "name": "Laptopmarket.az"
+        },
+        "logo": {
+          "thumbnail": "https://storage.umico.az/cpcustomerprod01/77a1153b377e630354e571f231d8acf3.jpeg"
+        },
+        "vat_payer": false,
+        "rating": 100,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "allow_qty": 0
+    }
+  ],
+  "variations": [
+    {
+      "id": 526458,
+      "name": "Notbuk Dell Vostro 3520 (N5305PVNB3520EMEA01_UBU)",
+      "slugged_name": "noutbuk-dell-vostro-n5305pvnb3520emea01-ubu",
+      "custom_fields": [
+        {
+          "master_field_id": 625,
+          "values": [
+            "Qara"
+          ]
+        },
+        {
+          "master_field_id": 2595,
+          "values": [
+            "512"
+          ]
+        },
+        {
+          "master_field_id": 672,
+          "values": [
+            "Intel Core i7"
+          ]
+        }
+      ],
+      "main_img": {
+        "big": "https://strgimgr.umico.az/sized/1680/526458-297e5f88a0182a4e8087a600298fcd9e.jpg",
+        "medium": "https://strgimgr.umico.az/sized/840/526458-297e5f88a0182a4e8087a600298fcd9e.jpg",
+        "small": "https://strgimgr.umico.az/sized/280/526458-297e5f88a0182a4e8087a600298fcd9e.jpg"
+      },
+      "status": "active"
+    }
+  ],
+  "size_chart": {},
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "sku": 526458,
+    "mpn": "N5305PVNB3520EMEA01_UBU",
+    "url": "https://birmarket.az/product/526458-noutbuk-dell-vostro-n5305pvnb3520emea01-ubu",
+    "name": "Notbuk Dell Vostro 3520 (N5305PVNB3520EMEA01_UBU)",
+    "image": [
+      "https://strgimgr.umico.az/sized/1680/526458-297e5f88a0182a4e8087a600298fcd9e.jpg",
+      "https://strgimgr.umico.az/sized/1680/526458-36d907348b820a0b8717db900b3f24e6.jpg",
+      "https://strgimgr.umico.az/sized/1680/526458-f5809b6efa7bde90af5c75cad3169b4d.jpg",
+      "https://strgimgr.umico.az/sized/1680/526458-f637995d8bdc004a7506a2308ff821cc.jpg"
+    ],
+    "description": "Noutbuk Dell Vostro 3520 (N5305PVNB3520EMEA01_UBU) - bu, 15,6 düym ekranlı və WVA texnologiyası sayəsində parlaq və dəqiq görüntü təmin edən güclü bir cihazdır. Ekranın əks olma əleyhinə örtüyü, hər hansı işıqlandırma şərtlərində komfortlu işləməyə imkan verir. Noutbuk, yüksək məhsuldarlıq təmin edən 10 nüvəli Intel Core i7 prosessoru ilə təchiz olunub. 16 GB DDR4 əməli yaddaş və 512 GB SSD proqramların sürətli yüklənməsi və böyük həcmli məlumatların saxlanmasını təmin edir. HDMI, Ethernet və 3 USB portunun mövcudluğu onu xarici qurğulara qoşulmaq üçün rahat edir. İnterqrasiya olunmuş Intel Iris XE Graphics qrafik kontrolleri yüksək detallıqla video izləməyə imkan verir. 1280x720 (HD) çözünürlüğü olan veb-kamera və daxili dinamıklar onlayn rahat ünsiyyət təmin edir. Noutbuk, alındıqdan dərhal sonra istifadəyə hazır olması üçün əvvəlcədən quraşdırılmış Linux əməliyyat sistemi ilə təchiz olunur.",
+    "itemCondition": "https://schema.org/NewCondition",
+    "offers": {
+      "@type": "AggregateOffer",
+      "availability": "https://schema.org/InStock",
+      "offerCount": 2,
+      "highPrice": 1899.9,
+      "lowPrice": 1899.89,
+      "priceCurrency": "AZN",
+      "hasMerchantReturnPolicy": {
+        "applicableCountry": "AZ",
+        "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+        "returnMethod": "https://schema.org/ReturnInStore",
+        "returnFees": "https://schema.org/FreeReturn",
+        "merchantReturnDays": 14
+      },
+      "shippingDetails": {
+        "@type": "OfferShippingDetails",
+        "shippingDestination": {
+          "@type": "DefinedRegion",
+          "addressCountry": "AZ"
+        },
+        "deliveryTime": {
+          "@type": "ShippingDeliveryTime",
+          "handlingTime": {
+            "@type": "QuantitativeValue",
+            "minValue": 0,
+            "maxValue": 1,
+            "unitCode": "DAY"
+          },
+          "transitTime": {
+            "@type": "QuantitativeValue",
+            "minValue": 0,
+            "maxValue": 1,
+            "unitCode": "DAY"
+          },
+          "businessDays": {
+            "@type": "OpeningHoursSpecification",
+            "dayOfWeek": [
+              "https://schema.org/Monday",
+              "https://schema.org/Tuesday",
+              "https://schema.org/Wednesday",
+              "https://schema.org/Thursday",
+              "https://schema.org/Friday",
+              "https://schema.org/Saturday",
+              "https://schema.org/Sunday"
+            ]
+          }
+        },
+        "shippingRate": {
+          "@type": "MonetaryAmount",
+          "value": 0,
+          "currency": "AZN"
+        }
+      }
+    },
+    "brand": {
+      "@type": "Brand",
+      "name": "Dell",
+      "url": "https://birmarket.az/brands/Dell"
+    }
+  }
+}

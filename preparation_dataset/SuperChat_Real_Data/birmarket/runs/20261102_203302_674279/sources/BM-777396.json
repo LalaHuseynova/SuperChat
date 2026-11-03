@@ -1,0 +1,474 @@
+{
+  "product": {
+    "id": 777396,
+    "gtin": "",
+    "mpn": "474849_qara",
+    "name": "Şəhər bel çantası 474849 qara",
+    "slugged_name_az": "sheher-bel-chantasi-474849-qara",
+    "slugged_name_ru": "ryukzak-gorodskoy-474849-chernyy",
+    "description": "Şəhər çantası 474849 qara rəngdə - kişilər üçün praktik və zövqlü aksesuar. Rahat fermuarı və 3 bölməsi ilə əşyaların təşkilatçılığı üçün idealdır. Çantanın ölçüləri 40x28x20 sm-dir, onu şəhərdə gündəlik istifadə üçün mükəmməl edir. İstehsal - Türkiyə.",
+    "description_outlet": "",
+    "status": "active",
+    "uuid": "3a83de15-40e4-4b9b-aa18-73c1944ac4ce",
+    "variant_code": "VC_777396",
+    "default_offer": {
+      "uuid": "42b28f9f-d401-45d7-ac15-ac79b582e83c",
+      "installment_enabled": true,
+      "max_installment_months": 18,
+      "product_offer_labels": [],
+      "old_price": 25,
+      "retail_price": 22.99,
+      "supplier_id": "742fdf9d-d9f4-4f6d-a705-0b0750c95613",
+      "qty": 0,
+      "seller": {
+        "ext_id": "742fdf9d-d9f4-4f6d-a705-0b0750c95613",
+        "marketing_name": {
+          "id": 9041,
+          "name": "HƏDİYYƏM_RS"
+        },
+        "logo": {
+          "thumbnail": "https://storage.umico.az/cpcustomerprod01/525db1eb445f547c09224d0ccb651fdb.jpg"
+        },
+        "vat_payer": false,
+        "rating": 98,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "discount_effective_start_date": "",
+      "discount_effective_end_date": ""
+    },
+    "category_id": 2283,
+    "category": {
+      "id": 2283,
+      "name": "Şəhər bel çantaları"
+    },
+    "brand": {
+      "name": "No Brand"
+    },
+    "custom_fields": [
+      {
+        "master_field_id": 1412,
+        "values": [
+          "40"
+        ]
+      },
+      {
+        "master_field_id": 1206,
+        "values": [
+          "28"
+        ]
+      },
+      {
+        "master_field_id": 639,
+        "values": [
+          "Zəncirbənd"
+        ]
+      },
+      {
+        "master_field_id": 761,
+        "values": [
+          "Kişi"
+        ]
+      },
+      {
+        "master_field_id": 1448,
+        "values": [
+          "20"
+        ]
+      },
+      {
+        "master_field_id": 762,
+        "values": [
+          "3"
+        ]
+      },
+      {
+        "master_field_id": 618,
+        "values": [
+          "Türkiyə"
+        ]
+      }
+    ],
+    "main_img": {
+      "big": "https://strgimgr.umico.az/sized/1680/777396-ba02c93b5d5d273290437bb7acabed21.jpg",
+      "medium": "https://strgimgr.umico.az/sized/840/777396-ba02c93b5d5d273290437bb7acabed21.jpg",
+      "small": "https://strgimgr.umico.az/sized/280/777396-ba02c93b5d5d273290437bb7acabed21.jpg"
+    },
+    "img_url_thumbnail": "https://strgimgr.umico.az/sized/280/777396-ba02c93b5d5d273290437bb7acabed21.jpg",
+    "main_video": "",
+    "imgs": [
+      {
+        "big": "https://strgimgr.umico.az/sized/1680/777396-ba02c93b5d5d273290437bb7acabed21.jpg",
+        "medium": "https://strgimgr.umico.az/sized/840/777396-ba02c93b5d5d273290437bb7acabed21.jpg",
+        "small": "https://strgimgr.umico.az/sized/280/777396-ba02c93b5d5d273290437bb7acabed21.jpg"
+      },
+      {
+        "big": "https://strgimgr.umico.az/sized/1680/777396-a408ce13d1ed4a04d02c8615d81a8806.jpg",
+        "medium": "https://strgimgr.umico.az/sized/840/777396-a408ce13d1ed4a04d02c8615d81a8806.jpg",
+        "small": "https://strgimgr.umico.az/sized/280/777396-a408ce13d1ed4a04d02c8615d81a8806.jpg"
+      },
+      {
+        "big": "https://strgimgr.umico.az/sized/1680/777396-e832cba22f457833b25ea99ede75c7bc.jpg",
+        "medium": "https://strgimgr.umico.az/sized/840/777396-e832cba22f457833b25ea99ede75c7bc.jpg",
+        "small": "https://strgimgr.umico.az/sized/280/777396-e832cba22f457833b25ea99ede75c7bc.jpg"
+      },
+      {
+        "big": "https://strgimgr.umico.az/sized/1680/777396-80dc6c753afaa3e7b244e5b689739e45.jpg",
+        "medium": "https://strgimgr.umico.az/sized/840/777396-80dc6c753afaa3e7b244e5b689739e45.jpg",
+        "small": "https://strgimgr.umico.az/sized/280/777396-80dc6c753afaa3e7b244e5b689739e45.jpg"
+      }
+    ],
+    "videos": [],
+    "min_qty": 1,
+    "preorder_available": false,
+    "is_assortment": false,
+    "is_bulk_heavy": false,
+    "is_refurbished": false,
+    "is_refundable": true,
+    "is_dangerous": false,
+    "show_tech_description": false,
+    "use_external_content": true,
+    "product_labels": [],
+    "ratings": {
+      "rating_value": 5,
+      "assessment_id": 0,
+      "session_count": 1,
+      "score_count": 1
+    },
+    "default_show_stock_qty_threshold": 0,
+    "card_type": "public"
+  },
+  "category": {
+    "id": 2283,
+    "name": "Şəhər bel çantaları",
+    "slugged_name_az": "sheher-bel-chantalari",
+    "slugged_name_ru": "ryukzaki-gorodskie",
+    "view_mode": "products",
+    "mobile_visual_mode": "text",
+    "is_variant": false,
+    "depth": 2,
+    "parent_id": 2267,
+    "child_ids": [],
+    "node_type": "NODE",
+    "install_service_needed": false,
+    "fitting_allowed": false,
+    "vat": true,
+    "variations": [
+      {
+        "master_field_id": 638,
+        "name": "Naxışlar və printlər",
+        "variation_tool_type": "default",
+        "has_size_chart": false,
+        "display_variant": false
+      },
+      {
+        "master_field_id": 625,
+        "name": "Rəng",
+        "variation_tool_type": "default",
+        "has_size_chart": false,
+        "display_variant": false
+      }
+    ],
+    "custom_fields": [
+      {
+        "master_field_id": 625,
+        "category_master_field_id": 11134,
+        "name": "Rəng"
+      },
+      {
+        "master_field_id": 637,
+        "category_master_field_id": 11132,
+        "name": "Material"
+      },
+      {
+        "master_field_id": 639,
+        "category_master_field_id": 11141,
+        "name": "Kilid növü"
+      },
+      {
+        "master_field_id": 1412,
+        "category_master_field_id": 11136,
+        "name": "Uzunluğu, sm"
+      },
+      {
+        "master_field_id": 1206,
+        "category_master_field_id": 11137,
+        "name": "Eni, sm"
+      },
+      {
+        "master_field_id": 761,
+        "category_master_field_id": 11133,
+        "name": "Cins"
+      },
+      {
+        "master_field_id": 908,
+        "category_master_field_id": 11143,
+        "name": "Həcm, L"
+      },
+      {
+        "master_field_id": 638,
+        "category_master_field_id": 11135,
+        "name": "Naxışlar və printlər"
+      },
+      {
+        "master_field_id": 1448,
+        "category_master_field_id": 37676,
+        "name": "Dərinliyi, sm"
+      },
+      {
+        "master_field_id": 762,
+        "category_master_field_id": 11139,
+        "name": "Bölmələrin sayı"
+      },
+      {
+        "master_field_id": 623,
+        "category_master_field_id": 11140,
+        "name": "Xüsusiyyətlər"
+      },
+      {
+        "master_field_id": 2637,
+        "category_master_field_id": 11142,
+        "name": "Bel çantasının arxası"
+      },
+      {
+        "master_field_id": 870,
+        "category_master_field_id": 11144,
+        "name": "Çəki, q"
+      },
+      {
+        "master_field_id": 618,
+        "category_master_field_id": 11145,
+        "name": "İstehsalçı ölkə"
+      },
+      {
+        "master_field_id": 2210,
+        "category_master_field_id": 11146,
+        "name": "Brendin ölkəsi"
+      }
+    ],
+    "parent": {
+      "id": 2267,
+      "node_type": "NODE",
+      "name": "Çantalar, pul kisələri və aksessuarlar",
+      "slugged_name": "chantalar-pul-kiseleri-ve-aksessuarlar",
+      "parent": {
+        "id": 3003,
+        "node_type": "NODE",
+        "name": "Geyim,ayaqqabı və aksessuarlar",
+        "slugged_name": "geyim-ve-ayaqqabi",
+        "parent": null
+      }
+    },
+    "is_refundable": true,
+    "is_adult": false,
+    "icons": {
+      "thumbnail": "https://strgimgr.umico.az/img/category/188/4030f9db-3c53-4a51-905b-ab006bb8b9af.jpeg",
+      "original": "https://strgimgr.umico.az/img/category/original/4030f9db-3c53-4a51-905b-ab006bb8b9af.jpeg"
+    },
+    "is_active": true
+  },
+  "offers": [
+    {
+      "uuid": "42b28f9f-d401-45d7-ac15-ac79b582e83c",
+      "installment_enabled": true,
+      "max_installment_months": 18,
+      "product_offer_labels": [],
+      "old_price": 25,
+      "retail_price": 22.99,
+      "supplier_id": "742fdf9d-d9f4-4f6d-a705-0b0750c95613",
+      "seller": {
+        "ext_id": "34f1553f-0be6-4fd5-86a6-557cae5a1408",
+        "internal_id": 9041,
+        "marketing_name": {
+          "id": 9041,
+          "name": "HƏDİYYƏM_RS"
+        },
+        "logo": {
+          "thumbnail": "https://storage.umico.az/cpcustomerprod01/525db1eb445f547c09224d0ccb651fdb.jpg"
+        },
+        "vat_payer": false,
+        "rating": 98,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "allow_qty": 0
+    },
+    {
+      "uuid": "6793a782-0a7a-4635-9371-a6b521f50c06",
+      "installment_enabled": true,
+      "max_installment_months": 18,
+      "product_offer_labels": [],
+      "old_price": 55,
+      "retail_price": 23,
+      "supplier_id": "2e3f3b99-ec79-4ab5-9b90-971f8fda70b4",
+      "seller": {
+        "ext_id": "bd4d4c47-8067-4e6f-afb1-de55a4436758",
+        "internal_id": 5290,
+        "marketing_name": {
+          "id": 5290,
+          "name": "Ilay"
+        },
+        "logo": {
+          "thumbnail": ""
+        },
+        "vat_payer": false,
+        "rating": 78,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "allow_qty": 0
+    },
+    {
+      "uuid": "7cdefe34-2471-44eb-a51f-82e807dfb197",
+      "installment_enabled": true,
+      "max_installment_months": 18,
+      "product_offer_labels": [],
+      "old_price": 25,
+      "retail_price": 22.99,
+      "supplier_id": "830f163b-8ad2-4e52-b4d3-6d52ad491d3f",
+      "seller": {
+        "ext_id": "2beeca4a-fcec-4eb7-b7e5-751650ff229c",
+        "internal_id": 11075,
+        "marketing_name": {
+          "id": 11075,
+          "name": "Həm Brend Həm Trend"
+        },
+        "logo": {
+          "thumbnail": ""
+        },
+        "vat_payer": false,
+        "rating": 100,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "allow_qty": 0
+    },
+    {
+      "uuid": "135f6075-f2d8-470c-ae31-acae632acc03",
+      "installment_enabled": true,
+      "max_installment_months": 18,
+      "product_offer_labels": [],
+      "old_price": 25,
+      "retail_price": 22.99,
+      "supplier_id": "a3fed83c-143f-4a3d-881f-821a271c4566",
+      "seller": {
+        "ext_id": "0a6b68c0-1558-48ce-9800-921f0d48dd7a",
+        "internal_id": 9890,
+        "marketing_name": {
+          "id": 9890,
+          "name": "Bir Ailə"
+        },
+        "logo": {
+          "thumbnail": "https://storage.umico.az/cpcustomerprod01/7cac690124a13cd3c4085554194790db.jpg"
+        },
+        "vat_payer": false,
+        "rating": 98,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "allow_qty": 0
+    },
+    {
+      "uuid": "d0764517-025c-480e-84ba-ec4e3020f9f8",
+      "installment_enabled": true,
+      "max_installment_months": 18,
+      "product_offer_labels": [],
+      "old_price": 0,
+      "retail_price": 30,
+      "supplier_id": "a9e2452c-3722-4a4a-8815-9f5e4f218c7c",
+      "seller": {
+        "ext_id": "0927d011-1375-47ee-8219-b084f82273bf",
+        "internal_id": 12526,
+        "marketing_name": {
+          "id": 12526,
+          "name": "PARFUM DÜNYASI RS"
+        },
+        "logo": {
+          "thumbnail": "https://storage.umico.az/cpcustomerprod01/0d2699d44608786475462a831885bd5e.jpg"
+        },
+        "vat_payer": false,
+        "rating": 94,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "allow_qty": 0
+    }
+  ],
+  "variations": [],
+  "size_chart": {},
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "sku": 777396,
+    "mpn": "474849_qara",
+    "url": "https://birmarket.az/product/777396-sheher-bel-chantasi-474849-qara",
+    "name": "Şəhər bel çantası 474849 qara",
+    "image": [
+      "https://strgimgr.umico.az/sized/1680/777396-ba02c93b5d5d273290437bb7acabed21.jpg",
+      "https://strgimgr.umico.az/sized/1680/777396-a408ce13d1ed4a04d02c8615d81a8806.jpg",
+      "https://strgimgr.umico.az/sized/1680/777396-e832cba22f457833b25ea99ede75c7bc.jpg",
+      "https://strgimgr.umico.az/sized/1680/777396-80dc6c753afaa3e7b244e5b689739e45.jpg"
+    ],
+    "description": "Şəhər çantası 474849 qara rəngdə - kişilər üçün praktik və zövqlü aksesuar. Rahat fermuarı və 3 bölməsi ilə əşyaların təşkilatçılığı üçün idealdır. Çantanın ölçüləri 40x28x20 sm-dir, onu şəhərdə gündəlik istifadə üçün mükəmməl edir. İstehsal - Türkiyə.",
+    "itemCondition": "https://schema.org/NewCondition",
+    "offers": {
+      "@type": "AggregateOffer",
+      "availability": "https://schema.org/InStock",
+      "offerCount": 5,
+      "highPrice": 30,
+      "lowPrice": 22.99,
+      "priceCurrency": "AZN",
+      "hasMerchantReturnPolicy": {
+        "applicableCountry": "AZ",
+        "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+        "returnMethod": "https://schema.org/ReturnInStore",
+        "returnFees": "https://schema.org/FreeReturn",
+        "merchantReturnDays": 14
+      },
+      "shippingDetails": {
+        "@type": "OfferShippingDetails",
+        "shippingDestination": {
+          "@type": "DefinedRegion",
+          "addressCountry": "AZ"
+        },
+        "deliveryTime": {
+          "@type": "ShippingDeliveryTime",
+          "handlingTime": {
+            "@type": "QuantitativeValue",
+            "minValue": 0,
+            "maxValue": 1,
+            "unitCode": "DAY"
+          },
+          "transitTime": {
+            "@type": "QuantitativeValue",
+            "minValue": 0,
+            "maxValue": 1,
+            "unitCode": "DAY"
+          },
+          "businessDays": {
+            "@type": "OpeningHoursSpecification",
+            "dayOfWeek": [
+              "https://schema.org/Monday",
+              "https://schema.org/Tuesday",
+              "https://schema.org/Wednesday",
+              "https://schema.org/Thursday",
+              "https://schema.org/Friday",
+              "https://schema.org/Saturday",
+              "https://schema.org/Sunday"
+            ]
+          }
+        },
+        "shippingRate": {
+          "@type": "MonetaryAmount",
+          "value": 0,
+          "currency": "AZN"
+        }
+      }
+    },
+    "brand": {
+      "@type": "Brand",
+      "name": "No Brand",
+      "url": "https://birmarket.az/brands/No%20Brand"
+    }
+  }
+}

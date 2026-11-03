@@ -1,0 +1,599 @@
+{
+  "product": {
+    "id": 1855809,
+    "gtin": "",
+    "mpn": "TCS_2606_qara_41",
+    "name": "Kişilər üçün krosovkalar TCS_2606, qara, eko dəri, ölçü 41",
+    "slugged_name_az": "kishiler-uchun-krosovkalar-tcs_2606-qara-eko-deri-olchu-41-tcs_2606_qara_41",
+    "slugged_name_ru": "krossovki-muzhskie-tcs_2606-chernyy-ekokozha-razmer-41-tcs_2606_qara_41",
+    "description": "Kişilər üçün eko dəri materialdan hazırlanmış krosovka gündəlik və aktiv istifadə üçün nəzərdə tutulmuşdur, yumşaq və davamlı üst material ayağın rahat nəfəs almasını təmin edir, anatomik qəlibi və iç hissəsinin komfortlu quruluşu uzun müddət geyim zamanı yorğunluğu azaldır, sürüşməyə qarşı dayanıqlı altlıq sabit addım və etibarlı yol tutumu yaradır, müasir dizaynı isə gündəlik geyim və idman üslubu ilə asanlıqla uyğunlaşır.",
+    "description_outlet": "",
+    "status": "active",
+    "uuid": "b3b08544-5ffb-4d94-91f9-e440180bf54a",
+    "variant_code": "TCS_2606",
+    "default_offer": {
+      "uuid": "94f39dec-770d-4787-9072-2bd8379a6f66",
+      "installment_enabled": true,
+      "max_installment_months": 3,
+      "product_offer_labels": [],
+      "old_price": 115.37,
+      "retail_price": 54.96,
+      "supplier_id": "f2d25c99-907c-4cad-aa1a-ee53bf1fe22d",
+      "qty": 0,
+      "seller": {
+        "ext_id": "f2d25c99-907c-4cad-aa1a-ee53bf1fe22d",
+        "marketing_name": {
+          "id": 5797,
+          "name": "The Center Stone"
+        },
+        "logo": {
+          "thumbnail": "https://storage.umico.az/cpcustomerprod01/d98916203bf96f7679434f0988904de8.jpg"
+        },
+        "vat_payer": false,
+        "rating": 97,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "discount_effective_start_date": "",
+      "discount_effective_end_date": ""
+    },
+    "category_id": 3177,
+    "category": {
+      "id": 3177,
+      "name": "Kişi krosovkaları və kedləri"
+    },
+    "brand": {
+      "name": "No Brand"
+    },
+    "custom_fields": [
+      {
+        "master_field_id": 620,
+        "values": [
+          "Krosovkalar"
+        ]
+      },
+      {
+        "master_field_id": 625,
+        "values": [
+          "Qara"
+        ]
+      },
+      {
+        "master_field_id": 637,
+        "values": [
+          "Eko dəri"
+        ]
+      },
+      {
+        "master_field_id": 1423,
+        "values": [
+          "41"
+        ]
+      }
+    ],
+    "main_img": {
+      "big": "https://strgimgr.umico.az/img/product/1680/3c164149-215f-4382-acf0-29d1d3058e0f.jpeg",
+      "medium": "https://strgimgr.umico.az/img/product/840/3c164149-215f-4382-acf0-29d1d3058e0f.jpeg",
+      "small": "https://strgimgr.umico.az/img/product/280/3c164149-215f-4382-acf0-29d1d3058e0f.jpeg"
+    },
+    "img_url_thumbnail": "https://strgimgr.umico.az/img/product/280/3c164149-215f-4382-acf0-29d1d3058e0f.jpeg",
+    "main_video": "",
+    "imgs": [
+      {
+        "big": "https://strgimgr.umico.az/img/product/1680/3c164149-215f-4382-acf0-29d1d3058e0f.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/3c164149-215f-4382-acf0-29d1d3058e0f.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/3c164149-215f-4382-acf0-29d1d3058e0f.jpeg"
+      },
+      {
+        "big": "https://strgimgr.umico.az/img/product/1680/52df3136-baa3-45e3-8ce4-789fd65b1afc.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/52df3136-baa3-45e3-8ce4-789fd65b1afc.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/52df3136-baa3-45e3-8ce4-789fd65b1afc.jpeg"
+      },
+      {
+        "big": "https://strgimgr.umico.az/img/product/1680/3554a50b-6e71-40e3-ad06-3061f64b96fe.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/3554a50b-6e71-40e3-ad06-3061f64b96fe.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/3554a50b-6e71-40e3-ad06-3061f64b96fe.jpeg"
+      },
+      {
+        "big": "https://strgimgr.umico.az/img/product/1680/da9595b5-f55c-4489-802f-403e5e25078f.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/da9595b5-f55c-4489-802f-403e5e25078f.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/da9595b5-f55c-4489-802f-403e5e25078f.jpeg"
+      },
+      {
+        "big": "https://strgimgr.umico.az/img/product/1680/bfb66212-c8df-4f48-9a8c-8793578e5ddc.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/bfb66212-c8df-4f48-9a8c-8793578e5ddc.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/bfb66212-c8df-4f48-9a8c-8793578e5ddc.jpeg"
+      },
+      {
+        "big": "https://strgimgr.umico.az/img/product/1680/e323548d-e229-480e-9eb0-fd7c15ed6bba.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/e323548d-e229-480e-9eb0-fd7c15ed6bba.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/e323548d-e229-480e-9eb0-fd7c15ed6bba.jpeg"
+      }
+    ],
+    "videos": [],
+    "min_qty": 1,
+    "preorder_available": false,
+    "is_assortment": false,
+    "is_bulk_heavy": false,
+    "is_refurbished": false,
+    "is_refundable": true,
+    "is_dangerous": false,
+    "show_tech_description": false,
+    "use_external_content": true,
+    "product_labels": [],
+    "ratings": {
+      "rating_value": 0,
+      "assessment_id": 0,
+      "session_count": 0
+    },
+    "default_show_stock_qty_threshold": 0,
+    "card_type": "public"
+  },
+  "category": {
+    "id": 3177,
+    "name": "Kişi krosovkaları və kedləri",
+    "slugged_name_az": "kishi-krosovkalari",
+    "slugged_name_ru": "krossovki-muzhskie",
+    "view_mode": "products",
+    "mobile_visual_mode": "text",
+    "is_variant": false,
+    "depth": 3,
+    "parent_id": 3174,
+    "child_ids": [],
+    "node_type": "NODE",
+    "install_service_needed": false,
+    "fitting_allowed": true,
+    "vat": true,
+    "variations": [
+      {
+        "master_field_id": 1423,
+        "name": "Ölçü",
+        "variation_tool_type": "button",
+        "has_size_chart": true,
+        "display_variant": true
+      },
+      {
+        "master_field_id": 625,
+        "name": "Rəng",
+        "variation_tool_type": "image",
+        "has_size_chart": false,
+        "display_variant": true
+      }
+    ],
+    "custom_fields": [
+      {
+        "master_field_id": 620,
+        "category_master_field_id": 30908,
+        "name": "Tip"
+      },
+      {
+        "master_field_id": 625,
+        "category_master_field_id": 25206,
+        "name": "Rəng"
+      },
+      {
+        "master_field_id": 637,
+        "category_master_field_id": 25207,
+        "name": "Material"
+      },
+      {
+        "master_field_id": 1423,
+        "category_master_field_id": 25205,
+        "name": "Ölçü"
+      },
+      {
+        "master_field_id": 2103,
+        "category_master_field_id": 25204,
+        "name": "Fəsil"
+      },
+      {
+        "master_field_id": 4515,
+        "category_master_field_id": 30909,
+        "name": "İdman növü"
+      },
+      {
+        "master_field_id": 5943,
+        "category_master_field_id": 37260,
+        "name": "Dikdaban tipi"
+      },
+      {
+        "master_field_id": 2482,
+        "category_master_field_id": 30911,
+        "name": "Üslub"
+      },
+      {
+        "master_field_id": 618,
+        "category_master_field_id": 30912,
+        "name": "İstehsalçı ölkə"
+      },
+      {
+        "master_field_id": 2210,
+        "category_master_field_id": 30913,
+        "name": "Brendin ölkəsi"
+      }
+    ],
+    "parent": {
+      "id": 3174,
+      "node_type": "NODE",
+      "name": "Kişi ayaqqabıları",
+      "slugged_name": "kishi-ayaqqabilari",
+      "parent": {
+        "id": 3117,
+        "node_type": "NODE",
+        "name": "Kişilər üçün",
+        "slugged_name": "kishi",
+        "parent": {
+          "id": 3003,
+          "node_type": "NODE",
+          "name": "Geyim,ayaqqabı və aksessuarlar",
+          "slugged_name": "geyim-ve-ayaqqabi",
+          "parent": null
+        }
+      }
+    },
+    "is_refundable": true,
+    "is_adult": false,
+    "icons": {
+      "thumbnail": "https://strgimgr.umico.az/img/category/188/8701f1fd-b237-4ee2-bce5-ed487408e3d4.jpeg",
+      "original": "https://strgimgr.umico.az/img/category/original/8701f1fd-b237-4ee2-bce5-ed487408e3d4.png"
+    },
+    "is_active": true
+  },
+  "offers": [
+    {
+      "uuid": "94f39dec-770d-4787-9072-2bd8379a6f66",
+      "installment_enabled": true,
+      "max_installment_months": 3,
+      "product_offer_labels": [],
+      "old_price": 115.37,
+      "retail_price": 54.96,
+      "supplier_id": "f2d25c99-907c-4cad-aa1a-ee53bf1fe22d",
+      "seller": {
+        "ext_id": "d8fa1b85-ddb9-4686-8de6-b4a6b8de42a6",
+        "internal_id": 5797,
+        "marketing_name": {
+          "id": 5797,
+          "name": "The Center Stone"
+        },
+        "logo": {
+          "thumbnail": "https://storage.umico.az/cpcustomerprod01/d98916203bf96f7679434f0988904de8.jpg"
+        },
+        "vat_payer": false,
+        "rating": 97,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "allow_qty": 0
+    }
+  ],
+  "variations": [
+    {
+      "id": 1855820,
+      "name": "Kişilər üçün krosovkalar TCS_2606, ağ, eko dəri, ölçü 42",
+      "slugged_name": "kishiler-uchun-krosovkalar-tcs-2606-ag-eko-deri-olchu-42-tcs_2606_ag_42",
+      "custom_fields": [
+        {
+          "master_field_id": 1423,
+          "values": [
+            "42"
+          ]
+        },
+        {
+          "master_field_id": 625,
+          "values": [
+            "Ağ"
+          ]
+        }
+      ],
+      "main_img": {
+        "big": "https://strgimgr.umico.az/img/product/1680/8b07ba10-d42b-4054-8aed-12dfeb99b503.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/8b07ba10-d42b-4054-8aed-12dfeb99b503.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/8b07ba10-d42b-4054-8aed-12dfeb99b503.jpeg"
+      },
+      "status": "active"
+    },
+    {
+      "id": 1855811,
+      "name": "Kişilər üçün krosovkalar TCS_2606, qara, eko dəri, ölçü 43",
+      "slugged_name": "kishiler-uchun-krosovkalar-tcs-2606-qara-eko-deri-olchu-43-tcs_2606_qara_43",
+      "custom_fields": [
+        {
+          "master_field_id": 1423,
+          "values": [
+            "43"
+          ]
+        },
+        {
+          "master_field_id": 625,
+          "values": [
+            "Qara"
+          ]
+        }
+      ],
+      "main_img": {
+        "big": "https://strgimgr.umico.az/img/product/1680/335484ad-962c-40eb-b5bf-2878218ac456.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/335484ad-962c-40eb-b5bf-2878218ac456.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/335484ad-962c-40eb-b5bf-2878218ac456.jpeg"
+      },
+      "status": "active"
+    },
+    {
+      "id": 1855810,
+      "name": "Kişilər üçün krosovkalar TCS_2606, qara, eko dəri, ölçü 42",
+      "slugged_name": "kishiler-uchun-krosovkalar-tcs-2606-qara-eko-deri-olchu-42-tcs_2606_qara_42",
+      "custom_fields": [
+        {
+          "master_field_id": 1423,
+          "values": [
+            "42"
+          ]
+        },
+        {
+          "master_field_id": 625,
+          "values": [
+            "Qara"
+          ]
+        }
+      ],
+      "main_img": {
+        "big": "https://strgimgr.umico.az/img/product/1680/e15e6a28-e401-4689-a254-e49a4affc944.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/e15e6a28-e401-4689-a254-e49a4affc944.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/e15e6a28-e401-4689-a254-e49a4affc944.jpeg"
+      },
+      "status": "active"
+    },
+    {
+      "id": 1855822,
+      "name": "Kişilər üçün krosovkalar TCS_2606, ağ, eko dəri, ölçü 44",
+      "slugged_name": "kishiler-uchun-krosovkalar-tcs_2606-ag-eko-deri-olchu-44-tcs_2606_ag_44",
+      "custom_fields": [
+        {
+          "master_field_id": 1423,
+          "values": [
+            "44"
+          ]
+        },
+        {
+          "master_field_id": 625,
+          "values": [
+            "Ağ"
+          ]
+        }
+      ],
+      "main_img": {
+        "big": "https://strgimgr.umico.az/img/product/1680/464f8b9c-1086-4a5e-b521-47a12cf9286c.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/464f8b9c-1086-4a5e-b521-47a12cf9286c.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/464f8b9c-1086-4a5e-b521-47a12cf9286c.jpeg"
+      },
+      "status": "active"
+    },
+    {
+      "id": 1855818,
+      "name": "Kişilər üçün krosovkalar TCS_2606, ağ, eko dəri, ölçü 40",
+      "slugged_name": "kishiler-uchun-krosovkalar-tcs-2606-ag-eko-deri-olchu-40-tcs_2606_ag_40",
+      "custom_fields": [
+        {
+          "master_field_id": 1423,
+          "values": [
+            "40"
+          ]
+        },
+        {
+          "master_field_id": 625,
+          "values": [
+            "Ağ"
+          ]
+        }
+      ],
+      "main_img": {
+        "big": "https://strgimgr.umico.az/img/product/1680/9520250e-d8da-458f-8225-b98c7a6cf9bf.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/9520250e-d8da-458f-8225-b98c7a6cf9bf.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/9520250e-d8da-458f-8225-b98c7a6cf9bf.jpeg"
+      },
+      "status": "active"
+    },
+    {
+      "id": 1855819,
+      "name": "Kişilər üçün krosovkalar TCS_2606, ağ, eko dəri, ölçü 41",
+      "slugged_name": "kishiler-uchun-krosovkalar-tcs_2606-ag-eko-deri-olchu-41-tcs_2606_ag_41",
+      "custom_fields": [
+        {
+          "master_field_id": 1423,
+          "values": [
+            "41"
+          ]
+        },
+        {
+          "master_field_id": 625,
+          "values": [
+            "Ağ"
+          ]
+        }
+      ],
+      "main_img": {
+        "big": "https://strgimgr.umico.az/img/product/1680/249a659e-c104-4e3a-8bbc-957e0f0f5838.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/249a659e-c104-4e3a-8bbc-957e0f0f5838.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/249a659e-c104-4e3a-8bbc-957e0f0f5838.jpeg"
+      },
+      "status": "active"
+    },
+    {
+      "id": 1855812,
+      "name": "Kişilər üçün krosovkalar TCS_2606, qara, eko dəri, ölçü 44",
+      "slugged_name": "kishiler-uchun-krosovkalar-tcs-2606-qara-eko-deri-olchu-44-tcs_2606_qara_44",
+      "custom_fields": [
+        {
+          "master_field_id": 1423,
+          "values": [
+            "44"
+          ]
+        },
+        {
+          "master_field_id": 625,
+          "values": [
+            "Qara"
+          ]
+        }
+      ],
+      "main_img": {
+        "big": "https://strgimgr.umico.az/img/product/1680/df19c415-e56e-4cb1-8f64-ebba04d0014d.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/df19c415-e56e-4cb1-8f64-ebba04d0014d.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/df19c415-e56e-4cb1-8f64-ebba04d0014d.jpeg"
+      },
+      "status": "active"
+    },
+    {
+      "id": 1855808,
+      "name": "Kişilər üçün krosovkalar TCS_2606, qara, eko dəri, ölçü 40",
+      "slugged_name": "kishiler-uchun-krosovkalar-tcs-2606-qara-eko-deri-olchu-40-tcs_2606_qara_40",
+      "custom_fields": [
+        {
+          "master_field_id": 1423,
+          "values": [
+            "40"
+          ]
+        },
+        {
+          "master_field_id": 625,
+          "values": [
+            "Qara"
+          ]
+        }
+      ],
+      "main_img": {
+        "big": "https://strgimgr.umico.az/img/product/1680/6f8c381c-f016-4a27-a865-2b594667fec2.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/6f8c381c-f016-4a27-a865-2b594667fec2.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/6f8c381c-f016-4a27-a865-2b594667fec2.jpeg"
+      },
+      "status": "active"
+    },
+    {
+      "id": 1855809,
+      "name": "Kişilər üçün krosovkalar TCS_2606, qara, eko dəri, ölçü 41",
+      "slugged_name": "kishiler-uchun-krosovkalar-tcs_2606-qara-eko-deri-olchu-41-tcs_2606_qara_41",
+      "custom_fields": [
+        {
+          "master_field_id": 1423,
+          "values": [
+            "41"
+          ]
+        },
+        {
+          "master_field_id": 625,
+          "values": [
+            "Qara"
+          ]
+        }
+      ],
+      "main_img": {
+        "big": "https://strgimgr.umico.az/img/product/1680/3c164149-215f-4382-acf0-29d1d3058e0f.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/3c164149-215f-4382-acf0-29d1d3058e0f.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/3c164149-215f-4382-acf0-29d1d3058e0f.jpeg"
+      },
+      "status": "active"
+    },
+    {
+      "id": 1855821,
+      "name": "Kişilər üçün krosovkalar TCS_2606, ağ, eko dəri, ölçü 43",
+      "slugged_name": "kishiler-uchun-krosovkalar-tcs_2606-ag-eko-deri-olchu-43-tcs_2606_ag_43",
+      "custom_fields": [
+        {
+          "master_field_id": 1423,
+          "values": [
+            "43"
+          ]
+        },
+        {
+          "master_field_id": 625,
+          "values": [
+            "Ağ"
+          ]
+        }
+      ],
+      "main_img": {
+        "big": "https://strgimgr.umico.az/img/product/1680/fc33fa1c-a7d2-48d3-9a9f-3d2e1dbc9bdb.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/fc33fa1c-a7d2-48d3-9a9f-3d2e1dbc9bdb.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/fc33fa1c-a7d2-48d3-9a9f-3d2e1dbc9bdb.jpeg"
+      },
+      "status": "active"
+    }
+  ],
+  "size_chart": {},
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "sku": 1855809,
+    "mpn": "TCS_2606_qara_41",
+    "url": "https://birmarket.az/product/1855809-kishiler-uchun-krosovkalar-tcs_2606-qara-eko-deri-olchu-41-tcs_2606_qara_41",
+    "name": "Kişilər üçün krosovkalar TCS_2606, qara, eko dəri, ölçü 41",
+    "image": [
+      "https://strgimgr.umico.az/img/product/1680/3c164149-215f-4382-acf0-29d1d3058e0f.jpeg",
+      "https://strgimgr.umico.az/img/product/1680/52df3136-baa3-45e3-8ce4-789fd65b1afc.jpeg",
+      "https://strgimgr.umico.az/img/product/1680/3554a50b-6e71-40e3-ad06-3061f64b96fe.jpeg",
+      "https://strgimgr.umico.az/img/product/1680/da9595b5-f55c-4489-802f-403e5e25078f.jpeg",
+      "https://strgimgr.umico.az/img/product/1680/bfb66212-c8df-4f48-9a8c-8793578e5ddc.jpeg",
+      "https://strgimgr.umico.az/img/product/1680/e323548d-e229-480e-9eb0-fd7c15ed6bba.jpeg"
+    ],
+    "description": "Kişilər üçün eko dəri materialdan hazırlanmış krosovka gündəlik və aktiv istifadə üçün nəzərdə tutulmuşdur, yumşaq və davamlı üst material ayağın rahat nəfəs almasını təmin edir, anatomik qəlibi və iç hissəsinin komfortlu quruluşu uzun müddət geyim zamanı yorğunluğu azaldır, sürüşməyə qarşı dayanıqlı altlıq sabit addım və etibarlı yol tutumu yaradır, müasir dizaynı isə gündəlik geyim və idman üslubu ilə asanlıqla uyğunlaşır.",
+    "itemCondition": "https://schema.org/NewCondition",
+    "offers": {
+      "@type": "Offer",
+      "availability": "https://schema.org/InStock",
+      "url": "https://birmarket.az/product/1855809-kishiler-uchun-krosovkalar-tcs_2606-qara-eko-deri-olchu-41-tcs_2606_qara_41",
+      "price": 54.96,
+      "priceCurrency": "AZN",
+      "priceValidUntil": "2026-12-03T09:31:40+04:00Z",
+      "hasMerchantReturnPolicy": {
+        "applicableCountry": "AZ",
+        "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+        "returnMethod": "https://schema.org/ReturnInStore",
+        "returnFees": "https://schema.org/FreeReturn",
+        "merchantReturnDays": 14
+      },
+      "shippingDetails": {
+        "@type": "OfferShippingDetails",
+        "shippingDestination": {
+          "@type": "DefinedRegion",
+          "addressCountry": "AZ"
+        },
+        "deliveryTime": {
+          "@type": "ShippingDeliveryTime",
+          "handlingTime": {
+            "@type": "QuantitativeValue",
+            "minValue": 0,
+            "maxValue": 1,
+            "unitCode": "DAY"
+          },
+          "transitTime": {
+            "@type": "QuantitativeValue",
+            "minValue": 0,
+            "maxValue": 1,
+            "unitCode": "DAY"
+          },
+          "businessDays": {
+            "@type": "OpeningHoursSpecification",
+            "dayOfWeek": [
+              "https://schema.org/Monday",
+              "https://schema.org/Tuesday",
+              "https://schema.org/Wednesday",
+              "https://schema.org/Thursday",
+              "https://schema.org/Friday",
+              "https://schema.org/Saturday",
+              "https://schema.org/Sunday"
+            ]
+          }
+        },
+        "shippingRate": {
+          "@type": "MonetaryAmount",
+          "value": 0,
+          "currency": "AZN"
+        }
+      }
+    },
+    "brand": {
+      "@type": "Brand",
+      "name": "No Brand",
+      "url": "https://birmarket.az/brands/No%20Brand"
+    }
+  }
+}

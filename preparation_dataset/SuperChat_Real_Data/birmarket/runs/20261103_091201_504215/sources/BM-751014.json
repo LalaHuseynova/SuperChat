@@ -1,0 +1,948 @@
+{
+  "product": {
+    "id": 751014,
+    "gtin": "197532136359",
+    "mpn": "83A10097RU",
+    "name": "Notbuk Lenovo V15 G4 IRU (83A10097RU)",
+    "slugged_name_az": "notbuk-lenovo-v15-g4-iru-83a10097ru",
+    "slugged_name_ru": "noutbuk-lenovo-v15-g4-iru-83a10097ru",
+    "description": "Notebook Lenovo V15 G4 IRU 15.6 düymlük anti-əks ekranla, Full HD (1920x1080) çözünürlüklə və 60 Hz yenilənmə tezliyi ilə təchiz olunub ki, bu, parlaq işıqlandırmada belə əks olunmadan dəqiq görüntü təmin edir. 19.9 mm qalınlığa malik kompakt korpus və klassik qara rəng cihazı həm zərif, həm də mobil edir. Noutbuk 4600 MHz tezliyə malik, Intel Core i5 səkkiz nüvəli prosessor və 8 GB DDR4 operativ yaddaşla təchiz olunub ki, bu, iş və təhsil tapşırıqlarında yüksək performans təmin edir. 256 GB həcmində inteqrasiya olunmuş SSD məlumatlara və tətbiqlərə sürətli giriş təmin edir. Intel UHD Graphics inteqrasiya olunmuş qrafika gündəlik qrafik tapşırıqlarla mübarizə aparmağa imkan verir, 1280x720(HD) çözünürlüklü web kamerası isə video konfranslar üçün münasibdir. 3 USB port və HDMI, eləcə də Ethernet şəbəkə kabeli üçün qoşulmaların mövcudluğu, Wi-Fi və Bluetooth standartlarını dəstəkləmə xarici cihazlarla rahat qarşılıqlı əlaqə təmin edir. Model FreeDOS ilə təqdim olunur ki, istifadəçilər üstünlük verdikləri əməliyyat sistemini seçib quraşdıra bilsinlər. Cihazın çəkisi 1.66 kg təşkil edir, bu da onu daşıma üçün rahat edir. Komplektasiyaya noutbuk və istifadə təlimatı daxildir.",
+    "description_outlet": "",
+    "status": "active",
+    "uuid": "019c1ea1-a10f-460a-8938-2c5ec1d8a205",
+    "variant_code": "VC_751014",
+    "default_offer": {
+      "uuid": "9d155dc1-54ed-45ce-8fa0-696400ed36be",
+      "installment_enabled": true,
+      "max_installment_months": 18,
+      "product_offer_labels": [],
+      "old_price": 1800,
+      "retail_price": 1196.99,
+      "supplier_id": "b8f93d34-f67f-47a0-8afa-77e99de702c7",
+      "qty": 0,
+      "seller": {
+        "ext_id": "b8f93d34-f67f-47a0-8afa-77e99de702c7",
+        "marketing_name": {
+          "id": 15755,
+          "name": "LL Store"
+        },
+        "logo": {
+          "thumbnail": ""
+        },
+        "vat_payer": false,
+        "rating": 91,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "discount_effective_start_date": "",
+      "discount_effective_end_date": ""
+    },
+    "category_id": 16,
+    "category": {
+      "id": 16,
+      "name": "Notbuklar"
+    },
+    "brand": {
+      "name": "Lenovo"
+    },
+    "custom_fields": [
+      {
+        "master_field_id": 6044,
+        "values": [
+          "13420H"
+        ]
+      },
+      {
+        "master_field_id": 834,
+        "values": [
+          "DDR4"
+        ]
+      },
+      {
+        "master_field_id": 661,
+        "values": [
+          "8"
+        ]
+      },
+      {
+        "master_field_id": 705,
+        "values": [
+          "Intel UHD Graphics"
+        ]
+      },
+      {
+        "master_field_id": 617,
+        "values": [
+          "15.6"
+        ]
+      },
+      {
+        "master_field_id": 1472,
+        "values": [
+          "60"
+        ]
+      },
+      {
+        "master_field_id": 675,
+        "values": [
+          "TN"
+        ]
+      },
+      {
+        "master_field_id": 619,
+        "values": [
+          "1920 x 1080"
+        ]
+      },
+      {
+        "master_field_id": 659,
+        "values": [
+          "FreeDOS"
+        ]
+      },
+      {
+        "master_field_id": 672,
+        "values": [
+          "Intel Core i5"
+        ]
+      },
+      {
+        "master_field_id": 673,
+        "values": [
+          "4600"
+        ]
+      },
+      {
+        "master_field_id": 664,
+        "values": [
+          "8"
+        ]
+      },
+      {
+        "master_field_id": 2595,
+        "values": [
+          "256"
+        ]
+      },
+      {
+        "master_field_id": 1488,
+        "values": [
+          "SSD"
+        ]
+      },
+      {
+        "master_field_id": 1744,
+        "values": [
+          "Intel"
+        ]
+      },
+      {
+        "master_field_id": 662,
+        "values": [
+          "SMA"
+        ]
+      },
+      {
+        "master_field_id": 1743,
+        "values": [
+          "İnteqrasiyalı"
+        ]
+      },
+      {
+        "master_field_id": 656,
+        "values": [
+          "1.65"
+        ]
+      },
+      {
+        "master_field_id": 625,
+        "values": [
+          "Qara"
+        ]
+      },
+      {
+        "master_field_id": 775,
+        "values": [
+          "359.2"
+        ]
+      },
+      {
+        "master_field_id": 776,
+        "values": [
+          "235.8"
+        ]
+      },
+      {
+        "master_field_id": 1637,
+        "values": [
+          "19.9"
+        ]
+      },
+      {
+        "master_field_id": 1476,
+        "values": [
+          "Lenovo V15"
+        ]
+      },
+      {
+        "master_field_id": 620,
+        "values": [
+          "Ev və iş üçün"
+        ]
+      },
+      {
+        "master_field_id": 1739,
+        "values": [
+          "Xeyr"
+        ]
+      },
+      {
+        "master_field_id": 1594,
+        "values": [
+          "Bəli"
+        ]
+      },
+      {
+        "master_field_id": 658,
+        "values": [
+          "Xeyr"
+        ]
+      },
+      {
+        "master_field_id": 697,
+        "values": [
+          "Noutbuk",
+          "Təlimat"
+        ]
+      },
+      {
+        "master_field_id": 2210,
+        "values": [
+          "Çin"
+        ]
+      },
+      {
+        "master_field_id": 618,
+        "values": [
+          "Çin"
+        ]
+      },
+      {
+        "master_field_id": 2635,
+        "values": [
+          "2023"
+        ]
+      },
+      {
+        "master_field_id": 1493,
+        "values": [
+          "Ada şəklində"
+        ]
+      },
+      {
+        "master_field_id": 1557,
+        "values": [
+          "Boz"
+        ]
+      },
+      {
+        "master_field_id": 1508,
+        "values": [
+          "2"
+        ]
+      },
+      {
+        "master_field_id": 1554,
+        "values": [
+          "Xeyr"
+        ]
+      },
+      {
+        "master_field_id": 1811,
+        "values": [
+          "Bəli"
+        ]
+      },
+      {
+        "master_field_id": 2598,
+        "values": [
+          "Xeyr"
+        ]
+      },
+      {
+        "master_field_id": 777,
+        "values": [
+          "Bəli"
+        ]
+      },
+      {
+        "master_field_id": 2597,
+        "values": [
+          "Xeyr"
+        ]
+      },
+      {
+        "master_field_id": 2596,
+        "values": [
+          "Bəli"
+        ]
+      },
+      {
+        "master_field_id": 2559,
+        "values": [
+          "3"
+        ]
+      },
+      {
+        "master_field_id": 1556,
+        "values": [
+          "Yoxdur"
+        ]
+      },
+      {
+        "master_field_id": 1759,
+        "values": [
+          "1280x720(HD)"
+        ]
+      },
+      {
+        "master_field_id": 660,
+        "values": [
+          "Antiblik"
+        ]
+      },
+      {
+        "master_field_id": 6327,
+        "values": [
+          "Xeyr"
+        ]
+      }
+    ],
+    "main_img": {
+      "big": "https://strgimgr.umico.az/sized/1680/751014-71753abd665670661be1fff528738447.jpg",
+      "medium": "https://strgimgr.umico.az/sized/840/751014-71753abd665670661be1fff528738447.jpg",
+      "small": "https://strgimgr.umico.az/sized/280/751014-71753abd665670661be1fff528738447.jpg"
+    },
+    "img_url_thumbnail": "https://strgimgr.umico.az/sized/280/751014-71753abd665670661be1fff528738447.jpg",
+    "main_video": "",
+    "imgs": [
+      {
+        "big": "https://strgimgr.umico.az/sized/1680/751014-71753abd665670661be1fff528738447.jpg",
+        "medium": "https://strgimgr.umico.az/sized/840/751014-71753abd665670661be1fff528738447.jpg",
+        "small": "https://strgimgr.umico.az/sized/280/751014-71753abd665670661be1fff528738447.jpg"
+      },
+      {
+        "big": "https://strgimgr.umico.az/sized/1680/751014-551bb3d23fac4092578a2b5385ad3671.jpg",
+        "medium": "https://strgimgr.umico.az/sized/840/751014-551bb3d23fac4092578a2b5385ad3671.jpg",
+        "small": "https://strgimgr.umico.az/sized/280/751014-551bb3d23fac4092578a2b5385ad3671.jpg"
+      },
+      {
+        "big": "https://strgimgr.umico.az/sized/1680/751014-684e8277ce1d80de227652d5dfd35223.jpg",
+        "medium": "https://strgimgr.umico.az/sized/840/751014-684e8277ce1d80de227652d5dfd35223.jpg",
+        "small": "https://strgimgr.umico.az/sized/280/751014-684e8277ce1d80de227652d5dfd35223.jpg"
+      },
+      {
+        "big": "https://strgimgr.umico.az/sized/1680/751014-78e1fa49b3a066d08e5307e8415f147f.jpg",
+        "medium": "https://strgimgr.umico.az/sized/840/751014-78e1fa49b3a066d08e5307e8415f147f.jpg",
+        "small": "https://strgimgr.umico.az/sized/280/751014-78e1fa49b3a066d08e5307e8415f147f.jpg"
+      },
+      {
+        "big": "https://strgimgr.umico.az/sized/1680/751014-5cd8b600fc749fdeb0846e29e85b0eac.jpg",
+        "medium": "https://strgimgr.umico.az/sized/840/751014-5cd8b600fc749fdeb0846e29e85b0eac.jpg",
+        "small": "https://strgimgr.umico.az/sized/280/751014-5cd8b600fc749fdeb0846e29e85b0eac.jpg"
+      }
+    ],
+    "videos": [],
+    "min_qty": 1,
+    "preorder_available": false,
+    "is_assortment": false,
+    "is_bulk_heavy": false,
+    "is_refurbished": false,
+    "is_refundable": true,
+    "is_dangerous": false,
+    "show_tech_description": false,
+    "use_external_content": true,
+    "product_labels": [],
+    "ratings": {
+      "rating_value": 4.8,
+      "assessment_id": 0,
+      "session_count": 4,
+      "score_count": 4
+    },
+    "default_show_stock_qty_threshold": 0,
+    "card_type": "public"
+  },
+  "category": {
+    "id": 16,
+    "name": "Notbuklar",
+    "slugged_name_az": "noutbuklar",
+    "slugged_name_ru": "noutbuki",
+    "view_mode": "products",
+    "mobile_visual_mode": "text",
+    "is_variant": true,
+    "depth": 2,
+    "parent_id": 15,
+    "child_ids": [],
+    "node_type": "NODE",
+    "install_service_needed": false,
+    "fitting_allowed": false,
+    "vat": true,
+    "variations": [
+      {
+        "master_field_id": 625,
+        "name": "Rəng",
+        "variation_tool_type": "image",
+        "has_size_chart": false,
+        "display_variant": false
+      },
+      {
+        "master_field_id": 2595,
+        "name": "SSD həcmi, Gb",
+        "variation_tool_type": "button",
+        "has_size_chart": false,
+        "display_variant": false
+      },
+      {
+        "master_field_id": 672,
+        "name": "Prosessorun növü",
+        "variation_tool_type": "button",
+        "has_size_chart": false,
+        "display_variant": false
+      }
+    ],
+    "custom_fields": [
+      {
+        "master_field_id": 1476,
+        "category_master_field_id": 4465,
+        "name": "Seriya"
+      },
+      {
+        "master_field_id": 620,
+        "category_master_field_id": 1503,
+        "name": "Tip"
+      },
+      {
+        "master_field_id": 672,
+        "category_master_field_id": 5316,
+        "name": "Prosessorun növü"
+      },
+      {
+        "master_field_id": 661,
+        "category_master_field_id": 1510,
+        "name": "Operativ yaddaşın həcmi, Gb"
+      },
+      {
+        "master_field_id": 834,
+        "category_master_field_id": 4473,
+        "name": "Yaddaşın növü"
+      },
+      {
+        "master_field_id": 2595,
+        "category_master_field_id": 10818,
+        "name": "SSD həcmi, Gb"
+      },
+      {
+        "master_field_id": 2594,
+        "category_master_field_id": 10817,
+        "name": "HDD həcmi, Gb"
+      },
+      {
+        "master_field_id": 1488,
+        "category_master_field_id": 4481,
+        "name": "Yığıcının növü"
+      },
+      {
+        "master_field_id": 617,
+        "category_master_field_id": 1506,
+        "name": "Ekranın diaqonalı, düym"
+      },
+      {
+        "master_field_id": 619,
+        "category_master_field_id": 4460,
+        "name": "Ekranın qətnaməsi"
+      },
+      {
+        "master_field_id": 675,
+        "category_master_field_id": 4458,
+        "name": "Matrisin növü"
+      },
+      {
+        "master_field_id": 1472,
+        "category_master_field_id": 4461,
+        "name": "Kadrların dəyişmə tezliyi, Hz"
+      },
+      {
+        "master_field_id": 659,
+        "category_master_field_id": 1507,
+        "name": "Əvvəlcədən quraşdırılmış ƏS"
+      },
+      {
+        "master_field_id": 625,
+        "category_master_field_id": 1509,
+        "name": "Rəng"
+      },
+      {
+        "master_field_id": 2211,
+        "category_master_field_id": 10835,
+        "name": "Zəmanət müddəti"
+      },
+      {
+        "master_field_id": 660,
+        "category_master_field_id": 1508,
+        "name": "Ekran örtüyünün növü"
+      },
+      {
+        "master_field_id": 6044,
+        "category_master_field_id": 38416,
+        "name": "Prosessorun kodu"
+      },
+      {
+        "master_field_id": 673,
+        "category_master_field_id": 5320,
+        "name": "Prosessorun tezliyi, MHz"
+      },
+      {
+        "master_field_id": 719,
+        "category_master_field_id": 4477,
+        "name": "Yaddaş yuvalarının sayı"
+      },
+      {
+        "master_field_id": 1482,
+        "category_master_field_id": 4472,
+        "name": "Maksimal artırıla bilən həcm, Gb"
+      },
+      {
+        "master_field_id": 662,
+        "category_master_field_id": 1511,
+        "name": "Video yaddaşın həcmi, Gb"
+      },
+      {
+        "master_field_id": 1743,
+        "category_master_field_id": 5321,
+        "name": "Qrafik kontrollerin növü"
+      },
+      {
+        "master_field_id": 656,
+        "category_master_field_id": 4590,
+        "name": "Çəki, kq"
+      },
+      {
+        "master_field_id": 826,
+        "category_master_field_id": 4588,
+        "name": "Akkumulyatorun həcmi, mA/saat"
+      },
+      {
+        "master_field_id": 775,
+        "category_master_field_id": 15508,
+        "name": "Uzunluğu, mm"
+      },
+      {
+        "master_field_id": 776,
+        "category_master_field_id": 15509,
+        "name": "Eni, mm"
+      },
+      {
+        "master_field_id": 1637,
+        "category_master_field_id": 10833,
+        "name": "Qalınlığı, mm"
+      },
+      {
+        "master_field_id": 705,
+        "category_master_field_id": 5324,
+        "name": "Qrafik çipset"
+      },
+      {
+        "master_field_id": 1739,
+        "category_master_field_id": 10815,
+        "name": "Sensor ekran"
+      },
+      {
+        "master_field_id": 658,
+        "category_master_field_id": 1505,
+        "name": "Ultrabuk"
+      },
+      {
+        "master_field_id": 697,
+        "category_master_field_id": 10834,
+        "name": "Komplektasiya"
+      },
+      {
+        "master_field_id": 1740,
+        "category_master_field_id": 5326,
+        "name": "Digər funksiyalar və xüsusiyyətlər"
+      },
+      {
+        "master_field_id": 2210,
+        "category_master_field_id": 10809,
+        "name": "Brendin ölkəsi"
+      },
+      {
+        "master_field_id": 618,
+        "category_master_field_id": 5330,
+        "name": "İstehsalçı ölkə"
+      },
+      {
+        "master_field_id": 2635,
+        "category_master_field_id": 37278,
+        "name": "Bazarın başlanğıc ili"
+      },
+      {
+        "master_field_id": 1493,
+        "category_master_field_id": 4487,
+        "name": "Düymələrin quruluşu"
+      },
+      {
+        "master_field_id": 1557,
+        "category_master_field_id": 4616,
+        "name": "Klaviaturanın rəngi"
+      },
+      {
+        "master_field_id": 2600,
+        "category_master_field_id": 10829,
+        "name": "Klaviaturanın işıqlandırılması"
+      },
+      {
+        "master_field_id": 1508,
+        "category_master_field_id": 10828,
+        "name": "Dinamiklərin sayı"
+      },
+      {
+        "master_field_id": 1554,
+        "category_master_field_id": 10826,
+        "name": "Yaddaş kartlarının dəstəklənməsi"
+      },
+      {
+        "master_field_id": 1811,
+        "category_master_field_id": 10825,
+        "name": "Wi-Fi standartı"
+      },
+      {
+        "master_field_id": 2598,
+        "category_master_field_id": 10824,
+        "name": "NFC mövcudluğu"
+      },
+      {
+        "master_field_id": 777,
+        "category_master_field_id": 10823,
+        "name": "Bluetooth standartı"
+      },
+      {
+        "master_field_id": 2597,
+        "category_master_field_id": 10822,
+        "name": "VGA (D-sub) port"
+      },
+      {
+        "master_field_id": 2596,
+        "category_master_field_id": 10821,
+        "name": "HDMI port"
+      },
+      {
+        "master_field_id": 1594,
+        "category_master_field_id": 4711,
+        "name": "Şəbəkəyə qoşulma (Ethernet)"
+      },
+      {
+        "master_field_id": 2559,
+        "category_master_field_id": 10820,
+        "name": "USB -portların sayı, əd."
+      },
+      {
+        "master_field_id": 1556,
+        "category_master_field_id": 4615,
+        "name": "Optik ötürücü"
+      },
+      {
+        "master_field_id": 1491,
+        "category_master_field_id": 4485,
+        "name": "Web-kamera"
+      },
+      {
+        "master_field_id": 1759,
+        "category_master_field_id": 10819,
+        "name": "Veb kamera"
+      },
+      {
+        "master_field_id": 2552,
+        "category_master_field_id": 10830,
+        "name": "Korpusun qorunması"
+      },
+      {
+        "master_field_id": 1492,
+        "category_master_field_id": 4486,
+        "name": "Səs formatı"
+      },
+      {
+        "master_field_id": 1744,
+        "category_master_field_id": 5322,
+        "name": "Qrafik çipsetin istehsalçısı"
+      },
+      {
+        "master_field_id": 664,
+        "category_master_field_id": 4468,
+        "name": "Prosessorun nüvələr sayı"
+      },
+      {
+        "master_field_id": 6327,
+        "category_master_field_id": 41934,
+        "name": "Oyun"
+      }
+    ],
+    "parent": {
+      "id": 15,
+      "node_type": "NODE",
+      "name": "Notbuk və kompüterlər",
+      "slugged_name": "noutbuklar-ve-komputer-texnikasi",
+      "parent": {
+        "id": 1,
+        "node_type": "NODE",
+        "name": "Elektronika və məişət texnikası",
+        "slugged_name": "elektronika-ve-meishet-texnikasi",
+        "parent": null
+      }
+    },
+    "is_refundable": true,
+    "is_adult": false,
+    "icons": {
+      "thumbnail": "https://strgimgr.umico.az/img/category/188/6c2913d6-8b63-4253-ac83-0d99e74ad30a.jpeg",
+      "original": "https://strgimgr.umico.az/img/category/original/6c2913d6-8b63-4253-ac83-0d99e74ad30a.png"
+    },
+    "is_active": true
+  },
+  "offers": [
+    {
+      "uuid": "042151a0-93ea-4bb9-8283-81979b90bd22",
+      "installment_enabled": true,
+      "max_installment_months": 18,
+      "product_offer_labels": [],
+      "old_price": 1500,
+      "retail_price": 1197,
+      "supplier_id": "9b754ab7-435f-4904-8dac-bb10c2027e59",
+      "seller": {
+        "ext_id": "05c23726-d28f-40ee-9d56-0d557cb83ea2",
+        "internal_id": 5273,
+        "marketing_name": {
+          "id": 5273,
+          "name": "Nano Plus"
+        },
+        "logo": {
+          "thumbnail": "https://storage.umico.az/cpcustomerprod01/c435c74756fdb97b062eb2bfdeeadf78.jpg"
+        },
+        "vat_payer": true,
+        "rating": 80,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "allow_qty": 0
+    },
+    {
+      "uuid": "3711aa8c-4a75-4c61-8c92-7c535819c598",
+      "installment_enabled": true,
+      "max_installment_months": 18,
+      "product_offer_labels": [],
+      "old_price": 1800,
+      "retail_price": 1199.99,
+      "supplier_id": "53e262e0-7e7e-4fc8-bada-921174338e76",
+      "seller": {
+        "ext_id": "07e11126-371c-430e-b5fb-b643dbff59d0",
+        "internal_id": 16377,
+        "marketing_name": {
+          "id": 16377,
+          "name": "One.Price"
+        },
+        "logo": {
+          "thumbnail": ""
+        },
+        "vat_payer": false,
+        "rating": 81,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "allow_qty": 0
+    },
+    {
+      "uuid": "9d155dc1-54ed-45ce-8fa0-696400ed36be",
+      "installment_enabled": true,
+      "max_installment_months": 18,
+      "product_offer_labels": [],
+      "old_price": 1800,
+      "retail_price": 1196.99,
+      "supplier_id": "b8f93d34-f67f-47a0-8afa-77e99de702c7",
+      "seller": {
+        "ext_id": "eb7a82ea-4a59-4b87-acfa-17c5f2bf4a5f",
+        "internal_id": 15755,
+        "marketing_name": {
+          "id": 15755,
+          "name": "LL Store"
+        },
+        "logo": {
+          "thumbnail": ""
+        },
+        "vat_payer": false,
+        "rating": 91,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "allow_qty": 0
+    },
+    {
+      "uuid": "63ae4d3f-b811-47fc-8ceb-8f9ebea527b1",
+      "installment_enabled": true,
+      "max_installment_months": 18,
+      "product_offer_labels": [],
+      "old_price": 1450,
+      "retail_price": 1300,
+      "supplier_id": "c9e0417e-74e1-428a-a9a6-880e9b928144",
+      "seller": {
+        "ext_id": "4053acd6-9d4e-42cb-8609-5a07c4faab7c",
+        "internal_id": 14660,
+        "marketing_name": {
+          "id": 14660,
+          "name": "YES.MART"
+        },
+        "logo": {
+          "thumbnail": ""
+        },
+        "vat_payer": false,
+        "rating": 100,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "allow_qty": 0
+    },
+    {
+      "uuid": "0f8caf66-46f3-4fb7-a8b2-7e8a89143485",
+      "installment_enabled": true,
+      "max_installment_months": 18,
+      "product_offer_labels": [],
+      "old_price": 1800,
+      "retail_price": 1499.99,
+      "supplier_id": "7c10cbde-35d9-461a-a5de-c17446757a90",
+      "seller": {
+        "ext_id": "e551b642-a4f6-41ed-894b-e46f9b556864",
+        "internal_id": 16421,
+        "marketing_name": {
+          "id": 16421,
+          "name": "OK Store"
+        },
+        "logo": {
+          "thumbnail": ""
+        },
+        "vat_payer": false,
+        "rating": 92,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "allow_qty": 0
+    }
+  ],
+  "variations": [
+    {
+      "id": 751014,
+      "name": "Notbuk Lenovo V15 G4 IRU (83A10097RU)",
+      "slugged_name": "notbuk-lenovo-v15-g4-iru-83a10097ru",
+      "custom_fields": [
+        {
+          "master_field_id": 625,
+          "values": [
+            "Qara"
+          ]
+        },
+        {
+          "master_field_id": 2595,
+          "values": [
+            "256"
+          ]
+        },
+        {
+          "master_field_id": 672,
+          "values": [
+            "Intel Core i5"
+          ]
+        }
+      ],
+      "main_img": {
+        "big": "https://strgimgr.umico.az/sized/1680/751014-71753abd665670661be1fff528738447.jpg",
+        "medium": "https://strgimgr.umico.az/sized/840/751014-71753abd665670661be1fff528738447.jpg",
+        "small": "https://strgimgr.umico.az/sized/280/751014-71753abd665670661be1fff528738447.jpg"
+      },
+      "status": "active"
+    }
+  ],
+  "size_chart": {},
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "sku": 751014,
+    "mpn": "83A10097RU",
+    "url": "https://birmarket.az/product/751014-notbuk-lenovo-v15-g4-iru-83a10097ru",
+    "name": "Notbuk Lenovo V15 G4 IRU (83A10097RU)",
+    "image": [
+      "https://strgimgr.umico.az/sized/1680/751014-71753abd665670661be1fff528738447.jpg",
+      "https://strgimgr.umico.az/sized/1680/751014-551bb3d23fac4092578a2b5385ad3671.jpg",
+      "https://strgimgr.umico.az/sized/1680/751014-684e8277ce1d80de227652d5dfd35223.jpg",
+      "https://strgimgr.umico.az/sized/1680/751014-78e1fa49b3a066d08e5307e8415f147f.jpg",
+      "https://strgimgr.umico.az/sized/1680/751014-5cd8b600fc749fdeb0846e29e85b0eac.jpg"
+    ],
+    "description": "Notebook Lenovo V15 G4 IRU 15.6 düymlük anti-əks ekranla, Full HD (1920x1080) çözünürlüklə və 60 Hz yenilənmə tezliyi ilə təchiz olunub ki, bu, parlaq işıqlandırmada belə əks olunmadan dəqiq görüntü təmin edir. 19.9 mm qalınlığa malik kompakt korpus və klassik qara rəng cihazı həm zərif, həm də mobil edir. Noutbuk 4600 MHz tezliyə malik, Intel Core i5 səkkiz nüvəli prosessor və 8 GB DDR4 operativ yaddaşla təchiz olunub ki, bu, iş və təhsil tapşırıqlarında yüksək performans təmin edir. 256 GB həcmində inteqrasiya olunmuş SSD məlumatlara və tətbiqlərə sürətli giriş təmin edir. Intel UHD Graphics inteqrasiya olunmuş qrafika gündəlik qrafik tapşırıqlarla mübarizə aparmağa imkan verir, 1280x720(HD) çözünürlüklü web kamerası isə video konfranslar üçün münasibdir. 3 USB port və HDMI, eləcə də Ethernet şəbəkə kabeli üçün qoşulmaların mövcudluğu, Wi-Fi və Bluetooth standartlarını dəstəkləmə xarici cihazlarla rahat qarşılıqlı əlaqə təmin edir. Model FreeDOS ilə təqdim olunur ki, istifadəçilər üstünlük verdikləri əməliyyat sistemini seçib quraşdıra bilsinlər. Cihazın çəkisi 1.66 kg təşkil edir, bu da onu daşıma üçün rahat edir. Komplektasiyaya noutbuk və istifadə təlimatı daxildir.",
+    "itemCondition": "https://schema.org/NewCondition",
+    "offers": {
+      "@type": "AggregateOffer",
+      "availability": "https://schema.org/InStock",
+      "offerCount": 5,
+      "highPrice": 1499.99,
+      "lowPrice": 1196.99,
+      "priceCurrency": "AZN",
+      "hasMerchantReturnPolicy": {
+        "applicableCountry": "AZ",
+        "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+        "returnMethod": "https://schema.org/ReturnInStore",
+        "returnFees": "https://schema.org/FreeReturn",
+        "merchantReturnDays": 14
+      },
+      "shippingDetails": {
+        "@type": "OfferShippingDetails",
+        "shippingDestination": {
+          "@type": "DefinedRegion",
+          "addressCountry": "AZ"
+        },
+        "deliveryTime": {
+          "@type": "ShippingDeliveryTime",
+          "handlingTime": {
+            "@type": "QuantitativeValue",
+            "minValue": 0,
+            "maxValue": 1,
+            "unitCode": "DAY"
+          },
+          "transitTime": {
+            "@type": "QuantitativeValue",
+            "minValue": 0,
+            "maxValue": 1,
+            "unitCode": "DAY"
+          },
+          "businessDays": {
+            "@type": "OpeningHoursSpecification",
+            "dayOfWeek": [
+              "https://schema.org/Monday",
+              "https://schema.org/Tuesday",
+              "https://schema.org/Wednesday",
+              "https://schema.org/Thursday",
+              "https://schema.org/Friday",
+              "https://schema.org/Saturday",
+              "https://schema.org/Sunday"
+            ]
+          }
+        },
+        "shippingRate": {
+          "@type": "MonetaryAmount",
+          "value": 0,
+          "currency": "AZN"
+        }
+      }
+    },
+    "brand": {
+      "@type": "Brand",
+      "name": "Lenovo",
+      "url": "https://birmarket.az/brands/Lenovo"
+    }
+  }
+}

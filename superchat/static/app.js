@@ -2,6 +2,7 @@
 const $ = (s) => document.querySelector(s);
 const icons = {
   plus: "M12 5v14M5 12h14",
+  trash: "M3 6h18M9 6V3h6v3M5 6l1 15h12l1-15M10 10v7M14 10v7",
   search: "M21 21l-5-5M18 10a8 8 0 1 1-16 0 8 8 0 0 1 16 0",
   plane: "m22 2-7 20-4-9-9-4 20-7ZM22 2 11 13",
   bag: "M5 7h14l1 14H4L5 7Zm3 0V5a4 4 0 0 1 8 0v2",
@@ -43,6 +44,16 @@ const esc = (s) =>
       ],
   );
 const lex = {
+  deleteChat: ["Delete chat", "Söhbəti sil", "Удалить чат"],
+  deleteHeading: ["Delete this conversation?", "Bu söhbət silinsin?", "Удалить этот разговор?"],
+  deleteDescription: ["Messages, shopping list, saved plans and the chat log will be permanently deleted.", "Mesajlar, alış-veriş siyahısı, saxlanılmış planlar və söhbət jurnalı həmişəlik silinəcək.", "Сообщения, список покупок, сохранённые планы и журнал чата будут удалены навсегда."],
+  deleteWarning: ["This cannot be undone.", "Bunu geri qaytarmaq mümkün deyil.", "Это действие нельзя отменить."],
+  keepChat: ["Cancel", "Ləğv et", "Отмена"],
+  deleteChatConfirm: [
+    'Delete “{title}”? Its messages, shopping list, saved plans and chat log will be permanently removed. This cannot be undone.',
+    '“{title}” söhbəti silinsin? Mesajlar, alış-veriş siyahısı, saxlanılmış planlar və söhbət jurnalı həmişəlik silinəcək. Bunu geri qaytarmaq mümkün deyil.',
+    'Удалить чат «{title}»? Сообщения, список покупок, сохранённые планы и журнал чата будут удалены навсегда. Это действие нельзя отменить.',
+  ],
   workspace: ["Personal workspace", "Şəxsi məkan", "Личное пространство"],
   localWorkspace: [
     "Saved on this device",
@@ -93,9 +104,9 @@ const lex = {
   ],
   shoppingTitle: ["Something just right", "Tam sizə uyğun", "То, что нужно"],
   shoppingPrompt: [
-    "Wireless headphones<br>under 100 AZN",
-    "100 AZN-dən ucuz<br>simsiz qulaqlıq",
-    "Беспроводные наушники<br>до 100 AZN",
+    "iPhone 17 Pro",
+    "iPhone 17 Pro",
+    "iPhone 17 Pro",
   ],
   cinemaTitle: ["Make a night of it", "Kino axşamı", "Вечер в кино"],
   cinemaPrompt: [
@@ -227,14 +238,19 @@ const lex = {
   ],
   retry: ["Retry", "Yenidən sına", "Повторить"],
   networkError: [
-    "Could not reach SuperChat. Your message is kept — try again.",
-    "SuperChat-a qoşulmaq olmadı. Mesajınız saxlanılıb — yenidən sınayın.",
-    "Не удалось связаться с SuperChat. Сообщение сохранено — повторите попытку.",
+    "Could not reach Bir SuperChat. Your message is kept — try again.",
+    "Bir SuperChat-a qoşulmaq olmadı. Mesajınız saxlanılıb — yenidən sınayın.",
+    "Не удалось связаться с Bir SuperChat. Сообщение сохранено — повторите попытку.",
   ],
   fallback: [
     "AI is unavailable. This reply used the offline assistant.",
     "AI əlçatan deyil. Bu cavab oflayn köməkçi ilə hazırlandı.",
     "ИИ недоступен. Ответ подготовлен офлайн-помощником.",
+  ],
+  authFailed: [
+    "The AI provider rejected the connection credentials. This reply used the offline assistant.",
+    "AI provayderi qoşulma məlumatlarını qəbul etmədi. Bu cavab oflayn köməkçi ilə hazırlandı.",
+    "Провайдер ИИ отклонил данные доступа. Ответ подготовлен офлайн-помощником.",
   ],
   listening: [
     "Listening — speak naturally",
@@ -263,14 +279,14 @@ const lex = {
     "Контекст поиска перенесён из:",
   ],
   offlineProvider: [
-    "Offline assistant active. Add your OpenRouter key to .env and restart to enable AI understanding.",
-    "Oflayn köməkçi aktivdir. AI üçün .env faylına OpenRouter açarı əlavə edib yenidən başladın.",
-    "Работает офлайн-помощник. Для ИИ добавьте ключ OpenRouter в .env и перезапустите.",
+    "Offline assistant active.",
+    "Oflayn köməkçi aktivdir.",
+    "Работает офлайн-помощник.",
   ],
   aiProvider: [
-    "OpenRouter is connected. Catalogue facts are still verified locally.",
-    "OpenRouter qoşulub. Kataloq məlumatları yenə yerli yoxlanılır.",
-    "OpenRouter подключён. Данные каталога проверяются локально.",
+    "AI is configured. Catalogue facts are verified against saved data.",
+    "AI konfiqurasiya edilib. Kataloq məlumatları saxlanılmış məlumatlarla yoxlanılır.",
+    "ИИ настроен. Факты каталога проверяются по сохранённым данным.",
   ],
   photoError: [
     "Choose a JPEG, PNG, or WebP image up to 8 MB.",
@@ -288,7 +304,52 @@ const lex = {
     "Прежний контекст поиска готов. Продолжайте разговор.",
   ],
 };
+Object.assign(lex, {
+  snapshotMode: ["SNAPSHOT", "SAXLANILMIŞ", "СНИМОК"],
+  snapshotCaption: ["Saved real listings. Prices and availability need confirmation at the source.", "Saxlanılmış real elanlar. Qiymət və mövcudluğu mənbədən təsdiqləyin.", "Сохранённые предложения. Уточняйте цену и наличие у источника."],
+  snapshotCart: ["Shopping list", "Alış-veriş siyahısı", "Список покупок"],
+  snapshotTotal: ["Estimated total", "Təxmini cəm", "Примерная сумма"],
+  snapshotClock: ["Current date", "Cari tarix", "Текущая дата"],
+  snapshotClockNote: ["Relative dates use today's Asia/Baku calendar. Listings have their own collection dates.", "Nisbi tarixlər Bakı vaxtına əsaslanır. Elanların toplanma tarixləri ayrıdır.", "Относительные даты считаются по времени Баку. У предложений своя дата сбора."],
+  snapshotBookingHint: ["Save a flight or cinema showtime here, then open its source to book. Saving does not reserve seats.", "Uçuşu və ya kino seansını burada saxlayın, sonra bron üçün mənbəni açın. Saxlamaq yerləri bron etmir.", "Сохраните рейс или сеанс здесь, затем откройте источник для бронирования. Сохранение не резервирует места."],
+  savedPlans: ["Saved plans", "Saxlanılmış planlar", "Сохранённые планы"],
+  savePlan: ["Save to plans", "Planlara əlavə et", "Сохранить в планах"],
+  localPlan: ["Saved only — not booked", "Yalnız saxlanılıb — bron edilməyib", "Сохранено — не забронировано"],
+  removePlan: ["Remove saved plan", "Saxlanılmış planı sil", "Удалить сохранённый план"],
+  unknown: ["Not published", "Dərc edilməyib", "Не опубликовано"],
+  unknownAvailability: ["Availability unverified", "Mövcudluq yoxlanılmayıb", "Наличие не проверено"],
+  listedStock: ["Listed in stock", "Elana görə stokda", "В наличии по снимку"],
+  sourceOpen: ["View source", "Mənbəni aç", "Открыть источник"],
+  listAdd: ["Save to list", "Siyahıya əlavə et", "В список"],
+  sourceText: ["Source text", "Mənbə mətni", "Текст источника"],
+  en: ["English", "İngilis", "Английский"],
+  az: ["Azerbaijani", "Azərbaycan", "Азербайджанский"],
+  ru: ["Russian", "Rus", "Русский"],
+  collected: ["Collected", "Toplanıb", "Собрано"],
+  stale: ["Older snapshot — check current details", "Köhnə məlumat — cari vəziyyəti yoxlayın", "Старый снимок — проверьте актуальность"],
+  expired: ["This departure/showtime has passed", "Bu uçuş/seans vaxtı keçib", "Время вылета/сеанса прошло"],
+  conflict: ["Source prices disagree — confirm the price", "Mənbə qiymətləri fərqlidir — təsdiqləyin", "Цены источников расходятся — уточните цену"],
+  nearby: ["Nearby airport/city search — check the route", "Yaxın şəhər/hava limanı — marşrutu yoxlayın", "Поиск рядом — проверьте город/аэропорт"],
+  snapshotPrice: ["Saved price", "Saxlanılmış qiymət", "Цена из снимка"],
+  returnPrice: ["Round-trip total", "Gediş-dönüş cəmi", "Цена туда и обратно"],
+  showMore: ["Show more", "Daha çox", "Ещё результаты"],
+  shown: ["Showing", "Göstərilir", "Показано"],
+  of: ["of", "/", "из"],
+  refine: ["Narrow your search to see other options.", "Digər seçimlər üçün axtarışı dəqiqləşdirin.", "Уточните поиск для других вариантов."],
+});
+const snapshotLabels = {demo: "snapshotMode", mockCaption: "snapshotCaption", cart: "snapshotCart", total: "snapshotTotal", catalogueDate: "snapshotClock", clockNote: "snapshotClockNote", bookingHint: "snapshotBookingHint", bookings: "savedPlans"};
+Object.assign(lex, {
+  databaseMode: ["REAL CATALOGUE", "REAL KATALOQ", "РЕАЛЬНЫЙ КАТАЛОГ"],
+  databaseCaption: ["Collected listings and cached flight fares. Open the source to confirm current details.", "Toplanmış elanlar və keşlənmiş uçuş qiymətləri. Cari məlumatı mənbədən təsdiqləyin.", "Собранные предложения и кэшированные цены на рейсы. Уточняйте актуальность у источника."],
+  similarity: ["Image similarity", "Şəkil oxşarlığı", "Сходство изображений"],
+  birmarketOpen: ["Open Birmarket", "Birmarket-də aç", "Открыть Birmarket"],
+  cinemaOpen: ["Open CinemaPlus", "CinemaPlus-da aç", "Открыть CinemaPlus"],
+  flightOpen: ["Open Aviasales", "Aviasales-də aç", "Открыть Aviasales"],
+  cachedFare: ["Cached fare — confirm on Aviasales", "Keşlənmiş qiymət — Aviasales-də təsdiqləyin", "Кэшированная цена — уточните на Aviasales"],
+});
 const fieldNames = {
+  trip_type: ["Itinerary", "Marşrut növü", "Тип поездки"],
+  return_date: ["Return date", "Dönüş tarixi", "Дата возвращения"],
   departure: ["Departure", "Uçuş vaxtı", "Вылет"],
   arrival: ["Arrival", "Eniş vaxtı", "Прилёт"],
   duration: ["Duration (min)", "Müddət (dəq)", "Время (мин)"],
@@ -323,6 +384,8 @@ const fieldNames = {
   descending: ["Descending", "Azalan", "По убыванию"],
 };
 const values = {
+  one_way: ["One way", "Tək istiqamət", "В одну сторону"],
+  round_trip: ["Round trip", "Gediş-dönüş", "Туда и обратно"],
   economy: ["Economy", "Ekonom", "Эконом"],
   business: ["Business", "Biznes", "Бизнес"],
   black: ["Black", "Qara", "Чёрный"],
@@ -362,9 +425,9 @@ const examples = {
     "Найди рейс из Баку в Стамбул в пятницу.",
   ],
   shopping: [
-    "Do you have wireless headphones under 100 AZN?",
-    "100 manatdan ucuz simsiz qulaqlıq var?",
-    "Есть беспроводные наушники до 100 AZN?",
+    "Find iPhone 17 Pro",
+    "iPhone 17 Pro tap",
+    "Найди iPhone 17 Pro",
   ],
   cinema: [
     "What is playing tonight?",
@@ -386,9 +449,13 @@ let session = null,
   restartTimer = null,
   speaking = false;
 const index = () => ({ en: 0, az: 1, ru: 2 })[lang];
-const t = (k) => (lex[k] || fieldNames[k] || [k, k, k])[index()];
+const t = (k) => {
+  if (["snapshot", "database"].includes(config?.data_mode)) k = snapshotLabels[k] || k;
+  if (config?.data_mode === "database") k = ({snapshotMode: "databaseMode", snapshotCaption: "databaseCaption"})[k] || k;
+  return (lex[k] || fieldNames[k] || [k, k, k])[index()];
+};
 const value = (v) =>
-  typeof v === "boolean"
+  v == null ? t("unknown") : typeof v === "boolean"
     ? v
       ? "✓"
       : "–"
@@ -399,7 +466,7 @@ const value = (v) =>
           .map((x) => (values[x] ? values[x][index()] : x))
           .join(", ");
 const money = (n) =>
-  new Intl.NumberFormat(
+  n == null ? t("unknown") : new Intl.NumberFormat(
     lang === "az" ? "az-AZ" : lang === "ru" ? "ru-RU" : "en-US",
     { minimumFractionDigits: 2, maximumFractionDigits: 2 },
   ).format(n);
@@ -455,7 +522,7 @@ function notice(message, retry = false) {
   if (retry) {
     const b = document.createElement("button");
     b.textContent = t("retry");
-    b.onclick = () => failed && send(failed.text, failed.id);
+    b.onclick = () => failed && send(failed.text, failed.id, failed.language);
     $("#notice").append(b);
   }
 }
@@ -467,7 +534,7 @@ function setBusy(v) {
   $("#continue-button").disabled = v;
   $("#save-status").textContent = t(v ? "saving" : "saved");
   document
-    .querySelectorAll(".session-item,.card-action,.suggestion")
+    .querySelectorAll(".session-item,.session-delete,.card-action,.suggestion")
     .forEach((el) => (el.disabled = v || el.dataset.unavailable === "true"));
 }
 function scrollBottom() {
@@ -485,7 +552,7 @@ function renderSessions() {
       .filter((s) => s.title.toLowerCase().includes(q))
       .map(
         (s) =>
-          `<button class="session-item ${session?.id === s.id ? "active" : ""}" data-session="${esc(s.id)}" title="${esc(s.title)}" ${busy ? "disabled" : ""}>${icon("chat")}<span>${esc(s.title === "New conversation" ? t("newTitle") : s.title)}</span></button>`,
+          `<div class="session-row"><button class="session-item ${session?.id === s.id ? "active" : ""}" data-session="${esc(s.id)}" title="${esc(s.title)}" ${busy ? "disabled" : ""}>${icon("chat")}<span>${esc(s.title === "New conversation" ? t("newTitle") : s.title)}</span></button><button class="session-delete" data-delete-session="${esc(s.id)}" title="${esc(t("deleteChat"))}" aria-label="${esc(t("deleteChat") + ': ' + s.title)}" ${busy ? "disabled" : ""}>${icon("trash")}</button></div>`,
       )
       .join("") || `<p class="empty-sessions">${esc(t("noChats"))}</p>`;
 }
@@ -493,13 +560,68 @@ async function refreshSessions() {
   sessions = await api("/sessions");
   renderSessions();
 }
+function confirmChatDeletion(title) {
+  const dialog = $("#delete-dialog");
+  if (dialog.open) return Promise.resolve(false);
+  $("#delete-heading").textContent = t("deleteHeading");
+  $("#delete-description").textContent = t("deleteDescription");
+  $("#delete-chat-title").textContent = title;
+  $("#delete-warning").textContent = t("deleteWarning");
+  $("#delete-cancel").textContent = t("keepChat");
+  $("#delete-confirm").textContent = t("deleteChat");
+  dialog.returnValue = "";
+  return new Promise(resolve => {
+    dialog.onclose = () => {
+      dialog.onclose = null;
+      resolve(dialog.returnValue === "delete");
+    };
+    dialog.showModal();
+    $("#delete-cancel").focus();
+  });
+}
+async function deleteSession(id) {
+  if (busy) return;
+  const target = sessions.find(s => s.id === id);
+  if (!target || !await confirmChatDeletion(target.title === "New conversation" ? t("newTitle") : target.title)) return;
+  if (busy || !sessions.some(s => s.id === id)) return;
+  const active = session?.id === id;
+  if (active) stopVoice();
+  setBusy(true);
+  notice("");
+  try {
+    await api("/sessions/" + id, {method: "DELETE"});
+    sessions = sessions.filter(s => s.id !== id);
+    if (active) {
+      session = null;
+      localStorage.removeItem("superchat.session");
+      failed = null;
+      pendingText = "";
+      $("#message-input").value = "";
+      renderMessages();
+      renderContext();
+    }
+    renderSessions();
+    if (active && sessions.length) {
+      session = await api("/sessions/" + sessions[0].id);
+      localStorage.setItem("superchat.session", session.id);
+      applyLanguage();
+      scrollBottom();
+    }
+  } catch (error) {
+    notice(error.message);
+  } finally {
+    setBusy(false);
+    renderSessions();
+    renderContext();
+  }
+}
 async function loadSession(id) {
   if (busy) return;
   stopVoice();
   notice("");
   session = await api("/sessions/" + id);
   localStorage.setItem("superchat.session", id);
-  lang = session.state.language;
+  // The selector is a browser preference, not a detected message language.
   applyLanguage();
   closeMobile();
   scrollBottom();
@@ -524,32 +646,50 @@ async function newSession(source = false) {
 }
 const domainIcon = (d) =>
   ({ flights: "plane", shopping: "bag", cinema: "film" })[d] || "sparkle";
-function actionText(kind, id) {
+function actionText(kind, id, snapshot = false) {
   if (kind === "shopping")
     return [
       `Add ${id} to my cart`,
       `Səbətə ${id} əlavə et`,
       `Добавь ${id} в корзину`,
     ][index()];
+  if (snapshot) return [`Save ${id} to my plans`, `${id} planlarda saxla`, `Сохрани ${id} в планах`][index()];
   return [
     `Reserve one seat for ${id}`,
     `${id} üçün bir yer bron et`,
     `Забронируй одно место ${id}`,
   ][index()];
 }
+function availabilityText(c) {
+  if (c.snapshot) return t(c.availability === "listed_in_stock" ? "listedStock" : c.availability === "out_of_stock" ? "soldOut" : "unknownAvailability");
+  return c.available == null ? t("unknownAvailability") : c.available > 0 ? `${c.available} ${t("available")}` : t("soldOut");
+}
+function safeSource(url) {
+  try { const parsed = new URL(url); return ["https:", "http:"].includes(parsed.protocol) && !parsed.username && !parsed.password ? parsed.href : null; }
+  catch { return null; }
+}
 function cardHTML(c) {
-  return `<article class="result-card"><div class="result-card-top"><span class="result-symbol ${esc(c.kind)}">${icon(domainIcon(c.kind))}</span><span class="result-id">${esc(c.id)}</span><span class="result-availability ${c.available === 0 ? "sold-out" : ""}">${c.available > 0 ? `${c.available} ${esc(t("available"))}` : esc(t("soldOut"))}</span></div><h3>${esc(c.title)}</h3><p class="result-subtitle">${esc(c.subtitle)}</p><dl class="result-fields">${c.fields.map((f) => `<div class="${["description", "address"].includes(f.label) ? "wide-field" : ""}"><dt>${esc(t(f.label))}</dt><dd>${esc(value(f.value))}</dd></div>`).join("")}</dl><div class="result-bottom"><span class="result-price">${money(c.price)} <small>AZN${c.quantity ? ` × ${c.quantity}` : ""}</small></span><button class="card-action" data-unavailable="${c.available === 0}" data-prompt="${esc(actionText(c.kind, c.id))}" ${c.available === 0 || busy ? "disabled" : ""}>${esc(t(c.kind === "shopping" ? "add" : "reserve"))}</button></div><details class="source-details"><summary>${esc(t("source"))}</summary><p>${esc(c.source)}<br>ID: ${esc(c.id)}</p></details></article>`;
+  const link = safeSource(c.source_url);
+  const unavailable = c.available === 0 || c.availability === "out_of_stock";
+  const button = c.snapshot && c.action === "source" ? "" : `<button class="card-action" data-unavailable="${unavailable}" data-prompt="${esc(actionText(c.kind, c.id, c.snapshot))}" ${unavailable || busy ? "disabled" : ""}>${esc(t(c.snapshot ? (c.kind === "shopping" ? "listAdd" : "savePlan") : c.kind === "shopping" ? "add" : "reserve"))}</button>`;
+  const warnings = [c.price_conflict && "conflict", c.stale && "stale", c.expired && "expired", c.nearby_airport_search && "nearby", c.provider_cached && "cachedFare"].filter(Boolean);
+  return `<article class="result-card"><div class="result-card-top"><span class="result-symbol ${esc(c.kind)}">${icon(domainIcon(c.kind))}</span><span class="result-id">${esc(c.id)}</span><span class="result-availability ${unavailable ? "sold-out" : ""}">${esc(availabilityText(c))}</span></div>${c.image_url?.startsWith("/api/catalogue/images/") ? `<img class="catalogue-image" src="${esc(c.image_url)}" alt="${esc(c.title)}" loading="lazy">` : ""}<h3>${esc(c.title)}</h3>${c.similarity != null ? `<p class="similarity-score">${esc(t("similarity"))}: ${Number(c.similarity).toFixed(2)}</p>` : ""}${c.content_language && c.content_language !== lang ? `<small class="source-details">${esc(t("sourceText"))}: ${esc(t(c.content_language))}</small>` : ""}<p class="result-subtitle">${esc(c.subtitle)}</p>${warnings.map(k => `<p class="snapshot-warning">${esc(t(k))}</p>`).join("")}<dl class="result-fields">${c.fields.map(f => `<div class="${["description", "address"].includes(f.label) ? "wide-field" : ""}"><dt>${esc(t(f.label))}</dt><dd>${esc(value(f.value))}</dd></div>`).join("")}</dl><div class="result-bottom"><span class="result-price">${money(c.price)} <small>${c.price == null ? "" : "AZN"}${c.quantity ? ` × ${c.quantity}` : ""}</small>${c.snapshot ? `<small>${esc(t(c.price_scope === "entire_round_trip" ? "returnPrice" : "snapshotPrice"))}</small>` : ""}</span>${button}</div>${link ? `<a class="source-link" href="${esc(link)}" target="_blank" rel="noopener noreferrer">${esc(t(config?.data_mode === "database" ? ({shopping: "birmarketOpen", cinema: "cinemaOpen", flights: "flightOpen"})[c.kind] : "sourceOpen"))} ↗</a>` : ""}<details class="source-details"><summary>${esc(t("source"))}</summary><p>${esc(c.source)}${c.source_title ? `<br>${esc(c.source_title)}` : ""}<br>ID: ${esc(c.id)}${c.fetched_at ? `<br>${esc(t("collected"))}: ${esc(c.fetched_at)}` : ""}${(c.price_observations || []).map(o => `<br>${esc(o.price_azn)} AZN · ${esc(o.source_url)}`).join("")}</p></details></article>`;
 }
 function comparisonHTML(cards) {
-  return `<div class="comparison-wrap"><table><caption class="sr-only">${esc(t("comparison"))}</caption><thead><tr><th>${esc(t("item"))}</th><th>${esc(t("price"))}</th><th>${esc(t("available"))}</th>${cards[0]?.kind === "flights" ? `<th>${esc(t("stops"))}</th><th>${esc(t("baggage"))}</th>` : ""}</tr></thead><tbody>${cards.map((c) => `<tr><td>${esc(c.title)} · ${esc(c.id)}</td><td>${money(c.price)} AZN</td><td>${c.available}</td>${c.kind === "flights" ? `<td>${c.fields.find((f) => f.label === "stops")?.value}</td><td>${c.fields.find((f) => f.label === "baggage")?.value} kg</td>` : ""}</tr>`).join("")}</tbody></table></div>`;
+  return `<div class="comparison-wrap"><table><caption class="sr-only">${esc(t("comparison"))}</caption><thead><tr><th>${esc(t("item"))}</th><th>${esc(t("price"))}</th><th>${esc(t("available"))}</th>${cards[0]?.kind === "flights" ? `<th>${esc(t("stops"))}</th><th>${esc(t("baggage"))}</th>` : ""}</tr></thead><tbody>${cards.map((c) => `<tr><td>${esc(c.title)} · ${esc(c.id)}</td><td>${money(c.price)} AZN</td><td>${esc(availabilityText(c))}</td>${c.kind === "flights" ? `<td>${esc(value(c.fields.find((f) => f.label === "stops")?.value))}</td><td>${esc(value(c.fields.find((f) => f.label === "baggage")?.value))}</td>` : ""}</tr>`).join("")}</tbody></table></div>`;
+}
+function savedPlanHTML(r, removable = false) {
+  const link = safeSource(r.source_url);
+  const remove = [`Unsave ${r.item_id}`, `Saxlanılmış planı sil ${r.item_id}`, `Удали сохранённый план ${r.item_id}`][index()];
+  return `<div class="context-item">${removable ? `<button data-prompt="${esc(remove)}" aria-label="${esc(t("removePlan"))}">×</button>` : ""}<strong>${esc(r.title || r.item_id)}</strong><br>${esc(r.subtitle || "")}<br><small>${esc(t("localPlan"))}</small><br>${r.quantity} × ${money(r.unit_price)} AZN${link ? `<br><a class="source-link" href="${esc(link)}" target="_blank" rel="noopener noreferrer">${esc(t("sourceOpen"))} ↗</a>` : ""}</div>`;
 }
 function replyHTML(m) {
-  return `<article class="message assistant"><div class="assistant-head"><span class="brand-mark">s</span><span>SuperChat</span>${(m.route?.domains || []).map((d) => `<span class="domain-badge ${esc(d)}">${esc(t(d))}</span>`).join("")}<small>${esc(t("grounded"))}</small></div>${m.text ? `<p class="message-text">${esc(m.text)}</p>` : ""}${(
+  return `<article class="message assistant"><div class="assistant-head"><span class="brand-mark">B</span><span>Bir SuperChat</span>${(m.route?.domains || []).map((d) => `<span class="domain-badge ${esc(d)}">${esc(t(d))}</span>`).join("")}<small>${esc(t("grounded"))}</small></div>${m.text ? `<p class="message-text">${esc(m.text)}</p>` : ""}${(
     m.sections || []
   )
     .map(
       (s) =>
-        `<section class="response-section"><div class="section-heading">${icon(domainIcon(s.domain))}<span>${esc(t(s.domain))}</span></div><p class="message-text">${esc(s.text)}</p>${
+        `<section class="response-section"><div class="section-heading">${icon(domainIcon(s.domain))}<span>${esc(t(s.domain))}</span></div><p class="message-text">${esc(s.text)}</p>${s.total_matches > s.cards.length ? `<p class="source-details">${esc(t("shown"))} ${s.cards.length} ${esc(t("of"))} ${s.total_matches}. ${esc(t("refine"))}</p>` : ""}${
           s.filters
             ? `<div class="filters">${Object.entries(s.filters)
                 .map(
@@ -558,14 +698,19 @@ function replyHTML(m) {
                 )
                 .join("")}</div>`
             : ""
-        }${s.comparison ? comparisonHTML(s.cards) : ""}<div class="result-grid">${s.cards.map(cardHTML).join("")}</div>${(s.reservations || []).map((r) => `<div class="confirmation">${icon("check")} <strong>${esc(r.code)}</strong> · ${esc(r.item_id)} · ${r.quantity} × ${money(r.unit_price)} = ${money(r.total)} AZN</div>`).join("")}</section>`,
+        }${s.comparison ? comparisonHTML(s.cards) : ""}<div class="result-grid">${s.cards.map(cardHTML).join("")}</div>${s.has_more ? `<button class="card-action" data-prompt="${esc(`Show more ${s.domain}`)}" ${busy ? "disabled" : ""}>${esc(t("showMore"))}</button>` : ""}${(s.reservations || []).map((r) => r.status === "saved_local" ? savedPlanHTML(r) : `<div class="confirmation">${icon("check")} <strong>${esc(r.code)}</strong> · ${esc(r.item_id)} · ${r.quantity} × ${money(r.unit_price)} = ${money(r.total)} AZN</div>`).join("")}</section>`,
     )
     .join(
       "",
-    )}${m.notice ? `<p class="source-details">${esc(t("fallback"))}</p>` : ""}</article>`;
+    )}${m.notice ? `<p class="source-details">${esc(t(m.notice === "ai_auth_failed" ? "authFailed" : "fallback"))}</p>` : ""}</article>`;
 }
 function renderMessages() {
-  if (!session) return;
+  if (!session) {
+    $("#welcome").hidden = false;
+    $("#messages").innerHTML = "";
+    $("#context-return").hidden = true;
+    return;
+  }
   $("#welcome").hidden = session.messages.length > 0;
   $("#messages").innerHTML = session.messages
     .map((m) =>
@@ -587,8 +732,7 @@ function findCard(id) {
   return null;
 }
 function renderContext() {
-  if (!session) return;
-  const state = session.state;
+  const state = session?.state || {cart: {}, reservations: [], domains: {}};
   let total = 0;
   $("#cart-count").textContent = Object.values(state.cart).reduce(
     (a, b) => a + b,
@@ -598,7 +742,7 @@ function renderContext() {
     ? Object.entries(state.cart)
         .map(([id, qty]) => {
           const c = findCard(id);
-          total += (c?.price || 0) * qty;
+          if (total !== null) total = c?.price == null ? null : total + c.price * qty;
           return `<div class="context-item"><button data-prompt="${esc([`Remove ${qty} items of ${id} from cart`, `${id} məhsulundan ${qty} ədəd səbətdən sil`, `Удали ${qty} штук ${id} из корзины`][index()])}" aria-label="${esc("Remove " + id)}">×</button><strong>${esc(c?.title || id)}</strong><br>${qty} × ${c ? money(c.price) : "—"} AZN</div>`;
         })
         .join("") +
@@ -609,7 +753,7 @@ function renderContext() {
     ? state.reservations
         .map(
           (r) =>
-            `<div class="context-item"><strong>${esc(r.code)}</strong><br>${esc(r.item_id)} · ${r.quantity} × ${money(r.unit_price)} AZN<br>${esc(t("total"))}: ${money(r.total)} AZN</div>`,
+            r.status === "saved_local" ? savedPlanHTML(r, true) : `<div class="context-item"><strong>${esc(r.code)}</strong><br>${esc(r.item_id)} · ${r.quantity} × ${money(r.unit_price)} AZN<br>${esc(t("total"))}: ${money(r.total)} AZN</div>`,
         )
         .join("")
     : `<div class="context-empty">${icon("ticket")}<p>${esc(t("bookingEmpty"))}</p><small>${esc(t("bookingHint"))}</small></div>`;
@@ -626,7 +770,7 @@ function renderContext() {
     : `<p>${esc(t("memoryEmpty"))}</p>`;
   $("#continue-button").disabled = busy || !active.length;
 }
-async function send(text = null, id = null) {
+async function send(text = null, id = null, replyLanguage = lang) {
   if (busy) return;
   text = (text ?? $("#message-input").value).trim();
   if (!text) return;
@@ -648,15 +792,14 @@ async function send(text = null, id = null) {
   try {
     const data = await api(`/sessions/${target}/messages`, {
       method: "POST",
-      body: JSON.stringify({ text, request_id: requestId }),
+      body: JSON.stringify({ text, request_id: requestId, language: replyLanguage }),
     });
     session = data.session;
-    lang = session.state.language;
     applyLanguage();
     await refreshSessions();
     if ($("#read-aloud").checked) readReply(data.reply);
   } catch (error) {
-    failed = { text, id: requestId };
+    failed = { text, id: requestId, language: replyLanguage };
     $("#message-input").value = text;
     notice(error.message, true);
   } finally {
@@ -687,6 +830,7 @@ async function upload(file) {
     const form = new FormData();
     form.append("file", file);
     form.append("request_id", crypto.randomUUID());
+    form.append("language", lang);
     const data = await api(`/sessions/${session.id}/images`, {
       method: "POST",
       body: form,
@@ -822,6 +966,11 @@ $("#continue-button").onclick = () =>
   newSession(true).catch((e) => notice(e.message));
 $("#session-search").oninput = renderSessions;
 document.addEventListener("click", (e) => {
+  const deleteButton = e.target.closest("[data-delete-session]");
+  if (deleteButton) {
+    deleteSession(deleteButton.dataset.deleteSession);
+    return;
+  }
   const sessionButton = e.target.closest("[data-session]");
   if (sessionButton)
     loadSession(sessionButton.dataset.session).catch((err) =>
@@ -845,6 +994,11 @@ $("#export-button").onclick = () => {
 };
 $("#about-button").onclick = () => $("#about-dialog").showModal();
 $("#close-about").onclick = () => $("#about-dialog").close();
+$("#delete-cancel").onclick = () => $("#delete-dialog").close("cancel");
+$("#delete-confirm").onclick = () => $("#delete-dialog").close("delete");
+$("#delete-dialog").onclick = e => {
+  if (e.target === $("#delete-dialog")) $("#delete-dialog").close("cancel");
+};
 $("#about-dialog").onclick = (e) => {
   if (e.target === $("#about-dialog")) $("#about-dialog").close();
 };
@@ -858,6 +1012,7 @@ $("#backdrop").onclick = closeMobile;
 document.addEventListener("keydown", (e) => {
   if ((e.metaKey || e.ctrlKey) && e.key === "k") {
     e.preventDefault();
+    if ($("#delete-dialog").open) return;
     newSession().catch((err) => notice(err.message));
   }
   if (e.key === "Escape") {

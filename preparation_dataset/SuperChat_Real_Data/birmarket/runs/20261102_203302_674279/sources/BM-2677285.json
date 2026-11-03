@@ -1,0 +1,437 @@
+{
+  "product": {
+    "id": 2677285,
+    "gtin": "",
+    "mpn": "15429_80860327",
+    "name": "Şəhər bel çantası, Bej, Nappa, 43x22x37 sm",
+    "slugged_name_az": "sheher-bel-chantasi-nappa-hs-nappa-chanta-fil-sumuyu-nappa-zencirbend-ve-qapaq-43-sm",
+    "slugged_name_ru": "sheher-bel-chantasi-nappa-hs-nappa-chanta-fil-sumuyu-nappa-zencirbend-ve-qapaq-43-sm",
+    "description": "<p>Stil və Funksionallığın Mükəmməl Vəhdəti: Nappa Dəri Bel Çantası ​Gündəlik həyatınızda həm zərif, həm də çoxfunksiyalı bir aksesuar axtarırsınızsa, bu Nappa dəri bel çantası məhz sizin üçündür! \"Fil sümüyü\" (ivory) rənginin incəliyi ilə birləşən yüksək keyfiyyətli materiallar, sizi həm ofisdə, həm də gəzintidə fərqləndirəcək. ​Əsas Xüsusiyyətlər: ​Material: Premium Nappa dərisi – yumşaq, davamlı və baxımlı. ​Dizayn: Çantanın üst hissəsi fermuarla bağlanır və qatlanaraq əlavə təhlükəsizlik və üslub yaradır. ​Erqonomika: Anatomik arxa panel uzun müddətli istifadədə belinizə yük düşməsinin qarşısını alır. ​Təşkilat: 6 ədəd xarici cib – bütün vacib əşyalarınız həmişə əlinizin altında olacaq. Keyfiyyətli və hamar işləyən fermuarlar rahatlıq təmin edir. ​Daxili Məkan və Tutum: ​Genişlik: Geniş daxili bölmə əsas əşyalarınız üçün ideal yer təmin edir. ​Xüsusi Bölmələr: Planşet və ya noutbuk üçün 26x33 sm ölçüdə qoruyucu cib, eləcə də əşyalarınızı nizamlı saxlamaq üçün tor (сетка) bölmə. ​Aksesuarlar üçün yer: 2 ədəd su qabı və 1 ədəd çətir üçün xüsusi bölmə. ​Ölçülər: ​43 x 37 x 22 sm – həm şəhər içi gəzintilər, həm də qısa səfərlər üçün mükəmməl ölçü. ​Bu çanta sadəcə bir aksesuar deyil, sizin fəal həyat tərzinizin ən yaxşı köməkçisidir. İndi sifariş edin və keyfiyyəti hiss edin!</p>",
+    "description_outlet": "",
+    "status": "active",
+    "uuid": "7708a3cc-81c2-45d7-80ee-3144253a721e",
+    "variant_code": "VC_2677285",
+    "default_offer": {
+      "uuid": "cbd263d1-6f85-438e-9935-821b2a2072f8",
+      "installment_enabled": true,
+      "max_installment_months": 18,
+      "product_offer_labels": [],
+      "old_price": 170,
+      "retail_price": 84.9,
+      "supplier_id": "4ff295bd-74ee-4950-83d7-05d5df35600c",
+      "qty": 0,
+      "seller": {
+        "ext_id": "4ff295bd-74ee-4950-83d7-05d5df35600c",
+        "marketing_name": {
+          "id": 14690,
+          "name": "Məktəbli"
+        },
+        "logo": {
+          "thumbnail": ""
+        },
+        "vat_payer": false,
+        "rating": 86,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "discount_effective_start_date": "",
+      "discount_effective_end_date": ""
+    },
+    "category_id": 2283,
+    "category": {
+      "id": 2283,
+      "name": "Şəhər bel çantaları"
+    },
+    "brand": {
+      "name": "No Brand"
+    },
+    "custom_fields": [
+      {
+        "master_field_id": 625,
+        "values": [
+          "Bej"
+        ]
+      },
+      {
+        "master_field_id": 637,
+        "values": [
+          "Nappa"
+        ]
+      },
+      {
+        "master_field_id": 908,
+        "values": [
+          "30"
+        ]
+      },
+      {
+        "master_field_id": 1412,
+        "values": [
+          "43"
+        ]
+      },
+      {
+        "master_field_id": 1206,
+        "values": [
+          "37"
+        ]
+      },
+      {
+        "master_field_id": 639,
+        "values": [
+          "Zəncirbənd",
+          "Qapaq"
+        ]
+      },
+      {
+        "master_field_id": 761,
+        "values": [
+          "Hər kəs üçün"
+        ]
+      },
+      {
+        "master_field_id": 1448,
+        "values": [
+          "22"
+        ]
+      },
+      {
+        "master_field_id": 762,
+        "values": [
+          "6"
+        ]
+      },
+      {
+        "master_field_id": 623,
+        "values": [
+          "Əsas bölmədə ayırıcı",
+          "Su keçirməyən"
+        ]
+      },
+      {
+        "master_field_id": 2637,
+        "values": [
+          "Anatomik"
+        ]
+      },
+      {
+        "master_field_id": 870,
+        "values": [
+          "700"
+        ]
+      }
+    ],
+    "main_img": {
+      "big": "https://strgimgr.umico.az/img/product/1680/e1da97bd-77b0-4a6f-af22-ebe9d14f2775.jpeg",
+      "medium": "https://strgimgr.umico.az/img/product/840/e1da97bd-77b0-4a6f-af22-ebe9d14f2775.jpeg",
+      "small": "https://strgimgr.umico.az/img/product/280/e1da97bd-77b0-4a6f-af22-ebe9d14f2775.jpeg"
+    },
+    "img_url_thumbnail": "https://strgimgr.umico.az/img/product/280/e1da97bd-77b0-4a6f-af22-ebe9d14f2775.jpeg",
+    "main_video": "",
+    "imgs": [
+      {
+        "big": "https://strgimgr.umico.az/img/product/1680/e1da97bd-77b0-4a6f-af22-ebe9d14f2775.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/e1da97bd-77b0-4a6f-af22-ebe9d14f2775.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/e1da97bd-77b0-4a6f-af22-ebe9d14f2775.jpeg"
+      },
+      {
+        "big": "https://strgimgr.umico.az/img/product/1680/ef21b0b0-df73-478a-a99c-04621c5ebb3e.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/ef21b0b0-df73-478a-a99c-04621c5ebb3e.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/ef21b0b0-df73-478a-a99c-04621c5ebb3e.jpeg"
+      },
+      {
+        "big": "https://strgimgr.umico.az/img/product/1680/ffb4d051-f622-4dd1-a883-4052066e26aa.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/ffb4d051-f622-4dd1-a883-4052066e26aa.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/ffb4d051-f622-4dd1-a883-4052066e26aa.jpeg"
+      },
+      {
+        "big": "https://strgimgr.umico.az/img/product/1680/9c3fcbdc-f4dc-4e1d-8a58-1815dd9082aa.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/9c3fcbdc-f4dc-4e1d-8a58-1815dd9082aa.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/9c3fcbdc-f4dc-4e1d-8a58-1815dd9082aa.jpeg"
+      },
+      {
+        "big": "https://strgimgr.umico.az/img/product/1680/7ab4d0f9-edcf-4cee-a99f-e05d4149d185.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/7ab4d0f9-edcf-4cee-a99f-e05d4149d185.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/7ab4d0f9-edcf-4cee-a99f-e05d4149d185.jpeg"
+      },
+      {
+        "big": "https://strgimgr.umico.az/img/product/1680/740e4fed-22fd-4040-bb5e-c0f7f5a028c2.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/740e4fed-22fd-4040-bb5e-c0f7f5a028c2.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/740e4fed-22fd-4040-bb5e-c0f7f5a028c2.jpeg"
+      }
+    ],
+    "videos": [],
+    "min_qty": 1,
+    "preorder_available": false,
+    "is_assortment": false,
+    "is_bulk_heavy": false,
+    "is_refurbished": false,
+    "is_refundable": true,
+    "is_dangerous": false,
+    "show_tech_description": false,
+    "use_external_content": true,
+    "product_labels": [],
+    "ratings": {
+      "rating_value": 0,
+      "assessment_id": 0,
+      "session_count": 0
+    },
+    "default_show_stock_qty_threshold": 0,
+    "card_type": "public"
+  },
+  "category": {
+    "id": 2283,
+    "name": "Şəhər bel çantaları",
+    "slugged_name_az": "sheher-bel-chantalari",
+    "slugged_name_ru": "ryukzaki-gorodskie",
+    "view_mode": "products",
+    "mobile_visual_mode": "text",
+    "is_variant": false,
+    "depth": 2,
+    "parent_id": 2267,
+    "child_ids": [],
+    "node_type": "NODE",
+    "install_service_needed": false,
+    "fitting_allowed": false,
+    "vat": true,
+    "variations": [
+      {
+        "master_field_id": 638,
+        "name": "Naxışlar və printlər",
+        "variation_tool_type": "default",
+        "has_size_chart": false,
+        "display_variant": false
+      },
+      {
+        "master_field_id": 625,
+        "name": "Rəng",
+        "variation_tool_type": "default",
+        "has_size_chart": false,
+        "display_variant": false
+      }
+    ],
+    "custom_fields": [
+      {
+        "master_field_id": 625,
+        "category_master_field_id": 11134,
+        "name": "Rəng"
+      },
+      {
+        "master_field_id": 637,
+        "category_master_field_id": 11132,
+        "name": "Material"
+      },
+      {
+        "master_field_id": 639,
+        "category_master_field_id": 11141,
+        "name": "Kilid növü"
+      },
+      {
+        "master_field_id": 1412,
+        "category_master_field_id": 11136,
+        "name": "Uzunluğu, sm"
+      },
+      {
+        "master_field_id": 1206,
+        "category_master_field_id": 11137,
+        "name": "Eni, sm"
+      },
+      {
+        "master_field_id": 761,
+        "category_master_field_id": 11133,
+        "name": "Cins"
+      },
+      {
+        "master_field_id": 908,
+        "category_master_field_id": 11143,
+        "name": "Həcm, L"
+      },
+      {
+        "master_field_id": 638,
+        "category_master_field_id": 11135,
+        "name": "Naxışlar və printlər"
+      },
+      {
+        "master_field_id": 1448,
+        "category_master_field_id": 37676,
+        "name": "Dərinliyi, sm"
+      },
+      {
+        "master_field_id": 762,
+        "category_master_field_id": 11139,
+        "name": "Bölmələrin sayı"
+      },
+      {
+        "master_field_id": 623,
+        "category_master_field_id": 11140,
+        "name": "Xüsusiyyətlər"
+      },
+      {
+        "master_field_id": 2637,
+        "category_master_field_id": 11142,
+        "name": "Bel çantasının arxası"
+      },
+      {
+        "master_field_id": 870,
+        "category_master_field_id": 11144,
+        "name": "Çəki, q"
+      },
+      {
+        "master_field_id": 618,
+        "category_master_field_id": 11145,
+        "name": "İstehsalçı ölkə"
+      },
+      {
+        "master_field_id": 2210,
+        "category_master_field_id": 11146,
+        "name": "Brendin ölkəsi"
+      }
+    ],
+    "parent": {
+      "id": 2267,
+      "node_type": "NODE",
+      "name": "Çantalar, pul kisələri və aksessuarlar",
+      "slugged_name": "chantalar-pul-kiseleri-ve-aksessuarlar",
+      "parent": {
+        "id": 3003,
+        "node_type": "NODE",
+        "name": "Geyim,ayaqqabı və aksessuarlar",
+        "slugged_name": "geyim-ve-ayaqqabi",
+        "parent": null
+      }
+    },
+    "is_refundable": true,
+    "is_adult": false,
+    "icons": {
+      "thumbnail": "https://strgimgr.umico.az/img/category/188/4030f9db-3c53-4a51-905b-ab006bb8b9af.jpeg",
+      "original": "https://strgimgr.umico.az/img/category/original/4030f9db-3c53-4a51-905b-ab006bb8b9af.jpeg"
+    },
+    "is_active": true
+  },
+  "offers": [
+    {
+      "uuid": "cbd263d1-6f85-438e-9935-821b2a2072f8",
+      "installment_enabled": true,
+      "max_installment_months": 18,
+      "product_offer_labels": [],
+      "old_price": 170,
+      "retail_price": 84.9,
+      "supplier_id": "4ff295bd-74ee-4950-83d7-05d5df35600c",
+      "seller": {
+        "ext_id": "99ca488a-7887-445f-97c2-9ff781ab64c7",
+        "internal_id": 14690,
+        "marketing_name": {
+          "id": 14690,
+          "name": "Məktəbli"
+        },
+        "logo": {
+          "thumbnail": ""
+        },
+        "vat_payer": false,
+        "rating": 86,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "allow_qty": 0
+    }
+  ],
+  "variations": [
+    {
+      "id": 2677285,
+      "name": "Şəhər bel çantası, Bej, Nappa, 43x22x37 sm",
+      "slugged_name": "sheher-bel-chantasi-nappa-hs-nappa-chanta-fil-sumuyu-nappa-zencirbend-ve-qapaq-43-sm",
+      "custom_fields": [
+        {
+          "master_field_id": 625,
+          "values": [
+            "Bej"
+          ]
+        }
+      ],
+      "main_img": {
+        "big": "https://strgimgr.umico.az/img/product/1680/e1da97bd-77b0-4a6f-af22-ebe9d14f2775.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/e1da97bd-77b0-4a6f-af22-ebe9d14f2775.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/e1da97bd-77b0-4a6f-af22-ebe9d14f2775.jpeg"
+      },
+      "status": "active"
+    }
+  ],
+  "size_chart": {},
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "sku": 2677285,
+    "mpn": "15429_80860327",
+    "url": "https://birmarket.az/product/2677285-sheher-bel-chantasi-nappa-hs-nappa-chanta-fil-sumuyu-nappa-zencirbend-ve-qapaq-43-sm",
+    "name": "Şəhər bel çantası, Bej, Nappa, 43x22x37 sm",
+    "image": [
+      "https://strgimgr.umico.az/img/product/1680/e1da97bd-77b0-4a6f-af22-ebe9d14f2775.jpeg",
+      "https://strgimgr.umico.az/img/product/1680/ef21b0b0-df73-478a-a99c-04621c5ebb3e.jpeg",
+      "https://strgimgr.umico.az/img/product/1680/ffb4d051-f622-4dd1-a883-4052066e26aa.jpeg",
+      "https://strgimgr.umico.az/img/product/1680/9c3fcbdc-f4dc-4e1d-8a58-1815dd9082aa.jpeg",
+      "https://strgimgr.umico.az/img/product/1680/7ab4d0f9-edcf-4cee-a99f-e05d4149d185.jpeg",
+      "https://strgimgr.umico.az/img/product/1680/740e4fed-22fd-4040-bb5e-c0f7f5a028c2.jpeg"
+    ],
+    "description": "&lt;p&gt;Stil və Funksionallığın Mükəmməl Vəhdəti: Nappa Dəri Bel Çantası ​Gündəlik həyatınızda həm zərif, həm də çoxfunksiyalı bir aksesuar axtarırsınızsa, bu Nappa dəri bel çantası məhz sizin üçündür! &quot;Fil sümüyü&quot; (ivory) rənginin incəliyi ilə birləşən yüksək keyfiyyətli materiallar, sizi həm ofisdə, həm də gəzintidə fərqləndirəcək. ​Əsas Xüsusiyyətlər: ​Material: Premium Nappa dərisi – yumşaq, davamlı və baxımlı. ​Dizayn: Çantanın üst hissəsi fermuarla bağlanır və qatlanaraq əlavə təhlükəsizlik və üslub yaradır. ​Erqonomika: Anatomik arxa panel uzun müddətli istifadədə belinizə yük düşməsinin qarşısını alır. ​Təşkilat: 6 ədəd xarici cib – bütün vacib əşyalarınız həmişə əlinizin altında olacaq. Keyfiyyətli və hamar işləyən fermuarlar rahatlıq təmin edir. ​Daxili Məkan və Tutum: ​Genişlik: Geniş daxili bölmə əsas əşyalarınız üçün ideal yer təmin edir. ​Xüsusi Bölmələr: Planşet və ya noutbuk üçün 26x33 sm ölçüdə qoruyucu cib, eləcə də əşyalarınızı nizamlı saxlamaq üçün tor (сетка) bölmə. ​Aksesuarlar üçün yer: 2 ədəd su qabı və 1 ədəd çətir üçün xüsusi bölmə. ​Ölçülər: ​43 x 37 x 22 sm – həm şəhər içi gəzintilər, həm də qısa səfərlər üçün mükəmməl ölçü. ​Bu çanta sadəcə bir aksesuar deyil, sizin fəal həyat tərzinizin ən yaxşı köməkçisidir. İndi sifariş edin və keyfiyyəti hiss edin!&lt;/p&gt;",
+    "itemCondition": "https://schema.org/NewCondition",
+    "offers": {
+      "@type": "Offer",
+      "availability": "https://schema.org/InStock",
+      "url": "https://birmarket.az/product/2677285-sheher-bel-chantasi-nappa-hs-nappa-chanta-fil-sumuyu-nappa-zencirbend-ve-qapaq-43-sm",
+      "price": 84.9,
+      "priceCurrency": "AZN",
+      "priceValidUntil": "2026-12-02T16:39:27+00:00Z",
+      "hasMerchantReturnPolicy": {
+        "applicableCountry": "AZ",
+        "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+        "returnMethod": "https://schema.org/ReturnInStore",
+        "returnFees": "https://schema.org/FreeReturn",
+        "merchantReturnDays": 14
+      },
+      "shippingDetails": {
+        "@type": "OfferShippingDetails",
+        "shippingDestination": {
+          "@type": "DefinedRegion",
+          "addressCountry": "AZ"
+        },
+        "deliveryTime": {
+          "@type": "ShippingDeliveryTime",
+          "handlingTime": {
+            "@type": "QuantitativeValue",
+            "minValue": 0,
+            "maxValue": 1,
+            "unitCode": "DAY"
+          },
+          "transitTime": {
+            "@type": "QuantitativeValue",
+            "minValue": 0,
+            "maxValue": 1,
+            "unitCode": "DAY"
+          },
+          "businessDays": {
+            "@type": "OpeningHoursSpecification",
+            "dayOfWeek": [
+              "https://schema.org/Monday",
+              "https://schema.org/Tuesday",
+              "https://schema.org/Wednesday",
+              "https://schema.org/Thursday",
+              "https://schema.org/Friday",
+              "https://schema.org/Saturday",
+              "https://schema.org/Sunday"
+            ]
+          }
+        },
+        "shippingRate": {
+          "@type": "MonetaryAmount",
+          "value": 0,
+          "currency": "AZN"
+        }
+      }
+    },
+    "brand": {
+      "@type": "Brand",
+      "name": "No Brand",
+      "url": "https://birmarket.az/brands/No%20Brand"
+    }
+  }
+}

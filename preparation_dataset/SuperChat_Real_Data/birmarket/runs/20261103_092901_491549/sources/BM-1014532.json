@@ -1,0 +1,814 @@
+{
+  "product": {
+    "id": 1014532,
+    "gtin": "",
+    "mpn": "6973100642378-rw34",
+    "name": "Ağıllı saat Haino Teko RW-34",
+    "slugged_name_az": "agilli-saat-haino-teko-rw-34",
+    "slugged_name_ru": "umnye-chasy-haino-teko-rw-34",
+    "description": "Haino Teko RW-34 ağıllı saat – böyüklər üçün şık və çoxistifadəli bir aksesuar. Saat silikon, dəri və paslanmayan polad çıxarılabilən qayışla təchiz olunub ki, bu da onları rahat və dayanıqlı edir. Saatlar gümüşü və qara rəngdə mövcuddur və hər hansı bir imiclə uyğundur. Ağıllı saatlar zənglər haqqında məlumat verərək smartfon sahibləri üçün əla seçimdir. Dairəvi saat korpusu biləkdə mükəmməl görünür və qayışın çıxarıla bilməsi rahat şarj imkanı təmin edir. Çin istehsalı olan Haino Teko RW-34 saatları stil, funksionallıq və keyfiyyətin etibarlı birləşməsidir.",
+    "description_outlet": "",
+    "status": "active",
+    "uuid": "e170f2b5-cd3e-44d3-883d-dedbaa067bb3",
+    "variant_code": "VC_1014532",
+    "default_offer": {
+      "uuid": "475aa382-a2ae-4cf4-9d6f-2ef48c271dc3",
+      "installment_enabled": true,
+      "max_installment_months": 18,
+      "product_offer_labels": [],
+      "old_price": 0,
+      "retail_price": 74.99,
+      "supplier_id": "1349e832-3e67-473e-b256-eaa21c6cb993",
+      "qty": 0,
+      "seller": {
+        "ext_id": "1349e832-3e67-473e-b256-eaa21c6cb993",
+        "marketing_name": {
+          "id": 15901,
+          "name": "Esma shop"
+        },
+        "logo": {
+          "thumbnail": ""
+        },
+        "vat_payer": false,
+        "rating": 75,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "discount_effective_start_date": "",
+      "discount_effective_end_date": ""
+    },
+    "category_id": 4,
+    "category": {
+      "id": 4,
+      "name": "Ağıllı saatlar və fitnes qolbaqları"
+    },
+    "brand": {
+      "name": "Haino Teko"
+    },
+    "custom_fields": [
+      {
+        "master_field_id": 620,
+        "values": [
+          "Ağıllı saat"
+        ]
+      },
+      {
+        "master_field_id": 625,
+        "values": [
+          "Gümüşü",
+          "Qara"
+        ]
+      },
+      {
+        "master_field_id": 621,
+        "values": [
+          "iOS",
+          "Android"
+        ]
+      },
+      {
+        "master_field_id": 623,
+        "values": [
+          "Addımölçən",
+          "Çıxarılan kəmər",
+          "Zəngli saat",
+          "Yuxu monitorinqi"
+        ]
+      },
+      {
+        "master_field_id": 761,
+        "values": [
+          "Hər kəs üçün"
+        ]
+      },
+      {
+        "master_field_id": 1325,
+        "values": [
+          "Böyüklər üçün"
+        ]
+      },
+      {
+        "master_field_id": 1829,
+        "values": [
+          "Dairə"
+        ]
+      },
+      {
+        "master_field_id": 1830,
+        "values": [
+          "Bəli"
+        ]
+      },
+      {
+        "master_field_id": 624,
+        "values": [
+          "Silikon",
+          "Dəri",
+          "Paslanmayan polad"
+        ]
+      },
+      {
+        "master_field_id": 1832,
+        "values": [
+          "Zənglər haqqında məlumatlandırma"
+        ]
+      },
+      {
+        "master_field_id": 1836,
+        "values": [
+          "Çıxarılan kəmər"
+        ]
+      },
+      {
+        "master_field_id": 618,
+        "values": [
+          "Çin"
+        ]
+      }
+    ],
+    "main_img": {
+      "big": "https://strgimgr.umico.az/sized/1680/1014532-5b0c80963f1363aca67adb0d105db3ad.jpg",
+      "medium": "https://strgimgr.umico.az/sized/840/1014532-5b0c80963f1363aca67adb0d105db3ad.jpg",
+      "small": "https://strgimgr.umico.az/sized/280/1014532-5b0c80963f1363aca67adb0d105db3ad.jpg"
+    },
+    "img_url_thumbnail": "https://strgimgr.umico.az/sized/280/1014532-5b0c80963f1363aca67adb0d105db3ad.jpg",
+    "main_video": "",
+    "imgs": [
+      {
+        "big": "https://strgimgr.umico.az/sized/1680/1014532-5b0c80963f1363aca67adb0d105db3ad.jpg",
+        "medium": "https://strgimgr.umico.az/sized/840/1014532-5b0c80963f1363aca67adb0d105db3ad.jpg",
+        "small": "https://strgimgr.umico.az/sized/280/1014532-5b0c80963f1363aca67adb0d105db3ad.jpg"
+      },
+      {
+        "big": "https://strgimgr.umico.az/sized/1680/1014532-7c93a20c97d8ba39d46ca62284d857e6.jpg",
+        "medium": "https://strgimgr.umico.az/sized/840/1014532-7c93a20c97d8ba39d46ca62284d857e6.jpg",
+        "small": "https://strgimgr.umico.az/sized/280/1014532-7c93a20c97d8ba39d46ca62284d857e6.jpg"
+      },
+      {
+        "big": "https://strgimgr.umico.az/sized/1680/1014532-c81bd622a14364d7b10de40e6357b6ed.jpg",
+        "medium": "https://strgimgr.umico.az/sized/840/1014532-c81bd622a14364d7b10de40e6357b6ed.jpg",
+        "small": "https://strgimgr.umico.az/sized/280/1014532-c81bd622a14364d7b10de40e6357b6ed.jpg"
+      }
+    ],
+    "videos": [],
+    "min_qty": 1,
+    "preorder_available": false,
+    "is_assortment": false,
+    "is_bulk_heavy": false,
+    "is_refurbished": false,
+    "is_refundable": true,
+    "is_dangerous": false,
+    "show_tech_description": false,
+    "use_external_content": true,
+    "product_labels": [],
+    "ratings": {
+      "rating_value": 4.1,
+      "assessment_id": 0,
+      "session_count": 9,
+      "score_count": 5,
+      "review_count": 4
+    },
+    "default_show_stock_qty_threshold": 0,
+    "card_type": "public"
+  },
+  "category": {
+    "id": 4,
+    "name": "Ağıllı saatlar və fitnes qolbaqları",
+    "slugged_name_az": "agilli-saatlar-ve-fitnes-qolbaqlari",
+    "slugged_name_ru": "umnye-chasy-i-fitnes-braslety",
+    "view_mode": "products",
+    "mobile_visual_mode": "text",
+    "is_variant": false,
+    "depth": 2,
+    "parent_id": 2,
+    "child_ids": [],
+    "node_type": "NODE",
+    "install_service_needed": false,
+    "fitting_allowed": false,
+    "vat": true,
+    "variations": [
+      {
+        "master_field_id": 625,
+        "name": "Rəng",
+        "variation_tool_type": "image",
+        "has_size_chart": false,
+        "display_variant": false
+      },
+      {
+        "master_field_id": 1828,
+        "name": "Korpusun ölçüsü, mm",
+        "variation_tool_type": "button",
+        "has_size_chart": false,
+        "display_variant": false
+      },
+      {
+        "master_field_id": 1476,
+        "name": "Seriya",
+        "variation_tool_type": "button",
+        "has_size_chart": false,
+        "display_variant": false
+      }
+    ],
+    "custom_fields": [
+      {
+        "master_field_id": 1476,
+        "category_master_field_id": 10643,
+        "name": "Seriya"
+      },
+      {
+        "master_field_id": 620,
+        "category_master_field_id": 1445,
+        "name": "Tip"
+      },
+      {
+        "master_field_id": 621,
+        "category_master_field_id": 1446,
+        "name": "Uyğunluğu"
+      },
+      {
+        "master_field_id": 1828,
+        "category_master_field_id": 5545,
+        "name": "Korpusun ölçüsü, mm"
+      },
+      {
+        "master_field_id": 1827,
+        "category_master_field_id": 5544,
+        "name": "Ağıllı saatın ekranı"
+      },
+      {
+        "master_field_id": 1826,
+        "category_master_field_id": 5541,
+        "name": "SIM kartı"
+      },
+      {
+        "master_field_id": 826,
+        "category_master_field_id": 4623,
+        "name": "Akkumulyatorun həcmi, mA/saat"
+      },
+      {
+        "master_field_id": 2186,
+        "category_master_field_id": 45755,
+        "name": "Nəmə davamlı"
+      },
+      {
+        "master_field_id": 708,
+        "category_master_field_id": 4624,
+        "name": "Korpusun materialı"
+      },
+      {
+        "master_field_id": 625,
+        "category_master_field_id": 1451,
+        "name": "Rəng"
+      },
+      {
+        "master_field_id": 2211,
+        "category_master_field_id": 10648,
+        "name": "Zəmanət müddəti"
+      },
+      {
+        "master_field_id": 806,
+        "category_master_field_id": 15464,
+        "name": "Funksiyalar"
+      },
+      {
+        "master_field_id": 616,
+        "category_master_field_id": 1447,
+        "name": "Əməliyyat sistemi"
+      },
+      {
+        "master_field_id": 624,
+        "category_master_field_id": 1450,
+        "name": "Qayışın materialı"
+      },
+      {
+        "master_field_id": 1825,
+        "category_master_field_id": 5540,
+        "name": "Operativ yaddaş"
+      },
+      {
+        "master_field_id": 623,
+        "category_master_field_id": 1449,
+        "name": "Xüsusiyyətlər"
+      },
+      {
+        "master_field_id": 634,
+        "category_master_field_id": 5542,
+        "name": "Ekranın növü"
+      },
+      {
+        "master_field_id": 1739,
+        "category_master_field_id": 5543,
+        "name": "Sensor ekran"
+      },
+      {
+        "master_field_id": 1833,
+        "category_master_field_id": 5550,
+        "name": "Zənglər"
+      },
+      {
+        "master_field_id": 1752,
+        "category_master_field_id": 5551,
+        "name": "Kamera"
+      },
+      {
+        "master_field_id": 622,
+        "category_master_field_id": 1448,
+        "name": "İnterfeyslər"
+      },
+      {
+        "master_field_id": 1829,
+        "category_master_field_id": 5546,
+        "name": "Korpusun forması"
+      },
+      {
+        "master_field_id": 2552,
+        "category_master_field_id": 10645,
+        "name": "Korpusun qorunması"
+      },
+      {
+        "master_field_id": 1830,
+        "category_master_field_id": 5547,
+        "name": "Çıxarılan kəmər"
+      },
+      {
+        "master_field_id": 1831,
+        "category_master_field_id": 5548,
+        "name": "Multimedia"
+      },
+      {
+        "master_field_id": 1824,
+        "category_master_field_id": 5539,
+        "name": "Uzaqdan idarəetmə"
+      },
+      {
+        "master_field_id": 1832,
+        "category_master_field_id": 5549,
+        "name": "Smartfonlarla qarşılıqlı əlaqə"
+      },
+      {
+        "master_field_id": 1834,
+        "category_master_field_id": 5552,
+        "name": "Vibrasiya"
+      },
+      {
+        "master_field_id": 1835,
+        "category_master_field_id": 5553,
+        "name": "Naviqasiya, məlumatların ötürülməsi"
+      },
+      {
+        "master_field_id": 1836,
+        "category_master_field_id": 5554,
+        "name": "Enerji toplamanın xüsusiyyətləri"
+      },
+      {
+        "master_field_id": 721,
+        "category_master_field_id": 5555,
+        "name": "Akkumulyatorun növü"
+      },
+      {
+        "master_field_id": 761,
+        "category_master_field_id": 5537,
+        "name": "Cins"
+      },
+      {
+        "master_field_id": 1325,
+        "category_master_field_id": 4354,
+        "name": "Yaş qrupu"
+      },
+      {
+        "master_field_id": 870,
+        "category_master_field_id": 4626,
+        "name": "Çəki, q"
+      },
+      {
+        "master_field_id": 697,
+        "category_master_field_id": 10647,
+        "name": "Komplektasiya"
+      },
+      {
+        "master_field_id": 2635,
+        "category_master_field_id": 37277,
+        "name": "Bazarın başlanğıc ili"
+      },
+      {
+        "master_field_id": 2210,
+        "category_master_field_id": 10641,
+        "name": "Brendin ölkəsi"
+      },
+      {
+        "master_field_id": 618,
+        "category_master_field_id": 1444,
+        "name": "İstehsalçı ölkə"
+      },
+      {
+        "master_field_id": 6541,
+        "category_master_field_id": 44303,
+        "name": "İstehsalçı rəngi"
+      },
+      {
+        "master_field_id": 6334,
+        "category_master_field_id": 45122,
+        "name": "Vəziyyət"
+      }
+    ],
+    "parent": {
+      "id": 2,
+      "node_type": "NODE",
+      "name": "Telefonlar, Smart cihazlar və telefon aksessuarları",
+      "slugged_name": "telefonlar-ve-aksessuarlar",
+      "parent": {
+        "id": 1,
+        "node_type": "NODE",
+        "name": "Elektronika və məişət texnikası",
+        "slugged_name": "elektronika-ve-meishet-texnikasi",
+        "parent": null
+      }
+    },
+    "is_refundable": true,
+    "is_adult": false,
+    "icons": {
+      "thumbnail": "https://strgimgr.umico.az/img/category/188/358f11b7-3edc-4811-83af-955a1941b985.jpeg",
+      "original": "https://strgimgr.umico.az/img/category/original/358f11b7-3edc-4811-83af-955a1941b985.png"
+    },
+    "is_active": true
+  },
+  "offers": [
+    {
+      "uuid": "4421ac0d-8c5d-4825-9ff5-cb2e8634fa14",
+      "installment_enabled": true,
+      "max_installment_months": 18,
+      "product_offer_labels": [],
+      "old_price": 0,
+      "retail_price": 75,
+      "supplier_id": "9318a5f1-db79-43a0-bf26-c06fc967f745",
+      "seller": {
+        "ext_id": "347fa786-86d2-41f9-b16d-c8bced5ce746",
+        "internal_id": 15627,
+        "marketing_name": {
+          "id": 15627,
+          "name": "Mega Elektronik"
+        },
+        "logo": {
+          "thumbnail": ""
+        },
+        "vat_payer": false,
+        "rating": 90,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "allow_qty": 0
+    },
+    {
+      "uuid": "475aa382-a2ae-4cf4-9d6f-2ef48c271dc3",
+      "installment_enabled": true,
+      "max_installment_months": 18,
+      "product_offer_labels": [],
+      "old_price": 0,
+      "retail_price": 74.99,
+      "supplier_id": "1349e832-3e67-473e-b256-eaa21c6cb993",
+      "seller": {
+        "ext_id": "279e8f88-0c9a-4bc7-8b9a-d014f6ab8667",
+        "internal_id": 15901,
+        "marketing_name": {
+          "id": 15901,
+          "name": "Esma shop"
+        },
+        "logo": {
+          "thumbnail": ""
+        },
+        "vat_payer": false,
+        "rating": 75,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "allow_qty": 0
+    },
+    {
+      "uuid": "3921f8ab-456f-4756-91f4-9bc5fc3f5d36",
+      "installment_enabled": true,
+      "max_installment_months": 18,
+      "product_offer_labels": [],
+      "old_price": 0,
+      "retail_price": 75,
+      "supplier_id": "844e816c-1f9f-45fb-b272-f9ba0b244b9d",
+      "seller": {
+        "ext_id": "e57f6fcf-30b1-4bd9-9b0a-e084cb26659d",
+        "internal_id": 15625,
+        "marketing_name": {
+          "id": 15625,
+          "name": "LUX Elektronik"
+        },
+        "logo": {
+          "thumbnail": ""
+        },
+        "vat_payer": false,
+        "rating": 84,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "allow_qty": 0
+    },
+    {
+      "uuid": "f5bcaf55-06fa-4966-bcf6-e2375a95fe7d",
+      "installment_enabled": true,
+      "max_installment_months": 18,
+      "product_offer_labels": [],
+      "old_price": 0,
+      "retail_price": 75,
+      "supplier_id": "90cfaf0d-3709-476f-b5a6-1f95ac9a3e19",
+      "seller": {
+        "ext_id": "4dc5356b-bb16-46a7-ae3e-e0f6334d33ce",
+        "internal_id": 13339,
+        "marketing_name": {
+          "id": 13339,
+          "name": "Tehno Az"
+        },
+        "logo": {
+          "thumbnail": ""
+        },
+        "vat_payer": false,
+        "rating": 79,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "allow_qty": 0
+    },
+    {
+      "uuid": "e06cd605-1bf7-4163-9b7c-6a4b3ca1c0a7",
+      "installment_enabled": true,
+      "max_installment_months": 18,
+      "product_offer_labels": [],
+      "old_price": 0,
+      "retail_price": 79,
+      "supplier_id": "cab5311c-f94f-40e8-8fd2-1e2e13b6d608",
+      "seller": {
+        "ext_id": "6690faaa-c95e-4e81-a277-d7d73d37a3e3",
+        "internal_id": 6220,
+        "marketing_name": {
+          "id": 6220,
+          "name": "Smartsaatbaku"
+        },
+        "logo": {
+          "thumbnail": "https://storage.umico.az/cpcustomerprod01/094635167d7464356fe460f6a1e00e51.jpg"
+        },
+        "vat_payer": false,
+        "rating": 100,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "allow_qty": 0
+    },
+    {
+      "uuid": "bcd79fcd-2f9d-4a19-9cd5-1693839729f3",
+      "installment_enabled": true,
+      "max_installment_months": 18,
+      "product_offer_labels": [],
+      "old_price": 190,
+      "retail_price": 75,
+      "supplier_id": "e53a1cca-ad6d-43ec-885d-03252a2714cf",
+      "seller": {
+        "ext_id": "dc9a182e-8768-4a0d-8020-3b34c8a18a4f",
+        "internal_id": 17018,
+        "marketing_name": {
+          "id": 17018,
+          "name": "AİDAelectronika"
+        },
+        "logo": {
+          "thumbnail": ""
+        },
+        "vat_payer": false,
+        "rating": 95,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "allow_qty": 0
+    },
+    {
+      "uuid": "f779d07a-1cc8-46b0-bb14-a13577f13508",
+      "installment_enabled": true,
+      "max_installment_months": 18,
+      "product_offer_labels": [],
+      "old_price": 190,
+      "retail_price": 75,
+      "supplier_id": "2d785284-3d69-4a9f-917f-f8849957b468",
+      "seller": {
+        "ext_id": "882cf40f-60b8-4587-8591-bffcc83e7e32",
+        "internal_id": 11210,
+        "marketing_name": {
+          "id": 11210,
+          "name": "Az elektronik"
+        },
+        "logo": {
+          "thumbnail": ""
+        },
+        "vat_payer": false,
+        "rating": 93,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "allow_qty": 0
+    },
+    {
+      "uuid": "8e4e5f0d-9805-439f-963a-e0f93af6ab1d",
+      "installment_enabled": true,
+      "max_installment_months": 18,
+      "product_offer_labels": [],
+      "old_price": 0,
+      "retail_price": 75,
+      "supplier_id": "06380cb8-0799-4c8b-91af-773d870049ce",
+      "seller": {
+        "ext_id": "8592c3ec-da94-49b7-abdd-c39c4684d267",
+        "internal_id": 13369,
+        "marketing_name": {
+          "id": 13369,
+          "name": "PRIME ELECTRONICS"
+        },
+        "logo": {
+          "thumbnail": ""
+        },
+        "vat_payer": false,
+        "rating": 90,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "allow_qty": 0
+    },
+    {
+      "uuid": "3a312a5a-954a-41a1-97f9-8661a060acce",
+      "installment_enabled": true,
+      "max_installment_months": 18,
+      "product_offer_labels": [],
+      "old_price": 0,
+      "retail_price": 75,
+      "supplier_id": "e8f0903c-292f-4d48-acda-b2d8b1f31779",
+      "seller": {
+        "ext_id": "27a4d080-085f-4f41-85d0-28e2adf2fad8",
+        "internal_id": 14017,
+        "marketing_name": {
+          "id": 14017,
+          "name": "Planşet Baku"
+        },
+        "logo": {
+          "thumbnail": ""
+        },
+        "vat_payer": false,
+        "rating": 100,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "allow_qty": 0
+    },
+    {
+      "uuid": "1241f07c-5e85-4da0-b2c3-629aa6f8ed3d",
+      "installment_enabled": true,
+      "max_installment_months": 18,
+      "product_offer_labels": [],
+      "old_price": 1000,
+      "retail_price": 88.9,
+      "supplier_id": "48f8e3ef-37b0-4ee5-a7b0-66a84784fc54",
+      "seller": {
+        "ext_id": "4e7e371a-cb6f-4dcc-91d6-6975782342c1",
+        "internal_id": 11528,
+        "marketing_name": {
+          "id": 11528,
+          "name": "FF home"
+        },
+        "logo": {
+          "thumbnail": ""
+        },
+        "vat_payer": false,
+        "rating": 82,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "allow_qty": 0
+    },
+    {
+      "uuid": "3514f681-abd9-4122-986b-dce0cb6dd106",
+      "installment_enabled": true,
+      "max_installment_months": 18,
+      "product_offer_labels": [],
+      "old_price": 0,
+      "retail_price": 75,
+      "supplier_id": "c931a6e9-d5dd-4e9c-b1cc-4005df2a7e0b",
+      "seller": {
+        "ext_id": "1c0238f0-82dd-4176-a868-205b66e25e44",
+        "internal_id": 13730,
+        "marketing_name": {
+          "id": 13730,
+          "name": "Store elektronik"
+        },
+        "logo": {
+          "thumbnail": ""
+        },
+        "vat_payer": false,
+        "rating": 95,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "allow_qty": 0
+    }
+  ],
+  "variations": [
+    {
+      "id": 1014532,
+      "name": "Ağıllı saat Haino Teko RW-34",
+      "slugged_name": "agilli-saat-haino-teko-rw-34",
+      "custom_fields": [
+        {
+          "master_field_id": 625,
+          "values": [
+            "Gümüşü",
+            "Qara"
+          ]
+        }
+      ],
+      "main_img": {
+        "big": "https://strgimgr.umico.az/sized/1680/1014532-5b0c80963f1363aca67adb0d105db3ad.jpg",
+        "medium": "https://strgimgr.umico.az/sized/840/1014532-5b0c80963f1363aca67adb0d105db3ad.jpg",
+        "small": "https://strgimgr.umico.az/sized/280/1014532-5b0c80963f1363aca67adb0d105db3ad.jpg"
+      },
+      "status": "active"
+    }
+  ],
+  "size_chart": {},
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "sku": 1014532,
+    "mpn": "6973100642378-rw34",
+    "url": "https://birmarket.az/product/1014532-agilli-saat-haino-teko-rw-34",
+    "name": "Ağıllı saat Haino Teko RW-34",
+    "image": [
+      "https://strgimgr.umico.az/sized/1680/1014532-5b0c80963f1363aca67adb0d105db3ad.jpg",
+      "https://strgimgr.umico.az/sized/1680/1014532-7c93a20c97d8ba39d46ca62284d857e6.jpg",
+      "https://strgimgr.umico.az/sized/1680/1014532-c81bd622a14364d7b10de40e6357b6ed.jpg"
+    ],
+    "description": "Haino Teko RW-34 ağıllı saat – böyüklər üçün şık və çoxistifadəli bir aksesuar. Saat silikon, dəri və paslanmayan polad çıxarılabilən qayışla təchiz olunub ki, bu da onları rahat və dayanıqlı edir. Saatlar gümüşü və qara rəngdə mövcuddur və hər hansı bir imiclə uyğundur. Ağıllı saatlar zənglər haqqında məlumat verərək smartfon sahibləri üçün əla seçimdir. Dairəvi saat korpusu biləkdə mükəmməl görünür və qayışın çıxarıla bilməsi rahat şarj imkanı təmin edir. Çin istehsalı olan Haino Teko RW-34 saatları stil, funksionallıq və keyfiyyətin etibarlı birləşməsidir.",
+    "itemCondition": "https://schema.org/NewCondition",
+    "offers": {
+      "@type": "AggregateOffer",
+      "availability": "https://schema.org/InStock",
+      "offerCount": 11,
+      "highPrice": 88.9,
+      "lowPrice": 74.99,
+      "priceCurrency": "AZN",
+      "hasMerchantReturnPolicy": {
+        "applicableCountry": "AZ",
+        "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+        "returnMethod": "https://schema.org/ReturnInStore",
+        "returnFees": "https://schema.org/FreeReturn",
+        "merchantReturnDays": 14
+      },
+      "shippingDetails": {
+        "@type": "OfferShippingDetails",
+        "shippingDestination": {
+          "@type": "DefinedRegion",
+          "addressCountry": "AZ"
+        },
+        "deliveryTime": {
+          "@type": "ShippingDeliveryTime",
+          "handlingTime": {
+            "@type": "QuantitativeValue",
+            "minValue": 0,
+            "maxValue": 1,
+            "unitCode": "DAY"
+          },
+          "transitTime": {
+            "@type": "QuantitativeValue",
+            "minValue": 0,
+            "maxValue": 1,
+            "unitCode": "DAY"
+          },
+          "businessDays": {
+            "@type": "OpeningHoursSpecification",
+            "dayOfWeek": [
+              "https://schema.org/Monday",
+              "https://schema.org/Tuesday",
+              "https://schema.org/Wednesday",
+              "https://schema.org/Thursday",
+              "https://schema.org/Friday",
+              "https://schema.org/Saturday",
+              "https://schema.org/Sunday"
+            ]
+          }
+        },
+        "shippingRate": {
+          "@type": "MonetaryAmount",
+          "value": 0,
+          "currency": "AZN"
+        }
+      }
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": 4,
+      "reviewCount": 4
+    },
+    "brand": {
+      "@type": "Brand",
+      "name": "Haino Teko",
+      "url": "https://birmarket.az/brands/Haino%20Teko"
+    }
+  }
+}

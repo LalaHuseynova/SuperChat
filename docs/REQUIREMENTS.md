@@ -1,4 +1,19 @@
-# Phase 1 requirement mapping
+# Requirement mapping
+
+## Real-data update, 3 November 2026
+
+| Requirement | Current implementation | Limit |
+|---|---|---|
+| Replaceable data adapters | JSON, snapshot, updating SQLite, official Aviasales Data API | Shopping/cinema collect public pages, not partner APIs |
+| Authentication and network handling | Travelpayouts token, pagination, cache, timeouts, retry/cooldown, logs | No supplier booking sandbox |
+| Fresh real catalogue | Scheduled scrapers, atomic publication, last-good retention | Birmarket currently refuses access from this environment |
+| EN/AZ/RU grounded replies | Preserved query constraints and language selection, localized attributes | Source proper names retained; offline paraphrase limits |
+| Visual search | Confidence gate and 160-image CLIP similarity index | Similarity is not exact identity/probability |
+| No matches or irrelevant prompts | Localized text with no arbitrary cards | Semantic fallback is conservative |
+| Source navigation | Exact provider listing/search links | Checkout stays at provider |
+
+The original Phase 1 mapping follows; newer evidence is in PHASE2_LOG.md.
+
 
 Source: `SuperChat_Project_Brief-2 (1).pdf`, all five pages reviewed. Official JSON data is unchanged.
 

@@ -1,0 +1,40 @@
+{
+  "source": "https://birmarket.az",
+  "fetched_at": "2026-11-03T09:31:03.252355+04:00",
+  "run_directory": "birmarket/runs/20261103_093103_252355",
+  "product_count": 290,
+  "counts_by_category": {
+    "sport": 40
+  },
+  "requested_per_category": 40,
+  "max_pages_per_category": 5,
+  "pages_collected_by_category": {
+    "sport": 2
+  },
+  "category_stop_reasons": {
+    "sport": "product_limit"
+  },
+  "max_images_per_product": 1,
+  "collection_transport": "chrome_browser",
+  "retained_product_count": 280,
+  "new_product_count": 10,
+  "category_mapping": {
+    "sport": "/categories/3177-kishi-krosovkalari"
+  },
+  "explicit_product_urls": [],
+  "stopped_by_site": false,
+  "errors": [],
+  "coverage": "configured_sample_collected",
+  "image_count": 1046,
+  "downloaded_images": 679,
+  "image_coverage": "partial",
+  "russian_names": 290,
+  "limitations": [
+    "This is the configured category/page sample, not the entire Birmarket inventory.",
+    "English translations and exact stock quantities are unknown and remain null.",
+    "Sizes/colors describe listed variants; prices and stock of unfetched variants remain null.",
+    "Delivery, promotions and seller prices are snapshots and may depend on location or checkout.",
+    "Missing dimensions, warranty or descriptions mean the source did not publish them in the fetched data.",
+    "Image URLs are remote unless local_file is present. Mock files are preserved."
+  ]
+}

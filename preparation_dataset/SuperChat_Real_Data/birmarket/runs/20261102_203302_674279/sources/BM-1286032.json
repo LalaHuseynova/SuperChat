@@ -1,0 +1,866 @@
+{
+  "product": {
+    "id": 1286032,
+    "gtin": "6932554419813",
+    "mpn": "BHR07PSGL",
+    "name": "Fitnes qolbaq Xiaomi Smart Band 10 Glacier Silver (BHR07PSGL)",
+    "slugged_name_az": "fitnes-qolbaq-xiaomi-smart-band-10-glacier-silver-bhr07psgl",
+    "slugged_name_ru": "fitnes-braslet-xiaomi-smart-band-10-glacier-silver-bhr07psgl",
+    "description": "Xiaomi Smart Band 10 Glacier Silver (BHR07PSGL) fitnes qolbağı gün ərzində fəaliyyətin hərtərəfli izlənməsi üçün dəbli bir cihazdır. Qolbaq addımlar, kalori, ürək ritmi və işıq səviyyəsi haqqında məlumat verən rəngli AMOLED ekranla təchiz edilmişdir. O, vibrasiya siqnalı, sensor ekran, itkiyə qarşı funksiya, həyəcan siqnalı və yuxu monitorinqi funksiyalarına malikdir. Suya və toza qarşı korpusu, həmçinin çıxarıla bilən silikon qayışı sayəsində bu qolbaq cinsindən asılı olmayaraq hər kəs üçün uyğundur. O, iOS və Android cihazları ilə uyğundur, Bluetooth interfeysə və daxil edilmiş musiqi pleyerinə malikdir. O, maqnit yükləmə ilə yüklənən 233 mAh litium-polimer batareya ilə işləyir. Bu ağıllı qolbaq gündəlik həyatda fiziki fəaliyyətini izləmək istəyən böyüklər üçün ideal seçimdir.",
+    "description_outlet": "",
+    "status": "active",
+    "uuid": "5b7e8922-d824-4f11-9d15-90ff2ce01bd9",
+    "variant_code": "Xiaomi Smart Band 10",
+    "default_offer": {
+      "uuid": "20f12cd1-7dd1-41c4-ab87-6d629d505d37",
+      "installment_enabled": true,
+      "max_installment_months": 3,
+      "product_offer_labels": [],
+      "old_price": 148.99,
+      "retail_price": 113.99,
+      "supplier_id": "08efecf5-1ebd-4308-83d1-90556dd64be9",
+      "qty": 0,
+      "seller": {
+        "ext_id": "08efecf5-1ebd-4308-83d1-90556dd64be9",
+        "marketing_name": {
+          "id": 2189,
+          "name": "Texno Home"
+        },
+        "logo": {
+          "thumbnail": "https://storage.umico.az/cpcustomerprod01/0d9a9e502354fbf0c8dc605bb52591e9.jpg"
+        },
+        "vat_payer": true,
+        "rating": 98,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "discount_effective_start_date": "",
+      "discount_effective_end_date": ""
+    },
+    "category_id": 4,
+    "category": {
+      "id": 4,
+      "name": "Ağıllı saatlar və fitnes qolbaqları"
+    },
+    "brand": {
+      "name": "Xiaomi"
+    },
+    "custom_fields": [
+      {
+        "master_field_id": 620,
+        "values": [
+          "Fitnes qolbaq"
+        ]
+      },
+      {
+        "master_field_id": 1476,
+        "values": [
+          "Xiaomi Smart Band 10"
+        ]
+      },
+      {
+        "master_field_id": 625,
+        "values": [
+          "Gümüşü"
+        ]
+      },
+      {
+        "master_field_id": 621,
+        "values": [
+          "iOS",
+          "Android"
+        ]
+      },
+      {
+        "master_field_id": 623,
+        "values": [
+          "Addımölçən",
+          "Akselerometr",
+          "Qiroskop",
+          "Ürək ritminin göstəricisi",
+          "İşıqlandırma göstəricisi",
+          "Toza və nəmə davamlı korpus",
+          "Çıxarılan kəmər"
+        ]
+      },
+      {
+        "master_field_id": 761,
+        "values": [
+          "Hər kəs üçün"
+        ]
+      },
+      {
+        "master_field_id": 1325,
+        "values": [
+          "Böyüklər üçün"
+        ]
+      },
+      {
+        "master_field_id": 1826,
+        "values": [
+          "Xeyr"
+        ]
+      },
+      {
+        "master_field_id": 616,
+        "values": [
+          "HyperOS"
+        ]
+      },
+      {
+        "master_field_id": 622,
+        "values": [
+          "Bluetooth"
+        ]
+      },
+      {
+        "master_field_id": 806,
+        "values": [
+          "İtirmə əleyhinə",
+          "Zəngli saat",
+          "Yuxu monitorinqi",
+          "Fitnes-treker",
+          "Kalori monitorinqi"
+        ]
+      },
+      {
+        "master_field_id": 634,
+        "values": [
+          "Rəngli"
+        ]
+      },
+      {
+        "master_field_id": 1739,
+        "values": [
+          "Bəli"
+        ]
+      },
+      {
+        "master_field_id": 1827,
+        "values": [
+          "AMOLED"
+        ]
+      },
+      {
+        "master_field_id": 1828,
+        "values": [
+          "1.72"
+        ]
+      },
+      {
+        "master_field_id": 1829,
+        "values": [
+          "Oval"
+        ]
+      },
+      {
+        "master_field_id": 708,
+        "values": [
+          "Plastik"
+        ]
+      },
+      {
+        "master_field_id": 2552,
+        "values": [
+          "Nəmə davamlı",
+          "Toza davamlı"
+        ]
+      },
+      {
+        "master_field_id": 1830,
+        "values": [
+          "Bəli"
+        ]
+      },
+      {
+        "master_field_id": 624,
+        "values": [
+          "Silikon"
+        ]
+      },
+      {
+        "master_field_id": 1824,
+        "values": [
+          "Musiqi"
+        ]
+      },
+      {
+        "master_field_id": 1832,
+        "values": [
+          "Zənglər haqqında məlumatlandırma",
+          "SMS haqqında məlumatlandırma",
+          "Telefonun tapılması",
+          "Pleyerin idarə olunması"
+        ]
+      },
+      {
+        "master_field_id": 1752,
+        "values": [
+          "Xeyr"
+        ]
+      },
+      {
+        "master_field_id": 1834,
+        "values": [
+          "Bəli"
+        ]
+      },
+      {
+        "master_field_id": 1836,
+        "values": [
+          "Maqnitli enerji toplama"
+        ]
+      },
+      {
+        "master_field_id": 826,
+        "values": [
+          "233"
+        ]
+      },
+      {
+        "master_field_id": 721,
+        "values": [
+          "Li-Pol"
+        ]
+      },
+      {
+        "master_field_id": 870,
+        "values": [
+          "15.95"
+        ]
+      },
+      {
+        "master_field_id": 697,
+        "values": [
+          "Təlimat"
+        ]
+      },
+      {
+        "master_field_id": 2210,
+        "values": [
+          "Çin"
+        ]
+      },
+      {
+        "master_field_id": 618,
+        "values": [
+          "Çin"
+        ]
+      }
+    ],
+    "main_img": {
+      "big": "https://strgimgr.umico.az/img/product/1680/246d3864-5ca7-453d-bb54-db0f02a42f7d.jpeg",
+      "medium": "https://strgimgr.umico.az/img/product/840/246d3864-5ca7-453d-bb54-db0f02a42f7d.jpeg",
+      "small": "https://strgimgr.umico.az/img/product/280/246d3864-5ca7-453d-bb54-db0f02a42f7d.jpeg"
+    },
+    "img_url_thumbnail": "https://strgimgr.umico.az/img/product/280/246d3864-5ca7-453d-bb54-db0f02a42f7d.jpeg",
+    "main_video": "",
+    "imgs": [
+      {
+        "big": "https://strgimgr.umico.az/img/product/1680/246d3864-5ca7-453d-bb54-db0f02a42f7d.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/246d3864-5ca7-453d-bb54-db0f02a42f7d.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/246d3864-5ca7-453d-bb54-db0f02a42f7d.jpeg"
+      },
+      {
+        "big": "https://strgimgr.umico.az/img/product/1680/e350e5b8-c04c-4585-be21-30bbfe797638.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/e350e5b8-c04c-4585-be21-30bbfe797638.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/e350e5b8-c04c-4585-be21-30bbfe797638.jpeg"
+      },
+      {
+        "big": "https://strgimgr.umico.az/img/product/1680/9c09b437-6987-412e-b311-9b17162147b8.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/9c09b437-6987-412e-b311-9b17162147b8.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/9c09b437-6987-412e-b311-9b17162147b8.jpeg"
+      },
+      {
+        "big": "https://strgimgr.umico.az/img/product/1680/77a3f61d-1dc8-45c2-9889-936b658dc341.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/77a3f61d-1dc8-45c2-9889-936b658dc341.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/77a3f61d-1dc8-45c2-9889-936b658dc341.jpeg"
+      },
+      {
+        "big": "https://strgimgr.umico.az/img/product/1680/651e61d7-1feb-44e2-8391-fd9db89b718a.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/651e61d7-1feb-44e2-8391-fd9db89b718a.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/651e61d7-1feb-44e2-8391-fd9db89b718a.jpeg"
+      },
+      {
+        "big": "https://strgimgr.umico.az/img/product/1680/e8e6b5d4-bcf4-4ac1-9866-8302c507a4cf.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/e8e6b5d4-bcf4-4ac1-9866-8302c507a4cf.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/e8e6b5d4-bcf4-4ac1-9866-8302c507a4cf.jpeg"
+      },
+      {
+        "big": "https://strgimgr.umico.az/img/product/1680/b9a3b4c0-9730-421f-881f-5798891656ee.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/b9a3b4c0-9730-421f-881f-5798891656ee.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/b9a3b4c0-9730-421f-881f-5798891656ee.jpeg"
+      }
+    ],
+    "videos": [
+      ""
+    ],
+    "min_qty": 1,
+    "preorder_available": false,
+    "is_assortment": false,
+    "is_bulk_heavy": false,
+    "is_refurbished": false,
+    "is_refundable": true,
+    "is_dangerous": false,
+    "show_tech_description": false,
+    "use_external_content": false,
+    "product_labels": [],
+    "ratings": {
+      "rating_value": 5,
+      "assessment_id": 0,
+      "session_count": 24,
+      "score_count": 12,
+      "review_count": 12
+    },
+    "default_show_stock_qty_threshold": 0,
+    "card_type": "public"
+  },
+  "category": {
+    "id": 4,
+    "name": "Ağıllı saatlar və fitnes qolbaqları",
+    "slugged_name_az": "agilli-saatlar-ve-fitnes-qolbaqlari",
+    "slugged_name_ru": "umnye-chasy-i-fitnes-braslety",
+    "view_mode": "products",
+    "mobile_visual_mode": "text",
+    "is_variant": false,
+    "depth": 2,
+    "parent_id": 2,
+    "child_ids": [],
+    "node_type": "NODE",
+    "install_service_needed": false,
+    "fitting_allowed": false,
+    "vat": true,
+    "variations": [
+      {
+        "master_field_id": 625,
+        "name": "Rəng",
+        "variation_tool_type": "image",
+        "has_size_chart": false,
+        "display_variant": false
+      },
+      {
+        "master_field_id": 1828,
+        "name": "Korpusun ölçüsü, mm",
+        "variation_tool_type": "button",
+        "has_size_chart": false,
+        "display_variant": false
+      },
+      {
+        "master_field_id": 1476,
+        "name": "Seriya",
+        "variation_tool_type": "button",
+        "has_size_chart": false,
+        "display_variant": false
+      }
+    ],
+    "custom_fields": [
+      {
+        "master_field_id": 1476,
+        "category_master_field_id": 10643,
+        "name": "Seriya"
+      },
+      {
+        "master_field_id": 620,
+        "category_master_field_id": 1445,
+        "name": "Tip"
+      },
+      {
+        "master_field_id": 621,
+        "category_master_field_id": 1446,
+        "name": "Uyğunluğu"
+      },
+      {
+        "master_field_id": 1828,
+        "category_master_field_id": 5545,
+        "name": "Korpusun ölçüsü, mm"
+      },
+      {
+        "master_field_id": 1827,
+        "category_master_field_id": 5544,
+        "name": "Ağıllı saatın ekranı"
+      },
+      {
+        "master_field_id": 1826,
+        "category_master_field_id": 5541,
+        "name": "SIM kartı"
+      },
+      {
+        "master_field_id": 826,
+        "category_master_field_id": 4623,
+        "name": "Akkumulyatorun həcmi, mA/saat"
+      },
+      {
+        "master_field_id": 2186,
+        "category_master_field_id": 45755,
+        "name": "Nəmə davamlı"
+      },
+      {
+        "master_field_id": 708,
+        "category_master_field_id": 4624,
+        "name": "Korpusun materialı"
+      },
+      {
+        "master_field_id": 625,
+        "category_master_field_id": 1451,
+        "name": "Rəng"
+      },
+      {
+        "master_field_id": 2211,
+        "category_master_field_id": 10648,
+        "name": "Zəmanət müddəti"
+      },
+      {
+        "master_field_id": 806,
+        "category_master_field_id": 15464,
+        "name": "Funksiyalar"
+      },
+      {
+        "master_field_id": 616,
+        "category_master_field_id": 1447,
+        "name": "Əməliyyat sistemi"
+      },
+      {
+        "master_field_id": 624,
+        "category_master_field_id": 1450,
+        "name": "Qayışın materialı"
+      },
+      {
+        "master_field_id": 1825,
+        "category_master_field_id": 5540,
+        "name": "Operativ yaddaş"
+      },
+      {
+        "master_field_id": 623,
+        "category_master_field_id": 1449,
+        "name": "Xüsusiyyətlər"
+      },
+      {
+        "master_field_id": 634,
+        "category_master_field_id": 5542,
+        "name": "Ekranın növü"
+      },
+      {
+        "master_field_id": 1739,
+        "category_master_field_id": 5543,
+        "name": "Sensor ekran"
+      },
+      {
+        "master_field_id": 1833,
+        "category_master_field_id": 5550,
+        "name": "Zənglər"
+      },
+      {
+        "master_field_id": 1752,
+        "category_master_field_id": 5551,
+        "name": "Kamera"
+      },
+      {
+        "master_field_id": 622,
+        "category_master_field_id": 1448,
+        "name": "İnterfeyslər"
+      },
+      {
+        "master_field_id": 1829,
+        "category_master_field_id": 5546,
+        "name": "Korpusun forması"
+      },
+      {
+        "master_field_id": 2552,
+        "category_master_field_id": 10645,
+        "name": "Korpusun qorunması"
+      },
+      {
+        "master_field_id": 1830,
+        "category_master_field_id": 5547,
+        "name": "Çıxarılan kəmər"
+      },
+      {
+        "master_field_id": 1831,
+        "category_master_field_id": 5548,
+        "name": "Multimedia"
+      },
+      {
+        "master_field_id": 1824,
+        "category_master_field_id": 5539,
+        "name": "Uzaqdan idarəetmə"
+      },
+      {
+        "master_field_id": 1832,
+        "category_master_field_id": 5549,
+        "name": "Smartfonlarla qarşılıqlı əlaqə"
+      },
+      {
+        "master_field_id": 1834,
+        "category_master_field_id": 5552,
+        "name": "Vibrasiya"
+      },
+      {
+        "master_field_id": 1835,
+        "category_master_field_id": 5553,
+        "name": "Naviqasiya, məlumatların ötürülməsi"
+      },
+      {
+        "master_field_id": 1836,
+        "category_master_field_id": 5554,
+        "name": "Enerji toplamanın xüsusiyyətləri"
+      },
+      {
+        "master_field_id": 721,
+        "category_master_field_id": 5555,
+        "name": "Akkumulyatorun növü"
+      },
+      {
+        "master_field_id": 761,
+        "category_master_field_id": 5537,
+        "name": "Cins"
+      },
+      {
+        "master_field_id": 1325,
+        "category_master_field_id": 4354,
+        "name": "Yaş qrupu"
+      },
+      {
+        "master_field_id": 870,
+        "category_master_field_id": 4626,
+        "name": "Çəki, q"
+      },
+      {
+        "master_field_id": 697,
+        "category_master_field_id": 10647,
+        "name": "Komplektasiya"
+      },
+      {
+        "master_field_id": 2635,
+        "category_master_field_id": 37277,
+        "name": "Bazarın başlanğıc ili"
+      },
+      {
+        "master_field_id": 2210,
+        "category_master_field_id": 10641,
+        "name": "Brendin ölkəsi"
+      },
+      {
+        "master_field_id": 618,
+        "category_master_field_id": 1444,
+        "name": "İstehsalçı ölkə"
+      },
+      {
+        "master_field_id": 6541,
+        "category_master_field_id": 44303,
+        "name": "İstehsalçı rəngi"
+      },
+      {
+        "master_field_id": 6334,
+        "category_master_field_id": 45122,
+        "name": "Vəziyyət"
+      }
+    ],
+    "parent": {
+      "id": 2,
+      "node_type": "NODE",
+      "name": "Telefonlar, Smart cihazlar və telefon aksessuarları",
+      "slugged_name": "telefonlar-ve-aksessuarlar",
+      "parent": {
+        "id": 1,
+        "node_type": "NODE",
+        "name": "Elektronika və məişət texnikası",
+        "slugged_name": "elektronika-ve-meishet-texnikasi",
+        "parent": null
+      }
+    },
+    "is_refundable": true,
+    "is_adult": false,
+    "icons": {
+      "thumbnail": "https://strgimgr.umico.az/img/category/188/358f11b7-3edc-4811-83af-955a1941b985.jpeg",
+      "original": "https://strgimgr.umico.az/img/category/original/358f11b7-3edc-4811-83af-955a1941b985.png"
+    },
+    "is_active": true
+  },
+  "offers": [
+    {
+      "uuid": "14e5e053-f917-4df2-8aec-a0b35a87f9b0",
+      "installment_enabled": true,
+      "max_installment_months": 18,
+      "product_offer_labels": [],
+      "old_price": 249.99,
+      "retail_price": 199.99,
+      "supplier_id": "27746afa-94bc-475a-907c-8b07ec11f39f",
+      "seller": {
+        "ext_id": "b835c41f-740f-4d1d-8099-f48b0e27e828",
+        "internal_id": 11936,
+        "marketing_name": {
+          "id": 11936,
+          "name": "ABEL Shop"
+        },
+        "logo": {
+          "thumbnail": "https://storage.umico.az/cpcustomerprod01/83fd7b84020b731e7b4f96bc26404a1a.png"
+        },
+        "vat_payer": false,
+        "rating": 100,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "allow_qty": 0
+    },
+    {
+      "uuid": "c56c0da7-b5e6-4762-8110-fabc3b942d5e",
+      "installment_enabled": true,
+      "max_installment_months": 3,
+      "product_offer_labels": [],
+      "old_price": 199,
+      "retail_price": 129,
+      "supplier_id": "217b2604-2ea1-4855-bda3-9ce0add2dbf1",
+      "seller": {
+        "ext_id": "fc8cbcbe-afe9-41ad-8e06-d9e0a8094d6e",
+        "internal_id": 8399,
+        "marketing_name": {
+          "id": 8399,
+          "name": "Minor Smart"
+        },
+        "logo": {
+          "thumbnail": "https://storage.umico.az/cpcustomerprod01/b166d3e558aea16abc9063a7a9ee5bf3.jpg"
+        },
+        "vat_payer": true,
+        "rating": 100,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "allow_qty": 0
+    },
+    {
+      "uuid": "20f12cd1-7dd1-41c4-ab87-6d629d505d37",
+      "installment_enabled": true,
+      "max_installment_months": 3,
+      "product_offer_labels": [],
+      "old_price": 148.99,
+      "retail_price": 113.99,
+      "supplier_id": "08efecf5-1ebd-4308-83d1-90556dd64be9",
+      "seller": {
+        "ext_id": "7f7bb32b-14c6-4485-9dac-1b78a114e140",
+        "internal_id": 2189,
+        "marketing_name": {
+          "id": 2189,
+          "name": "Texno Home"
+        },
+        "logo": {
+          "thumbnail": "https://storage.umico.az/cpcustomerprod01/0d9a9e502354fbf0c8dc605bb52591e9.jpg"
+        },
+        "vat_payer": true,
+        "rating": 98,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "allow_qty": 0
+    }
+  ],
+  "variations": [
+    {
+      "id": 1286030,
+      "name": "Fitnes qolbaq Xiaomi Smart Band 10 Mystic Rose (BHR9999GL)",
+      "slugged_name": "fitnes-qolbaq-xiaomi-smart-band-10-mystic-rose-bhr9999gl",
+      "custom_fields": [
+        {
+          "master_field_id": 625,
+          "values": [
+            "Çəhrayı"
+          ]
+        },
+        {
+          "master_field_id": 1828,
+          "values": [
+            "1.72"
+          ]
+        },
+        {
+          "master_field_id": 1476,
+          "values": [
+            "Xiaomi Smart Band 10"
+          ]
+        }
+      ],
+      "main_img": {
+        "big": "https://strgimgr.umico.az/img/product/1680/3b855390-8a8b-48ce-910e-adb26617e9d2.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/3b855390-8a8b-48ce-910e-adb26617e9d2.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/3b855390-8a8b-48ce-910e-adb26617e9d2.jpeg"
+      },
+      "status": "active"
+    },
+    {
+      "id": 1286032,
+      "name": "Fitnes qolbaq Xiaomi Smart Band 10 Glacier Silver (BHR07PSGL)",
+      "slugged_name": "fitnes-qolbaq-xiaomi-smart-band-10-glacier-silver-bhr07psgl",
+      "custom_fields": [
+        {
+          "master_field_id": 625,
+          "values": [
+            "Gümüşü"
+          ]
+        },
+        {
+          "master_field_id": 1828,
+          "values": [
+            "1.72"
+          ]
+        },
+        {
+          "master_field_id": 1476,
+          "values": [
+            "Xiaomi Smart Band 10"
+          ]
+        }
+      ],
+      "main_img": {
+        "big": "https://strgimgr.umico.az/img/product/1680/246d3864-5ca7-453d-bb54-db0f02a42f7d.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/246d3864-5ca7-453d-bb54-db0f02a42f7d.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/246d3864-5ca7-453d-bb54-db0f02a42f7d.jpeg"
+      },
+      "status": "active"
+    },
+    {
+      "id": 1286033,
+      "name": "Fitnes qolbaq Xiaomi Smart Band 10 Midnight Black (BHR07PYGL)",
+      "slugged_name": "fitnes-qolbaq-xiaomi-smart-band-10-midnight-black-bhr07pygl",
+      "custom_fields": [
+        {
+          "master_field_id": 625,
+          "values": [
+            "Qara"
+          ]
+        },
+        {
+          "master_field_id": 1828,
+          "values": [
+            "1.72"
+          ]
+        },
+        {
+          "master_field_id": 1476,
+          "values": [
+            "Xiaomi Smart Band 10"
+          ]
+        }
+      ],
+      "main_img": {
+        "big": "https://strgimgr.umico.az/img/product/1680/b94d069c-b608-4bf4-886f-8c1432558e05.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/b94d069c-b608-4bf4-886f-8c1432558e05.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/b94d069c-b608-4bf4-886f-8c1432558e05.jpeg"
+      },
+      "status": "active"
+    },
+    {
+      "id": 1286035,
+      "name": "Fitnes qolbaq Xiaomi Smart Band 10 Ceramic Edition Pearl White (BHR07Y5GL)",
+      "slugged_name": "fitnes-qolbaq-xiaomi-smart-band-10-ceramic-edition-pearl-white-bhr07y5gl",
+      "custom_fields": [
+        {
+          "master_field_id": 625,
+          "values": [
+            "Ağ"
+          ]
+        },
+        {
+          "master_field_id": 1828,
+          "values": [
+            "1.72"
+          ]
+        },
+        {
+          "master_field_id": 1476,
+          "values": [
+            "Xiaomi Smart Band 10"
+          ]
+        }
+      ],
+      "main_img": {
+        "big": "https://strgimgr.umico.az/img/product/1680/bcca61a5-dfbb-4377-b354-8ac2489fda03.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/bcca61a5-dfbb-4377-b354-8ac2489fda03.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/bcca61a5-dfbb-4377-b354-8ac2489fda03.jpeg"
+      },
+      "status": "active"
+    }
+  ],
+  "size_chart": {},
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "sku": 1286032,
+    "mpn": "BHR07PSGL",
+    "url": "https://birmarket.az/product/1286032-fitnes-qolbaq-xiaomi-smart-band-10-glacier-silver-bhr07psgl",
+    "name": "Fitnes qolbaq Xiaomi Smart Band 10 Glacier Silver (BHR07PSGL)",
+    "image": [
+      "https://strgimgr.umico.az/img/product/1680/246d3864-5ca7-453d-bb54-db0f02a42f7d.jpeg",
+      "https://strgimgr.umico.az/img/product/1680/e350e5b8-c04c-4585-be21-30bbfe797638.jpeg",
+      "https://strgimgr.umico.az/img/product/1680/9c09b437-6987-412e-b311-9b17162147b8.jpeg",
+      "https://strgimgr.umico.az/img/product/1680/77a3f61d-1dc8-45c2-9889-936b658dc341.jpeg",
+      "https://strgimgr.umico.az/img/product/1680/651e61d7-1feb-44e2-8391-fd9db89b718a.jpeg",
+      "https://strgimgr.umico.az/img/product/1680/e8e6b5d4-bcf4-4ac1-9866-8302c507a4cf.jpeg",
+      "https://strgimgr.umico.az/img/product/1680/b9a3b4c0-9730-421f-881f-5798891656ee.jpeg"
+    ],
+    "description": "Xiaomi Smart Band 10 Glacier Silver (BHR07PSGL) fitnes qolbağı gün ərzində fəaliyyətin hərtərəfli izlənməsi üçün dəbli bir cihazdır. Qolbaq addımlar, kalori, ürək ritmi və işıq səviyyəsi haqqında məlumat verən rəngli AMOLED ekranla təchiz edilmişdir. O, vibrasiya siqnalı, sensor ekran, itkiyə qarşı funksiya, həyəcan siqnalı və yuxu monitorinqi funksiyalarına malikdir. Suya və toza qarşı korpusu, həmçinin çıxarıla bilən silikon qayışı sayəsində bu qolbaq cinsindən asılı olmayaraq hər kəs üçün uyğundur. O, iOS və Android cihazları ilə uyğundur, Bluetooth interfeysə və daxil edilmiş musiqi pleyerinə malikdir. O, maqnit yükləmə ilə yüklənən 233 mAh litium-polimer batareya ilə işləyir. Bu ağıllı qolbaq gündəlik həyatda fiziki fəaliyyətini izləmək istəyən böyüklər üçün ideal seçimdir.",
+    "itemCondition": "https://schema.org/NewCondition",
+    "offers": {
+      "@type": "AggregateOffer",
+      "availability": "https://schema.org/InStock",
+      "offerCount": 3,
+      "highPrice": 199.99,
+      "lowPrice": 113.99,
+      "priceCurrency": "AZN",
+      "hasMerchantReturnPolicy": {
+        "applicableCountry": "AZ",
+        "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+        "returnMethod": "https://schema.org/ReturnInStore",
+        "returnFees": "https://schema.org/FreeReturn",
+        "merchantReturnDays": 14
+      },
+      "shippingDetails": {
+        "@type": "OfferShippingDetails",
+        "shippingDestination": {
+          "@type": "DefinedRegion",
+          "addressCountry": "AZ"
+        },
+        "deliveryTime": {
+          "@type": "ShippingDeliveryTime",
+          "handlingTime": {
+            "@type": "QuantitativeValue",
+            "minValue": 0,
+            "maxValue": 1,
+            "unitCode": "DAY"
+          },
+          "transitTime": {
+            "@type": "QuantitativeValue",
+            "minValue": 0,
+            "maxValue": 1,
+            "unitCode": "DAY"
+          },
+          "businessDays": {
+            "@type": "OpeningHoursSpecification",
+            "dayOfWeek": [
+              "https://schema.org/Monday",
+              "https://schema.org/Tuesday",
+              "https://schema.org/Wednesday",
+              "https://schema.org/Thursday",
+              "https://schema.org/Friday",
+              "https://schema.org/Saturday",
+              "https://schema.org/Sunday"
+            ]
+          }
+        },
+        "shippingRate": {
+          "@type": "MonetaryAmount",
+          "value": 0,
+          "currency": "AZN"
+        }
+      }
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": 5,
+      "reviewCount": 12
+    },
+    "brand": {
+      "@type": "Brand",
+      "name": "Xiaomi",
+      "url": "https://birmarket.az/brands/Xiaomi"
+    }
+  }
+}

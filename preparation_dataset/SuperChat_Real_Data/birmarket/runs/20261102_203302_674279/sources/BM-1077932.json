@@ -1,0 +1,719 @@
+{
+  "product": {
+    "id": 1077932,
+    "gtin": "",
+    "mpn": "EB_948_black",
+    "name": "Ağıllı saat Smart Watch GT4 Pro Black",
+    "slugged_name_az": "agilli-saat-smart-watch-gt4-pro-black",
+    "slugged_name_ru": "umnye-chasy-smart-watch-gt4-pro-black",
+    "description": "<p>GT4 Pro smart saatı smart qadcetlər seqmentində əsl sıçrayışdır. Qəşəng dizaynı və yüksək funksionallığı birləşdirən dəyirmi rəqəmsal saat hər gün üçün ideal yoldaş olacaq.</p><p>Ağıllı saat&nbsp;sizə gələn və buraxılmış zənglər haqqında bildirişlər almağa, həmçinin müxtəlif məşhur ani mesajlaşma proqramlarından mesajlar almağa imkan verir. Rəqəmsal elektron saatlar mikrofon və dinamiklə təchiz edilmişdir. Unikal alüminium ərintisi gövdəsi onu yüngül və istifadəyə davamlı edir, keyfiyyətli şüşə siferblat isə davamlılığı təmin edir.&nbsp;</p><p>Güclü 1.5 düymlük displey müasir üslubu vurğulayaraq məlumatları parlaq və aydın şəkildə göstərir. Android qol saatları sizə həmişə bir addım öndə olmağa imkan verəcək nəhəng funksionallığa malikdir. NFC giriş nəzarəti məlumatların təhlükəsizliyinə zəmanət verir və GPS yerləşdirməsi sizə tanış olmayan şəhərdə itməməyə kömək edəcək. Süni intellektə malik səs köməkçisi gündəlik həyatda sadiq dosta çevriləcək, sosial QR kodu vacib məlumatları dostlarınızla bölüşməyə kömək edəcək.&nbsp;</p><p>Ekran parlaqlığının tənzimlənməsi saatdan günün istənilən vaxtında rahat istifadə etməyə imkan verəcək. Fitnes qrupu fərdiləşdirilə bilən vidjetlərə malikdir və ən ekstremal şəraitdə istifadə üçün suya davamlıdır. Ağıllı saat həm iOS, həm də Android cihazları ilə birləşir. Dəstdə siz kişilər və qadınlar üçün mükəmməl üslub yaratmaq üçün iki qayış alacaqsınız - klassik metal və idman silikonu. Özünüzü və yaxınlarınızı demək olar ki, bütün qadcetləri əvəz edəcək aksesuarla sevindirin.</p>",
+    "description_outlet": "",
+    "status": "active",
+    "uuid": "13428c32-6be3-4ff5-b58d-aad599f322f8",
+    "variant_code": "VC_1077932",
+    "default_offer": {
+      "uuid": "199d3b4b-60d9-4f15-9d1c-db3c0d5982f0",
+      "installment_enabled": true,
+      "max_installment_months": 18,
+      "product_offer_labels": [],
+      "old_price": 129.99,
+      "retail_price": 94.99,
+      "supplier_id": "a8d203dc-1135-46f3-bb47-9d9d9b0ab09b",
+      "qty": 0,
+      "seller": {
+        "ext_id": "a8d203dc-1135-46f3-bb47-9d9d9b0ab09b",
+        "marketing_name": {
+          "id": 16122,
+          "name": "MyRich"
+        },
+        "logo": {
+          "thumbnail": ""
+        },
+        "vat_payer": false,
+        "rating": 82,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "discount_effective_start_date": "",
+      "discount_effective_end_date": ""
+    },
+    "category_id": 4,
+    "category": {
+      "id": 4,
+      "name": "Ağıllı saatlar və fitnes qolbaqları"
+    },
+    "brand": {
+      "name": "Smart Watch"
+    },
+    "custom_fields": [
+      {
+        "master_field_id": 620,
+        "values": [
+          "Ağıllı saat"
+        ]
+      },
+      {
+        "master_field_id": 1476,
+        "values": [
+          "Smart Watch GT4 Pro"
+        ]
+      },
+      {
+        "master_field_id": 625,
+        "values": [
+          "Qara"
+        ]
+      },
+      {
+        "master_field_id": 621,
+        "values": [
+          "Android",
+          "iOS"
+        ]
+      },
+      {
+        "master_field_id": 623,
+        "values": [
+          "Ürək ritminin göstəricisi",
+          "Qanda oksigen səviyyəsi sensoru",
+          "Addımölçən"
+        ]
+      },
+      {
+        "master_field_id": 761,
+        "values": [
+          "Hər kəs üçün"
+        ]
+      },
+      {
+        "master_field_id": 1325,
+        "values": [
+          "Böyüklər üçün"
+        ]
+      },
+      {
+        "master_field_id": 622,
+        "values": [
+          "Bluetooth",
+          "Wi-Fi"
+        ]
+      },
+      {
+        "master_field_id": 806,
+        "values": [
+          "Kalori monitorinqi",
+          "Qanda oksigen səviyyəsinin monitorinqi",
+          "Addımölçən",
+          "Təzyiqin monitorinqi"
+        ]
+      },
+      {
+        "master_field_id": 634,
+        "values": [
+          "Rəngli"
+        ]
+      },
+      {
+        "master_field_id": 1739,
+        "values": [
+          "Bəli"
+        ]
+      },
+      {
+        "master_field_id": 1827,
+        "values": [
+          "AMOLED"
+        ]
+      },
+      {
+        "master_field_id": 1828,
+        "values": [
+          "1.55"
+        ]
+      },
+      {
+        "master_field_id": 1829,
+        "values": [
+          "Dairə"
+        ]
+      },
+      {
+        "master_field_id": 708,
+        "values": [
+          "Metal"
+        ]
+      },
+      {
+        "master_field_id": 2552,
+        "values": [
+          "Suya davamlı"
+        ]
+      },
+      {
+        "master_field_id": 1830,
+        "values": [
+          "Bəli"
+        ]
+      },
+      {
+        "master_field_id": 624,
+        "values": [
+          "Silikon"
+        ]
+      },
+      {
+        "master_field_id": 1831,
+        "values": [
+          "Musiqi pleyeri"
+        ]
+      },
+      {
+        "master_field_id": 1824,
+        "values": [
+          "Musiqi"
+        ]
+      },
+      {
+        "master_field_id": 1832,
+        "values": [
+          "SMS haqqında məlumatlandırma",
+          "Zənglər haqqında məlumatlandırma"
+        ]
+      },
+      {
+        "master_field_id": 1835,
+        "values": [
+          "GPS"
+        ]
+      },
+      {
+        "master_field_id": 826,
+        "values": [
+          "380"
+        ]
+      },
+      {
+        "master_field_id": 697,
+        "values": [
+          "Təlimat",
+          "Kəmər"
+        ]
+      },
+      {
+        "master_field_id": 618,
+        "values": [
+          "Çin"
+        ]
+      }
+    ],
+    "main_img": {
+      "big": "https://strgimgr.umico.az/img/product/1680/8f9d2c7b-94fb-47b7-b2a0-498dcce43593.jpeg",
+      "medium": "https://strgimgr.umico.az/img/product/840/8f9d2c7b-94fb-47b7-b2a0-498dcce43593.jpeg",
+      "small": "https://strgimgr.umico.az/img/product/280/8f9d2c7b-94fb-47b7-b2a0-498dcce43593.jpeg"
+    },
+    "img_url_thumbnail": "https://strgimgr.umico.az/img/product/280/8f9d2c7b-94fb-47b7-b2a0-498dcce43593.jpeg",
+    "main_video": "",
+    "imgs": [
+      {
+        "big": "https://strgimgr.umico.az/img/product/1680/8f9d2c7b-94fb-47b7-b2a0-498dcce43593.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/8f9d2c7b-94fb-47b7-b2a0-498dcce43593.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/8f9d2c7b-94fb-47b7-b2a0-498dcce43593.jpeg"
+      },
+      {
+        "big": "https://strgimgr.umico.az/img/product/1680/d4935c9d-0268-457b-a2ed-a9181250acdc.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/d4935c9d-0268-457b-a2ed-a9181250acdc.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/d4935c9d-0268-457b-a2ed-a9181250acdc.jpeg"
+      },
+      {
+        "big": "https://strgimgr.umico.az/img/product/1680/b699147b-96d4-41a8-a8c2-b0ad82f176ec.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/b699147b-96d4-41a8-a8c2-b0ad82f176ec.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/b699147b-96d4-41a8-a8c2-b0ad82f176ec.jpeg"
+      },
+      {
+        "big": "https://strgimgr.umico.az/img/product/1680/de6eb5d8-d5b8-433a-b60a-8f7a14dfd0f3.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/de6eb5d8-d5b8-433a-b60a-8f7a14dfd0f3.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/de6eb5d8-d5b8-433a-b60a-8f7a14dfd0f3.jpeg"
+      },
+      {
+        "big": "https://strgimgr.umico.az/img/product/1680/f3f4028d-8349-4571-95ab-e32de6bfbb95.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/f3f4028d-8349-4571-95ab-e32de6bfbb95.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/f3f4028d-8349-4571-95ab-e32de6bfbb95.jpeg"
+      }
+    ],
+    "videos": [
+      ""
+    ],
+    "min_qty": 1,
+    "preorder_available": false,
+    "is_assortment": false,
+    "is_bulk_heavy": false,
+    "is_refurbished": false,
+    "is_refundable": true,
+    "is_dangerous": false,
+    "show_tech_description": false,
+    "use_external_content": false,
+    "product_labels": [],
+    "ratings": {
+      "rating_value": 4.2,
+      "assessment_id": 0,
+      "session_count": 14,
+      "score_count": 6,
+      "review_count": 8
+    },
+    "default_show_stock_qty_threshold": 0,
+    "card_type": "public"
+  },
+  "category": {
+    "id": 4,
+    "name": "Ağıllı saatlar və fitnes qolbaqları",
+    "slugged_name_az": "agilli-saatlar-ve-fitnes-qolbaqlari",
+    "slugged_name_ru": "umnye-chasy-i-fitnes-braslety",
+    "view_mode": "products",
+    "mobile_visual_mode": "text",
+    "is_variant": false,
+    "depth": 2,
+    "parent_id": 2,
+    "child_ids": [],
+    "node_type": "NODE",
+    "install_service_needed": false,
+    "fitting_allowed": false,
+    "vat": true,
+    "variations": [
+      {
+        "master_field_id": 625,
+        "name": "Rəng",
+        "variation_tool_type": "image",
+        "has_size_chart": false,
+        "display_variant": false
+      },
+      {
+        "master_field_id": 1828,
+        "name": "Korpusun ölçüsü, mm",
+        "variation_tool_type": "button",
+        "has_size_chart": false,
+        "display_variant": false
+      },
+      {
+        "master_field_id": 1476,
+        "name": "Seriya",
+        "variation_tool_type": "button",
+        "has_size_chart": false,
+        "display_variant": false
+      }
+    ],
+    "custom_fields": [
+      {
+        "master_field_id": 1476,
+        "category_master_field_id": 10643,
+        "name": "Seriya"
+      },
+      {
+        "master_field_id": 620,
+        "category_master_field_id": 1445,
+        "name": "Tip"
+      },
+      {
+        "master_field_id": 621,
+        "category_master_field_id": 1446,
+        "name": "Uyğunluğu"
+      },
+      {
+        "master_field_id": 1828,
+        "category_master_field_id": 5545,
+        "name": "Korpusun ölçüsü, mm"
+      },
+      {
+        "master_field_id": 1827,
+        "category_master_field_id": 5544,
+        "name": "Ağıllı saatın ekranı"
+      },
+      {
+        "master_field_id": 1826,
+        "category_master_field_id": 5541,
+        "name": "SIM kartı"
+      },
+      {
+        "master_field_id": 826,
+        "category_master_field_id": 4623,
+        "name": "Akkumulyatorun həcmi, mA/saat"
+      },
+      {
+        "master_field_id": 2186,
+        "category_master_field_id": 45755,
+        "name": "Nəmə davamlı"
+      },
+      {
+        "master_field_id": 708,
+        "category_master_field_id": 4624,
+        "name": "Korpusun materialı"
+      },
+      {
+        "master_field_id": 625,
+        "category_master_field_id": 1451,
+        "name": "Rəng"
+      },
+      {
+        "master_field_id": 2211,
+        "category_master_field_id": 10648,
+        "name": "Zəmanət müddəti"
+      },
+      {
+        "master_field_id": 806,
+        "category_master_field_id": 15464,
+        "name": "Funksiyalar"
+      },
+      {
+        "master_field_id": 616,
+        "category_master_field_id": 1447,
+        "name": "Əməliyyat sistemi"
+      },
+      {
+        "master_field_id": 624,
+        "category_master_field_id": 1450,
+        "name": "Qayışın materialı"
+      },
+      {
+        "master_field_id": 1825,
+        "category_master_field_id": 5540,
+        "name": "Operativ yaddaş"
+      },
+      {
+        "master_field_id": 623,
+        "category_master_field_id": 1449,
+        "name": "Xüsusiyyətlər"
+      },
+      {
+        "master_field_id": 634,
+        "category_master_field_id": 5542,
+        "name": "Ekranın növü"
+      },
+      {
+        "master_field_id": 1739,
+        "category_master_field_id": 5543,
+        "name": "Sensor ekran"
+      },
+      {
+        "master_field_id": 1833,
+        "category_master_field_id": 5550,
+        "name": "Zənglər"
+      },
+      {
+        "master_field_id": 1752,
+        "category_master_field_id": 5551,
+        "name": "Kamera"
+      },
+      {
+        "master_field_id": 622,
+        "category_master_field_id": 1448,
+        "name": "İnterfeyslər"
+      },
+      {
+        "master_field_id": 1829,
+        "category_master_field_id": 5546,
+        "name": "Korpusun forması"
+      },
+      {
+        "master_field_id": 2552,
+        "category_master_field_id": 10645,
+        "name": "Korpusun qorunması"
+      },
+      {
+        "master_field_id": 1830,
+        "category_master_field_id": 5547,
+        "name": "Çıxarılan kəmər"
+      },
+      {
+        "master_field_id": 1831,
+        "category_master_field_id": 5548,
+        "name": "Multimedia"
+      },
+      {
+        "master_field_id": 1824,
+        "category_master_field_id": 5539,
+        "name": "Uzaqdan idarəetmə"
+      },
+      {
+        "master_field_id": 1832,
+        "category_master_field_id": 5549,
+        "name": "Smartfonlarla qarşılıqlı əlaqə"
+      },
+      {
+        "master_field_id": 1834,
+        "category_master_field_id": 5552,
+        "name": "Vibrasiya"
+      },
+      {
+        "master_field_id": 1835,
+        "category_master_field_id": 5553,
+        "name": "Naviqasiya, məlumatların ötürülməsi"
+      },
+      {
+        "master_field_id": 1836,
+        "category_master_field_id": 5554,
+        "name": "Enerji toplamanın xüsusiyyətləri"
+      },
+      {
+        "master_field_id": 721,
+        "category_master_field_id": 5555,
+        "name": "Akkumulyatorun növü"
+      },
+      {
+        "master_field_id": 761,
+        "category_master_field_id": 5537,
+        "name": "Cins"
+      },
+      {
+        "master_field_id": 1325,
+        "category_master_field_id": 4354,
+        "name": "Yaş qrupu"
+      },
+      {
+        "master_field_id": 870,
+        "category_master_field_id": 4626,
+        "name": "Çəki, q"
+      },
+      {
+        "master_field_id": 697,
+        "category_master_field_id": 10647,
+        "name": "Komplektasiya"
+      },
+      {
+        "master_field_id": 2635,
+        "category_master_field_id": 37277,
+        "name": "Bazarın başlanğıc ili"
+      },
+      {
+        "master_field_id": 2210,
+        "category_master_field_id": 10641,
+        "name": "Brendin ölkəsi"
+      },
+      {
+        "master_field_id": 618,
+        "category_master_field_id": 1444,
+        "name": "İstehsalçı ölkə"
+      },
+      {
+        "master_field_id": 6541,
+        "category_master_field_id": 44303,
+        "name": "İstehsalçı rəngi"
+      },
+      {
+        "master_field_id": 6334,
+        "category_master_field_id": 45122,
+        "name": "Vəziyyət"
+      }
+    ],
+    "parent": {
+      "id": 2,
+      "node_type": "NODE",
+      "name": "Telefonlar, Smart cihazlar və telefon aksessuarları",
+      "slugged_name": "telefonlar-ve-aksessuarlar",
+      "parent": {
+        "id": 1,
+        "node_type": "NODE",
+        "name": "Elektronika və məişət texnikası",
+        "slugged_name": "elektronika-ve-meishet-texnikasi",
+        "parent": null
+      }
+    },
+    "is_refundable": true,
+    "is_adult": false,
+    "icons": {
+      "thumbnail": "https://strgimgr.umico.az/img/category/188/358f11b7-3edc-4811-83af-955a1941b985.jpeg",
+      "original": "https://strgimgr.umico.az/img/category/original/358f11b7-3edc-4811-83af-955a1941b985.png"
+    },
+    "is_active": true
+  },
+  "offers": [
+    {
+      "uuid": "199d3b4b-60d9-4f15-9d1c-db3c0d5982f0",
+      "installment_enabled": true,
+      "max_installment_months": 18,
+      "product_offer_labels": [],
+      "old_price": 129.99,
+      "retail_price": 94.99,
+      "supplier_id": "a8d203dc-1135-46f3-bb47-9d9d9b0ab09b",
+      "seller": {
+        "ext_id": "998f3d87-9b52-4865-9a79-06fc5bf02fd6",
+        "internal_id": 16122,
+        "marketing_name": {
+          "id": 16122,
+          "name": "MyRich"
+        },
+        "logo": {
+          "thumbnail": ""
+        },
+        "vat_payer": false,
+        "rating": 82,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "allow_qty": 0
+    },
+    {
+      "uuid": "8875d15f-5351-4ef2-8d00-aa5c119bb089",
+      "installment_enabled": true,
+      "max_installment_months": 18,
+      "product_offer_labels": [],
+      "old_price": 129.99,
+      "retail_price": 94.99,
+      "supplier_id": "87a26d7e-0b18-4414-9f54-04fba68904a1",
+      "seller": {
+        "ext_id": "7cf0e54f-631c-458e-9a74-907a4c1bb7b7",
+        "internal_id": 16123,
+        "marketing_name": {
+          "id": 16123,
+          "name": "Bizim Shopping"
+        },
+        "logo": {
+          "thumbnail": ""
+        },
+        "vat_payer": false,
+        "rating": 100,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "allow_qty": 0
+    },
+    {
+      "uuid": "4704083e-a6c6-4d7b-bb89-78d3fce957d4",
+      "installment_enabled": true,
+      "max_installment_months": 18,
+      "product_offer_labels": [],
+      "old_price": 129.99,
+      "retail_price": 94.99,
+      "supplier_id": "551629b0-9380-4176-a1c5-ee4395743ece",
+      "seller": {
+        "ext_id": "ba17979c-0f26-44e0-9935-69ba7f90b3b8",
+        "internal_id": 16121,
+        "marketing_name": {
+          "id": 16121,
+          "name": "AloShopping"
+        },
+        "logo": {
+          "thumbnail": ""
+        },
+        "vat_payer": false,
+        "rating": 78,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "allow_qty": 0
+    }
+  ],
+  "variations": [
+    {
+      "id": 1077932,
+      "name": "Ağıllı saat Smart Watch GT4 Pro Black",
+      "slugged_name": "agilli-saat-smart-watch-gt4-pro-black",
+      "custom_fields": [
+        {
+          "master_field_id": 625,
+          "values": [
+            "Qara"
+          ]
+        },
+        {
+          "master_field_id": 1828,
+          "values": [
+            "1.55"
+          ]
+        },
+        {
+          "master_field_id": 1476,
+          "values": [
+            "Smart Watch GT4 Pro"
+          ]
+        }
+      ],
+      "main_img": {
+        "big": "https://strgimgr.umico.az/img/product/1680/8f9d2c7b-94fb-47b7-b2a0-498dcce43593.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/8f9d2c7b-94fb-47b7-b2a0-498dcce43593.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/8f9d2c7b-94fb-47b7-b2a0-498dcce43593.jpeg"
+      },
+      "status": "active"
+    }
+  ],
+  "size_chart": {},
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "sku": 1077932,
+    "mpn": "EB_948_black",
+    "url": "https://birmarket.az/product/1077932-agilli-saat-smart-watch-gt4-pro-black",
+    "name": "Ağıllı saat Smart Watch GT4 Pro Black",
+    "image": [
+      "https://strgimgr.umico.az/img/product/1680/8f9d2c7b-94fb-47b7-b2a0-498dcce43593.jpeg",
+      "https://strgimgr.umico.az/img/product/1680/d4935c9d-0268-457b-a2ed-a9181250acdc.jpeg",
+      "https://strgimgr.umico.az/img/product/1680/b699147b-96d4-41a8-a8c2-b0ad82f176ec.jpeg",
+      "https://strgimgr.umico.az/img/product/1680/de6eb5d8-d5b8-433a-b60a-8f7a14dfd0f3.jpeg",
+      "https://strgimgr.umico.az/img/product/1680/f3f4028d-8349-4571-95ab-e32de6bfbb95.jpeg"
+    ],
+    "description": "&lt;p&gt;GT4 Pro smart saatı smart qadcetlər seqmentində əsl sıçrayışdır. Qəşəng dizaynı və yüksək funksionallığı birləşdirən dəyirmi rəqəmsal saat hər gün üçün ideal yoldaş olacaq.&lt;/p&gt;&lt;p&gt;Ağıllı saat&amp;nbsp;sizə gələn və buraxılmış zənglər haqqında bildirişlər almağa, həmçinin müxtəlif məşhur ani mesajlaşma proqramlarından mesajlar almağa imkan verir. Rəqəmsal elektron saatlar mikrofon və dinamiklə təchiz edilmişdir. Unikal alüminium ərintisi gövdəsi onu yüngül və istifadəyə davamlı edir, keyfiyyətli şüşə siferblat isə davamlılığı təmin edir.&amp;nbsp;&lt;/p&gt;&lt;p&gt;Güclü 1.5 düymlük displey müasir üslubu vurğulayaraq məlumatları parlaq və aydın şəkildə göstərir. Android qol saatları sizə həmişə bir addım öndə olmağa imkan verəcək nəhəng funksionallığa malikdir. NFC giriş nəzarəti məlumatların təhlükəsizliyinə zəmanət verir və GPS yerləşdirməsi sizə tanış olmayan şəhərdə itməməyə kömək edəcək. Süni intellektə malik səs köməkçisi gündəlik həyatda sadiq dosta çevriləcək, sosial QR kodu vacib məlumatları dostlarınızla bölüşməyə kömək edəcək.&amp;nbsp;&lt;/p&gt;&lt;p&gt;Ekran parlaqlığının tənzimlənməsi saatdan günün istənilən vaxtında rahat istifadə etməyə imkan verəcək. Fitnes qrupu fərdiləşdirilə bilən vidjetlərə malikdir və ən ekstremal şəraitdə istifadə üçün suya davamlıdır. Ağıllı saat həm iOS, həm də Android cihazları ilə birləşir. Dəstdə siz kişilər və qadınlar üçün mükəmməl üslub yaratmaq üçün iki qayış alacaqsınız - klassik metal və idman silikonu. Özünüzü və yaxınlarınızı demək olar ki, bütün qadcetləri əvəz edəcək aksesuarla sevindirin.&lt;/p&gt;",
+    "itemCondition": "https://schema.org/NewCondition",
+    "offers": {
+      "@type": "AggregateOffer",
+      "availability": "https://schema.org/InStock",
+      "offerCount": 3,
+      "highPrice": 94.99,
+      "lowPrice": 94.99,
+      "priceCurrency": "AZN",
+      "hasMerchantReturnPolicy": {
+        "applicableCountry": "AZ",
+        "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+        "returnMethod": "https://schema.org/ReturnInStore",
+        "returnFees": "https://schema.org/FreeReturn",
+        "merchantReturnDays": 14
+      },
+      "shippingDetails": {
+        "@type": "OfferShippingDetails",
+        "shippingDestination": {
+          "@type": "DefinedRegion",
+          "addressCountry": "AZ"
+        },
+        "deliveryTime": {
+          "@type": "ShippingDeliveryTime",
+          "handlingTime": {
+            "@type": "QuantitativeValue",
+            "minValue": 0,
+            "maxValue": 1,
+            "unitCode": "DAY"
+          },
+          "transitTime": {
+            "@type": "QuantitativeValue",
+            "minValue": 0,
+            "maxValue": 1,
+            "unitCode": "DAY"
+          },
+          "businessDays": {
+            "@type": "OpeningHoursSpecification",
+            "dayOfWeek": [
+              "https://schema.org/Monday",
+              "https://schema.org/Tuesday",
+              "https://schema.org/Wednesday",
+              "https://schema.org/Thursday",
+              "https://schema.org/Friday",
+              "https://schema.org/Saturday",
+              "https://schema.org/Sunday"
+            ]
+          }
+        },
+        "shippingRate": {
+          "@type": "MonetaryAmount",
+          "value": 0,
+          "currency": "AZN"
+        }
+      }
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": 4,
+      "reviewCount": 8
+    },
+    "brand": {
+      "@type": "Brand",
+      "name": "Smart Watch",
+      "url": "https://birmarket.az/brands/Smart%20Watch"
+    }
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "schema_version": "2.0",
+  "base_directory": "SuperChat_Real_Data",
+  "documentation": [
+    "README.md",
+    "DATA_DICTIONARY.md",
+    "birmarket/README.md",
+    "aviasales/README.md",
+    "cinema/README.md"
+  ],
+  "datasets": {
+    "products": {
+      "source": "https://birmarket.az",
+      "manifest": "birmarket/manifest.json",
+      "tables": {
+        "products": "birmarket/products.json"
+      },
+      "archives": "birmarket/runs/"
+    },
+    "flights": {
+      "source": "https://www.aviasales.az",
+      "manifest": "aviasales/manifest.json",
+      "tables": {
+        "one_way": "aviasales/flights.json",
+        "round_trip": "aviasales/round_trip_flights.json",
+        "all_offers": "aviasales/offers.json"
+      },
+      "archives": "aviasales/runs/",
+      "route_context": "aviasales/routes.json"
+    },
+    "cinema": {
+      "source": "https://cinemastercard.az",
+      "manifest": "cinema/manifest.json",
+      "validation": "cinema/validation.json",
+      "tables": {
+        "movies": "cinema/movies.json",
+        "cinemas": "cinema/cinemas.json",
+        "showtimes": "cinema/showtimes.json"
+      },
+      "archives": "cinema/runs/"
+    }
+  },
+  "relationships": [
+    {
+      "from": "cinema.showtimes.movie_id",
+      "to": "cinema.movies.id"
+    },
+    {
+      "from": "cinema.showtimes.cinema_id",
+      "to": "cinema.cinemas.id"
+    }
+  ],
+  "conventions": {
+    "currency": "AZN",
+    "null": "unknown_or_unpublished",
+    "cinema_timezone": "Asia/Baku",
+    "csv_nested_values": "JSON-encoded",
+    "file_paths_relative_to": "SuperChat_Real_Data"
+  },
+  "validation": "validation.json"
+}

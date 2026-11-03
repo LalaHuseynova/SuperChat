@@ -1,0 +1,821 @@
+{
+  "product": {
+    "id": 1355557,
+    "gtin": "6932554455507",
+    "mpn": "",
+    "name": "Smartfon Xiaomi Redmi 15C 8GB/256GB Moonlight Blue",
+    "slugged_name_az": "smartfon-xiaomi-redmi-15c-8gb-256gb-moonlight-blue",
+    "slugged_name_ru": "smartfon-xiaomi-redmi-15c-8gb-256gb-moonlight-blue",
+    "description": "Xiaomi Redmi 15C 8GB/256GB Moonlight Blue smartfonu, rahat istifadə üçün yaradılmış güclü bir cihazdır. O, 1600 x 720 piksel çözünürlüklü 6.9 düymlük sensor ekranla təchiz olunub, bu da parlaq və dəqiq əks etdirməni təmin edir. MediaTek Helio G81 Ultra güclü prosessoru və 8 GB əməli yaddaşı resurs tələb edən tətbiqləri ləngimədən işə salmağa imkan verir. 256 GB daxili yaddaşın böyük həcmi və yaddaş kartlarını dəstəkləməsi çoxlu miqdarda fayl və məlumat saxlamağa imkan verir. Smartfon 50 MP-lik iki əsas kamera və 8 MP-lik ön kamera ilə təchiz olunub, bu da keyfiyyətli şəkillər çəkməyə imkan verir. Android əməliyyat sistemi, NFC, Wi-Fi və Bluetooth 5.4 rahatlığı təmin edir. Bundan başqa, barmaq izi skaneri, fənər, kompas və akselerometrin olması bu smartfonu daha çox yönlü edir. Cihaz iki SIM kartla işləməyi dəstəkləyir, suya, toza və nəmlikdən qorunması onun etibarlılığını artırır. Keyfiyyəti, məhsuldarlığı və çox funksionallığı qiymətləndirənlər üçün bu əla seçimdir.",
+    "description_outlet": "",
+    "status": "active",
+    "uuid": "4301cb31-110a-4594-944a-8d9a21293889",
+    "variant_code": "VC_1355557",
+    "default_offer": {
+      "uuid": "63c87482-a328-4d80-bb05-b585940e26b3",
+      "installment_enabled": true,
+      "max_installment_months": 3,
+      "product_offer_labels": [],
+      "old_price": 0,
+      "retail_price": 489,
+      "supplier_id": "217b2604-2ea1-4855-bda3-9ce0add2dbf1",
+      "qty": 0,
+      "seller": {
+        "ext_id": "217b2604-2ea1-4855-bda3-9ce0add2dbf1",
+        "marketing_name": {
+          "id": 8399,
+          "name": "Minor Smart"
+        },
+        "logo": {
+          "thumbnail": "https://storage.umico.az/cpcustomerprod01/b166d3e558aea16abc9063a7a9ee5bf3.jpg"
+        },
+        "vat_payer": true,
+        "rating": 100,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "discount_effective_start_date": "",
+      "discount_effective_end_date": ""
+    },
+    "category_id": 3,
+    "category": {
+      "id": 3,
+      "name": "Mobil telefonlar və smartfonlar"
+    },
+    "brand": {
+      "name": "Xiaomi"
+    },
+    "custom_fields": [
+      {
+        "master_field_id": 1476,
+        "values": [
+          "Xiaomi Redmi 15C"
+        ]
+      },
+      {
+        "master_field_id": 1815,
+        "values": [
+          "8 Gb"
+        ]
+      },
+      {
+        "master_field_id": 1816,
+        "values": [
+          "256 Gb"
+        ]
+      },
+      {
+        "master_field_id": 625,
+        "values": [
+          "Göy"
+        ]
+      },
+      {
+        "master_field_id": 616,
+        "values": [
+          "Android"
+        ]
+      },
+      {
+        "master_field_id": 617,
+        "values": [
+          "6.9"
+        ]
+      },
+      {
+        "master_field_id": 619,
+        "values": [
+          "1600 x 720"
+        ]
+      },
+      {
+        "master_field_id": 1813,
+        "values": [
+          "IPS"
+        ]
+      },
+      {
+        "master_field_id": 826,
+        "values": [
+          "6000"
+        ]
+      },
+      {
+        "master_field_id": 613,
+        "values": [
+          "2G",
+          "3G",
+          "LTE"
+        ]
+      },
+      {
+        "master_field_id": 615,
+        "values": [
+          "2"
+        ]
+      },
+      {
+        "master_field_id": 1812,
+        "values": [
+          "Nano"
+        ]
+      },
+      {
+        "master_field_id": 1533,
+        "values": [
+          "50"
+        ]
+      },
+      {
+        "master_field_id": 1505,
+        "values": [
+          "8"
+        ]
+      },
+      {
+        "master_field_id": 6038,
+        "values": [
+          "Bəli"
+        ]
+      },
+      {
+        "master_field_id": 6334,
+        "values": [
+          "Yeni"
+        ]
+      },
+      {
+        "master_field_id": 2211,
+        "values": [
+          "12 ay"
+        ]
+      },
+      {
+        "master_field_id": 612,
+        "values": [
+          "Smartfon"
+        ]
+      },
+      {
+        "master_field_id": 614,
+        "values": [
+          "Monoblok"
+        ]
+      },
+      {
+        "master_field_id": 1739,
+        "values": [
+          "Bəli"
+        ]
+      },
+      {
+        "master_field_id": 1534,
+        "values": [
+          "MediaTek Helio G81 Ultra"
+        ]
+      },
+      {
+        "master_field_id": 664,
+        "values": [
+          "8"
+        ]
+      },
+      {
+        "master_field_id": 1554,
+        "values": [
+          "Bəli"
+        ]
+      },
+      {
+        "master_field_id": 830,
+        "values": [
+          "microSD"
+        ]
+      },
+      {
+        "master_field_id": 5086,
+        "values": [
+          "50"
+        ]
+      },
+      {
+        "master_field_id": 5087,
+        "values": [
+          "8"
+        ]
+      },
+      {
+        "master_field_id": 1811,
+        "values": [
+          "Bəli"
+        ]
+      },
+      {
+        "master_field_id": 777,
+        "values": [
+          "5.4"
+        ]
+      },
+      {
+        "master_field_id": 1810,
+        "values": [
+          "USB Type-C"
+        ]
+      },
+      {
+        "master_field_id": 1809,
+        "values": [
+          "Bəli"
+        ]
+      },
+      {
+        "master_field_id": 1808,
+        "values": [
+          "Çıxarılmayan"
+        ]
+      },
+      {
+        "master_field_id": 1807,
+        "values": [
+          "Xeyr"
+        ]
+      },
+      {
+        "master_field_id": 2552,
+        "values": [
+          "Suya davamlı",
+          "Nəmə davamlı",
+          "Toza davamlı"
+        ]
+      },
+      {
+        "master_field_id": 1740,
+        "values": [
+          "Barmaq izi skaneri",
+          "Fənər",
+          "Kompas",
+          "Akselerometr"
+        ]
+      },
+      {
+        "master_field_id": 2635,
+        "values": [
+          "2025"
+        ]
+      },
+      {
+        "master_field_id": 641,
+        "values": [
+          "171.6"
+        ]
+      },
+      {
+        "master_field_id": 776,
+        "values": [
+          "79.5"
+        ]
+      },
+      {
+        "master_field_id": 1637,
+        "values": [
+          "8"
+        ]
+      },
+      {
+        "master_field_id": 870,
+        "values": [
+          "205"
+        ]
+      },
+      {
+        "master_field_id": 697,
+        "values": [
+          "Təlimat",
+          "USB kabel"
+        ]
+      },
+      {
+        "master_field_id": 2210,
+        "values": [
+          "Çin"
+        ]
+      },
+      {
+        "master_field_id": 618,
+        "values": [
+          "Çin"
+        ]
+      }
+    ],
+    "main_img": {
+      "big": "https://strgimgr.umico.az/img/product/1680/c8462ebf-2396-4ad1-b9d3-685446dec137.jpeg",
+      "medium": "https://strgimgr.umico.az/img/product/840/c8462ebf-2396-4ad1-b9d3-685446dec137.jpeg",
+      "small": "https://strgimgr.umico.az/img/product/280/c8462ebf-2396-4ad1-b9d3-685446dec137.jpeg"
+    },
+    "img_url_thumbnail": "https://strgimgr.umico.az/img/product/280/c8462ebf-2396-4ad1-b9d3-685446dec137.jpeg",
+    "main_video": "",
+    "imgs": [
+      {
+        "big": "https://strgimgr.umico.az/img/product/1680/c8462ebf-2396-4ad1-b9d3-685446dec137.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/c8462ebf-2396-4ad1-b9d3-685446dec137.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/c8462ebf-2396-4ad1-b9d3-685446dec137.jpeg"
+      },
+      {
+        "big": "https://strgimgr.umico.az/img/product/1680/be332574-6962-47ef-90af-18b2296b06f0.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/be332574-6962-47ef-90af-18b2296b06f0.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/be332574-6962-47ef-90af-18b2296b06f0.jpeg"
+      },
+      {
+        "big": "https://strgimgr.umico.az/img/product/1680/e4a383c8-d0b8-4f53-9cf2-4af4860d9cf6.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/e4a383c8-d0b8-4f53-9cf2-4af4860d9cf6.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/e4a383c8-d0b8-4f53-9cf2-4af4860d9cf6.jpeg"
+      },
+      {
+        "big": "https://strgimgr.umico.az/img/product/1680/e7e31206-9518-4b3c-ad28-66ec00412ae1.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/e7e31206-9518-4b3c-ad28-66ec00412ae1.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/e7e31206-9518-4b3c-ad28-66ec00412ae1.jpeg"
+      },
+      {
+        "big": "https://strgimgr.umico.az/img/product/1680/dd927bdc-ea99-49f8-861b-7592c46dbff5.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/dd927bdc-ea99-49f8-861b-7592c46dbff5.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/dd927bdc-ea99-49f8-861b-7592c46dbff5.jpeg"
+      },
+      {
+        "big": "https://strgimgr.umico.az/img/product/1680/0f60a11b-0fab-43b5-9cde-77ef2f0d2b15.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/0f60a11b-0fab-43b5-9cde-77ef2f0d2b15.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/0f60a11b-0fab-43b5-9cde-77ef2f0d2b15.jpeg"
+      }
+    ],
+    "videos": [
+      ""
+    ],
+    "min_qty": 1,
+    "preorder_available": false,
+    "is_assortment": false,
+    "is_bulk_heavy": false,
+    "is_refurbished": false,
+    "is_refundable": true,
+    "is_dangerous": false,
+    "show_tech_description": false,
+    "use_external_content": false,
+    "product_labels": [],
+    "ratings": {
+      "rating_value": 4.3,
+      "assessment_id": 0,
+      "session_count": 139,
+      "score_count": 85,
+      "review_count": 54
+    },
+    "default_show_stock_qty_threshold": 0,
+    "card_type": "public"
+  },
+  "category": {
+    "id": 3,
+    "name": "Mobil telefonlar və smartfonlar",
+    "slugged_name_az": "mobil-telefonlar-ve-smartfonlar",
+    "slugged_name_ru": "mobilnye-telefony-i-smartfony",
+    "view_mode": "products",
+    "mobile_visual_mode": "text",
+    "is_variant": true,
+    "depth": 2,
+    "parent_id": 2,
+    "child_ids": [],
+    "node_type": "NODE",
+    "install_service_needed": false,
+    "fitting_allowed": false,
+    "vat": true,
+    "variations": [
+      {
+        "master_field_id": 625,
+        "name": "Rəng",
+        "variation_tool_type": "image",
+        "has_size_chart": false,
+        "display_variant": true
+      },
+      {
+        "master_field_id": 1812,
+        "name": "SİM kartının növü",
+        "variation_tool_type": "button",
+        "has_size_chart": false,
+        "display_variant": false
+      },
+      {
+        "master_field_id": 1816,
+        "name": "Daxili yaddaş həcmi",
+        "variation_tool_type": "button",
+        "has_size_chart": false,
+        "display_variant": false
+      }
+    ],
+    "custom_fields": [
+      {
+        "master_field_id": 1476,
+        "category_master_field_id": 15459,
+        "name": "Seriya"
+      },
+      {
+        "master_field_id": 616,
+        "category_master_field_id": 1440,
+        "name": "Əməliyyat sistemi"
+      },
+      {
+        "master_field_id": 1815,
+        "category_master_field_id": 5520,
+        "name": "Operativ yaddaşın həcmi"
+      },
+      {
+        "master_field_id": 1816,
+        "category_master_field_id": 5521,
+        "name": "Daxili yaddaş həcmi"
+      },
+      {
+        "master_field_id": 617,
+        "category_master_field_id": 1441,
+        "name": "Ekranın diaqonalı, düym"
+      },
+      {
+        "master_field_id": 619,
+        "category_master_field_id": 1443,
+        "name": "Ekranın qətnaməsi"
+      },
+      {
+        "master_field_id": 1813,
+        "category_master_field_id": 5517,
+        "name": "Ekran texnologiyası"
+      },
+      {
+        "master_field_id": 826,
+        "category_master_field_id": 4575,
+        "name": "Akkumulyatorun həcmi, mA/saat"
+      },
+      {
+        "master_field_id": 613,
+        "category_master_field_id": 1437,
+        "name": "Rabitə standartları"
+      },
+      {
+        "master_field_id": 615,
+        "category_master_field_id": 1439,
+        "name": "SİM kartların sayı"
+      },
+      {
+        "master_field_id": 1812,
+        "category_master_field_id": 5516,
+        "name": "SİM kartının növü"
+      },
+      {
+        "master_field_id": 1533,
+        "category_master_field_id": 4577,
+        "name": "Əsas kamera, Mp"
+      },
+      {
+        "master_field_id": 1505,
+        "category_master_field_id": 4578,
+        "name": "Ön kamera, Mp"
+      },
+      {
+        "master_field_id": 625,
+        "category_master_field_id": 4484,
+        "name": "Rəng"
+      },
+      {
+        "master_field_id": 6038,
+        "category_master_field_id": 38184,
+        "name": "NFC"
+      },
+      {
+        "master_field_id": 6334,
+        "category_master_field_id": 42680,
+        "name": "Vəziyyət"
+      },
+      {
+        "master_field_id": 2211,
+        "category_master_field_id": 15463,
+        "name": "Zəmanət müddəti"
+      },
+      {
+        "master_field_id": 5086,
+        "category_master_field_id": 27201,
+        "name": "Əsas kamera dəsti, Mp"
+      },
+      {
+        "master_field_id": 5087,
+        "category_master_field_id": 27202,
+        "name": "Ön kamera dəsti, Mp"
+      },
+      {
+        "master_field_id": 612,
+        "category_master_field_id": 1436,
+        "name": "Qurğunun növü"
+      },
+      {
+        "master_field_id": 1554,
+        "category_master_field_id": 4613,
+        "name": "Yaddaş kartlarının dəstəklənməsi"
+      },
+      {
+        "master_field_id": 708,
+        "category_master_field_id": 4585,
+        "name": "Korpusun materialı"
+      },
+      {
+        "master_field_id": 2552,
+        "category_master_field_id": 15460,
+        "name": "Korpusun qorunması"
+      },
+      {
+        "master_field_id": 614,
+        "category_master_field_id": 1438,
+        "name": "Form-faktor"
+      },
+      {
+        "master_field_id": 1739,
+        "category_master_field_id": 5309,
+        "name": "Sensor ekran"
+      },
+      {
+        "master_field_id": 1534,
+        "category_master_field_id": 15461,
+        "name": "Prosessor"
+      },
+      {
+        "master_field_id": 664,
+        "category_master_field_id": 4579,
+        "name": "Prosessorun nüvələr sayı"
+      },
+      {
+        "master_field_id": 830,
+        "category_master_field_id": 5518,
+        "name": "Yaddaş kartları üçün yuvalar"
+      },
+      {
+        "master_field_id": 1811,
+        "category_master_field_id": 5515,
+        "name": "Wi-Fi standartı"
+      },
+      {
+        "master_field_id": 777,
+        "category_master_field_id": 5313,
+        "name": "Bluetooth standartı"
+      },
+      {
+        "master_field_id": 1810,
+        "category_master_field_id": 5514,
+        "name": "Qoşulma portu"
+      },
+      {
+        "master_field_id": 1809,
+        "category_master_field_id": 5513,
+        "name": "Audio çıxış"
+      },
+      {
+        "master_field_id": 1808,
+        "category_master_field_id": 5512,
+        "name": "Akkumulyatorun bərkitməsi"
+      },
+      {
+        "master_field_id": 1807,
+        "category_master_field_id": 5511,
+        "name": "Simsiz enerji toplama"
+      },
+      {
+        "master_field_id": 1740,
+        "category_master_field_id": 5311,
+        "name": "Digər funksiyalar və xüsusiyyətlər"
+      },
+      {
+        "master_field_id": 2635,
+        "category_master_field_id": 10939,
+        "name": "Bazarın başlanğıc ili"
+      },
+      {
+        "master_field_id": 641,
+        "category_master_field_id": 5507,
+        "name": "Hündürlüyü, mm"
+      },
+      {
+        "master_field_id": 776,
+        "category_master_field_id": 5508,
+        "name": "Eni, mm"
+      },
+      {
+        "master_field_id": 1637,
+        "category_master_field_id": 5509,
+        "name": "Qalınlığı, mm"
+      },
+      {
+        "master_field_id": 870,
+        "category_master_field_id": 4587,
+        "name": "Çəki, q"
+      },
+      {
+        "master_field_id": 618,
+        "category_master_field_id": 1442,
+        "name": "İstehsalçı ölkə"
+      },
+      {
+        "master_field_id": 2210,
+        "category_master_field_id": 15458,
+        "name": "Brendin ölkəsi"
+      },
+      {
+        "master_field_id": 697,
+        "category_master_field_id": 15462,
+        "name": "Komplektasiya"
+      },
+      {
+        "master_field_id": 6541,
+        "category_master_field_id": 44302,
+        "name": "İstehsalçı rəngi"
+      }
+    ],
+    "parent": {
+      "id": 2,
+      "node_type": "NODE",
+      "name": "Telefonlar, Smart cihazlar və telefon aksessuarları",
+      "slugged_name": "telefonlar-ve-aksessuarlar",
+      "parent": {
+        "id": 1,
+        "node_type": "NODE",
+        "name": "Elektronika və məişət texnikası",
+        "slugged_name": "elektronika-ve-meishet-texnikasi",
+        "parent": null
+      }
+    },
+    "is_refundable": true,
+    "is_adult": false,
+    "icons": {
+      "thumbnail": "https://strgimgr.umico.az/img/category/188/6eda4927-c28e-4785-a432-8e63a69439f5.jpeg",
+      "original": "https://strgimgr.umico.az/img/category/original/6eda4927-c28e-4785-a432-8e63a69439f5.jpeg"
+    },
+    "is_active": true
+  },
+  "offers": [
+    {
+      "uuid": "63c87482-a328-4d80-bb05-b585940e26b3",
+      "installment_enabled": true,
+      "max_installment_months": 3,
+      "product_offer_labels": [],
+      "old_price": 0,
+      "retail_price": 489,
+      "supplier_id": "217b2604-2ea1-4855-bda3-9ce0add2dbf1",
+      "seller": {
+        "ext_id": "fc8cbcbe-afe9-41ad-8e06-d9e0a8094d6e",
+        "internal_id": 8399,
+        "marketing_name": {
+          "id": 8399,
+          "name": "Minor Smart"
+        },
+        "logo": {
+          "thumbnail": "https://storage.umico.az/cpcustomerprod01/b166d3e558aea16abc9063a7a9ee5bf3.jpg"
+        },
+        "vat_payer": true,
+        "rating": 100,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "allow_qty": 0
+    },
+    {
+      "uuid": "1953dd5c-d5f9-4e46-87d4-d48ea3aaad12",
+      "installment_enabled": true,
+      "max_installment_months": 18,
+      "product_offer_labels": [],
+      "old_price": 599,
+      "retail_price": 497,
+      "supplier_id": "ffba72b5-05e9-449b-acef-53c5c69a5b9a",
+      "seller": {
+        "ext_id": "ba3128d1-cb61-49ef-a2f1-3735f96e2b06",
+        "internal_id": 6316,
+        "marketing_name": {
+          "id": 6316,
+          "name": "Buta Telekom"
+        },
+        "logo": {
+          "thumbnail": "https://storage.umico.az/cpcustomerprod01/0a95a4c2ac02cb019299ad44522cbfe4.jpg"
+        },
+        "vat_payer": false,
+        "rating": 75,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "allow_qty": 0
+    }
+  ],
+  "variations": [
+    {
+      "id": 1355557,
+      "name": "Smartfon Xiaomi Redmi 15C 8GB/256GB Moonlight Blue",
+      "slugged_name": "smartfon-xiaomi-redmi-15c-8gb-256gb-moonlight-blue",
+      "custom_fields": [
+        {
+          "master_field_id": 625,
+          "values": [
+            "Göy"
+          ]
+        },
+        {
+          "master_field_id": 1812,
+          "values": [
+            "Nano"
+          ]
+        },
+        {
+          "master_field_id": 1816,
+          "values": [
+            "256 Gb"
+          ]
+        }
+      ],
+      "main_img": {
+        "big": "https://strgimgr.umico.az/img/product/1680/c8462ebf-2396-4ad1-b9d3-685446dec137.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/c8462ebf-2396-4ad1-b9d3-685446dec137.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/c8462ebf-2396-4ad1-b9d3-685446dec137.jpeg"
+      },
+      "status": "active"
+    }
+  ],
+  "size_chart": {},
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "sku": 1355557,
+    "mpn": 1355557,
+    "url": "https://birmarket.az/product/1355557-smartfon-xiaomi-redmi-15c-8gb-256gb-moonlight-blue",
+    "name": "Smartfon Xiaomi Redmi 15C 8GB/256GB Moonlight Blue",
+    "image": [
+      "https://strgimgr.umico.az/img/product/1680/c8462ebf-2396-4ad1-b9d3-685446dec137.jpeg",
+      "https://strgimgr.umico.az/img/product/1680/be332574-6962-47ef-90af-18b2296b06f0.jpeg",
+      "https://strgimgr.umico.az/img/product/1680/e4a383c8-d0b8-4f53-9cf2-4af4860d9cf6.jpeg",
+      "https://strgimgr.umico.az/img/product/1680/e7e31206-9518-4b3c-ad28-66ec00412ae1.jpeg",
+      "https://strgimgr.umico.az/img/product/1680/dd927bdc-ea99-49f8-861b-7592c46dbff5.jpeg",
+      "https://strgimgr.umico.az/img/product/1680/0f60a11b-0fab-43b5-9cde-77ef2f0d2b15.jpeg"
+    ],
+    "description": "Xiaomi Redmi 15C 8GB/256GB Moonlight Blue smartfonu, rahat istifadə üçün yaradılmış güclü bir cihazdır. O, 1600 x 720 piksel çözünürlüklü 6.9 düymlük sensor ekranla təchiz olunub, bu da parlaq və dəqiq əks etdirməni təmin edir. MediaTek Helio G81 Ultra güclü prosessoru və 8 GB əməli yaddaşı resurs tələb edən tətbiqləri ləngimədən işə salmağa imkan verir. 256 GB daxili yaddaşın böyük həcmi və yaddaş kartlarını dəstəkləməsi çoxlu miqdarda fayl və məlumat saxlamağa imkan verir. Smartfon 50 MP-lik iki əsas kamera və 8 MP-lik ön kamera ilə təchiz olunub, bu da keyfiyyətli şəkillər çəkməyə imkan verir. Android əməliyyat sistemi, NFC, Wi-Fi və Bluetooth 5.4 rahatlığı təmin edir. Bundan başqa, barmaq izi skaneri, fənər, kompas və akselerometrin olması bu smartfonu daha çox yönlü edir. Cihaz iki SIM kartla işləməyi dəstəkləyir, suya, toza və nəmlikdən qorunması onun etibarlılığını artırır. Keyfiyyəti, məhsuldarlığı və çox funksionallığı qiymətləndirənlər üçün bu əla seçimdir.",
+    "itemCondition": "https://schema.org/NewCondition",
+    "offers": {
+      "@type": "AggregateOffer",
+      "availability": "https://schema.org/InStock",
+      "offerCount": 2,
+      "highPrice": 497,
+      "lowPrice": 489,
+      "priceCurrency": "AZN",
+      "hasMerchantReturnPolicy": {
+        "applicableCountry": "AZ",
+        "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+        "returnMethod": "https://schema.org/ReturnInStore",
+        "returnFees": "https://schema.org/FreeReturn",
+        "merchantReturnDays": 14
+      },
+      "shippingDetails": {
+        "@type": "OfferShippingDetails",
+        "shippingDestination": {
+          "@type": "DefinedRegion",
+          "addressCountry": "AZ"
+        },
+        "deliveryTime": {
+          "@type": "ShippingDeliveryTime",
+          "handlingTime": {
+            "@type": "QuantitativeValue",
+            "minValue": 0,
+            "maxValue": 1,
+            "unitCode": "DAY"
+          },
+          "transitTime": {
+            "@type": "QuantitativeValue",
+            "minValue": 0,
+            "maxValue": 1,
+            "unitCode": "DAY"
+          },
+          "businessDays": {
+            "@type": "OpeningHoursSpecification",
+            "dayOfWeek": [
+              "https://schema.org/Monday",
+              "https://schema.org/Tuesday",
+              "https://schema.org/Wednesday",
+              "https://schema.org/Thursday",
+              "https://schema.org/Friday",
+              "https://schema.org/Saturday",
+              "https://schema.org/Sunday"
+            ]
+          }
+        },
+        "shippingRate": {
+          "@type": "MonetaryAmount",
+          "value": 0,
+          "currency": "AZN"
+        }
+      }
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": 4,
+      "reviewCount": 54
+    },
+    "brand": {
+      "@type": "Brand",
+      "name": "Xiaomi",
+      "url": "https://birmarket.az/brands/Xiaomi"
+    }
+  }
+}

@@ -1,0 +1,389 @@
+{
+  "product": {
+    "id": 1690074,
+    "gtin": "",
+    "mpn": "9738_67360073",
+    "name": "Masa üsdü komanda oyunu Tabo Azerbaycan dili",
+    "slugged_name_az": "tabo-azerbaycan-dili-masa-usdu-komanda-oyunu",
+    "slugged_name_ru": "tabo-azerbaycan-dili-masa-usdu-komanda-oyunu",
+    "description": "",
+    "description_outlet": "",
+    "status": "active",
+    "uuid": "772c515d-f42d-4661-8aa8-9269e954e6ce",
+    "variant_code": "VC_1690074",
+    "default_offer": {
+      "uuid": "7cc4c86d-74e9-4164-8055-7d5c60d02490",
+      "installment_enabled": true,
+      "max_installment_months": 3,
+      "product_offer_labels": [],
+      "old_price": 30,
+      "retail_price": 19.83,
+      "supplier_id": "57ffd412-bb1a-4065-834e-73f25eafcbba",
+      "qty": 0,
+      "seller": {
+        "ext_id": "57ffd412-bb1a-4065-834e-73f25eafcbba",
+        "marketing_name": {
+          "id": 3921,
+          "name": "Oyuncaqci"
+        },
+        "logo": {
+          "thumbnail": "https://storage.umico.az/cpcustomerprod01/def28a613d0d19c8fe8bcf4e298792d7.jpeg"
+        },
+        "vat_payer": false,
+        "rating": 100,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "discount_effective_start_date": "",
+      "discount_effective_end_date": ""
+    },
+    "category_id": 1344,
+    "category": {
+      "id": 1344,
+      "name": "Masaüstü oyunlar"
+    },
+    "brand": {
+      "name": "No Brand"
+    },
+    "custom_fields": [
+      {
+        "master_field_id": 2634,
+        "values": [
+          "Kartlar"
+        ]
+      },
+      {
+        "master_field_id": 751,
+        "values": [
+          "10+"
+        ]
+      },
+      {
+        "master_field_id": 5289,
+        "values": [
+          "4"
+        ]
+      },
+      {
+        "master_field_id": 5290,
+        "values": [
+          "8"
+        ]
+      }
+    ],
+    "main_img": {
+      "big": "https://strgimgr.umico.az/img/product/1680/af41fa3a-63bb-428a-926b-7f08e8c38514.jpeg",
+      "medium": "https://strgimgr.umico.az/img/product/840/af41fa3a-63bb-428a-926b-7f08e8c38514.jpeg",
+      "small": "https://strgimgr.umico.az/img/product/280/af41fa3a-63bb-428a-926b-7f08e8c38514.jpeg"
+    },
+    "img_url_thumbnail": "https://strgimgr.umico.az/img/product/280/af41fa3a-63bb-428a-926b-7f08e8c38514.jpeg",
+    "main_video": "",
+    "imgs": [
+      {
+        "big": "https://strgimgr.umico.az/img/product/1680/af41fa3a-63bb-428a-926b-7f08e8c38514.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/af41fa3a-63bb-428a-926b-7f08e8c38514.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/af41fa3a-63bb-428a-926b-7f08e8c38514.jpeg"
+      }
+    ],
+    "videos": [],
+    "min_qty": 1,
+    "preorder_available": false,
+    "is_assortment": false,
+    "is_bulk_heavy": false,
+    "is_refurbished": false,
+    "is_refundable": true,
+    "is_dangerous": false,
+    "show_tech_description": false,
+    "use_external_content": true,
+    "product_labels": [],
+    "ratings": {
+      "rating_value": 5,
+      "assessment_id": 0,
+      "session_count": 3,
+      "score_count": 3
+    },
+    "default_show_stock_qty_threshold": 0,
+    "card_type": "public"
+  },
+  "category": {
+    "id": 1344,
+    "name": "Masaüstü oyunlar",
+    "slugged_name_az": "stolustu-oyunlar",
+    "slugged_name_ru": "nastolnye-igry",
+    "view_mode": "products",
+    "mobile_visual_mode": "text",
+    "is_variant": true,
+    "depth": 3,
+    "parent_id": 1341,
+    "child_ids": [],
+    "node_type": "NODE",
+    "install_service_needed": false,
+    "fitting_allowed": false,
+    "vat": true,
+    "variations": [],
+    "custom_fields": [
+      {
+        "master_field_id": 2634,
+        "category_master_field_id": 13225,
+        "name": "Məhsulun növü"
+      },
+      {
+        "master_field_id": 751,
+        "category_master_field_id": 7078,
+        "name": "Yaş"
+      },
+      {
+        "master_field_id": 761,
+        "category_master_field_id": 32418,
+        "name": "Cins"
+      },
+      {
+        "master_field_id": 750,
+        "category_master_field_id": 32419,
+        "name": "Oyunun janrı"
+      },
+      {
+        "master_field_id": 3917,
+        "category_master_field_id": 32420,
+        "name": "Mövzu"
+      },
+      {
+        "master_field_id": 5090,
+        "category_master_field_id": 32421,
+        "name": "Xətkeş"
+      },
+      {
+        "master_field_id": 5289,
+        "category_master_field_id": 32422,
+        "name": "Minimal oyunçu sayı"
+      },
+      {
+        "master_field_id": 5290,
+        "category_master_field_id": 32423,
+        "name": "Maksimal oyunçu sayı"
+      },
+      {
+        "master_field_id": 637,
+        "category_master_field_id": 32424,
+        "name": "Material"
+      },
+      {
+        "master_field_id": 5226,
+        "category_master_field_id": 32425,
+        "name": "Personaj"
+      },
+      {
+        "master_field_id": 623,
+        "category_master_field_id": 32426,
+        "name": "Xüsusiyyətlər"
+      },
+      {
+        "master_field_id": 618,
+        "category_master_field_id": 32427,
+        "name": "İstehsalçı ölkə"
+      }
+    ],
+    "parent": {
+      "id": 1341,
+      "node_type": "NODE",
+      "name": "Əyləncə və oyunlar",
+      "slugged_name": "oyunlar",
+      "parent": {
+        "id": 1348,
+        "node_type": "NODE",
+        "name": "Hobbi",
+        "slugged_name": "hobbi-ve-yaradiciliq-uchun-mehsullar",
+        "parent": {
+          "id": 1657,
+          "node_type": "NODE",
+          "name": "Kitablar, Hobbi, Məktəb və ofis ləvazimatları",
+          "slugged_name": "ofis-ve-mekteb-levazimatlari",
+          "parent": null
+        }
+      }
+    },
+    "is_refundable": true,
+    "is_adult": false,
+    "icons": {
+      "thumbnail": "https://strgimgr.umico.az/img/category/188/5cfc95a7-2d71-4b3d-87c4-c36cc0370974.jpeg",
+      "original": "https://strgimgr.umico.az/img/category/original/5cfc95a7-2d71-4b3d-87c4-c36cc0370974.jpeg"
+    },
+    "is_active": true
+  },
+  "offers": [
+    {
+      "uuid": "ac859da4-a5ba-4f74-ba52-34df8fdfd158",
+      "installment_enabled": true,
+      "max_installment_months": 18,
+      "product_offer_labels": [],
+      "old_price": 0,
+      "retail_price": 19.84,
+      "supplier_id": "3060c2e2-2489-4567-9bb1-c22a866de50b",
+      "seller": {
+        "ext_id": "852846d0-cbf0-4673-86b3-06820cf115aa",
+        "internal_id": 5999,
+        "marketing_name": {
+          "id": 5999,
+          "name": "Ultra"
+        },
+        "logo": {
+          "thumbnail": "https://storage.umico.az/cpcustomerprod01/03f5ecf9c36ce3870177883a0c8ce9fa.jpg"
+        },
+        "vat_payer": false,
+        "rating": 96,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "allow_qty": 0
+    },
+    {
+      "uuid": "7cc4c86d-74e9-4164-8055-7d5c60d02490",
+      "installment_enabled": true,
+      "max_installment_months": 3,
+      "product_offer_labels": [],
+      "old_price": 30,
+      "retail_price": 19.83,
+      "supplier_id": "57ffd412-bb1a-4065-834e-73f25eafcbba",
+      "seller": {
+        "ext_id": "5d5d9bb8-5782-4c01-94d3-43a3f8e34137",
+        "internal_id": 3921,
+        "marketing_name": {
+          "id": 3921,
+          "name": "Oyuncaqci"
+        },
+        "logo": {
+          "thumbnail": "https://storage.umico.az/cpcustomerprod01/def28a613d0d19c8fe8bcf4e298792d7.jpeg"
+        },
+        "vat_payer": false,
+        "rating": 100,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "allow_qty": 0
+    },
+    {
+      "uuid": "cd5b1742-4f95-45f3-821a-5caf44a7fe18",
+      "installment_enabled": true,
+      "max_installment_months": 18,
+      "product_offer_labels": [],
+      "old_price": 59,
+      "retail_price": 33,
+      "supplier_id": "c7f74fb9-0fcb-47ae-aa4c-ab9a128cfef6",
+      "seller": {
+        "ext_id": "f8e7ddac-dad5-4b56-a2eb-dc91d9427e09",
+        "internal_id": 11046,
+        "marketing_name": {
+          "id": 11046,
+          "name": "PopMart Toys"
+        },
+        "logo": {
+          "thumbnail": ""
+        },
+        "vat_payer": false,
+        "rating": 87,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "allow_qty": 0
+    },
+    {
+      "uuid": "2974d723-8db3-48db-a847-809c9bf97ca1",
+      "installment_enabled": true,
+      "max_installment_months": 18,
+      "product_offer_labels": [],
+      "old_price": 0,
+      "retail_price": 22.85,
+      "supplier_id": "343e9608-2293-49c1-8a28-31a195d54128",
+      "seller": {
+        "ext_id": "a1e266ba-60bf-452f-967a-69ef83c03cfb",
+        "internal_id": 13409,
+        "marketing_name": {
+          "id": 13409,
+          "name": "Feyam toys"
+        },
+        "logo": {
+          "thumbnail": "https://storage.umico.az/cpcustomerprod01/5ae562a85c51fb32a993970887a26420.png"
+        },
+        "vat_payer": false,
+        "rating": 94,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "allow_qty": 0
+    }
+  ],
+  "variations": [],
+  "size_chart": {},
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "sku": 1690074,
+    "mpn": "9738_67360073",
+    "url": "https://birmarket.az/product/1690074-tabo-azerbaycan-dili-masa-usdu-komanda-oyunu",
+    "name": "Masa üsdü komanda oyunu Tabo Azerbaycan dili",
+    "image": [
+      "https://strgimgr.umico.az/img/product/1680/af41fa3a-63bb-428a-926b-7f08e8c38514.jpeg"
+    ],
+    "description": "Masa üsdü komanda oyunu Tabo Azerbaycan dili - KREDİTLƏ ayda ◉ 1.02₼-dən ♢Birmarket-dən Bakı və Azərbaycan üzrə çatdırılma",
+    "itemCondition": "https://schema.org/NewCondition",
+    "offers": {
+      "@type": "AggregateOffer",
+      "availability": "https://schema.org/InStock",
+      "offerCount": 4,
+      "highPrice": 33,
+      "lowPrice": 19.83,
+      "priceCurrency": "AZN",
+      "hasMerchantReturnPolicy": {
+        "applicableCountry": "AZ",
+        "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+        "returnMethod": "https://schema.org/ReturnInStore",
+        "returnFees": "https://schema.org/FreeReturn",
+        "merchantReturnDays": 14
+      },
+      "shippingDetails": {
+        "@type": "OfferShippingDetails",
+        "shippingDestination": {
+          "@type": "DefinedRegion",
+          "addressCountry": "AZ"
+        },
+        "deliveryTime": {
+          "@type": "ShippingDeliveryTime",
+          "handlingTime": {
+            "@type": "QuantitativeValue",
+            "minValue": 0,
+            "maxValue": 1,
+            "unitCode": "DAY"
+          },
+          "transitTime": {
+            "@type": "QuantitativeValue",
+            "minValue": 0,
+            "maxValue": 1,
+            "unitCode": "DAY"
+          },
+          "businessDays": {
+            "@type": "OpeningHoursSpecification",
+            "dayOfWeek": [
+              "https://schema.org/Monday",
+              "https://schema.org/Tuesday",
+              "https://schema.org/Wednesday",
+              "https://schema.org/Thursday",
+              "https://schema.org/Friday",
+              "https://schema.org/Saturday",
+              "https://schema.org/Sunday"
+            ]
+          }
+        },
+        "shippingRate": {
+          "@type": "MonetaryAmount",
+          "value": 0,
+          "currency": "AZN"
+        }
+      }
+    },
+    "brand": {
+      "@type": "Brand",
+      "name": "No Brand",
+      "url": "https://birmarket.az/brands/No%20Brand"
+    }
+  }
+}

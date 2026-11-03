@@ -77,9 +77,9 @@ for block in source.split("\n\n"):
     if block.startswith("# "):
         story.extend(
             [
-                Paragraph("COMPETITION BUILD / 02 NOVEMBER 2026", kicker),
+                Paragraph("REAL CATALOGUE BUILD / 03 NOVEMBER 2026", kicker),
                 Paragraph("SuperChat", title),
-                Paragraph("Phase 1 technical report", heading),
+                Paragraph("Technical report", heading),
                 Spacer(1, 10),
             ]
         )
@@ -91,7 +91,7 @@ for block in source.split("\n\n"):
     else:
         story.append(Paragraph(escape(block.replace("\n", " ")), body))
 
-links = [
+links = [("Aviasales Data API", "https://support.travelpayouts.com/hc/en-us/articles/203956163-Aviasales-Data-API"),
     (
         "Router pattern",
         "https://github.com/langchain-ai/docs/blob/main/src/oss/langchain/multi-agent/router-knowledge-base.mdx",
@@ -131,7 +131,7 @@ def decorate(canvas, doc):
     canvas.setFont("Helvetica", 8)
     canvas.drawString(44, h - 27, "SUPERCHAT / TECHNICAL REPORT")
     canvas.drawRightString(w - 44, 24, f"{doc.page} / 4")
-    canvas.drawString(44, 24, "Mock data. Local durable sessions. No real payments.")
+    canvas.drawString(44, 24, "Mock and real catalogue modes. No supplier bookings or payments.")
     canvas.restoreState()
 
 
@@ -142,7 +142,7 @@ doc = SimpleDocTemplate(
     leftMargin=44,
     topMargin=54,
     bottomMargin=53,
-    title="SuperChat - Phase 1 technical report",
+    title="SuperChat - Technical report",
     author="SuperChat Project",
 )
 doc.build(story, onFirstPage=decorate, onLaterPages=decorate)

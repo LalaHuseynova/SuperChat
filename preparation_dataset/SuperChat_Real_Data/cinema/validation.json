@@ -1,0 +1,13 @@
+{
+  "passed": true,
+  "checks": 21680,
+  "errors": [],
+  "run_directory": "cinema/runs/20261102_213527_226143",
+  "validated_at": "2026-11-02T21:50:58.106366+04:00",
+  "counts": {
+    "movies": 28,
+    "cinemas": 11,
+    "showtimes": 531
+  },
+  "scope": "Structure, IDs, joins, JSON/CSV parity, price provenance, timestamps, local image files; not live availability."
+}

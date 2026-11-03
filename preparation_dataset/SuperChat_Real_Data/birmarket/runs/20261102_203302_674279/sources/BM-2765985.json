@@ -1,0 +1,514 @@
+{
+  "product": {
+    "id": 2765985,
+    "gtin": "",
+    "mpn": "4774991c-0cd0-4930-bcee-9aa257218475_71808786",
+    "name": "Qəhvəbişirici RAF R.127, Türk sayağı qəhvə, 600 Vt, 0.5 L, Gümüşü",
+    "slugged_name_az": "qehvebishirici-raf-r-127-turk-sayagi-qehve-600-vt-0-5-l-gumushu-vip088",
+    "slugged_name_ru": "qehvebishirici-raf-r-127-turk-sayagi-qehve-600-vt-0-5-l-gumushu-vip088",
+    "description": "RAF R.127 elektrikli qəhvə bişirən gündəlik istifadə üçün nəzərdə tutulmuş rahat, praktik və zövqlü dizayna malik mətbəx cihazıdır. 600W gücü sayəsində qəhvənin qısa müddətdə hazırlanmasına kömək edir. 0.5 litr tutumlu qabı bir dəfəyə bir neçə fincan qəhvə hazırlamaq üçün əlverişlidir. Paslanmayan poladdan hazırlanmış gövdəsi möhkəmliyi, uzunömürlü istifadəsi və asan təmizlənməsi ilə seçilir. Gümüşü metal gövdə və qara rəngli detallardan ibarət müasir dizaynı müxtəlif mətbəx interyerlərinə uyğun görünüş yaradır. Uzun və erqonomik tutacağı cihazın rahat tutulmasına, hazırlanmış qəhvənin fincanlara daha rahat şəkildə süzülməsinə imkan verir. Xüsusi ağız hissəsi mayenin daha kontrollu tökülməsinə kömək edir. Elektrik bazası üzərində işləyən RAF R.127 istifadəsi sadə olan modellərdəndir və 360° fırlanan baza quruluşu sayəsində cihazı bazaya rahat şəkildə yerləşdirmək mümkündür. LED işıq göstəricisi ciha",
+    "description_outlet": "",
+    "status": "active",
+    "uuid": "46311043-b58d-48e6-a407-3d7f77afb9cf",
+    "variant_code": "VC_2765985",
+    "default_offer": {
+      "uuid": "1000624b-7773-4c7e-aeb3-d73c0f51894c",
+      "installment_enabled": true,
+      "max_installment_months": 18,
+      "product_offer_labels": [],
+      "old_price": 0,
+      "retail_price": 43.62,
+      "supplier_id": "dd9e659c-cd08-43cb-8ea6-9ee786e6e196",
+      "qty": 0,
+      "seller": {
+        "ext_id": "dd9e659c-cd08-43cb-8ea6-9ee786e6e196",
+        "marketing_name": {
+          "id": 17154,
+          "name": "KERA-GROUP"
+        },
+        "logo": {
+          "thumbnail": ""
+        },
+        "vat_payer": false,
+        "rating": 95,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "discount_effective_start_date": "",
+      "discount_effective_end_date": ""
+    },
+    "category_id": 143,
+    "category": {
+      "id": 143,
+      "name": "Qəhvəbişirənlər və qəhvə maşınları"
+    },
+    "brand": {
+      "name": "RAF"
+    },
+    "custom_fields": [
+      {
+        "master_field_id": 973,
+        "values": [
+          "Türk sayağı qəhvə"
+        ]
+      },
+      {
+        "master_field_id": 798,
+        "values": [
+          "600"
+        ]
+      },
+      {
+        "master_field_id": 908,
+        "values": [
+          "0.5"
+        ]
+      },
+      {
+        "master_field_id": 817,
+        "values": [
+          "Gümüşü"
+        ]
+      },
+      {
+        "master_field_id": 974,
+        "values": [
+          "Üyüdülmüş"
+        ]
+      },
+      {
+        "master_field_id": 2211,
+        "values": [
+          "6 ay"
+        ]
+      }
+    ],
+    "main_img": {
+      "big": "https://strgimgr.umico.az/img/product/1680/9bcd4f80-4e57-4731-82c4-093a292683c6.jpeg",
+      "medium": "https://strgimgr.umico.az/img/product/840/9bcd4f80-4e57-4731-82c4-093a292683c6.jpeg",
+      "small": "https://strgimgr.umico.az/img/product/280/9bcd4f80-4e57-4731-82c4-093a292683c6.jpeg"
+    },
+    "img_url_thumbnail": "https://strgimgr.umico.az/img/product/280/9bcd4f80-4e57-4731-82c4-093a292683c6.jpeg",
+    "main_video": "",
+    "imgs": [
+      {
+        "big": "https://strgimgr.umico.az/img/product/1680/9bcd4f80-4e57-4731-82c4-093a292683c6.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/9bcd4f80-4e57-4731-82c4-093a292683c6.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/9bcd4f80-4e57-4731-82c4-093a292683c6.jpeg"
+      },
+      {
+        "big": "https://strgimgr.umico.az/img/product/1680/de9bfd48-c81e-4d1f-a0ca-a9f486dba232.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/de9bfd48-c81e-4d1f-a0ca-a9f486dba232.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/de9bfd48-c81e-4d1f-a0ca-a9f486dba232.jpeg"
+      }
+    ],
+    "videos": [],
+    "min_qty": 1,
+    "preorder_available": false,
+    "is_assortment": false,
+    "is_bulk_heavy": false,
+    "is_refurbished": false,
+    "is_refundable": true,
+    "is_dangerous": false,
+    "show_tech_description": false,
+    "use_external_content": true,
+    "product_labels": [],
+    "ratings": {
+      "rating_value": 0,
+      "assessment_id": 0,
+      "session_count": 0
+    },
+    "default_show_stock_qty_threshold": 0,
+    "card_type": "public"
+  },
+  "category": {
+    "id": 143,
+    "name": "Qəhvəbişirənlər və qəhvə maşınları",
+    "slugged_name_az": "qehvedanlar-qehve-mashinlari",
+    "slugged_name_ru": "kofevarki-kofemashiny",
+    "view_mode": "products",
+    "mobile_visual_mode": "text",
+    "is_variant": true,
+    "depth": 3,
+    "parent_id": 139,
+    "child_ids": [],
+    "node_type": "NODE",
+    "install_service_needed": false,
+    "fitting_allowed": false,
+    "vat": true,
+    "variations": [
+      {
+        "master_field_id": 817,
+        "name": "Korpusun rəngi",
+        "variation_tool_type": "default",
+        "has_size_chart": false,
+        "display_variant": false
+      }
+    ],
+    "custom_fields": [
+      {
+        "master_field_id": 973,
+        "category_master_field_id": 2227,
+        "name": "Qəhvəbişiricinin növü"
+      },
+      {
+        "master_field_id": 908,
+        "category_master_field_id": 2229,
+        "name": "Həcm, L"
+      },
+      {
+        "master_field_id": 4478,
+        "category_master_field_id": 45468,
+        "name": "Süd köpürdücü"
+      },
+      {
+        "master_field_id": 974,
+        "category_master_field_id": 2228,
+        "name": "İstifadə edilən qəhvə növü"
+      },
+      {
+        "master_field_id": 798,
+        "category_master_field_id": 5135,
+        "name": "Güc, Vt"
+      },
+      {
+        "master_field_id": 817,
+        "category_master_field_id": 9224,
+        "name": "Korpusun rəngi"
+      },
+      {
+        "master_field_id": 2211,
+        "category_master_field_id": 9241,
+        "name": "Zəmanət müddəti"
+      },
+      {
+        "master_field_id": 875,
+        "category_master_field_id": 5139,
+        "name": "İdarəetmə növü"
+      },
+      {
+        "master_field_id": 635,
+        "category_master_field_id": 2226,
+        "name": "Təyinatı"
+      },
+      {
+        "master_field_id": 976,
+        "category_master_field_id": 2231,
+        "name": "Pompanın təzyiqi, bar"
+      },
+      {
+        "master_field_id": 977,
+        "category_master_field_id": 2232,
+        "name": "İki fıncanın eyni vaxtda hazırlanması"
+      },
+      {
+        "master_field_id": 2219,
+        "category_master_field_id": 9221,
+        "name": "Porsiyalar sayı"
+      },
+      {
+        "master_field_id": 2220,
+        "category_master_field_id": 9222,
+        "name": "Qəhvə bölməsi, q"
+      },
+      {
+        "master_field_id": 2221,
+        "category_master_field_id": 9223,
+        "name": "Tullantı bölməsi (porsiyalar)"
+      },
+      {
+        "master_field_id": 2222,
+        "category_master_field_id": 9225,
+        "name": "Filtr növü"
+      },
+      {
+        "master_field_id": 2223,
+        "category_master_field_id": 9226,
+        "name": "Qızdırıcının növü"
+      },
+      {
+        "master_field_id": 2070,
+        "category_master_field_id": 9227,
+        "name": "Əlavə xüsusiyyətlər"
+      },
+      {
+        "master_field_id": 941,
+        "category_master_field_id": 9228,
+        "name": "Taymer"
+      },
+      {
+        "master_field_id": 1914,
+        "category_master_field_id": 9229,
+        "name": "Göstərici"
+      },
+      {
+        "master_field_id": 2224,
+        "category_master_field_id": 9230,
+        "name": "Hazır reseptlər"
+      },
+      {
+        "master_field_id": 708,
+        "category_master_field_id": 5137,
+        "name": "Korpusun materialı"
+      },
+      {
+        "master_field_id": 2225,
+        "category_master_field_id": 9231,
+        "name": "Borunun material"
+      },
+      {
+        "master_field_id": 2226,
+        "category_master_field_id": 9232,
+        "name": "Avtomatik təmizlənmə"
+      },
+      {
+        "master_field_id": 2802,
+        "category_master_field_id": 13800,
+        "name": "Avtomatik söndürülmə"
+      },
+      {
+        "master_field_id": 1044,
+        "category_master_field_id": 9234,
+        "name": "Damlama əleyhinə sistem"
+      },
+      {
+        "master_field_id": 975,
+        "category_master_field_id": 2230,
+        "name": "Quraşdırılan texnika"
+      },
+      {
+        "master_field_id": 1205,
+        "category_master_field_id": 9235,
+        "name": "Hündürlüyü, sm"
+      },
+      {
+        "master_field_id": 1206,
+        "category_master_field_id": 9236,
+        "name": "Eni, sm"
+      },
+      {
+        "master_field_id": 1448,
+        "category_master_field_id": 9237,
+        "name": "Dərinliyi, sm"
+      },
+      {
+        "master_field_id": 656,
+        "category_master_field_id": 9238,
+        "name": "Çəki, kq"
+      },
+      {
+        "master_field_id": 618,
+        "category_master_field_id": 5136,
+        "name": "İstehsalçı ölkə"
+      },
+      {
+        "master_field_id": 2210,
+        "category_master_field_id": 9239,
+        "name": "Brendin ölkəsi"
+      },
+      {
+        "master_field_id": 697,
+        "category_master_field_id": 9240,
+        "name": "Komplektasiya"
+      }
+    ],
+    "parent": {
+      "id": 139,
+      "node_type": "NODE",
+      "name": "Mətbəx üçün kiçik məişət texnikası",
+      "slugged_name": "metbex-uchun-kichik-meishet-texnikasi",
+      "parent": {
+        "id": 106,
+        "node_type": "NODE",
+        "name": "Məişət texnikası",
+        "slugged_name": "meishet-texnikasi",
+        "parent": {
+          "id": 1,
+          "node_type": "NODE",
+          "name": "Elektronika və məişət texnikası",
+          "slugged_name": "elektronika-ve-meishet-texnikasi",
+          "parent": null
+        }
+      }
+    },
+    "is_refundable": true,
+    "is_adult": false,
+    "icons": {
+      "thumbnail": "https://strgimgr.umico.az/img/category/188/1ee8150e-cd76-4de2-a3e4-7b86b0ce7740.jpeg",
+      "original": "https://strgimgr.umico.az/img/category/original/1ee8150e-cd76-4de2-a3e4-7b86b0ce7740.jpeg"
+    },
+    "is_active": true
+  },
+  "offers": [
+    {
+      "uuid": "1000624b-7773-4c7e-aeb3-d73c0f51894c",
+      "installment_enabled": true,
+      "max_installment_months": 18,
+      "product_offer_labels": [],
+      "old_price": 0,
+      "retail_price": 43.62,
+      "supplier_id": "dd9e659c-cd08-43cb-8ea6-9ee786e6e196",
+      "seller": {
+        "ext_id": "55e16594-389e-43e1-a9d0-c90b02fd8274",
+        "internal_id": 17154,
+        "marketing_name": {
+          "id": 17154,
+          "name": "KERA-GROUP"
+        },
+        "logo": {
+          "thumbnail": ""
+        },
+        "vat_payer": false,
+        "rating": 95,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "allow_qty": 0
+    },
+    {
+      "uuid": "e3032739-5f8d-4899-851e-b17255f013fb",
+      "installment_enabled": true,
+      "max_installment_months": 18,
+      "product_offer_labels": [],
+      "old_price": 0,
+      "retail_price": 43.63,
+      "supplier_id": "e2aee83b-d632-42f3-a264-3ea21aeabda2",
+      "seller": {
+        "ext_id": "2ad2a7df-50a1-48ef-886f-06b6eb9fd4ff",
+        "internal_id": 16402,
+        "marketing_name": {
+          "id": 16402,
+          "name": "Elnur Topdan satış"
+        },
+        "logo": {
+          "thumbnail": "https://storage.umico.az/cpcustomerprod01/aa24611d685daaa7bf1006e44ecb8028.jpg"
+        },
+        "vat_payer": false,
+        "rating": 91,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "allow_qty": 0
+    },
+    {
+      "uuid": "e2cf83b6-4960-4437-a358-ff722a1d656c",
+      "installment_enabled": true,
+      "max_installment_months": 18,
+      "product_offer_labels": [],
+      "old_price": 0,
+      "retail_price": 43.63,
+      "supplier_id": "11fb4491-0ff5-4b92-89f9-38415ab3cad3",
+      "seller": {
+        "ext_id": "b496312c-4c16-4f0f-8b65-8f5d105f1e09",
+        "internal_id": 16316,
+        "marketing_name": {
+          "id": 16316,
+          "name": "Sürpriz hədiyyələr"
+        },
+        "logo": {
+          "thumbnail": "https://storage.umico.az/cpcustomerprod01/01063511aa5c3b67feca31d70d9d6123.jpg"
+        },
+        "vat_payer": false,
+        "rating": 83,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "allow_qty": 0
+    }
+  ],
+  "variations": [
+    {
+      "id": 2765985,
+      "name": "Qəhvəbişirici RAF R.127, Türk sayağı qəhvə, 600 Vt, 0.5 L, Gümüşü",
+      "slugged_name": "qehvebishirici-raf-r-127-turk-sayagi-qehve-600-vt-0-5-l-gumushu-vip088",
+      "custom_fields": [
+        {
+          "master_field_id": 817,
+          "values": [
+            "Gümüşü"
+          ]
+        }
+      ],
+      "main_img": {
+        "big": "https://strgimgr.umico.az/img/product/1680/9bcd4f80-4e57-4731-82c4-093a292683c6.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/9bcd4f80-4e57-4731-82c4-093a292683c6.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/9bcd4f80-4e57-4731-82c4-093a292683c6.jpeg"
+      },
+      "status": "active"
+    }
+  ],
+  "size_chart": {},
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "sku": 2765985,
+    "mpn": "4774991c-0cd0-4930-bcee-9aa257218475_71808786",
+    "url": "https://birmarket.az/product/2765985-qehvebishirici-raf-r-127-turk-sayagi-qehve-600-vt-0-5-l-gumushu-vip088",
+    "name": "Qəhvəbişirici RAF R.127, Türk sayağı qəhvə, 600 Vt, 0.5 L, Gümüşü",
+    "image": [
+      "https://strgimgr.umico.az/img/product/1680/9bcd4f80-4e57-4731-82c4-093a292683c6.jpeg",
+      "https://strgimgr.umico.az/img/product/1680/de9bfd48-c81e-4d1f-a0ca-a9f486dba232.jpeg"
+    ],
+    "description": "RAF R.127 elektrikli qəhvə bişirən gündəlik istifadə üçün nəzərdə tutulmuş rahat, praktik və zövqlü dizayna malik mətbəx cihazıdır. 600W gücü sayəsində qəhvənin qısa müddətdə hazırlanmasına kömək edir. 0.5 litr tutumlu qabı bir dəfəyə bir neçə fincan qəhvə hazırlamaq üçün əlverişlidir. Paslanmayan poladdan hazırlanmış gövdəsi möhkəmliyi, uzunömürlü istifadəsi və asan təmizlənməsi ilə seçilir. Gümüşü metal gövdə və qara rəngli detallardan ibarət müasir dizaynı müxtəlif mətbəx interyerlərinə uyğun görünüş yaradır. Uzun və erqonomik tutacağı cihazın rahat tutulmasına, hazırlanmış qəhvənin fincanlara daha rahat şəkildə süzülməsinə imkan verir. Xüsusi ağız hissəsi mayenin daha kontrollu tökülməsinə kömək edir. Elektrik bazası üzərində işləyən RAF R.127 istifadəsi sadə olan modellərdəndir və 360° fırlanan baza quruluşu sayəsində cihazı bazaya rahat şəkildə yerləşdirmək mümkündür. LED işıq göstəricisi ciha",
+    "itemCondition": "https://schema.org/NewCondition",
+    "offers": {
+      "@type": "AggregateOffer",
+      "availability": "https://schema.org/InStock",
+      "offerCount": 3,
+      "highPrice": 43.63,
+      "lowPrice": 43.62,
+      "priceCurrency": "AZN",
+      "hasMerchantReturnPolicy": {
+        "applicableCountry": "AZ",
+        "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+        "returnMethod": "https://schema.org/ReturnInStore",
+        "returnFees": "https://schema.org/FreeReturn",
+        "merchantReturnDays": 14
+      },
+      "shippingDetails": {
+        "@type": "OfferShippingDetails",
+        "shippingDestination": {
+          "@type": "DefinedRegion",
+          "addressCountry": "AZ"
+        },
+        "deliveryTime": {
+          "@type": "ShippingDeliveryTime",
+          "handlingTime": {
+            "@type": "QuantitativeValue",
+            "minValue": 0,
+            "maxValue": 1,
+            "unitCode": "DAY"
+          },
+          "transitTime": {
+            "@type": "QuantitativeValue",
+            "minValue": 0,
+            "maxValue": 1,
+            "unitCode": "DAY"
+          },
+          "businessDays": {
+            "@type": "OpeningHoursSpecification",
+            "dayOfWeek": [
+              "https://schema.org/Monday",
+              "https://schema.org/Tuesday",
+              "https://schema.org/Wednesday",
+              "https://schema.org/Thursday",
+              "https://schema.org/Friday",
+              "https://schema.org/Saturday",
+              "https://schema.org/Sunday"
+            ]
+          }
+        },
+        "shippingRate": {
+          "@type": "MonetaryAmount",
+          "value": 0,
+          "currency": "AZN"
+        }
+      }
+    },
+    "brand": {
+      "@type": "Brand",
+      "name": "RAF",
+      "url": "https://birmarket.az/brands/RAF"
+    }
+  }
+}

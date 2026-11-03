@@ -1,0 +1,64 @@
+{
+  "checks_passed": true,
+  "catalogue_counts": {
+    "products": 160,
+    "flights": 19,
+    "round_trips": 20,
+    "movies": 28,
+    "cinemas": 11,
+    "showtimes": 488
+  },
+  "turns": [
+    {
+      "language": "en",
+      "prompt": "Show Samsung phones",
+      "route": "shopping",
+      "cards": 13
+    },
+    {
+      "language": "ru",
+      "prompt": "Второй, подробнее",
+      "route": "follow_up",
+      "cards": 1
+    },
+    {
+      "language": "az",
+      "prompt": "Bu gün Dəniz Mallda hansı filmlər var?",
+      "route": "cinema",
+      "cards": 20
+    },
+    {
+      "language": "en",
+      "prompt": "Flights from Baku to Istanbul on 2026-11-06",
+      "route": "flights",
+      "cards": 1
+    },
+    {
+      "language": "en",
+      "prompt": "Back to headphones",
+      "route": "shopping",
+      "cards": 20
+    },
+    {
+      "language": "en",
+      "prompt": "Show Samsung Galaxy S999 phones",
+      "route": "shopping",
+      "cards": 0
+    },
+    {
+      "language": "ru",
+      "prompt": "Напиши эссе о фильмах",
+      "route": "out_of_scope",
+      "cards": 0
+    },
+    {
+      "language": "az",
+      "prompt": "film bilet neqativlik imtahan universitet depressiya",
+      "route": "ambiguous",
+      "cards": 0
+    }
+  ],
+  "photo_similarity": true,
+  "blank_rejected": true,
+  "log_events": 11
+}

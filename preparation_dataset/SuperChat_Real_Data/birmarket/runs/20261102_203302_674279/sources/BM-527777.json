@@ -1,0 +1,332 @@
+{
+  "product": {
+    "id": 527777,
+    "gtin": "2100000208920",
+    "mpn": "",
+    "name": "Masaüstü oyun Okey Star VİP 13433",
+    "slugged_name_az": "masaustu-oyun-okey-star-vip-13433",
+    "slugged_name_ru": "nastolnaya-igra-okey-star-vip-13433",
+    "description": "",
+    "description_outlet": "",
+    "status": "active",
+    "uuid": "7f142d57-38fd-4358-af4c-95d7f02a84a4",
+    "variant_code": "Okey Star VİP - 13433",
+    "default_offer": {
+      "uuid": "2b0baf05-6686-4d05-b689-f163a1ecd330",
+      "installment_enabled": true,
+      "max_installment_months": 6,
+      "product_offer_labels": [],
+      "old_price": 200,
+      "retail_price": 164.94,
+      "supplier_id": "709191ff-00c0-4594-925c-f26dedb1c3b4",
+      "qty": 0,
+      "seller": {
+        "ext_id": "709191ff-00c0-4594-925c-f26dedb1c3b4",
+        "marketing_name": {
+          "id": 9358,
+          "name": "OneMarket"
+        },
+        "logo": {
+          "thumbnail": "https://storage.umico.az/cpcustomerprod01/6e964ff53af65aa5a2374ff7c586cb84.jpg"
+        },
+        "vat_payer": false,
+        "rating": 97,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "discount_effective_start_date": "",
+      "discount_effective_end_date": ""
+    },
+    "category_id": 1344,
+    "category": {
+      "id": 1344,
+      "name": "Masaüstü oyunlar"
+    },
+    "brand": {
+      "name": "No Brand"
+    },
+    "custom_fields": [
+      {
+        "master_field_id": 2634,
+        "values": [
+          "Stolüstü oyun"
+        ]
+      },
+      {
+        "master_field_id": 751,
+        "values": [
+          "Böyüklər üçün"
+        ]
+      },
+      {
+        "master_field_id": 761,
+        "values": [
+          "Hər kəs üçün"
+        ]
+      },
+      {
+        "master_field_id": 3917,
+        "values": [
+          "Digər"
+        ]
+      },
+      {
+        "master_field_id": 637,
+        "values": [
+          "Plastik"
+        ]
+      }
+    ],
+    "main_img": {
+      "big": "https://strgimgr.umico.az/sized/1680/527777-666dd3b314176fb24a3688d395f51ba4.jpg",
+      "medium": "https://strgimgr.umico.az/sized/840/527777-666dd3b314176fb24a3688d395f51ba4.jpg",
+      "small": "https://strgimgr.umico.az/sized/280/527777-666dd3b314176fb24a3688d395f51ba4.jpg"
+    },
+    "img_url_thumbnail": "https://strgimgr.umico.az/sized/280/527777-666dd3b314176fb24a3688d395f51ba4.jpg",
+    "main_video": "",
+    "imgs": [
+      {
+        "big": "https://strgimgr.umico.az/sized/1680/527777-666dd3b314176fb24a3688d395f51ba4.jpg",
+        "medium": "https://strgimgr.umico.az/sized/840/527777-666dd3b314176fb24a3688d395f51ba4.jpg",
+        "small": "https://strgimgr.umico.az/sized/280/527777-666dd3b314176fb24a3688d395f51ba4.jpg"
+      },
+      {
+        "big": "https://strgimgr.umico.az/sized/1680/527777-6b14c1d305e2502b85f9f3ca09f6a741.jpg",
+        "medium": "https://strgimgr.umico.az/sized/840/527777-6b14c1d305e2502b85f9f3ca09f6a741.jpg",
+        "small": "https://strgimgr.umico.az/sized/280/527777-6b14c1d305e2502b85f9f3ca09f6a741.jpg"
+      }
+    ],
+    "videos": [],
+    "min_qty": 1,
+    "preorder_available": false,
+    "is_assortment": false,
+    "is_bulk_heavy": false,
+    "is_refurbished": false,
+    "is_refundable": true,
+    "is_dangerous": false,
+    "show_tech_description": false,
+    "use_external_content": true,
+    "product_labels": [],
+    "ratings": {
+      "rating_value": 5,
+      "assessment_id": 0,
+      "session_count": 2,
+      "score_count": 1,
+      "review_count": 1
+    },
+    "default_show_stock_qty_threshold": 0,
+    "card_type": "public"
+  },
+  "category": {
+    "id": 1344,
+    "name": "Masaüstü oyunlar",
+    "slugged_name_az": "stolustu-oyunlar",
+    "slugged_name_ru": "nastolnye-igry",
+    "view_mode": "products",
+    "mobile_visual_mode": "text",
+    "is_variant": true,
+    "depth": 3,
+    "parent_id": 1341,
+    "child_ids": [],
+    "node_type": "NODE",
+    "install_service_needed": false,
+    "fitting_allowed": false,
+    "vat": true,
+    "variations": [],
+    "custom_fields": [
+      {
+        "master_field_id": 2634,
+        "category_master_field_id": 13225,
+        "name": "Məhsulun növü"
+      },
+      {
+        "master_field_id": 751,
+        "category_master_field_id": 7078,
+        "name": "Yaş"
+      },
+      {
+        "master_field_id": 761,
+        "category_master_field_id": 32418,
+        "name": "Cins"
+      },
+      {
+        "master_field_id": 750,
+        "category_master_field_id": 32419,
+        "name": "Oyunun janrı"
+      },
+      {
+        "master_field_id": 3917,
+        "category_master_field_id": 32420,
+        "name": "Mövzu"
+      },
+      {
+        "master_field_id": 5090,
+        "category_master_field_id": 32421,
+        "name": "Xətkeş"
+      },
+      {
+        "master_field_id": 5289,
+        "category_master_field_id": 32422,
+        "name": "Minimal oyunçu sayı"
+      },
+      {
+        "master_field_id": 5290,
+        "category_master_field_id": 32423,
+        "name": "Maksimal oyunçu sayı"
+      },
+      {
+        "master_field_id": 637,
+        "category_master_field_id": 32424,
+        "name": "Material"
+      },
+      {
+        "master_field_id": 5226,
+        "category_master_field_id": 32425,
+        "name": "Personaj"
+      },
+      {
+        "master_field_id": 623,
+        "category_master_field_id": 32426,
+        "name": "Xüsusiyyətlər"
+      },
+      {
+        "master_field_id": 618,
+        "category_master_field_id": 32427,
+        "name": "İstehsalçı ölkə"
+      }
+    ],
+    "parent": {
+      "id": 1341,
+      "node_type": "NODE",
+      "name": "Əyləncə və oyunlar",
+      "slugged_name": "oyunlar",
+      "parent": {
+        "id": 1348,
+        "node_type": "NODE",
+        "name": "Hobbi",
+        "slugged_name": "hobbi-ve-yaradiciliq-uchun-mehsullar",
+        "parent": {
+          "id": 1657,
+          "node_type": "NODE",
+          "name": "Kitablar, Hobbi, Məktəb və ofis ləvazimatları",
+          "slugged_name": "ofis-ve-mekteb-levazimatlari",
+          "parent": null
+        }
+      }
+    },
+    "is_refundable": true,
+    "is_adult": false,
+    "icons": {
+      "thumbnail": "https://strgimgr.umico.az/img/category/188/5cfc95a7-2d71-4b3d-87c4-c36cc0370974.jpeg",
+      "original": "https://strgimgr.umico.az/img/category/original/5cfc95a7-2d71-4b3d-87c4-c36cc0370974.jpeg"
+    },
+    "is_active": true
+  },
+  "offers": [
+    {
+      "uuid": "2b0baf05-6686-4d05-b689-f163a1ecd330",
+      "installment_enabled": true,
+      "max_installment_months": 6,
+      "product_offer_labels": [],
+      "old_price": 200,
+      "retail_price": 164.94,
+      "supplier_id": "709191ff-00c0-4594-925c-f26dedb1c3b4",
+      "seller": {
+        "ext_id": "ec2e9e5e-7edb-477d-814e-e4ffda4d0b1c",
+        "internal_id": 9358,
+        "marketing_name": {
+          "id": 9358,
+          "name": "OneMarket"
+        },
+        "logo": {
+          "thumbnail": "https://storage.umico.az/cpcustomerprod01/6e964ff53af65aa5a2374ff7c586cb84.jpg"
+        },
+        "vat_payer": false,
+        "rating": 97,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "allow_qty": 0
+    }
+  ],
+  "variations": [],
+  "size_chart": {},
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "sku": 527777,
+    "mpn": 527777,
+    "url": "https://birmarket.az/product/527777-masaustu-oyun-okey-star-vip-13433",
+    "name": "Masaüstü oyun Okey Star VİP 13433",
+    "image": [
+      "https://strgimgr.umico.az/sized/1680/527777-666dd3b314176fb24a3688d395f51ba4.jpg",
+      "https://strgimgr.umico.az/sized/1680/527777-6b14c1d305e2502b85f9f3ca09f6a741.jpg"
+    ],
+    "description": "Masaüstü oyun Okey Star VİP 13433 - KREDİTLƏ ayda ◉ 8.45₼-dən ♢Birmarket-dən Bakı və Azərbaycan üzrə çatdırılma",
+    "itemCondition": "https://schema.org/NewCondition",
+    "offers": {
+      "@type": "Offer",
+      "availability": "https://schema.org/InStock",
+      "url": "https://birmarket.az/product/527777-masaustu-oyun-okey-star-vip-13433",
+      "price": 164.94,
+      "priceCurrency": "AZN",
+      "priceValidUntil": "2026-12-02T16:41:07+00:00Z",
+      "hasMerchantReturnPolicy": {
+        "applicableCountry": "AZ",
+        "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+        "returnMethod": "https://schema.org/ReturnInStore",
+        "returnFees": "https://schema.org/FreeReturn",
+        "merchantReturnDays": 14
+      },
+      "shippingDetails": {
+        "@type": "OfferShippingDetails",
+        "shippingDestination": {
+          "@type": "DefinedRegion",
+          "addressCountry": "AZ"
+        },
+        "deliveryTime": {
+          "@type": "ShippingDeliveryTime",
+          "handlingTime": {
+            "@type": "QuantitativeValue",
+            "minValue": 0,
+            "maxValue": 1,
+            "unitCode": "DAY"
+          },
+          "transitTime": {
+            "@type": "QuantitativeValue",
+            "minValue": 0,
+            "maxValue": 1,
+            "unitCode": "DAY"
+          },
+          "businessDays": {
+            "@type": "OpeningHoursSpecification",
+            "dayOfWeek": [
+              "https://schema.org/Monday",
+              "https://schema.org/Tuesday",
+              "https://schema.org/Wednesday",
+              "https://schema.org/Thursday",
+              "https://schema.org/Friday",
+              "https://schema.org/Saturday",
+              "https://schema.org/Sunday"
+            ]
+          }
+        },
+        "shippingRate": {
+          "@type": "MonetaryAmount",
+          "value": 0,
+          "currency": "AZN"
+        }
+      }
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": 5,
+      "reviewCount": 1
+    },
+    "brand": {
+      "@type": "Brand",
+      "name": "No Brand",
+      "url": "https://birmarket.az/brands/No%20Brand"
+    }
+  }
+}

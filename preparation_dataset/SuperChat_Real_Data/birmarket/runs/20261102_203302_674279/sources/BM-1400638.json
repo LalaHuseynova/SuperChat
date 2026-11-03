@@ -1,0 +1,1287 @@
+{
+  "product": {
+    "id": 1400638,
+    "gtin": "8806097669616",
+    "mpn": "9346_GD_1400638",
+    "name": "Smartfon Samsung Galaxy A17 4/128 Black",
+    "slugged_name_az": "samsung-galaxy-a17-4-128-black",
+    "slugged_name_ru": "samsung-galaxy-a17-4-128-black",
+    "description": "<p>Samsung Galaxy A17 4/128 Black smartfonu, 128 GB daxili yaddaşı, 4 GB əməli yaddaşı güclü bir cihazdır. O, 50 MP əsas kamera və hər biri 13 MP olan iki ön kamera ilə təchiz olunmuşdur. Bu smartfon NFC, LTE, 3G, 2G, Wi-Fi və Bluetooth 5.3 əlaqə standartlarını dəstəkləyir. 6.7 düymlük sensor ekran, 2340 x 1080 qətnaməli Super AMOLED texnologiyası ilə hazırlanmışdır. Smartfonun korpusu su və tozdan qorunur və barmaq izi skaneri ilə təchiz olunmuşdur. Bateri tutumu 5000 mA/saat olduğuna görə cihazı uzun müddət şarj etmədən istifadə etməyə imkan verir. Bundan əlavə, komplektdə təlimat və istifadə rahatlığını təmin edən çexol da mövcuddur. Bu smartfon yüksək performansı və görüntü keyfiyyətini qiymətləndirənlər üçün idealdır.</p>",
+    "description_outlet": "",
+    "status": "active",
+    "uuid": "4d197d88-3799-46ce-976f-11d27a418ce7",
+    "variant_code": "Samsung Galaxy A17",
+    "default_offer": {
+      "uuid": "7c79f40e-99d9-4046-8760-88ee3ae9e2fa",
+      "installment_enabled": true,
+      "max_installment_months": 3,
+      "product_offer_labels": [],
+      "old_price": 499.99,
+      "retail_price": 430.97,
+      "supplier_id": "6bbe2bc3-2d97-407a-8b0b-53f2663866d6",
+      "qty": 0,
+      "seller": {
+        "ext_id": "6bbe2bc3-2d97-407a-8b0b-53f2663866d6",
+        "marketing_name": {
+          "id": 7663,
+          "name": "Avelora"
+        },
+        "logo": {
+          "thumbnail": ""
+        },
+        "vat_payer": false,
+        "rating": 100,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "discount_effective_start_date": "",
+      "discount_effective_end_date": ""
+    },
+    "category_id": 3,
+    "category": {
+      "id": 3,
+      "name": "Mobil telefonlar və smartfonlar"
+    },
+    "brand": {
+      "name": "Samsung"
+    },
+    "custom_fields": [
+      {
+        "master_field_id": 1476,
+        "values": [
+          "Samsung Galaxy A17"
+        ]
+      },
+      {
+        "master_field_id": 1815,
+        "values": [
+          "4 Gb"
+        ]
+      },
+      {
+        "master_field_id": 1816,
+        "values": [
+          "128 Gb"
+        ]
+      },
+      {
+        "master_field_id": 625,
+        "values": [
+          "Qara"
+        ]
+      },
+      {
+        "master_field_id": 616,
+        "values": [
+          "Android"
+        ]
+      },
+      {
+        "master_field_id": 617,
+        "values": [
+          "6.7"
+        ]
+      },
+      {
+        "master_field_id": 619,
+        "values": [
+          "2340 x 1080"
+        ]
+      },
+      {
+        "master_field_id": 1813,
+        "values": [
+          "AMOLED"
+        ]
+      },
+      {
+        "master_field_id": 826,
+        "values": [
+          "5000"
+        ]
+      },
+      {
+        "master_field_id": 613,
+        "values": [
+          "LTE",
+          "3G",
+          "2G"
+        ]
+      },
+      {
+        "master_field_id": 615,
+        "values": [
+          "2"
+        ]
+      },
+      {
+        "master_field_id": 1812,
+        "values": [
+          "Nano"
+        ]
+      },
+      {
+        "master_field_id": 1533,
+        "values": [
+          "50"
+        ]
+      },
+      {
+        "master_field_id": 1505,
+        "values": [
+          "13"
+        ]
+      },
+      {
+        "master_field_id": 6038,
+        "values": [
+          "Bəli"
+        ]
+      },
+      {
+        "master_field_id": 6334,
+        "values": [
+          "Yeni"
+        ]
+      },
+      {
+        "master_field_id": 2211,
+        "values": [
+          "12 ay"
+        ]
+      },
+      {
+        "master_field_id": 612,
+        "values": [
+          "Smartfon"
+        ]
+      },
+      {
+        "master_field_id": 614,
+        "values": [
+          "Monoblok"
+        ]
+      },
+      {
+        "master_field_id": 1739,
+        "values": [
+          "Bəli"
+        ]
+      },
+      {
+        "master_field_id": 1534,
+        "values": [
+          "MediaTek Helio G99"
+        ]
+      },
+      {
+        "master_field_id": 664,
+        "values": [
+          "8"
+        ]
+      },
+      {
+        "master_field_id": 1554,
+        "values": [
+          "Bəli"
+        ]
+      },
+      {
+        "master_field_id": 830,
+        "values": [
+          "microSDXC"
+        ]
+      },
+      {
+        "master_field_id": 5086,
+        "values": [
+          "50 + 5 + 2"
+        ]
+      },
+      {
+        "master_field_id": 5087,
+        "values": [
+          "13"
+        ]
+      },
+      {
+        "master_field_id": 1811,
+        "values": [
+          "Bəli"
+        ]
+      },
+      {
+        "master_field_id": 777,
+        "values": [
+          "5.3"
+        ]
+      },
+      {
+        "master_field_id": 1810,
+        "values": [
+          "USB Type-C"
+        ]
+      },
+      {
+        "master_field_id": 1809,
+        "values": [
+          "Xeyr"
+        ]
+      },
+      {
+        "master_field_id": 1808,
+        "values": [
+          "Çıxarılmayan"
+        ]
+      },
+      {
+        "master_field_id": 1807,
+        "values": [
+          "Xeyr"
+        ]
+      },
+      {
+        "master_field_id": 2552,
+        "values": [
+          "Suya davamlı",
+          "Toza davamlı"
+        ]
+      },
+      {
+        "master_field_id": 1740,
+        "values": [
+          "Akselerometr",
+          "Barmaq izi skaneri",
+          "Kompas",
+          "Qiroskop",
+          "Yaxınlaşma göstəricisi"
+        ]
+      },
+      {
+        "master_field_id": 2635,
+        "values": [
+          "2025"
+        ]
+      },
+      {
+        "master_field_id": 708,
+        "values": [
+          "Plastik"
+        ]
+      },
+      {
+        "master_field_id": 641,
+        "values": [
+          "164.4"
+        ]
+      },
+      {
+        "master_field_id": 776,
+        "values": [
+          "77.9"
+        ]
+      },
+      {
+        "master_field_id": 1637,
+        "values": [
+          "7.5"
+        ]
+      },
+      {
+        "master_field_id": 870,
+        "values": [
+          "192"
+        ]
+      },
+      {
+        "master_field_id": 697,
+        "values": [
+          "Smartfon",
+          "Təlimat",
+          "Çexol"
+        ]
+      },
+      {
+        "master_field_id": 2210,
+        "values": [
+          "Çin"
+        ]
+      },
+      {
+        "master_field_id": 618,
+        "values": [
+          "Çin"
+        ]
+      }
+    ],
+    "main_img": {
+      "big": "https://strgimgr.umico.az/img/product/1680/fb92ee81-ce6b-4225-9355-970cd4f7ca90.jpeg",
+      "medium": "https://strgimgr.umico.az/img/product/840/fb92ee81-ce6b-4225-9355-970cd4f7ca90.jpeg",
+      "small": "https://strgimgr.umico.az/img/product/280/fb92ee81-ce6b-4225-9355-970cd4f7ca90.jpeg"
+    },
+    "img_url_thumbnail": "https://strgimgr.umico.az/img/product/280/fb92ee81-ce6b-4225-9355-970cd4f7ca90.jpeg",
+    "main_video": "",
+    "imgs": [
+      {
+        "big": "https://strgimgr.umico.az/img/product/1680/fb92ee81-ce6b-4225-9355-970cd4f7ca90.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/fb92ee81-ce6b-4225-9355-970cd4f7ca90.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/fb92ee81-ce6b-4225-9355-970cd4f7ca90.jpeg"
+      },
+      {
+        "big": "https://strgimgr.umico.az/img/product/1680/4ad037b0-1d96-4cca-b3bb-83ea226f4805.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/4ad037b0-1d96-4cca-b3bb-83ea226f4805.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/4ad037b0-1d96-4cca-b3bb-83ea226f4805.jpeg"
+      },
+      {
+        "big": "https://strgimgr.umico.az/img/product/1680/774dc3f8-a443-4622-9cc1-87b497a5db82.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/774dc3f8-a443-4622-9cc1-87b497a5db82.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/774dc3f8-a443-4622-9cc1-87b497a5db82.jpeg"
+      }
+    ],
+    "videos": [],
+    "min_qty": 1,
+    "preorder_available": false,
+    "is_assortment": false,
+    "is_bulk_heavy": false,
+    "is_refurbished": false,
+    "is_refundable": true,
+    "is_dangerous": false,
+    "show_tech_description": false,
+    "use_external_content": true,
+    "product_labels": [],
+    "ratings": {
+      "rating_value": 4.6,
+      "assessment_id": 0,
+      "session_count": 171,
+      "score_count": 125,
+      "review_count": 46
+    },
+    "default_show_stock_qty_threshold": 0,
+    "card_type": "public"
+  },
+  "category": {
+    "id": 3,
+    "name": "Mobil telefonlar və smartfonlar",
+    "slugged_name_az": "mobil-telefonlar-ve-smartfonlar",
+    "slugged_name_ru": "mobilnye-telefony-i-smartfony",
+    "view_mode": "products",
+    "mobile_visual_mode": "text",
+    "is_variant": true,
+    "depth": 2,
+    "parent_id": 2,
+    "child_ids": [],
+    "node_type": "NODE",
+    "install_service_needed": false,
+    "fitting_allowed": false,
+    "vat": true,
+    "variations": [
+      {
+        "master_field_id": 625,
+        "name": "Rəng",
+        "variation_tool_type": "image",
+        "has_size_chart": false,
+        "display_variant": true
+      },
+      {
+        "master_field_id": 1812,
+        "name": "SİM kartının növü",
+        "variation_tool_type": "button",
+        "has_size_chart": false,
+        "display_variant": false
+      },
+      {
+        "master_field_id": 1816,
+        "name": "Daxili yaddaş həcmi",
+        "variation_tool_type": "button",
+        "has_size_chart": false,
+        "display_variant": false
+      }
+    ],
+    "custom_fields": [
+      {
+        "master_field_id": 1476,
+        "category_master_field_id": 15459,
+        "name": "Seriya"
+      },
+      {
+        "master_field_id": 616,
+        "category_master_field_id": 1440,
+        "name": "Əməliyyat sistemi"
+      },
+      {
+        "master_field_id": 1815,
+        "category_master_field_id": 5520,
+        "name": "Operativ yaddaşın həcmi"
+      },
+      {
+        "master_field_id": 1816,
+        "category_master_field_id": 5521,
+        "name": "Daxili yaddaş həcmi"
+      },
+      {
+        "master_field_id": 617,
+        "category_master_field_id": 1441,
+        "name": "Ekranın diaqonalı, düym"
+      },
+      {
+        "master_field_id": 619,
+        "category_master_field_id": 1443,
+        "name": "Ekranın qətnaməsi"
+      },
+      {
+        "master_field_id": 1813,
+        "category_master_field_id": 5517,
+        "name": "Ekran texnologiyası"
+      },
+      {
+        "master_field_id": 826,
+        "category_master_field_id": 4575,
+        "name": "Akkumulyatorun həcmi, mA/saat"
+      },
+      {
+        "master_field_id": 613,
+        "category_master_field_id": 1437,
+        "name": "Rabitə standartları"
+      },
+      {
+        "master_field_id": 615,
+        "category_master_field_id": 1439,
+        "name": "SİM kartların sayı"
+      },
+      {
+        "master_field_id": 1812,
+        "category_master_field_id": 5516,
+        "name": "SİM kartının növü"
+      },
+      {
+        "master_field_id": 1533,
+        "category_master_field_id": 4577,
+        "name": "Əsas kamera, Mp"
+      },
+      {
+        "master_field_id": 1505,
+        "category_master_field_id": 4578,
+        "name": "Ön kamera, Mp"
+      },
+      {
+        "master_field_id": 625,
+        "category_master_field_id": 4484,
+        "name": "Rəng"
+      },
+      {
+        "master_field_id": 6038,
+        "category_master_field_id": 38184,
+        "name": "NFC"
+      },
+      {
+        "master_field_id": 6334,
+        "category_master_field_id": 42680,
+        "name": "Vəziyyət"
+      },
+      {
+        "master_field_id": 2211,
+        "category_master_field_id": 15463,
+        "name": "Zəmanət müddəti"
+      },
+      {
+        "master_field_id": 5086,
+        "category_master_field_id": 27201,
+        "name": "Əsas kamera dəsti, Mp"
+      },
+      {
+        "master_field_id": 5087,
+        "category_master_field_id": 27202,
+        "name": "Ön kamera dəsti, Mp"
+      },
+      {
+        "master_field_id": 612,
+        "category_master_field_id": 1436,
+        "name": "Qurğunun növü"
+      },
+      {
+        "master_field_id": 1554,
+        "category_master_field_id": 4613,
+        "name": "Yaddaş kartlarının dəstəklənməsi"
+      },
+      {
+        "master_field_id": 708,
+        "category_master_field_id": 4585,
+        "name": "Korpusun materialı"
+      },
+      {
+        "master_field_id": 2552,
+        "category_master_field_id": 15460,
+        "name": "Korpusun qorunması"
+      },
+      {
+        "master_field_id": 614,
+        "category_master_field_id": 1438,
+        "name": "Form-faktor"
+      },
+      {
+        "master_field_id": 1739,
+        "category_master_field_id": 5309,
+        "name": "Sensor ekran"
+      },
+      {
+        "master_field_id": 1534,
+        "category_master_field_id": 15461,
+        "name": "Prosessor"
+      },
+      {
+        "master_field_id": 664,
+        "category_master_field_id": 4579,
+        "name": "Prosessorun nüvələr sayı"
+      },
+      {
+        "master_field_id": 830,
+        "category_master_field_id": 5518,
+        "name": "Yaddaş kartları üçün yuvalar"
+      },
+      {
+        "master_field_id": 1811,
+        "category_master_field_id": 5515,
+        "name": "Wi-Fi standartı"
+      },
+      {
+        "master_field_id": 777,
+        "category_master_field_id": 5313,
+        "name": "Bluetooth standartı"
+      },
+      {
+        "master_field_id": 1810,
+        "category_master_field_id": 5514,
+        "name": "Qoşulma portu"
+      },
+      {
+        "master_field_id": 1809,
+        "category_master_field_id": 5513,
+        "name": "Audio çıxış"
+      },
+      {
+        "master_field_id": 1808,
+        "category_master_field_id": 5512,
+        "name": "Akkumulyatorun bərkitməsi"
+      },
+      {
+        "master_field_id": 1807,
+        "category_master_field_id": 5511,
+        "name": "Simsiz enerji toplama"
+      },
+      {
+        "master_field_id": 1740,
+        "category_master_field_id": 5311,
+        "name": "Digər funksiyalar və xüsusiyyətlər"
+      },
+      {
+        "master_field_id": 2635,
+        "category_master_field_id": 10939,
+        "name": "Bazarın başlanğıc ili"
+      },
+      {
+        "master_field_id": 641,
+        "category_master_field_id": 5507,
+        "name": "Hündürlüyü, mm"
+      },
+      {
+        "master_field_id": 776,
+        "category_master_field_id": 5508,
+        "name": "Eni, mm"
+      },
+      {
+        "master_field_id": 1637,
+        "category_master_field_id": 5509,
+        "name": "Qalınlığı, mm"
+      },
+      {
+        "master_field_id": 870,
+        "category_master_field_id": 4587,
+        "name": "Çəki, q"
+      },
+      {
+        "master_field_id": 618,
+        "category_master_field_id": 1442,
+        "name": "İstehsalçı ölkə"
+      },
+      {
+        "master_field_id": 2210,
+        "category_master_field_id": 15458,
+        "name": "Brendin ölkəsi"
+      },
+      {
+        "master_field_id": 697,
+        "category_master_field_id": 15462,
+        "name": "Komplektasiya"
+      },
+      {
+        "master_field_id": 6541,
+        "category_master_field_id": 44302,
+        "name": "İstehsalçı rəngi"
+      }
+    ],
+    "parent": {
+      "id": 2,
+      "node_type": "NODE",
+      "name": "Telefonlar, Smart cihazlar və telefon aksessuarları",
+      "slugged_name": "telefonlar-ve-aksessuarlar",
+      "parent": {
+        "id": 1,
+        "node_type": "NODE",
+        "name": "Elektronika və məişət texnikası",
+        "slugged_name": "elektronika-ve-meishet-texnikasi",
+        "parent": null
+      }
+    },
+    "is_refundable": true,
+    "is_adult": false,
+    "icons": {
+      "thumbnail": "https://strgimgr.umico.az/img/category/188/6eda4927-c28e-4785-a432-8e63a69439f5.jpeg",
+      "original": "https://strgimgr.umico.az/img/category/original/6eda4927-c28e-4785-a432-8e63a69439f5.jpeg"
+    },
+    "is_active": true
+  },
+  "offers": [
+    {
+      "uuid": "4a232b08-9f23-4339-a185-ca5899dd4a11",
+      "installment_enabled": true,
+      "max_installment_months": 6,
+      "product_offer_labels": [],
+      "old_price": 545,
+      "retail_price": 490,
+      "supplier_id": "79f00a54-a9a0-4584-982d-04be9d07dee9",
+      "seller": {
+        "ext_id": "2ef4ca42-729f-4500-bc4c-787b0447404a",
+        "internal_id": 6713,
+        "marketing_name": {
+          "id": 6713,
+          "name": "APPLE BAKU"
+        },
+        "logo": {
+          "thumbnail": "https://storage.umico.az/cpcustomerprod01/c2af98c84d25fcb5ee5ac145328075c1.png"
+        },
+        "vat_payer": false,
+        "rating": 75,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "allow_qty": 0
+    },
+    {
+      "uuid": "562923ef-5948-4979-8848-534453fb49b3",
+      "installment_enabled": true,
+      "max_installment_months": 3,
+      "product_offer_labels": [],
+      "old_price": 499,
+      "retail_price": 453,
+      "supplier_id": "89def22a-eb82-4efa-99cd-7147867a80d5",
+      "seller": {
+        "ext_id": "fccabe33-3570-4878-8ef8-d156379f5dc3",
+        "internal_id": 4595,
+        "marketing_name": {
+          "id": 4595,
+          "name": "VNS Electronics"
+        },
+        "logo": {
+          "thumbnail": "https://storage.umico.az/cpcustomerprod01/23bb17d24496e871a490a28945d0976d.jpg"
+        },
+        "vat_payer": true,
+        "rating": 100,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "allow_qty": 0
+    },
+    {
+      "uuid": "36a4ed0c-c482-43c6-88a4-9e864834b8a7",
+      "installment_enabled": true,
+      "max_installment_months": 3,
+      "product_offer_labels": [],
+      "old_price": 599,
+      "retail_price": 499,
+      "supplier_id": "9ba461d8-3bfa-4471-9ee3-656c4d53e22e",
+      "seller": {
+        "ext_id": "1fda1cfc-316f-4e16-acd2-977333ff6046",
+        "internal_id": 14962,
+        "marketing_name": {
+          "id": 14962,
+          "name": "grand telecom"
+        },
+        "logo": {
+          "thumbnail": ""
+        },
+        "vat_payer": false,
+        "rating": 100,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "allow_qty": 0
+    },
+    {
+      "uuid": "e451ab22-a1fd-42e1-9dde-2c20020de88c",
+      "installment_enabled": true,
+      "max_installment_months": 3,
+      "product_offer_labels": [],
+      "old_price": 599,
+      "retail_price": 431,
+      "supplier_id": "ecc176b5-9d92-41eb-856a-4ae92e8b9357",
+      "seller": {
+        "ext_id": "0ffba865-d09e-497b-832e-6bf280a42435",
+        "internal_id": 3083,
+        "marketing_name": {
+          "id": 3083,
+          "name": "Fil electronics"
+        },
+        "logo": {
+          "thumbnail": "https://storage.umico.az/cpcustomerprod01/002719ed7b0274262c53eceeadf14b43.jpg"
+        },
+        "vat_payer": true,
+        "rating": 100,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "allow_qty": 0
+    },
+    {
+      "uuid": "a932c1db-79cf-4757-96ad-50114e34e5a8",
+      "installment_enabled": true,
+      "max_installment_months": 3,
+      "product_offer_labels": [],
+      "old_price": 599,
+      "retail_price": 454,
+      "supplier_id": "a07fbd19-4c89-4e96-afb4-50326276a722",
+      "seller": {
+        "ext_id": "843e8f56-613d-476d-802d-7bb01f1fcf45",
+        "internal_id": 6255,
+        "marketing_name": {
+          "id": 6255,
+          "name": "Brand Store"
+        },
+        "logo": {
+          "thumbnail": "https://storage.umico.az/cpcustomerprod01/968b769a1eacb1e96a773b0b691ed80a.png"
+        },
+        "vat_payer": false,
+        "rating": 93,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "allow_qty": 0
+    },
+    {
+      "uuid": "7c79f40e-99d9-4046-8760-88ee3ae9e2fa",
+      "installment_enabled": true,
+      "max_installment_months": 3,
+      "product_offer_labels": [],
+      "old_price": 499.99,
+      "retail_price": 430.97,
+      "supplier_id": "6bbe2bc3-2d97-407a-8b0b-53f2663866d6",
+      "seller": {
+        "ext_id": "19c96207-cc9a-4bf9-9ae1-423f6011d524",
+        "internal_id": 7663,
+        "marketing_name": {
+          "id": 7663,
+          "name": "Avelora"
+        },
+        "logo": {
+          "thumbnail": ""
+        },
+        "vat_payer": false,
+        "rating": 100,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "allow_qty": 0
+    },
+    {
+      "uuid": "1fd68a71-8232-4f78-ba33-025ea44cc44e",
+      "installment_enabled": true,
+      "max_installment_months": 18,
+      "product_offer_labels": [],
+      "old_price": 479,
+      "retail_price": 459,
+      "supplier_id": "36ee56c8-9e7b-44bb-8177-90e98fe12a7b",
+      "seller": {
+        "ext_id": "ca3d9839-b41b-46bc-a782-918b9a67e8c8",
+        "internal_id": 16702,
+        "marketing_name": {
+          "id": 16702,
+          "name": "ARDA ELECTRONICS"
+        },
+        "logo": {
+          "thumbnail": ""
+        },
+        "vat_payer": false,
+        "rating": 75,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "allow_qty": 0
+    },
+    {
+      "uuid": "bc1a6e54-5137-4f79-a0ea-405d1319d466",
+      "installment_enabled": true,
+      "max_installment_months": 3,
+      "product_offer_labels": [],
+      "old_price": 607.13,
+      "retail_price": 519,
+      "supplier_id": "a9c121ac-f84b-4b1c-87a9-124e1c31be9a",
+      "seller": {
+        "ext_id": "69155684-3a19-4ad4-8c7a-894445c104c0",
+        "internal_id": 2184,
+        "marketing_name": {
+          "id": 2184,
+          "name": "Ava Electronics"
+        },
+        "logo": {
+          "thumbnail": "https://storage.umico.az/cpcustomerprod01/2f48a07571007f1ee009f4cf3ab021a0.jpg"
+        },
+        "vat_payer": false,
+        "rating": 80,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "allow_qty": 0
+    },
+    {
+      "uuid": "db7fb7c2-d6e8-4c3a-b045-93dc02374b1c",
+      "installment_enabled": true,
+      "max_installment_months": 18,
+      "product_offer_labels": [],
+      "old_price": 519,
+      "retail_price": 455,
+      "supplier_id": "324f709d-71c7-4d07-b80a-b0e761e7f3b0",
+      "seller": {
+        "ext_id": "83a6809a-4c6e-472b-8bc0-da2e8dc8f44d",
+        "internal_id": 3254,
+        "marketing_name": {
+          "id": 3254,
+          "name": "Gold Electronics"
+        },
+        "logo": {
+          "thumbnail": "https://storage.umico.az/cpcustomerprod01/9df71654e688269ea4642ba295e980dc.png"
+        },
+        "vat_payer": false,
+        "rating": 83,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "allow_qty": 0
+    },
+    {
+      "uuid": "40f1219d-2ca2-4ff2-b2d7-78fa65da79a9",
+      "installment_enabled": true,
+      "max_installment_months": 3,
+      "product_offer_labels": [],
+      "old_price": 599,
+      "retail_price": 430.98,
+      "supplier_id": "ccbe09a1-769c-42d6-b7f8-f77ffbbef768",
+      "seller": {
+        "ext_id": "72e071b2-14c6-4b6a-8ee7-1b24fa542b29",
+        "internal_id": 3517,
+        "marketing_name": {
+          "id": 3517,
+          "name": "Trend In"
+        },
+        "logo": {
+          "thumbnail": "https://storage.umico.az/cpcustomerprod01/c1c9a54a5656101fb7f6c333d263bebf.jpg"
+        },
+        "vat_payer": false,
+        "rating": 99,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "allow_qty": 0
+    }
+  ],
+  "variations": [
+    {
+      "id": 1400584,
+      "name": "Smartfon Samsung Galaxy A17 6/128GB Black",
+      "slugged_name": "samsung-galaxy-a17-6-128gb-black",
+      "custom_fields": [
+        {
+          "master_field_id": 625,
+          "values": [
+            "Qara"
+          ]
+        },
+        {
+          "master_field_id": 1812,
+          "values": [
+            "Nano"
+          ]
+        },
+        {
+          "master_field_id": 1816,
+          "values": [
+            "128 Gb"
+          ]
+        }
+      ],
+      "main_img": {
+        "big": "https://strgimgr.umico.az/img/product/1680/491945ab-fd61-496d-a1af-dd5ef6fa6c8c.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/491945ab-fd61-496d-a1af-dd5ef6fa6c8c.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/491945ab-fd61-496d-a1af-dd5ef6fa6c8c.jpeg"
+      },
+      "status": "active"
+    },
+    {
+      "id": 1400720,
+      "name": "Smartfon Samsung Galaxy A17 4GB/128GB Blue",
+      "slugged_name": "samsung-galaxy-a17-4-128gb-blue",
+      "custom_fields": [
+        {
+          "master_field_id": 625,
+          "values": [
+            "Göy"
+          ]
+        },
+        {
+          "master_field_id": 1812,
+          "values": [
+            "Nano"
+          ]
+        },
+        {
+          "master_field_id": 1816,
+          "values": [
+            "128 Gb"
+          ]
+        }
+      ],
+      "main_img": {
+        "big": "https://strgimgr.umico.az/img/product/1680/f13ef3da-078f-49c0-ade4-e642e82d5087.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/f13ef3da-078f-49c0-ade4-e642e82d5087.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/f13ef3da-078f-49c0-ade4-e642e82d5087.jpeg"
+      },
+      "status": "active"
+    },
+    {
+      "id": 1615765,
+      "name": "Smartfon Samsung Galaxy A17 LTE 6GB/128GB Black",
+      "slugged_name": "smartfon-samsung-galaxy-a17-lte-6gb-128gb-black",
+      "custom_fields": [
+        {
+          "master_field_id": 625,
+          "values": [
+            "Qara"
+          ]
+        },
+        {
+          "master_field_id": 1812,
+          "values": [
+            "Nano"
+          ]
+        },
+        {
+          "master_field_id": 1816,
+          "values": [
+            "128 Gb"
+          ]
+        }
+      ],
+      "main_img": {
+        "big": "https://strgimgr.umico.az/img/product/1680/87774277-aadd-4f62-aab6-2ae6c8685578.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/87774277-aadd-4f62-aab6-2ae6c8685578.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/87774277-aadd-4f62-aab6-2ae6c8685578.jpeg"
+      },
+      "status": "active"
+    },
+    {
+      "id": 1400667,
+      "name": "Smartfon Samsung Galaxy A17 4/128GB Silver",
+      "slugged_name": "samsung-galaxy-a17-4-128gb-silver",
+      "custom_fields": [
+        {
+          "master_field_id": 625,
+          "values": [
+            "Boz"
+          ]
+        },
+        {
+          "master_field_id": 1812,
+          "values": [
+            "Nano"
+          ]
+        },
+        {
+          "master_field_id": 1816,
+          "values": [
+            "128 Gb"
+          ]
+        }
+      ],
+      "main_img": {
+        "big": "https://strgimgr.umico.az/img/product/1680/19fe1967-189a-4eb4-a4a8-c8fa10410470.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/19fe1967-189a-4eb4-a4a8-c8fa10410470.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/19fe1967-189a-4eb4-a4a8-c8fa10410470.jpeg"
+      },
+      "status": "active"
+    },
+    {
+      "id": 1400638,
+      "name": "Smartfon Samsung Galaxy A17 4/128 Black",
+      "slugged_name": "samsung-galaxy-a17-4-128-black",
+      "custom_fields": [
+        {
+          "master_field_id": 625,
+          "values": [
+            "Qara"
+          ]
+        },
+        {
+          "master_field_id": 1812,
+          "values": [
+            "Nano"
+          ]
+        },
+        {
+          "master_field_id": 1816,
+          "values": [
+            "128 Gb"
+          ]
+        }
+      ],
+      "main_img": {
+        "big": "https://strgimgr.umico.az/img/product/1680/fb92ee81-ce6b-4225-9355-970cd4f7ca90.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/fb92ee81-ce6b-4225-9355-970cd4f7ca90.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/fb92ee81-ce6b-4225-9355-970cd4f7ca90.jpeg"
+      },
+      "status": "active"
+    },
+    {
+      "id": 2112089,
+      "name": "Smartfon Samsung Galaxy A17 4GB/128GB Gray",
+      "slugged_name": "smartfon-samsung-galaxy-a17-4gb-128gb-gray",
+      "custom_fields": [
+        {
+          "master_field_id": 625,
+          "values": [
+            "Boz"
+          ]
+        },
+        {
+          "master_field_id": 1812,
+          "values": [
+            "Nano"
+          ]
+        },
+        {
+          "master_field_id": 1816,
+          "values": [
+            "128 Gb"
+          ]
+        }
+      ],
+      "main_img": {
+        "big": "https://strgimgr.umico.az/img/product/1680/397e2abc-670f-46c3-9dbc-71d05b2d9f8f.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/397e2abc-670f-46c3-9dbc-71d05b2d9f8f.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/397e2abc-670f-46c3-9dbc-71d05b2d9f8f.jpeg"
+      },
+      "status": "active"
+    },
+    {
+      "id": 1400621,
+      "name": "Smartfon Samsung Galaxy A17 6/128GB Blue",
+      "slugged_name": "samsung-galaxy-a17-6-128gb-blue",
+      "custom_fields": [
+        {
+          "master_field_id": 625,
+          "values": [
+            "Göy"
+          ]
+        },
+        {
+          "master_field_id": 1812,
+          "values": [
+            "Nano"
+          ]
+        },
+        {
+          "master_field_id": 1816,
+          "values": [
+            "128 Gb"
+          ]
+        }
+      ],
+      "main_img": {
+        "big": "https://strgimgr.umico.az/img/product/1680/341e105f-99bd-444b-aa82-b0e96936fa0b.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/341e105f-99bd-444b-aa82-b0e96936fa0b.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/341e105f-99bd-444b-aa82-b0e96936fa0b.jpeg"
+      },
+      "status": "active"
+    },
+    {
+      "id": 1615780,
+      "name": "Smartfon Samsung Galaxy A17 LTE 6GB/128GB Light Blue",
+      "slugged_name": "smartfon-samsung-galaxy-a17-lte-6gb-128gb-light-blue",
+      "custom_fields": [
+        {
+          "master_field_id": 625,
+          "values": [
+            "Göy"
+          ]
+        },
+        {
+          "master_field_id": 1812,
+          "values": [
+            "Nano"
+          ]
+        },
+        {
+          "master_field_id": 1816,
+          "values": [
+            "128 Gb"
+          ]
+        }
+      ],
+      "main_img": {
+        "big": "https://strgimgr.umico.az/img/product/1680/5f4362c7-3f3c-4268-9745-4ab009af50b3.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/5f4362c7-3f3c-4268-9745-4ab009af50b3.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/5f4362c7-3f3c-4268-9745-4ab009af50b3.jpeg"
+      },
+      "status": "active"
+    },
+    {
+      "id": 2116922,
+      "name": "Smartfon Samsung Galaxy A17 4 GB/ 128 GB Black",
+      "slugged_name": "smartfon-samsung-a17-4-gb-128-gb-black-silicone-case-screen-protector",
+      "custom_fields": [
+        {
+          "master_field_id": 625,
+          "values": [
+            "Qara"
+          ]
+        },
+        {
+          "master_field_id": 1812,
+          "values": [
+            "Nano"
+          ]
+        },
+        {
+          "master_field_id": 1816,
+          "values": [
+            "128 Gb"
+          ]
+        }
+      ],
+      "main_img": {
+        "big": "https://strgimgr.umico.az/img/product/1680/66a74ca8-c36c-4090-9153-e58f6492d9cc.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/66a74ca8-c36c-4090-9153-e58f6492d9cc.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/66a74ca8-c36c-4090-9153-e58f6492d9cc.jpeg"
+      },
+      "status": "active"
+    },
+    {
+      "id": 1473656,
+      "name": "Smartfon Samsung Galaxy A17 6GB/128GB Gray",
+      "slugged_name": "smartfon-samsung-galaxy-a17-6gb-128gb-gray",
+      "custom_fields": [
+        {
+          "master_field_id": 625,
+          "values": [
+            "Boz"
+          ]
+        },
+        {
+          "master_field_id": 1812,
+          "values": [
+            "Nano"
+          ]
+        },
+        {
+          "master_field_id": 1816,
+          "values": [
+            "128 Gb"
+          ]
+        }
+      ],
+      "main_img": {
+        "big": "https://strgimgr.umico.az/img/product/1680/97ad8299-6cb8-4360-b41c-0d93cdfa949e.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/97ad8299-6cb8-4360-b41c-0d93cdfa949e.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/97ad8299-6cb8-4360-b41c-0d93cdfa949e.jpeg"
+      },
+      "status": "active"
+    }
+  ],
+  "size_chart": {},
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "sku": 1400638,
+    "mpn": "9346_GD_1400638",
+    "url": "https://birmarket.az/product/1400638-samsung-galaxy-a17-4-128-black",
+    "name": "Smartfon Samsung Galaxy A17 4/128 Black",
+    "image": [
+      "https://strgimgr.umico.az/img/product/1680/fb92ee81-ce6b-4225-9355-970cd4f7ca90.jpeg",
+      "https://strgimgr.umico.az/img/product/1680/4ad037b0-1d96-4cca-b3bb-83ea226f4805.jpeg",
+      "https://strgimgr.umico.az/img/product/1680/774dc3f8-a443-4622-9cc1-87b497a5db82.jpeg"
+    ],
+    "description": "&lt;p&gt;Samsung Galaxy A17 4/128 Black smartfonu, 128 GB daxili yaddaşı, 4 GB əməli yaddaşı güclü bir cihazdır. O, 50 MP əsas kamera və hər biri 13 MP olan iki ön kamera ilə təchiz olunmuşdur. Bu smartfon NFC, LTE, 3G, 2G, Wi-Fi və Bluetooth 5.3 əlaqə standartlarını dəstəkləyir. 6.7 düymlük sensor ekran, 2340 x 1080 qətnaməli Super AMOLED texnologiyası ilə hazırlanmışdır. Smartfonun korpusu su və tozdan qorunur və barmaq izi skaneri ilə təchiz olunmuşdur. Bateri tutumu 5000 mA/saat olduğuna görə cihazı uzun müddət şarj etmədən istifadə etməyə imkan verir. Bundan əlavə, komplektdə təlimat və istifadə rahatlığını təmin edən çexol da mövcuddur. Bu smartfon yüksək performansı və görüntü keyfiyyətini qiymətləndirənlər üçün idealdır.&lt;/p&gt;",
+    "itemCondition": "https://schema.org/NewCondition",
+    "offers": {
+      "@type": "AggregateOffer",
+      "availability": "https://schema.org/InStock",
+      "offerCount": 10,
+      "highPrice": 519,
+      "lowPrice": 430.97,
+      "priceCurrency": "AZN",
+      "hasMerchantReturnPolicy": {
+        "applicableCountry": "AZ",
+        "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+        "returnMethod": "https://schema.org/ReturnInStore",
+        "returnFees": "https://schema.org/FreeReturn",
+        "merchantReturnDays": 14
+      },
+      "shippingDetails": {
+        "@type": "OfferShippingDetails",
+        "shippingDestination": {
+          "@type": "DefinedRegion",
+          "addressCountry": "AZ"
+        },
+        "deliveryTime": {
+          "@type": "ShippingDeliveryTime",
+          "handlingTime": {
+            "@type": "QuantitativeValue",
+            "minValue": 0,
+            "maxValue": 1,
+            "unitCode": "DAY"
+          },
+          "transitTime": {
+            "@type": "QuantitativeValue",
+            "minValue": 0,
+            "maxValue": 1,
+            "unitCode": "DAY"
+          },
+          "businessDays": {
+            "@type": "OpeningHoursSpecification",
+            "dayOfWeek": [
+              "https://schema.org/Monday",
+              "https://schema.org/Tuesday",
+              "https://schema.org/Wednesday",
+              "https://schema.org/Thursday",
+              "https://schema.org/Friday",
+              "https://schema.org/Saturday",
+              "https://schema.org/Sunday"
+            ]
+          }
+        },
+        "shippingRate": {
+          "@type": "MonetaryAmount",
+          "value": 0,
+          "currency": "AZN"
+        }
+      }
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": 5,
+      "reviewCount": 46
+    },
+    "brand": {
+      "@type": "Brand",
+      "name": "Samsung",
+      "url": "https://birmarket.az/brands/Samsung"
+    }
+  }
+}

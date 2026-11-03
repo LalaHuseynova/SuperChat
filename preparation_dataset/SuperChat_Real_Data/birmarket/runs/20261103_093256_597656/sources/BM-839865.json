@@ -1,0 +1,388 @@
+{
+  "product": {
+    "id": 839865,
+    "gtin": "",
+    "mpn": "545556_yasil",
+    "name": "Bel çantası 545556, yaşıl",
+    "slugged_name_az": "bel-chantasi-545556-yashil",
+    "slugged_name_ru": "ryukzak-545556-zelyonyy",
+    "description": "Ryukzak 545556 - universal və funksional aksessuardır şəhər istifadəsi üçün. Parlaq yaşıl rəng ona stil baxımdan gözəl görünüş verir. Türkiyədə istehsal olunan bu ryukzak 50 litr həcmində şəxsi əşyaların rahat daşınmasını təmin edir. Fermuar etibarlı bağlanmanı təmin edir və rahat daxili ciblər əşyaların nizami saxlanmasına imkan verir. Geniş qayışlar və rahat tutacaq istifadədə rahatlıq yaradır. Ryukzak həm kişilər, həm də qadınlar üçün uyğundur və onun naxışsız və çap olmadan universal dizaynı hər hansı bir görünüşü tamamlayacaqdır.",
+    "description_outlet": "",
+    "status": "active",
+    "uuid": "ca12b7db-7a52-477f-815a-d75e01220932",
+    "variant_code": "VC_839865",
+    "default_offer": {
+      "uuid": "df9743c9-dd37-4af6-bf02-e95630437169",
+      "installment_enabled": true,
+      "max_installment_months": 18,
+      "product_offer_labels": [],
+      "old_price": 95,
+      "retail_price": 34,
+      "supplier_id": "2e3f3b99-ec79-4ab5-9b90-971f8fda70b4",
+      "qty": 0,
+      "seller": {
+        "ext_id": "2e3f3b99-ec79-4ab5-9b90-971f8fda70b4",
+        "marketing_name": {
+          "id": 5290,
+          "name": "Ilay"
+        },
+        "logo": {
+          "thumbnail": ""
+        },
+        "vat_payer": false,
+        "rating": 78,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "discount_effective_start_date": "",
+      "discount_effective_end_date": ""
+    },
+    "category_id": 2283,
+    "category": {
+      "id": 2283,
+      "name": "Şəhər bel çantaları"
+    },
+    "brand": {
+      "name": "No Brand"
+    },
+    "custom_fields": [
+      {
+        "master_field_id": 908,
+        "values": [
+          "50"
+        ]
+      },
+      {
+        "master_field_id": 1412,
+        "values": [
+          "48"
+        ]
+      },
+      {
+        "master_field_id": 1206,
+        "values": [
+          "30"
+        ]
+      },
+      {
+        "master_field_id": 639,
+        "values": [
+          "Zəncirbənd"
+        ]
+      },
+      {
+        "master_field_id": 761,
+        "values": [
+          "Uniseks"
+        ]
+      },
+      {
+        "master_field_id": 638,
+        "values": [
+          "Printsiz və naxışsız"
+        ]
+      },
+      {
+        "master_field_id": 1448,
+        "values": [
+          "25"
+        ]
+      },
+      {
+        "master_field_id": 618,
+        "values": [
+          "Türkiyə"
+        ]
+      },
+      {
+        "master_field_id": 2210,
+        "values": [
+          "Türkiyə"
+        ]
+      }
+    ],
+    "main_img": {
+      "big": "https://strgimgr.umico.az/sized/1680/839865-70533c47a1e1ae37f266f107c35069e3.jpg",
+      "medium": "https://strgimgr.umico.az/sized/840/839865-70533c47a1e1ae37f266f107c35069e3.jpg",
+      "small": "https://strgimgr.umico.az/sized/280/839865-70533c47a1e1ae37f266f107c35069e3.jpg"
+    },
+    "img_url_thumbnail": "https://strgimgr.umico.az/sized/280/839865-70533c47a1e1ae37f266f107c35069e3.jpg",
+    "main_video": "",
+    "imgs": [
+      {
+        "big": "https://strgimgr.umico.az/sized/1680/839865-70533c47a1e1ae37f266f107c35069e3.jpg",
+        "medium": "https://strgimgr.umico.az/sized/840/839865-70533c47a1e1ae37f266f107c35069e3.jpg",
+        "small": "https://strgimgr.umico.az/sized/280/839865-70533c47a1e1ae37f266f107c35069e3.jpg"
+      }
+    ],
+    "videos": [],
+    "min_qty": 1,
+    "preorder_available": false,
+    "is_assortment": false,
+    "is_bulk_heavy": false,
+    "is_refurbished": false,
+    "is_refundable": true,
+    "is_dangerous": false,
+    "show_tech_description": false,
+    "use_external_content": true,
+    "product_labels": [],
+    "ratings": {
+      "rating_value": 5,
+      "assessment_id": 0,
+      "session_count": 1,
+      "score_count": 1
+    },
+    "default_show_stock_qty_threshold": 0,
+    "card_type": "public"
+  },
+  "category": {
+    "id": 2283,
+    "name": "Şəhər bel çantaları",
+    "slugged_name_az": "sheher-bel-chantalari",
+    "slugged_name_ru": "ryukzaki-gorodskie",
+    "view_mode": "products",
+    "mobile_visual_mode": "text",
+    "is_variant": false,
+    "depth": 2,
+    "parent_id": 2267,
+    "child_ids": [],
+    "node_type": "NODE",
+    "install_service_needed": false,
+    "fitting_allowed": false,
+    "vat": true,
+    "variations": [
+      {
+        "master_field_id": 638,
+        "name": "Naxışlar və printlər",
+        "variation_tool_type": "default",
+        "has_size_chart": false,
+        "display_variant": false
+      },
+      {
+        "master_field_id": 625,
+        "name": "Rəng",
+        "variation_tool_type": "default",
+        "has_size_chart": false,
+        "display_variant": false
+      }
+    ],
+    "custom_fields": [
+      {
+        "master_field_id": 625,
+        "category_master_field_id": 11134,
+        "name": "Rəng"
+      },
+      {
+        "master_field_id": 637,
+        "category_master_field_id": 11132,
+        "name": "Material"
+      },
+      {
+        "master_field_id": 639,
+        "category_master_field_id": 11141,
+        "name": "Kilid növü"
+      },
+      {
+        "master_field_id": 1412,
+        "category_master_field_id": 11136,
+        "name": "Uzunluğu, sm"
+      },
+      {
+        "master_field_id": 1206,
+        "category_master_field_id": 11137,
+        "name": "Eni, sm"
+      },
+      {
+        "master_field_id": 761,
+        "category_master_field_id": 11133,
+        "name": "Cins"
+      },
+      {
+        "master_field_id": 908,
+        "category_master_field_id": 11143,
+        "name": "Həcm, L"
+      },
+      {
+        "master_field_id": 638,
+        "category_master_field_id": 11135,
+        "name": "Naxışlar və printlər"
+      },
+      {
+        "master_field_id": 1448,
+        "category_master_field_id": 37676,
+        "name": "Dərinliyi, sm"
+      },
+      {
+        "master_field_id": 762,
+        "category_master_field_id": 11139,
+        "name": "Bölmələrin sayı"
+      },
+      {
+        "master_field_id": 623,
+        "category_master_field_id": 11140,
+        "name": "Xüsusiyyətlər"
+      },
+      {
+        "master_field_id": 2637,
+        "category_master_field_id": 11142,
+        "name": "Bel çantasının arxası"
+      },
+      {
+        "master_field_id": 870,
+        "category_master_field_id": 11144,
+        "name": "Çəki, q"
+      },
+      {
+        "master_field_id": 618,
+        "category_master_field_id": 11145,
+        "name": "İstehsalçı ölkə"
+      },
+      {
+        "master_field_id": 2210,
+        "category_master_field_id": 11146,
+        "name": "Brendin ölkəsi"
+      }
+    ],
+    "parent": {
+      "id": 2267,
+      "node_type": "NODE",
+      "name": "Çantalar, pul kisələri və aksessuarlar",
+      "slugged_name": "chantalar-pul-kiseleri-ve-aksessuarlar",
+      "parent": {
+        "id": 3003,
+        "node_type": "NODE",
+        "name": "Geyim,ayaqqabı və aksessuarlar",
+        "slugged_name": "geyim-ve-ayaqqabi",
+        "parent": null
+      }
+    },
+    "is_refundable": true,
+    "is_adult": false,
+    "icons": {
+      "thumbnail": "https://strgimgr.umico.az/img/category/188/4030f9db-3c53-4a51-905b-ab006bb8b9af.jpeg",
+      "original": "https://strgimgr.umico.az/img/category/original/4030f9db-3c53-4a51-905b-ab006bb8b9af.jpeg"
+    },
+    "is_active": true
+  },
+  "offers": [
+    {
+      "uuid": "df9743c9-dd37-4af6-bf02-e95630437169",
+      "installment_enabled": true,
+      "max_installment_months": 18,
+      "product_offer_labels": [],
+      "old_price": 95,
+      "retail_price": 34,
+      "supplier_id": "2e3f3b99-ec79-4ab5-9b90-971f8fda70b4",
+      "seller": {
+        "ext_id": "bd4d4c47-8067-4e6f-afb1-de55a4436758",
+        "internal_id": 5290,
+        "marketing_name": {
+          "id": 5290,
+          "name": "Ilay"
+        },
+        "logo": {
+          "thumbnail": ""
+        },
+        "vat_payer": false,
+        "rating": 78,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "allow_qty": 0
+    }
+  ],
+  "variations": [
+    {
+      "id": 839865,
+      "name": "Bel çantası 545556, yaşıl",
+      "slugged_name": "bel-chantasi-545556-yashil",
+      "custom_fields": [
+        {
+          "master_field_id": 638,
+          "values": [
+            "Printsiz və naxışsız"
+          ]
+        }
+      ],
+      "main_img": {
+        "big": "https://strgimgr.umico.az/sized/1680/839865-70533c47a1e1ae37f266f107c35069e3.jpg",
+        "medium": "https://strgimgr.umico.az/sized/840/839865-70533c47a1e1ae37f266f107c35069e3.jpg",
+        "small": "https://strgimgr.umico.az/sized/280/839865-70533c47a1e1ae37f266f107c35069e3.jpg"
+      },
+      "status": "active"
+    }
+  ],
+  "size_chart": {},
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "sku": 839865,
+    "mpn": "545556_yasil",
+    "url": "https://birmarket.az/product/839865-bel-chantasi-545556-yashil",
+    "name": "Bel çantası 545556, yaşıl",
+    "image": [
+      "https://strgimgr.umico.az/sized/1680/839865-70533c47a1e1ae37f266f107c35069e3.jpg"
+    ],
+    "description": "Ryukzak 545556 - universal və funksional aksessuardır şəhər istifadəsi üçün. Parlaq yaşıl rəng ona stil baxımdan gözəl görünüş verir. Türkiyədə istehsal olunan bu ryukzak 50 litr həcmində şəxsi əşyaların rahat daşınmasını təmin edir. Fermuar etibarlı bağlanmanı təmin edir və rahat daxili ciblər əşyaların nizami saxlanmasına imkan verir. Geniş qayışlar və rahat tutacaq istifadədə rahatlıq yaradır. Ryukzak həm kişilər, həm də qadınlar üçün uyğundur və onun naxışsız və çap olmadan universal dizaynı hər hansı bir görünüşü tamamlayacaqdır.",
+    "itemCondition": "https://schema.org/NewCondition",
+    "offers": {
+      "@type": "Offer",
+      "availability": "https://schema.org/InStock",
+      "url": "https://birmarket.az/product/839865-bel-chantasi-545556-yashil",
+      "price": 34,
+      "priceCurrency": "AZN",
+      "priceValidUntil": "2026-12-03T05:33:08+00:00Z",
+      "hasMerchantReturnPolicy": {
+        "applicableCountry": "AZ",
+        "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+        "returnMethod": "https://schema.org/ReturnInStore",
+        "returnFees": "https://schema.org/FreeReturn",
+        "merchantReturnDays": 14
+      },
+      "shippingDetails": {
+        "@type": "OfferShippingDetails",
+        "shippingDestination": {
+          "@type": "DefinedRegion",
+          "addressCountry": "AZ"
+        },
+        "deliveryTime": {
+          "@type": "ShippingDeliveryTime",
+          "handlingTime": {
+            "@type": "QuantitativeValue",
+            "minValue": 0,
+            "maxValue": 1,
+            "unitCode": "DAY"
+          },
+          "transitTime": {
+            "@type": "QuantitativeValue",
+            "minValue": 0,
+            "maxValue": 1,
+            "unitCode": "DAY"
+          },
+          "businessDays": {
+            "@type": "OpeningHoursSpecification",
+            "dayOfWeek": [
+              "https://schema.org/Monday",
+              "https://schema.org/Tuesday",
+              "https://schema.org/Wednesday",
+              "https://schema.org/Thursday",
+              "https://schema.org/Friday",
+              "https://schema.org/Saturday",
+              "https://schema.org/Sunday"
+            ]
+          }
+        },
+        "shippingRate": {
+          "@type": "MonetaryAmount",
+          "value": 0,
+          "currency": "AZN"
+        }
+      }
+    },
+    "brand": {
+      "@type": "Brand",
+      "name": "No Brand",
+      "url": "https://birmarket.az/brands/No%20Brand"
+    }
+  }
+}

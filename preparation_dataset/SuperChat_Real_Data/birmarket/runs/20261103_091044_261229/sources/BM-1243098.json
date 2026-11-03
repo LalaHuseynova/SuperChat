@@ -1,0 +1,689 @@
+{
+  "product": {
+    "id": 1243098,
+    "gtin": "",
+    "mpn": "Novatech_eax23tw",
+    "name": "EUROACS X23 TWS Bluetooth Qulaqlıq Şəffaf Səs və Maksimum Rahatlıq Novatech_eax23tw",
+    "slugged_name_az": "euroacs-x23-tws-bluetooth-qulaqliq-sheffaf-ses-ve-maksimum-rahatliq",
+    "slugged_name_ru": "euroacs-x23-tws-bluetooth-qulaqliq-sheffaf-ses-ve-maksimum-rahatliq",
+    "description": "🎵 Yeni Nəsil Səs Azadlığı – EUROACS EA-X23 ilə Tanış Ol!\nDizayn, texnologiya və rahatlığın mükəmməl vəhdəti olan EUROACS EA-X23, gündəlik həyatınızı daha da dinamik və şık edəcək!\nNovatech-in rəsmi distribyusiyası ilə təqdim olunan bu məhsul, 12 ay rəsmi zəmanətlə müştəri məmnuniyyətinə tam zəmanət verir! 💼✅\n\n📡 Bluetooth 5.0 Bağlantı\nYeni nəsil Bluetooth texnologiyası ilə istər Android, istərsə də iOS cihazlara ani qoşulma və sabit əlaqə imkanı təqdim edir. Artıq gözləmə yoxdur – sadəcə aç, qoşul, istifadə et! ⚡📲\n\n🔊 Təmiz Stereo Səs və Güclü Mikrofon\nHD mikrofon sayəsində açıq və aydın zəng keyfiyyəti, musiqidə isə stereo və balanslı bass-tiz tarazlığı ilə təcrübən fərqli olacaq! İstər evdə, istər işdə, istər yolda – keyfiyyətli səs hər yerdə səninlədir! 🎧📞\n\n🔋 Gün Boyu Batareya Performansı\nBir şarjla 4 saata qədər qulaqlıq istifadə imkanı, şarj qutusu ilə birlikdə 15-18 saata qədər ümumi enerji dəstəyi. Yolda, səyahətdə, ofisdə enerjin heç tükənməyəcək! 🔋🧳\n\n🖐️ Sensorlu İdarəetmə\nMusiqi dəyişmək, zəngə cavab vermək və ya dayandırmaq artıq sadəcə bir toxunuş uzaqlığındadır! 👆\n\n🎧 Rahat Dizayn, Ergonomik Uyğunluq\nQulağa təbii şəkildə oturan quruluş, tər keçirməyən səth və yüngül çəkili dizayn – gün boyu narahat etmədən istifadəyə imkan verir. 🦻\n\n📦 Qutunun içindəkilər:\n✔️ 2 ədəd EA-X23 qulaqlıq\n✔️ Şarj qutusu\n✔️ USB şarj kabeli\n✔️ Təlimat kitabçası\n\n🛡️ Zəmanət:\n📅 12 ay rəsmi Novatech zəmanəti – rahat və risksiz alış-veriş!",
+    "description_outlet": "",
+    "status": "active",
+    "uuid": "8207a7bc-89a3-4165-b0c6-cd7b1adb909c",
+    "variant_code": "VC_1243098",
+    "default_offer": {
+      "uuid": "eb1790e3-d1cf-4cf1-808d-32742e79e7ec",
+      "installment_enabled": true,
+      "max_installment_months": 18,
+      "product_offer_labels": [],
+      "old_price": 100,
+      "retail_price": 27.23,
+      "supplier_id": "61c11288-0fb5-479c-bf24-6176088272e0",
+      "qty": 0,
+      "seller": {
+        "ext_id": "61c11288-0fb5-479c-bf24-6176088272e0",
+        "marketing_name": {
+          "id": 17175,
+          "name": "Royal Scent"
+        },
+        "logo": {
+          "thumbnail": ""
+        },
+        "vat_payer": false,
+        "rating": 95,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "discount_effective_start_date": "",
+      "discount_effective_end_date": ""
+    },
+    "category_id": 6,
+    "category": {
+      "id": 6,
+      "name": "Qulaqlıqlar və qarniturlar"
+    },
+    "brand": {
+      "name": "Euroacs"
+    },
+    "custom_fields": [
+      {
+        "master_field_id": 628,
+        "values": [
+          "Açıq qulaq"
+        ]
+      },
+      {
+        "master_field_id": 629,
+        "values": [
+          "Simsiz"
+        ]
+      },
+      {
+        "master_field_id": 1568,
+        "values": [
+          "Bəli"
+        ]
+      },
+      {
+        "master_field_id": 678,
+        "values": [
+          "Bluetooth"
+        ]
+      },
+      {
+        "master_field_id": 657,
+        "values": [
+          "TWS"
+        ]
+      },
+      {
+        "master_field_id": 1140,
+        "values": [
+          "10"
+        ]
+      },
+      {
+        "master_field_id": 1570,
+        "values": [
+          "Stereo"
+        ]
+      },
+      {
+        "master_field_id": 870,
+        "values": [
+          "10.8"
+        ]
+      },
+      {
+        "master_field_id": 625,
+        "values": [
+          "Ağ"
+        ]
+      },
+      {
+        "master_field_id": 697,
+        "values": [
+          "Type-C tipli USB kabel"
+        ]
+      },
+      {
+        "master_field_id": 2211,
+        "values": [
+          "1 il"
+        ]
+      },
+      {
+        "master_field_id": 2210,
+        "values": [
+          "ABŞ"
+        ]
+      }
+    ],
+    "main_img": {
+      "big": "https://strgimgr.umico.az/img/product/1680/461e96bb-91b8-47f9-bc5f-75cb7ef797e6.jpeg",
+      "medium": "https://strgimgr.umico.az/img/product/840/461e96bb-91b8-47f9-bc5f-75cb7ef797e6.jpeg",
+      "small": "https://strgimgr.umico.az/img/product/280/461e96bb-91b8-47f9-bc5f-75cb7ef797e6.jpeg"
+    },
+    "img_url_thumbnail": "https://strgimgr.umico.az/img/product/280/461e96bb-91b8-47f9-bc5f-75cb7ef797e6.jpeg",
+    "main_video": "",
+    "imgs": [
+      {
+        "big": "https://strgimgr.umico.az/img/product/1680/461e96bb-91b8-47f9-bc5f-75cb7ef797e6.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/461e96bb-91b8-47f9-bc5f-75cb7ef797e6.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/461e96bb-91b8-47f9-bc5f-75cb7ef797e6.jpeg"
+      },
+      {
+        "big": "https://strgimgr.umico.az/img/product/1680/da2d5012-bd53-44b6-b57c-f71f09eaebdd.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/da2d5012-bd53-44b6-b57c-f71f09eaebdd.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/da2d5012-bd53-44b6-b57c-f71f09eaebdd.jpeg"
+      },
+      {
+        "big": "https://strgimgr.umico.az/img/product/1680/ce762e04-5f19-4594-9163-91e7fd7518c1.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/ce762e04-5f19-4594-9163-91e7fd7518c1.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/ce762e04-5f19-4594-9163-91e7fd7518c1.jpeg"
+      },
+      {
+        "big": "https://strgimgr.umico.az/img/product/1680/5aa2f068-39d6-4d75-a47d-8c9784bff3a9.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/5aa2f068-39d6-4d75-a47d-8c9784bff3a9.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/5aa2f068-39d6-4d75-a47d-8c9784bff3a9.jpeg"
+      },
+      {
+        "big": "https://strgimgr.umico.az/img/product/1680/4b202f93-12e9-44f3-b6a1-fe9a1b011abe.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/4b202f93-12e9-44f3-b6a1-fe9a1b011abe.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/4b202f93-12e9-44f3-b6a1-fe9a1b011abe.jpeg"
+      }
+    ],
+    "videos": [],
+    "min_qty": 1,
+    "preorder_available": false,
+    "is_assortment": false,
+    "is_bulk_heavy": false,
+    "is_refurbished": false,
+    "is_refundable": true,
+    "is_dangerous": false,
+    "show_tech_description": false,
+    "use_external_content": true,
+    "product_labels": [],
+    "ratings": {
+      "rating_value": 4.6,
+      "assessment_id": 0,
+      "session_count": 14,
+      "score_count": 8,
+      "review_count": 6
+    },
+    "default_show_stock_qty_threshold": 0,
+    "card_type": "public"
+  },
+  "category": {
+    "id": 6,
+    "name": "Qulaqlıqlar və qarniturlar",
+    "slugged_name_az": "qulaqliqlar-ve-qarniturlar",
+    "slugged_name_ru": "naushniki-i-garnitury",
+    "view_mode": "products",
+    "mobile_visual_mode": "text",
+    "is_variant": true,
+    "depth": 2,
+    "parent_id": 2,
+    "child_ids": [],
+    "node_type": "NODE",
+    "install_service_needed": false,
+    "fitting_allowed": false,
+    "vat": true,
+    "variations": [
+      {
+        "master_field_id": 625,
+        "name": "Rəng",
+        "variation_tool_type": "image",
+        "has_size_chart": false,
+        "display_variant": false
+      }
+    ],
+    "custom_fields": [
+      {
+        "master_field_id": 1476,
+        "category_master_field_id": 10651,
+        "name": "Seriya"
+      },
+      {
+        "master_field_id": 628,
+        "category_master_field_id": 1455,
+        "name": "Qulaqlıq növü"
+      },
+      {
+        "master_field_id": 629,
+        "category_master_field_id": 1456,
+        "name": "Qoşulma tipi"
+      },
+      {
+        "master_field_id": 633,
+        "category_master_field_id": 1460,
+        "name": "Port tipi"
+      },
+      {
+        "master_field_id": 777,
+        "category_master_field_id": 45543,
+        "name": "Bluetooth standartı"
+      },
+      {
+        "master_field_id": 6487,
+        "category_master_field_id": 45544,
+        "name": "Aktiv səs-küyün boğulması (ANC)"
+      },
+      {
+        "master_field_id": 759,
+        "category_master_field_id": 4638,
+        "name": "Mikrofon"
+      },
+      {
+        "master_field_id": 1574,
+        "category_master_field_id": 4669,
+        "name": "İşləmə müddəti, saat"
+      },
+      {
+        "master_field_id": 2186,
+        "category_master_field_id": 45545,
+        "name": "Nəmə davamlı"
+      },
+      {
+        "master_field_id": 625,
+        "category_master_field_id": 4637,
+        "name": "Rəng"
+      },
+      {
+        "master_field_id": 2211,
+        "category_master_field_id": 10656,
+        "name": "Zəmanət müddəti"
+      },
+      {
+        "master_field_id": 1568,
+        "category_master_field_id": 4663,
+        "name": "Səs-küyün boğulması"
+      },
+      {
+        "master_field_id": 678,
+        "category_master_field_id": 10650,
+        "name": "Qoşulma interfeysi"
+      },
+      {
+        "master_field_id": 657,
+        "category_master_field_id": 4640,
+        "name": "Quruluş"
+      },
+      {
+        "master_field_id": 630,
+        "category_master_field_id": 1457,
+        "name": "Həssaslıq, dB"
+      },
+      {
+        "master_field_id": 631,
+        "category_master_field_id": 1458,
+        "name": "Minimal təkrarlanan tezlik, Hz"
+      },
+      {
+        "master_field_id": 632,
+        "category_master_field_id": 1459,
+        "name": "Maksimal təkrarlanan tezlik, Hz"
+      },
+      {
+        "master_field_id": 1838,
+        "category_master_field_id": 5557,
+        "name": "Port forması"
+      },
+      {
+        "master_field_id": 782,
+        "category_master_field_id": 4636,
+        "name": "Kabelin uzunluğu, m"
+      },
+      {
+        "master_field_id": 3287,
+        "category_master_field_id": 15468,
+        "name": "Qulaqlıqların bərkitməsi"
+      },
+      {
+        "master_field_id": 1840,
+        "category_master_field_id": 5559,
+        "name": "Akustik formalaşdırma"
+      },
+      {
+        "master_field_id": 1140,
+        "category_master_field_id": 15469,
+        "name": "Təsir radiusu, m"
+      },
+      {
+        "master_field_id": 1841,
+        "category_master_field_id": 5560,
+        "name": "Maksimal çıxış gücü, Vt"
+      },
+      {
+        "master_field_id": 1842,
+        "category_master_field_id": 5561,
+        "name": "Diapazonun yuxarı həddi, Hz"
+      },
+      {
+        "master_field_id": 1843,
+        "category_master_field_id": 5562,
+        "name": "Diapazonun aşağı həddi, Hz"
+      },
+      {
+        "master_field_id": 1844,
+        "category_master_field_id": 5563,
+        "name": "Siqnal/səs-küy nisbəti, dB"
+      },
+      {
+        "master_field_id": 797,
+        "category_master_field_id": 5570,
+        "name": "Empendans, Om"
+      },
+      {
+        "master_field_id": 1567,
+        "category_master_field_id": 4662,
+        "name": "Səs izolyasiyası"
+      },
+      {
+        "master_field_id": 1845,
+        "category_master_field_id": 5564,
+        "name": "Səs səviyyəsinin tənzimləyicisi"
+      },
+      {
+        "master_field_id": 1570,
+        "category_master_field_id": 4665,
+        "name": "Ətraf səs"
+      },
+      {
+        "master_field_id": 1573,
+        "category_master_field_id": 4668,
+        "name": "Dinamiklərin ümumi sayı"
+      },
+      {
+        "master_field_id": 1846,
+        "category_master_field_id": 5565,
+        "name": "Mikrofon növü"
+      },
+      {
+        "master_field_id": 1847,
+        "category_master_field_id": 5566,
+        "name": "Mikrofonun diapazonunun yuxarı həddi, Hz"
+      },
+      {
+        "master_field_id": 1848,
+        "category_master_field_id": 5567,
+        "name": "Mikrofonun diapazonunun aşağı həddi, Hz"
+      },
+      {
+        "master_field_id": 1849,
+        "category_master_field_id": 5568,
+        "name": "Mikrofonun siqnal/səs-küy nisbəti"
+      },
+      {
+        "master_field_id": 1850,
+        "category_master_field_id": 5569,
+        "name": "Mikrofonun bərkitməsi"
+      },
+      {
+        "master_field_id": 1740,
+        "category_master_field_id": 5571,
+        "name": "Digər funksiyalar və xüsusiyyətlər"
+      },
+      {
+        "master_field_id": 870,
+        "category_master_field_id": 4634,
+        "name": "Çəki, q"
+      },
+      {
+        "master_field_id": 2552,
+        "category_master_field_id": 10654,
+        "name": "Korpusun qorunması"
+      },
+      {
+        "master_field_id": 697,
+        "category_master_field_id": 10655,
+        "name": "Komplektasiya"
+      },
+      {
+        "master_field_id": 2210,
+        "category_master_field_id": 10649,
+        "name": "Brendin ölkəsi"
+      },
+      {
+        "master_field_id": 618,
+        "category_master_field_id": 4635,
+        "name": "İstehsalçı ölkə"
+      }
+    ],
+    "parent": {
+      "id": 2,
+      "node_type": "NODE",
+      "name": "Telefonlar, Smart cihazlar və telefon aksessuarları",
+      "slugged_name": "telefonlar-ve-aksessuarlar",
+      "parent": {
+        "id": 1,
+        "node_type": "NODE",
+        "name": "Elektronika və məişət texnikası",
+        "slugged_name": "elektronika-ve-meishet-texnikasi",
+        "parent": null
+      }
+    },
+    "is_refundable": true,
+    "is_adult": false,
+    "icons": {
+      "thumbnail": "https://strgimgr.umico.az/img/category/188/7a8b0d8a-c1a8-46f5-a7cd-c7483dbc6bee.jpeg",
+      "original": "https://strgimgr.umico.az/img/category/original/7a8b0d8a-c1a8-46f5-a7cd-c7483dbc6bee.jpeg"
+    },
+    "is_active": true
+  },
+  "offers": [
+    {
+      "uuid": "71b55476-9f64-4439-aa9f-bf2a4e29abb6",
+      "installment_enabled": true,
+      "max_installment_months": 18,
+      "product_offer_labels": [],
+      "old_price": 39.99,
+      "retail_price": 29.99,
+      "supplier_id": "242a4e20-1039-4166-b310-c1d15dee6655",
+      "seller": {
+        "ext_id": "a9416eae-7516-4b05-bae8-49148e7649f3",
+        "internal_id": 7088,
+        "marketing_name": {
+          "id": 7088,
+          "name": "BestTech"
+        },
+        "logo": {
+          "thumbnail": "https://storage.umico.az/cpcustomerprod01/5aed6972c2f7292e8466e646bbc63ca4.jpg"
+        },
+        "vat_payer": false,
+        "rating": 75,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "allow_qty": 0
+    },
+    {
+      "uuid": "eb1790e3-d1cf-4cf1-808d-32742e79e7ec",
+      "installment_enabled": true,
+      "max_installment_months": 18,
+      "product_offer_labels": [],
+      "old_price": 100,
+      "retail_price": 27.23,
+      "supplier_id": "61c11288-0fb5-479c-bf24-6176088272e0",
+      "seller": {
+        "ext_id": "e011616f-b9cd-4865-8376-e0be7b3aaae3",
+        "internal_id": 17175,
+        "marketing_name": {
+          "id": 17175,
+          "name": "Royal Scent"
+        },
+        "logo": {
+          "thumbnail": ""
+        },
+        "vat_payer": false,
+        "rating": 95,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "allow_qty": 0
+    },
+    {
+      "uuid": "27066016-e523-495b-a3f8-069c49c8e88f",
+      "installment_enabled": true,
+      "max_installment_months": 18,
+      "product_offer_labels": [],
+      "old_price": 35,
+      "retail_price": 29,
+      "supplier_id": "1572a754-577f-4f55-8cca-c492efdeaa00",
+      "seller": {
+        "ext_id": "d1117d65-3d51-419d-bb5a-ebce4186b6d2",
+        "internal_id": 9537,
+        "marketing_name": {
+          "id": 9537,
+          "name": "SEEL"
+        },
+        "logo": {
+          "thumbnail": "https://storage.umico.az/cpcustomerprod01/632d25a767cf548dfc85cfe4493fc284.jpg"
+        },
+        "vat_payer": false,
+        "rating": 92,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "allow_qty": 0
+    },
+    {
+      "uuid": "8014087c-98ef-4403-9ca3-516a6e7c9bd9",
+      "installment_enabled": true,
+      "max_installment_months": 18,
+      "product_offer_labels": [],
+      "old_price": 100,
+      "retail_price": 27.24,
+      "supplier_id": "7ec4ed07-1752-4afd-a9a6-0c3a9b2911ac",
+      "seller": {
+        "ext_id": "fb5629a3-a89b-40b1-a5f6-b3f80f651adf",
+        "internal_id": 17176,
+        "marketing_name": {
+          "id": 17176,
+          "name": "Tele Space"
+        },
+        "logo": {
+          "thumbnail": ""
+        },
+        "vat_payer": false,
+        "rating": 95,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "allow_qty": 0
+    },
+    {
+      "uuid": "07186cdf-10f6-4661-bf45-66233d319756",
+      "installment_enabled": true,
+      "max_installment_months": 18,
+      "product_offer_labels": [],
+      "old_price": 100,
+      "retail_price": 27.24,
+      "supplier_id": "d8544a61-9600-41d2-bd5c-b72930d62c26",
+      "seller": {
+        "ext_id": "abe88e6f-2068-41e3-ab55-4a75421830c0",
+        "internal_id": 14814,
+        "marketing_name": {
+          "id": 14814,
+          "name": "Tele Clinic Electronics"
+        },
+        "logo": {
+          "thumbnail": "https://storage.umico.az/cpcustomerprod01/d0ab1c12c6a39cebf1150631e172bac6.jpg"
+        },
+        "vat_payer": false,
+        "rating": 82,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "allow_qty": 0
+    },
+    {
+      "uuid": "b683cf92-883d-4c63-921b-a222a11e71a0",
+      "installment_enabled": true,
+      "max_installment_months": 18,
+      "product_offer_labels": [],
+      "old_price": 100,
+      "retail_price": 27.23,
+      "supplier_id": "82d55e8e-7095-4e97-b8e9-01cb2c1d7ad8",
+      "seller": {
+        "ext_id": "87feffc4-0de8-4c37-88b2-055bafa12df1",
+        "internal_id": 15347,
+        "marketing_name": {
+          "id": 15347,
+          "name": "PARFUM EUROPA"
+        },
+        "logo": {
+          "thumbnail": ""
+        },
+        "vat_payer": false,
+        "rating": 95,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "allow_qty": 0
+    }
+  ],
+  "variations": [
+    {
+      "id": 1243098,
+      "name": "EUROACS X23 TWS Bluetooth Qulaqlıq Şəffaf Səs və Maksimum Rahatlıq Novatech_eax23tw",
+      "slugged_name": "euroacs-x23-tws-bluetooth-qulaqliq-sheffaf-ses-ve-maksimum-rahatliq",
+      "custom_fields": [
+        {
+          "master_field_id": 625,
+          "values": [
+            "Ağ"
+          ]
+        }
+      ],
+      "main_img": {
+        "big": "https://strgimgr.umico.az/img/product/1680/461e96bb-91b8-47f9-bc5f-75cb7ef797e6.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/461e96bb-91b8-47f9-bc5f-75cb7ef797e6.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/461e96bb-91b8-47f9-bc5f-75cb7ef797e6.jpeg"
+      },
+      "status": "active"
+    }
+  ],
+  "size_chart": {},
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "sku": 1243098,
+    "mpn": "Novatech_eax23tw",
+    "url": "https://birmarket.az/product/1243098-euroacs-x23-tws-bluetooth-qulaqliq-sheffaf-ses-ve-maksimum-rahatliq",
+    "name": "EUROACS X23 TWS Bluetooth Qulaqlıq Şəffaf Səs və Maksimum Rahatlıq Novatech_eax23tw",
+    "image": [
+      "https://strgimgr.umico.az/img/product/1680/461e96bb-91b8-47f9-bc5f-75cb7ef797e6.jpeg",
+      "https://strgimgr.umico.az/img/product/1680/da2d5012-bd53-44b6-b57c-f71f09eaebdd.jpeg",
+      "https://strgimgr.umico.az/img/product/1680/ce762e04-5f19-4594-9163-91e7fd7518c1.jpeg",
+      "https://strgimgr.umico.az/img/product/1680/5aa2f068-39d6-4d75-a47d-8c9784bff3a9.jpeg",
+      "https://strgimgr.umico.az/img/product/1680/4b202f93-12e9-44f3-b6a1-fe9a1b011abe.jpeg"
+    ],
+    "description": "🎵 Yeni Nəsil Səs Azadlığı – EUROACS EA-X23 ilə Tanış Ol!\nDizayn, texnologiya və rahatlığın mükəmməl vəhdəti olan EUROACS EA-X23, gündəlik həyatınızı daha da dinamik və şık edəcək!\nNovatech-in rəsmi distribyusiyası ilə təqdim olunan bu məhsul, 12 ay rəsmi zəmanətlə müştəri məmnuniyyətinə tam zəmanət verir! 💼✅\n\n📡 Bluetooth 5.0 Bağlantı\nYeni nəsil Bluetooth texnologiyası ilə istər Android, istərsə də iOS cihazlara ani qoşulma və sabit əlaqə imkanı təqdim edir. Artıq gözləmə yoxdur – sadəcə aç, qoşul, istifadə et! ⚡📲\n\n🔊 Təmiz Stereo Səs və Güclü Mikrofon\nHD mikrofon sayəsində açıq və aydın zəng keyfiyyəti, musiqidə isə stereo və balanslı bass-tiz tarazlığı ilə təcrübən fərqli olacaq! İstər evdə, istər işdə, istər yolda – keyfiyyətli səs hər yerdə səninlədir! 🎧📞\n\n🔋 Gün Boyu Batareya Performansı\nBir şarjla 4 saata qədər qulaqlıq istifadə imkanı, şarj qutusu ilə birlikdə 15-18 saata qədər ümumi enerji dəstəyi. Yolda, səyahətdə, ofisdə enerjin heç tükənməyəcək! 🔋🧳\n\n🖐️ Sensorlu İdarəetmə\nMusiqi dəyişmək, zəngə cavab vermək və ya dayandırmaq artıq sadəcə bir toxunuş uzaqlığındadır! 👆\n\n🎧 Rahat Dizayn, Ergonomik Uyğunluq\nQulağa təbii şəkildə oturan quruluş, tər keçirməyən səth və yüngül çəkili dizayn – gün boyu narahat etmədən istifadəyə imkan verir. 🦻\n\n📦 Qutunun içindəkilər:\n✔️ 2 ədəd EA-X23 qulaqlıq\n✔️ Şarj qutusu\n✔️ USB şarj kabeli\n✔️ Təlimat kitabçası\n\n🛡️ Zəmanət:\n📅 12 ay rəsmi Novatech zəmanəti – rahat və risksiz alış-veriş!",
+    "itemCondition": "https://schema.org/NewCondition",
+    "offers": {
+      "@type": "AggregateOffer",
+      "availability": "https://schema.org/InStock",
+      "offerCount": 6,
+      "highPrice": 29.99,
+      "lowPrice": 27.23,
+      "priceCurrency": "AZN",
+      "hasMerchantReturnPolicy": {
+        "applicableCountry": "AZ",
+        "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+        "returnMethod": "https://schema.org/ReturnInStore",
+        "returnFees": "https://schema.org/FreeReturn",
+        "merchantReturnDays": 14
+      },
+      "shippingDetails": {
+        "@type": "OfferShippingDetails",
+        "shippingDestination": {
+          "@type": "DefinedRegion",
+          "addressCountry": "AZ"
+        },
+        "deliveryTime": {
+          "@type": "ShippingDeliveryTime",
+          "handlingTime": {
+            "@type": "QuantitativeValue",
+            "minValue": 0,
+            "maxValue": 1,
+            "unitCode": "DAY"
+          },
+          "transitTime": {
+            "@type": "QuantitativeValue",
+            "minValue": 0,
+            "maxValue": 1,
+            "unitCode": "DAY"
+          },
+          "businessDays": {
+            "@type": "OpeningHoursSpecification",
+            "dayOfWeek": [
+              "https://schema.org/Monday",
+              "https://schema.org/Tuesday",
+              "https://schema.org/Wednesday",
+              "https://schema.org/Thursday",
+              "https://schema.org/Friday",
+              "https://schema.org/Saturday",
+              "https://schema.org/Sunday"
+            ]
+          }
+        },
+        "shippingRate": {
+          "@type": "MonetaryAmount",
+          "value": 0,
+          "currency": "AZN"
+        }
+      }
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": 5,
+      "reviewCount": 6
+    },
+    "brand": {
+      "@type": "Brand",
+      "name": "Euroacs",
+      "url": "https://birmarket.az/brands/Euroacs"
+    }
+  }
+}

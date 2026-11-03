@@ -1,0 +1,663 @@
+{
+  "product": {
+    "id": 976958,
+    "gtin": "",
+    "mpn": "2667_51-925-qara-41",
+    "name": "Kişilər üçün kedlər 51-925, qara, süni dəri, ölçü 41",
+    "slugged_name_az": "kishiler-uchun-kedler-51-925-qara-suni-deri-olchu-41",
+    "slugged_name_ru": "kedy-muzhskie-51-925-chernyy-iskusstvennaya-kozha-razmer-41",
+    "description": "Qara rəngdə kişi üslubunda universal kedlər - aktiv həyat tərzi üçün ideal seçimdir. Ölçü 41, yüksək keyfiyyətli süni dəridən hazırlanmışdır. Çində istehsal olunub. Gündəlik geyim və idman məşqləri üçün uyğundur. Müasir kişi üçün rahatlıq və üslubun birləşməsi.",
+    "description_outlet": "",
+    "status": "active",
+    "uuid": "479adbf4-52da-4075-8434-cbf752c7a94d",
+    "variant_code": "51-925",
+    "default_offer": {
+      "uuid": "1af7aac0-a7be-455e-88da-d0b586fb1d6c",
+      "installment_enabled": true,
+      "max_installment_months": 18,
+      "product_offer_labels": [],
+      "old_price": 55,
+      "retail_price": 27.7,
+      "supplier_id": "ccfe7be2-f07e-4b9b-b8c8-f3da0fcab16d",
+      "qty": 0,
+      "seller": {
+        "ext_id": "ccfe7be2-f07e-4b9b-b8c8-f3da0fcab16d",
+        "marketing_name": {
+          "id": 2917,
+          "name": "TOPBRANDS"
+        },
+        "logo": {
+          "thumbnail": "https://storage.umico.az/cpcustomerprod01/007334f2f30eb2427d808580066cd486.jpg"
+        },
+        "vat_payer": false,
+        "rating": 99,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "discount_effective_start_date": "",
+      "discount_effective_end_date": ""
+    },
+    "category_id": 3177,
+    "category": {
+      "id": 3177,
+      "name": "Kişi krosovkaları və kedləri"
+    },
+    "brand": {
+      "name": "No Brand"
+    },
+    "custom_fields": [
+      {
+        "master_field_id": 620,
+        "values": [
+          "Kedlər"
+        ]
+      },
+      {
+        "master_field_id": 625,
+        "values": [
+          "Qara"
+        ]
+      },
+      {
+        "master_field_id": 637,
+        "values": [
+          "Süni dəri"
+        ]
+      },
+      {
+        "master_field_id": 1423,
+        "values": [
+          "41"
+        ]
+      },
+      {
+        "master_field_id": 618,
+        "values": [
+          "Çin"
+        ]
+      }
+    ],
+    "main_img": {
+      "big": "https://strgimgr.umico.az/sized/1680/976958-5e6554dfae7e15225014a723d68b6492.jpg",
+      "medium": "https://strgimgr.umico.az/sized/840/976958-5e6554dfae7e15225014a723d68b6492.jpg",
+      "small": "https://strgimgr.umico.az/sized/280/976958-5e6554dfae7e15225014a723d68b6492.jpg"
+    },
+    "img_url_thumbnail": "https://strgimgr.umico.az/sized/280/976958-5e6554dfae7e15225014a723d68b6492.jpg",
+    "main_video": "",
+    "imgs": [
+      {
+        "big": "https://strgimgr.umico.az/sized/1680/976958-5e6554dfae7e15225014a723d68b6492.jpg",
+        "medium": "https://strgimgr.umico.az/sized/840/976958-5e6554dfae7e15225014a723d68b6492.jpg",
+        "small": "https://strgimgr.umico.az/sized/280/976958-5e6554dfae7e15225014a723d68b6492.jpg"
+      },
+      {
+        "big": "https://strgimgr.umico.az/sized/1680/976958-c55e2a53fcabf1ea980dd786ee996434.jpg",
+        "medium": "https://strgimgr.umico.az/sized/840/976958-c55e2a53fcabf1ea980dd786ee996434.jpg",
+        "small": "https://strgimgr.umico.az/sized/280/976958-c55e2a53fcabf1ea980dd786ee996434.jpg"
+      }
+    ],
+    "videos": [],
+    "min_qty": 1,
+    "preorder_available": false,
+    "is_assortment": false,
+    "is_bulk_heavy": false,
+    "is_refurbished": false,
+    "is_refundable": true,
+    "is_dangerous": false,
+    "show_tech_description": false,
+    "use_external_content": true,
+    "product_labels": [],
+    "ratings": {
+      "rating_value": 3.4,
+      "assessment_id": 0,
+      "session_count": 5,
+      "score_count": 3,
+      "review_count": 2
+    },
+    "default_show_stock_qty_threshold": 0,
+    "card_type": "public"
+  },
+  "category": {
+    "id": 3177,
+    "name": "Kişi krosovkaları və kedləri",
+    "slugged_name_az": "kishi-krosovkalari",
+    "slugged_name_ru": "krossovki-muzhskie",
+    "view_mode": "products",
+    "mobile_visual_mode": "text",
+    "is_variant": false,
+    "depth": 3,
+    "parent_id": 3174,
+    "child_ids": [],
+    "node_type": "NODE",
+    "install_service_needed": false,
+    "fitting_allowed": true,
+    "vat": true,
+    "variations": [
+      {
+        "master_field_id": 1423,
+        "name": "Ölçü",
+        "variation_tool_type": "button",
+        "has_size_chart": true,
+        "display_variant": true
+      },
+      {
+        "master_field_id": 625,
+        "name": "Rəng",
+        "variation_tool_type": "image",
+        "has_size_chart": false,
+        "display_variant": true
+      }
+    ],
+    "custom_fields": [
+      {
+        "master_field_id": 620,
+        "category_master_field_id": 30908,
+        "name": "Tip"
+      },
+      {
+        "master_field_id": 625,
+        "category_master_field_id": 25206,
+        "name": "Rəng"
+      },
+      {
+        "master_field_id": 637,
+        "category_master_field_id": 25207,
+        "name": "Material"
+      },
+      {
+        "master_field_id": 1423,
+        "category_master_field_id": 25205,
+        "name": "Ölçü"
+      },
+      {
+        "master_field_id": 2103,
+        "category_master_field_id": 25204,
+        "name": "Fəsil"
+      },
+      {
+        "master_field_id": 4515,
+        "category_master_field_id": 30909,
+        "name": "İdman növü"
+      },
+      {
+        "master_field_id": 5943,
+        "category_master_field_id": 37260,
+        "name": "Dikdaban tipi"
+      },
+      {
+        "master_field_id": 2482,
+        "category_master_field_id": 30911,
+        "name": "Üslub"
+      },
+      {
+        "master_field_id": 618,
+        "category_master_field_id": 30912,
+        "name": "İstehsalçı ölkə"
+      },
+      {
+        "master_field_id": 2210,
+        "category_master_field_id": 30913,
+        "name": "Brendin ölkəsi"
+      }
+    ],
+    "parent": {
+      "id": 3174,
+      "node_type": "NODE",
+      "name": "Kişi ayaqqabıları",
+      "slugged_name": "kishi-ayaqqabilari",
+      "parent": {
+        "id": 3117,
+        "node_type": "NODE",
+        "name": "Kişilər üçün",
+        "slugged_name": "kishi",
+        "parent": {
+          "id": 3003,
+          "node_type": "NODE",
+          "name": "Geyim,ayaqqabı və aksessuarlar",
+          "slugged_name": "geyim-ve-ayaqqabi",
+          "parent": null
+        }
+      }
+    },
+    "is_refundable": true,
+    "is_adult": false,
+    "icons": {
+      "thumbnail": "https://strgimgr.umico.az/img/category/188/8701f1fd-b237-4ee2-bce5-ed487408e3d4.jpeg",
+      "original": "https://strgimgr.umico.az/img/category/original/8701f1fd-b237-4ee2-bce5-ed487408e3d4.png"
+    },
+    "is_active": true
+  },
+  "offers": [
+    {
+      "uuid": "1af7aac0-a7be-455e-88da-d0b586fb1d6c",
+      "installment_enabled": true,
+      "max_installment_months": 18,
+      "product_offer_labels": [],
+      "old_price": 55,
+      "retail_price": 27.7,
+      "supplier_id": "ccfe7be2-f07e-4b9b-b8c8-f3da0fcab16d",
+      "seller": {
+        "ext_id": "3ac9edd7-cd77-4b8e-8a1b-a6c9723ade0b",
+        "internal_id": 2917,
+        "marketing_name": {
+          "id": 2917,
+          "name": "TOPBRANDS"
+        },
+        "logo": {
+          "thumbnail": "https://storage.umico.az/cpcustomerprod01/007334f2f30eb2427d808580066cd486.jpg"
+        },
+        "vat_payer": false,
+        "rating": 99,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "allow_qty": 0
+    }
+  ],
+  "variations": [
+    {
+      "id": 1169456,
+      "name": "Kişilər üçün kedlər 51-925, ağ, süni dəri, ölçü 44",
+      "slugged_name": "kishiler-uchun-kedler-51-925-ag-suni-deri-olchu-44",
+      "custom_fields": [
+        {
+          "master_field_id": 1423,
+          "values": [
+            "44"
+          ]
+        },
+        {
+          "master_field_id": 625,
+          "values": [
+            "Ağ"
+          ]
+        }
+      ],
+      "main_img": {
+        "big": "https://strgimgr.umico.az/img/product/1680/2c666b4d-0fae-43fe-8ef9-8d8db97bd2a5.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/2c666b4d-0fae-43fe-8ef9-8d8db97bd2a5.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/2c666b4d-0fae-43fe-8ef9-8d8db97bd2a5.jpeg"
+      },
+      "status": "active"
+    },
+    {
+      "id": 976959,
+      "name": "Kişilər üçün kedlər 51-925, qara, süni dəri, ölçü 42",
+      "slugged_name": "kishiler-uchun-kedler-51-925-qara-suni-deri-olchu-42",
+      "custom_fields": [
+        {
+          "master_field_id": 1423,
+          "values": [
+            "42"
+          ]
+        },
+        {
+          "master_field_id": 625,
+          "values": [
+            "Qara"
+          ]
+        }
+      ],
+      "main_img": {
+        "big": "https://strgimgr.umico.az/sized/1680/976959-5e6554dfae7e15225014a723d68b6492.jpg",
+        "medium": "https://strgimgr.umico.az/sized/840/976959-5e6554dfae7e15225014a723d68b6492.jpg",
+        "small": "https://strgimgr.umico.az/sized/280/976959-5e6554dfae7e15225014a723d68b6492.jpg"
+      },
+      "status": "active"
+    },
+    {
+      "id": 1169454,
+      "name": "Kişilər üçün kedlər 51-925, ağ, süni dəri, ölçü 42",
+      "slugged_name": "kishiler-uchun-kedler-51-925-ag-suni-deri-olchu-42",
+      "custom_fields": [
+        {
+          "master_field_id": 1423,
+          "values": [
+            "42"
+          ]
+        },
+        {
+          "master_field_id": 625,
+          "values": [
+            "Ağ"
+          ]
+        }
+      ],
+      "main_img": {
+        "big": "https://strgimgr.umico.az/img/product/1680/2c666b4d-0fae-43fe-8ef9-8d8db97bd2a5.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/2c666b4d-0fae-43fe-8ef9-8d8db97bd2a5.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/2c666b4d-0fae-43fe-8ef9-8d8db97bd2a5.jpeg"
+      },
+      "status": "active"
+    },
+    {
+      "id": 1169452,
+      "name": "Kişilər üçün kedlər 51-925, ağ, süni dəri, ölçü 40",
+      "slugged_name": "kishiler-uchun-kedler-51-925-ag-suni-deri-olchu-40",
+      "custom_fields": [
+        {
+          "master_field_id": 1423,
+          "values": [
+            "40"
+          ]
+        },
+        {
+          "master_field_id": 625,
+          "values": [
+            "Ağ"
+          ]
+        }
+      ],
+      "main_img": {
+        "big": "https://strgimgr.umico.az/img/product/1680/2c666b4d-0fae-43fe-8ef9-8d8db97bd2a5.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/2c666b4d-0fae-43fe-8ef9-8d8db97bd2a5.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/2c666b4d-0fae-43fe-8ef9-8d8db97bd2a5.jpeg"
+      },
+      "status": "active"
+    },
+    {
+      "id": 976957,
+      "name": "Kişilər üçün kedlər 51-925, qara, süni dəri, ölçü 40",
+      "slugged_name": "kishiler-uchun-kedler-51-925-qara-suni-deri-olchu-40",
+      "custom_fields": [
+        {
+          "master_field_id": 1423,
+          "values": [
+            "40"
+          ]
+        },
+        {
+          "master_field_id": 625,
+          "values": [
+            "Qara"
+          ]
+        }
+      ],
+      "main_img": {
+        "big": "https://strgimgr.umico.az/sized/1680/976957-5e6554dfae7e15225014a723d68b6492.jpg",
+        "medium": "https://strgimgr.umico.az/sized/840/976957-5e6554dfae7e15225014a723d68b6492.jpg",
+        "small": "https://strgimgr.umico.az/sized/280/976957-5e6554dfae7e15225014a723d68b6492.jpg"
+      },
+      "status": "active"
+    },
+    {
+      "id": 1169462,
+      "name": "Kişilər üçün kedlər 51-925, gümüşü, süni dəri, ölçü 43",
+      "slugged_name": "kishiler-uchun-kedler-51-925-gumushu-suni-deri-olchu-43",
+      "custom_fields": [
+        {
+          "master_field_id": 1423,
+          "values": [
+            "43"
+          ]
+        },
+        {
+          "master_field_id": 625,
+          "values": [
+            "Gümüşü"
+          ]
+        }
+      ],
+      "main_img": {
+        "big": "https://strgimgr.umico.az/img/product/1680/d6314c03-1aa3-4d03-bb71-339b747a4268.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/d6314c03-1aa3-4d03-bb71-339b747a4268.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/d6314c03-1aa3-4d03-bb71-339b747a4268.jpeg"
+      },
+      "status": "active"
+    },
+    {
+      "id": 1169455,
+      "name": "Kişilər üçün kedlər 51-925, ağ, süni dəri, ölçü 43",
+      "slugged_name": "kishiler-uchun-kedler-51-925-ag-suni-deri-olchu-43",
+      "custom_fields": [
+        {
+          "master_field_id": 1423,
+          "values": [
+            "43"
+          ]
+        },
+        {
+          "master_field_id": 625,
+          "values": [
+            "Ağ"
+          ]
+        }
+      ],
+      "main_img": {
+        "big": "https://strgimgr.umico.az/img/product/1680/2c666b4d-0fae-43fe-8ef9-8d8db97bd2a5.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/2c666b4d-0fae-43fe-8ef9-8d8db97bd2a5.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/2c666b4d-0fae-43fe-8ef9-8d8db97bd2a5.jpeg"
+      },
+      "status": "active"
+    },
+    {
+      "id": 1169459,
+      "name": "Kişilər üçün kedlər 51-925, gümüşü, süni dəri, ölçü 40",
+      "slugged_name": "kishiler-uchun-kedler-51-925-gumushu-suni-deri-olchu-40",
+      "custom_fields": [
+        {
+          "master_field_id": 1423,
+          "values": [
+            "40"
+          ]
+        },
+        {
+          "master_field_id": 625,
+          "values": [
+            "Gümüşü"
+          ]
+        }
+      ],
+      "main_img": {
+        "big": "https://strgimgr.umico.az/img/product/1680/d6314c03-1aa3-4d03-bb71-339b747a4268.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/d6314c03-1aa3-4d03-bb71-339b747a4268.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/d6314c03-1aa3-4d03-bb71-339b747a4268.jpeg"
+      },
+      "status": "active"
+    },
+    {
+      "id": 976961,
+      "name": "Kişilər üçün kedlər 51-925, qara, süni dəri, ölçü 44",
+      "slugged_name": "kishiler-uchun-kedler-51-925-qara-suni-deri-olchu-44",
+      "custom_fields": [
+        {
+          "master_field_id": 1423,
+          "values": [
+            "44"
+          ]
+        },
+        {
+          "master_field_id": 625,
+          "values": [
+            "Qara"
+          ]
+        }
+      ],
+      "main_img": {
+        "big": "https://strgimgr.umico.az/sized/1680/976961-5e6554dfae7e15225014a723d68b6492.jpg",
+        "medium": "https://strgimgr.umico.az/sized/840/976961-5e6554dfae7e15225014a723d68b6492.jpg",
+        "small": "https://strgimgr.umico.az/sized/280/976961-5e6554dfae7e15225014a723d68b6492.jpg"
+      },
+      "status": "active"
+    },
+    {
+      "id": 1169461,
+      "name": "Kişilər üçün kedlər 51-925, gümüşü, süni dəri, ölçü 42",
+      "slugged_name": "kishiler-uchun-kedler-51-925-gumushu-suni-deri-olchu-42",
+      "custom_fields": [
+        {
+          "master_field_id": 1423,
+          "values": [
+            "42"
+          ]
+        },
+        {
+          "master_field_id": 625,
+          "values": [
+            "Gümüşü"
+          ]
+        }
+      ],
+      "main_img": {
+        "big": "https://strgimgr.umico.az/img/product/1680/d6314c03-1aa3-4d03-bb71-339b747a4268.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/d6314c03-1aa3-4d03-bb71-339b747a4268.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/d6314c03-1aa3-4d03-bb71-339b747a4268.jpeg"
+      },
+      "status": "active"
+    },
+    {
+      "id": 1169460,
+      "name": "Kişilər üçün kedlər 51-925, gümüşü, süni dəri, ölçü 41",
+      "slugged_name": "kishiler-uchun-kedler-51-925-gumushu-suni-deri-olchu-41",
+      "custom_fields": [
+        {
+          "master_field_id": 1423,
+          "values": [
+            "41"
+          ]
+        },
+        {
+          "master_field_id": 625,
+          "values": [
+            "Gümüşü"
+          ]
+        }
+      ],
+      "main_img": {
+        "big": "https://strgimgr.umico.az/img/product/1680/d6314c03-1aa3-4d03-bb71-339b747a4268.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/d6314c03-1aa3-4d03-bb71-339b747a4268.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/d6314c03-1aa3-4d03-bb71-339b747a4268.jpeg"
+      },
+      "status": "active"
+    },
+    {
+      "id": 1169453,
+      "name": "Kişilər üçün kedlər 51-925, ağ, süni dəri, ölçü 41",
+      "slugged_name": "kishiler-uchun-kedler-51-925-ag-suni-deri-olchu-41",
+      "custom_fields": [
+        {
+          "master_field_id": 1423,
+          "values": [
+            "41"
+          ]
+        },
+        {
+          "master_field_id": 625,
+          "values": [
+            "Ağ"
+          ]
+        }
+      ],
+      "main_img": {
+        "big": "https://strgimgr.umico.az/img/product/1680/2c666b4d-0fae-43fe-8ef9-8d8db97bd2a5.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/2c666b4d-0fae-43fe-8ef9-8d8db97bd2a5.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/2c666b4d-0fae-43fe-8ef9-8d8db97bd2a5.jpeg"
+      },
+      "status": "active"
+    },
+    {
+      "id": 976958,
+      "name": "Kişilər üçün kedlər 51-925, qara, süni dəri, ölçü 41",
+      "slugged_name": "kishiler-uchun-kedler-51-925-qara-suni-deri-olchu-41",
+      "custom_fields": [
+        {
+          "master_field_id": 1423,
+          "values": [
+            "41"
+          ]
+        },
+        {
+          "master_field_id": 625,
+          "values": [
+            "Qara"
+          ]
+        }
+      ],
+      "main_img": {
+        "big": "https://strgimgr.umico.az/sized/1680/976958-5e6554dfae7e15225014a723d68b6492.jpg",
+        "medium": "https://strgimgr.umico.az/sized/840/976958-5e6554dfae7e15225014a723d68b6492.jpg",
+        "small": "https://strgimgr.umico.az/sized/280/976958-5e6554dfae7e15225014a723d68b6492.jpg"
+      },
+      "status": "active"
+    }
+  ],
+  "size_chart": {},
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "sku": 976958,
+    "mpn": "2667_51-925-qara-41",
+    "url": "https://birmarket.az/product/976958-kishiler-uchun-kedler-51-925-qara-suni-deri-olchu-41",
+    "name": "Kişilər üçün kedlər 51-925, qara, süni dəri, ölçü 41",
+    "image": [
+      "https://strgimgr.umico.az/sized/1680/976958-5e6554dfae7e15225014a723d68b6492.jpg",
+      "https://strgimgr.umico.az/sized/1680/976958-c55e2a53fcabf1ea980dd786ee996434.jpg"
+    ],
+    "description": "Qara rəngdə kişi üslubunda universal kedlər - aktiv həyat tərzi üçün ideal seçimdir. Ölçü 41, yüksək keyfiyyətli süni dəridən hazırlanmışdır. Çində istehsal olunub. Gündəlik geyim və idman məşqləri üçün uyğundur. Müasir kişi üçün rahatlıq və üslubun birləşməsi.",
+    "itemCondition": "https://schema.org/NewCondition",
+    "offers": {
+      "@type": "Offer",
+      "availability": "https://schema.org/InStock",
+      "url": "https://birmarket.az/product/976958-kishiler-uchun-kedler-51-925-qara-suni-deri-olchu-41",
+      "price": 27.7,
+      "priceCurrency": "AZN",
+      "priceValidUntil": "2026-12-02T16:37:57+00:00Z",
+      "hasMerchantReturnPolicy": {
+        "applicableCountry": "AZ",
+        "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+        "returnMethod": "https://schema.org/ReturnInStore",
+        "returnFees": "https://schema.org/FreeReturn",
+        "merchantReturnDays": 14
+      },
+      "shippingDetails": {
+        "@type": "OfferShippingDetails",
+        "shippingDestination": {
+          "@type": "DefinedRegion",
+          "addressCountry": "AZ"
+        },
+        "deliveryTime": {
+          "@type": "ShippingDeliveryTime",
+          "handlingTime": {
+            "@type": "QuantitativeValue",
+            "minValue": 0,
+            "maxValue": 1,
+            "unitCode": "DAY"
+          },
+          "transitTime": {
+            "@type": "QuantitativeValue",
+            "minValue": 0,
+            "maxValue": 1,
+            "unitCode": "DAY"
+          },
+          "businessDays": {
+            "@type": "OpeningHoursSpecification",
+            "dayOfWeek": [
+              "https://schema.org/Monday",
+              "https://schema.org/Tuesday",
+              "https://schema.org/Wednesday",
+              "https://schema.org/Thursday",
+              "https://schema.org/Friday",
+              "https://schema.org/Saturday",
+              "https://schema.org/Sunday"
+            ]
+          }
+        },
+        "shippingRate": {
+          "@type": "MonetaryAmount",
+          "value": 0,
+          "currency": "AZN"
+        }
+      }
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": 3,
+      "reviewCount": 2
+    },
+    "brand": {
+      "@type": "Brand",
+      "name": "No Brand",
+      "url": "https://birmarket.az/brands/No%20Brand"
+    }
+  }
+}

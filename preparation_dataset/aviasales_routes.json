@@ -1,0 +1,129 @@
+{
+  "mode": "published_cached_fares",
+  "currency": "AZN",
+  "routes": [
+    {
+      "origin": "BAK",
+      "destination": "IST",
+      "mock_airport_pairs": [
+        "GYD-IST"
+      ],
+      "mock_departure_dates": [
+        "2026-11-06",
+        "2026-11-07"
+      ],
+      "mock_cabins": [
+        "economy",
+        "business"
+      ]
+    },
+    {
+      "origin": "IST",
+      "destination": "BAK",
+      "mock_airport_pairs": [
+        "IST-GYD"
+      ],
+      "mock_departure_dates": [
+        "2026-11-09",
+        "2026-11-10"
+      ],
+      "mock_cabins": [
+        "economy"
+      ]
+    },
+    {
+      "origin": "BAK",
+      "destination": "DXB",
+      "mock_airport_pairs": [
+        "GYD-DXB"
+      ],
+      "mock_departure_dates": [
+        "2026-11-05",
+        "2026-11-08",
+        "2026-11-06"
+      ],
+      "mock_cabins": [
+        "economy"
+      ]
+    },
+    {
+      "origin": "DXB",
+      "destination": "BAK",
+      "mock_airport_pairs": [
+        "DXB-GYD"
+      ],
+      "mock_departure_dates": [
+        "2026-11-12"
+      ],
+      "mock_cabins": [
+        "economy"
+      ]
+    },
+    {
+      "origin": "BAK",
+      "destination": "MOW",
+      "mock_airport_pairs": [
+        "GYD-SVO"
+      ],
+      "mock_departure_dates": [
+        "2026-11-04",
+        "2026-11-07"
+      ],
+      "mock_cabins": [
+        "economy"
+      ]
+    },
+    {
+      "origin": "MOW",
+      "destination": "BAK",
+      "mock_airport_pairs": [
+        "SVO-GYD"
+      ],
+      "mock_departure_dates": [
+        "2026-11-11"
+      ],
+      "mock_cabins": [
+        "economy"
+      ]
+    },
+    {
+      "origin": "BAK",
+      "destination": "TBS",
+      "mock_airport_pairs": [
+        "GYD-TBS"
+      ],
+      "mock_departure_dates": [
+        "2026-11-03"
+      ],
+      "mock_cabins": [
+        "economy"
+      ]
+    },
+    {
+      "origin": "TBS",
+      "destination": "BAK",
+      "mock_airport_pairs": [
+        "TBS-GYD"
+      ],
+      "mock_departure_dates": [
+        "2026-11-09"
+      ],
+      "mock_cabins": [
+        "economy"
+      ]
+    },
+    {
+      "origin": "BAK",
+      "destination": "TAS",
+      "mock_airport_pairs": [
+        "GYD-TAS"
+      ],
+      "mock_departure_dates": [
+        "2026-11-09"
+      ],
+      "mock_cabins": [
+        "economy"
+      ]
+    }
+  ]
+}

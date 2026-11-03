@@ -1,0 +1,780 @@
+{
+  "product": {
+    "id": 49335,
+    "gtin": "194850877209",
+    "mpn": "104K9EA",
+    "name": "Notbuk HP Omen 15-ek0002ur (104K9EA)",
+    "slugged_name_az": "noutbuk-hp-omen-15-ek0002ur-104k9ea",
+    "slugged_name_ru": "noutbuk-hp-omen-15-ek0002ur-104k9ea",
+    "description": "HP Omen 15-ek0002ur noutbuku oyunçular və peşəkarlar üçün uyğun, yüksək məhsuldarlığa malik bir qurğudur. 2,5 GHz takt tezlikli 4 nüvəli Intel Core i5 10300H prosessoru və 6 GB video yaddaşa malik NVIDIA GeForce GTX 1660 Ti qrafik adapteri ilə təchiz olunmuş noutbuk, resurslara tələbkar oyun və tətbiqləri asanlıqla idarə edə bilir. SSD-nin həcmi 512 GB, operativ yaddaşı isə 16 GB DDR4-dür ki, bu da proqramların sürətli işə düşməsi və fəaliyyəti üçün təminat verir. Mat IPS-ekranın diaqonalı 15,6 düym, ekranın təsvir ölçüsü Full HD (1920x1080), yeniləmə tezliyi isə 60 Hz-dir. Bu, əlavə işıq əksləri olmadan göstərilən təsvirin dəqiqliyini və keyfiyyətini təmin edir. Qara rəngdə ada dizaynlı klaviatura, 2.0 səs dəstəyi olan 2 dinamik, HDMI, Ethernet və 4 USB-port noutbukun istifadəsini asanlaşdırır. Korpus tozdan qorunur və şık dizaynı ilə 357 mm ölçüdə və 2,2 kq çəkidə olan cihazın daşınma rahatlığını artırır. Noutbuk 2020-ci ildə bazara təqdim olunub, qrafik kontrollerin istehsalı NVIDIA şirkəti tərəfindən həyata keçirilmişdir, markanın istehsal ölkəsi ABŞ-dır.",
+    "description_outlet": "",
+    "status": "active",
+    "uuid": "3ebd5004-db44-4162-af3e-30b8ac0a883b",
+    "variant_code": "VC_49335",
+    "default_offer": {
+      "uuid": "4c23fefd-488b-446d-8c19-5300df8eca81",
+      "installment_enabled": true,
+      "max_installment_months": 3,
+      "product_offer_labels": [],
+      "old_price": 1999,
+      "retail_price": 1785.96,
+      "supplier_id": "64911831-0499-422e-9905-0ec88f0d3a3c",
+      "qty": 0,
+      "seller": {
+        "ext_id": "64911831-0499-422e-9905-0ec88f0d3a3c",
+        "marketing_name": {
+          "id": 5529,
+          "name": "T-Mobile.az"
+        },
+        "logo": {
+          "thumbnail": "https://storage.umico.az/cpcustomerprod01/2c55f723ac0b759ce069eedfda0c742c.png"
+        },
+        "vat_payer": true,
+        "rating": 75,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "discount_effective_start_date": "",
+      "discount_effective_end_date": ""
+    },
+    "category_id": 16,
+    "category": {
+      "id": 16,
+      "name": "Notbuklar"
+    },
+    "brand": {
+      "name": "HP"
+    },
+    "custom_fields": [
+      {
+        "master_field_id": 6044,
+        "values": [
+          "10300H"
+        ]
+      },
+      {
+        "master_field_id": 834,
+        "values": [
+          "DDR4"
+        ]
+      },
+      {
+        "master_field_id": 661,
+        "values": [
+          "16"
+        ]
+      },
+      {
+        "master_field_id": 705,
+        "values": [
+          "NVIDIA GeForce GTX 1660 Ti"
+        ]
+      },
+      {
+        "master_field_id": 617,
+        "values": [
+          "15.6"
+        ]
+      },
+      {
+        "master_field_id": 1472,
+        "values": [
+          "60"
+        ]
+      },
+      {
+        "master_field_id": 675,
+        "values": [
+          "IPS"
+        ]
+      },
+      {
+        "master_field_id": 619,
+        "values": [
+          "1920 x 1080"
+        ]
+      },
+      {
+        "master_field_id": 672,
+        "values": [
+          "Intel Core i5"
+        ]
+      },
+      {
+        "master_field_id": 673,
+        "values": [
+          "2500"
+        ]
+      },
+      {
+        "master_field_id": 664,
+        "values": [
+          "4"
+        ]
+      },
+      {
+        "master_field_id": 2595,
+        "values": [
+          "512"
+        ]
+      },
+      {
+        "master_field_id": 1488,
+        "values": [
+          "SSD"
+        ]
+      },
+      {
+        "master_field_id": 1744,
+        "values": [
+          "NVIDIA"
+        ]
+      },
+      {
+        "master_field_id": 662,
+        "values": [
+          "6"
+        ]
+      },
+      {
+        "master_field_id": 1743,
+        "values": [
+          "Diskret"
+        ]
+      },
+      {
+        "master_field_id": 656,
+        "values": [
+          "2.2"
+        ]
+      },
+      {
+        "master_field_id": 625,
+        "values": [
+          "Qara"
+        ]
+      },
+      {
+        "master_field_id": 775,
+        "values": [
+          "240"
+        ]
+      },
+      {
+        "master_field_id": 776,
+        "values": [
+          "357"
+        ]
+      },
+      {
+        "master_field_id": 1476,
+        "values": [
+          "HP Omen 15"
+        ]
+      },
+      {
+        "master_field_id": 1739,
+        "values": [
+          "Xeyr"
+        ]
+      },
+      {
+        "master_field_id": 1594,
+        "values": [
+          "Bəli"
+        ]
+      },
+      {
+        "master_field_id": 658,
+        "values": [
+          "Xeyr"
+        ]
+      },
+      {
+        "master_field_id": 2210,
+        "values": [
+          "ABŞ"
+        ]
+      },
+      {
+        "master_field_id": 2635,
+        "values": [
+          "2020"
+        ]
+      },
+      {
+        "master_field_id": 1493,
+        "values": [
+          "Ada şəklində"
+        ]
+      },
+      {
+        "master_field_id": 1557,
+        "values": [
+          "Qara"
+        ]
+      },
+      {
+        "master_field_id": 1508,
+        "values": [
+          "2"
+        ]
+      },
+      {
+        "master_field_id": 2596,
+        "values": [
+          "Bəli"
+        ]
+      },
+      {
+        "master_field_id": 2559,
+        "values": [
+          "4"
+        ]
+      },
+      {
+        "master_field_id": 1556,
+        "values": [
+          "Yoxdur"
+        ]
+      },
+      {
+        "master_field_id": 2552,
+        "values": [
+          "Toza davamlı"
+        ]
+      },
+      {
+        "master_field_id": 1492,
+        "values": [
+          "2.0"
+        ]
+      },
+      {
+        "master_field_id": 660,
+        "values": [
+          "Mat"
+        ]
+      },
+      {
+        "master_field_id": 6327,
+        "values": [
+          "Xeyr"
+        ]
+      }
+    ],
+    "main_img": {
+      "big": "https://strgimgr.umico.az/sized/1680/49335-acef29a722b7db02a4c7499a6bc0f6d0.jpg",
+      "medium": "https://strgimgr.umico.az/sized/840/49335-acef29a722b7db02a4c7499a6bc0f6d0.jpg",
+      "small": "https://strgimgr.umico.az/sized/280/49335-acef29a722b7db02a4c7499a6bc0f6d0.jpg"
+    },
+    "img_url_thumbnail": "https://strgimgr.umico.az/sized/280/49335-acef29a722b7db02a4c7499a6bc0f6d0.jpg",
+    "main_video": "",
+    "imgs": [
+      {
+        "big": "https://strgimgr.umico.az/sized/1680/49335-acef29a722b7db02a4c7499a6bc0f6d0.jpg",
+        "medium": "https://strgimgr.umico.az/sized/840/49335-acef29a722b7db02a4c7499a6bc0f6d0.jpg",
+        "small": "https://strgimgr.umico.az/sized/280/49335-acef29a722b7db02a4c7499a6bc0f6d0.jpg"
+      },
+      {
+        "big": "https://strgimgr.umico.az/sized/1680/49335-21d748a23a7f8c9123fb44b81c94f6f7.jpg",
+        "medium": "https://strgimgr.umico.az/sized/840/49335-21d748a23a7f8c9123fb44b81c94f6f7.jpg",
+        "small": "https://strgimgr.umico.az/sized/280/49335-21d748a23a7f8c9123fb44b81c94f6f7.jpg"
+      },
+      {
+        "big": "https://strgimgr.umico.az/sized/1680/49335-d726ba3fc997bdf3d08fd2cb09208b60.jpg",
+        "medium": "https://strgimgr.umico.az/sized/840/49335-d726ba3fc997bdf3d08fd2cb09208b60.jpg",
+        "small": "https://strgimgr.umico.az/sized/280/49335-d726ba3fc997bdf3d08fd2cb09208b60.jpg"
+      }
+    ],
+    "videos": [],
+    "min_qty": 1,
+    "preorder_available": false,
+    "is_assortment": false,
+    "is_bulk_heavy": false,
+    "is_refurbished": false,
+    "is_refundable": true,
+    "is_dangerous": false,
+    "show_tech_description": false,
+    "use_external_content": true,
+    "product_labels": [],
+    "ratings": {
+      "rating_value": 0,
+      "assessment_id": 0,
+      "session_count": 0
+    },
+    "default_show_stock_qty_threshold": 0,
+    "card_type": "public"
+  },
+  "category": {
+    "id": 16,
+    "name": "Notbuklar",
+    "slugged_name_az": "noutbuklar",
+    "slugged_name_ru": "noutbuki",
+    "view_mode": "products",
+    "mobile_visual_mode": "text",
+    "is_variant": true,
+    "depth": 2,
+    "parent_id": 15,
+    "child_ids": [],
+    "node_type": "NODE",
+    "install_service_needed": false,
+    "fitting_allowed": false,
+    "vat": true,
+    "variations": [
+      {
+        "master_field_id": 625,
+        "name": "Rəng",
+        "variation_tool_type": "image",
+        "has_size_chart": false,
+        "display_variant": false
+      },
+      {
+        "master_field_id": 2595,
+        "name": "SSD həcmi, Gb",
+        "variation_tool_type": "button",
+        "has_size_chart": false,
+        "display_variant": false
+      },
+      {
+        "master_field_id": 672,
+        "name": "Prosessorun növü",
+        "variation_tool_type": "button",
+        "has_size_chart": false,
+        "display_variant": false
+      }
+    ],
+    "custom_fields": [
+      {
+        "master_field_id": 1476,
+        "category_master_field_id": 4465,
+        "name": "Seriya"
+      },
+      {
+        "master_field_id": 620,
+        "category_master_field_id": 1503,
+        "name": "Tip"
+      },
+      {
+        "master_field_id": 672,
+        "category_master_field_id": 5316,
+        "name": "Prosessorun növü"
+      },
+      {
+        "master_field_id": 661,
+        "category_master_field_id": 1510,
+        "name": "Operativ yaddaşın həcmi, Gb"
+      },
+      {
+        "master_field_id": 834,
+        "category_master_field_id": 4473,
+        "name": "Yaddaşın növü"
+      },
+      {
+        "master_field_id": 2595,
+        "category_master_field_id": 10818,
+        "name": "SSD həcmi, Gb"
+      },
+      {
+        "master_field_id": 2594,
+        "category_master_field_id": 10817,
+        "name": "HDD həcmi, Gb"
+      },
+      {
+        "master_field_id": 1488,
+        "category_master_field_id": 4481,
+        "name": "Yığıcının növü"
+      },
+      {
+        "master_field_id": 617,
+        "category_master_field_id": 1506,
+        "name": "Ekranın diaqonalı, düym"
+      },
+      {
+        "master_field_id": 619,
+        "category_master_field_id": 4460,
+        "name": "Ekranın qətnaməsi"
+      },
+      {
+        "master_field_id": 675,
+        "category_master_field_id": 4458,
+        "name": "Matrisin növü"
+      },
+      {
+        "master_field_id": 1472,
+        "category_master_field_id": 4461,
+        "name": "Kadrların dəyişmə tezliyi, Hz"
+      },
+      {
+        "master_field_id": 659,
+        "category_master_field_id": 1507,
+        "name": "Əvvəlcədən quraşdırılmış ƏS"
+      },
+      {
+        "master_field_id": 625,
+        "category_master_field_id": 1509,
+        "name": "Rəng"
+      },
+      {
+        "master_field_id": 2211,
+        "category_master_field_id": 10835,
+        "name": "Zəmanət müddəti"
+      },
+      {
+        "master_field_id": 660,
+        "category_master_field_id": 1508,
+        "name": "Ekran örtüyünün növü"
+      },
+      {
+        "master_field_id": 6044,
+        "category_master_field_id": 38416,
+        "name": "Prosessorun kodu"
+      },
+      {
+        "master_field_id": 673,
+        "category_master_field_id": 5320,
+        "name": "Prosessorun tezliyi, MHz"
+      },
+      {
+        "master_field_id": 719,
+        "category_master_field_id": 4477,
+        "name": "Yaddaş yuvalarının sayı"
+      },
+      {
+        "master_field_id": 1482,
+        "category_master_field_id": 4472,
+        "name": "Maksimal artırıla bilən həcm, Gb"
+      },
+      {
+        "master_field_id": 662,
+        "category_master_field_id": 1511,
+        "name": "Video yaddaşın həcmi, Gb"
+      },
+      {
+        "master_field_id": 1743,
+        "category_master_field_id": 5321,
+        "name": "Qrafik kontrollerin növü"
+      },
+      {
+        "master_field_id": 656,
+        "category_master_field_id": 4590,
+        "name": "Çəki, kq"
+      },
+      {
+        "master_field_id": 826,
+        "category_master_field_id": 4588,
+        "name": "Akkumulyatorun həcmi, mA/saat"
+      },
+      {
+        "master_field_id": 775,
+        "category_master_field_id": 15508,
+        "name": "Uzunluğu, mm"
+      },
+      {
+        "master_field_id": 776,
+        "category_master_field_id": 15509,
+        "name": "Eni, mm"
+      },
+      {
+        "master_field_id": 1637,
+        "category_master_field_id": 10833,
+        "name": "Qalınlığı, mm"
+      },
+      {
+        "master_field_id": 705,
+        "category_master_field_id": 5324,
+        "name": "Qrafik çipset"
+      },
+      {
+        "master_field_id": 1739,
+        "category_master_field_id": 10815,
+        "name": "Sensor ekran"
+      },
+      {
+        "master_field_id": 658,
+        "category_master_field_id": 1505,
+        "name": "Ultrabuk"
+      },
+      {
+        "master_field_id": 697,
+        "category_master_field_id": 10834,
+        "name": "Komplektasiya"
+      },
+      {
+        "master_field_id": 1740,
+        "category_master_field_id": 5326,
+        "name": "Digər funksiyalar və xüsusiyyətlər"
+      },
+      {
+        "master_field_id": 2210,
+        "category_master_field_id": 10809,
+        "name": "Brendin ölkəsi"
+      },
+      {
+        "master_field_id": 618,
+        "category_master_field_id": 5330,
+        "name": "İstehsalçı ölkə"
+      },
+      {
+        "master_field_id": 2635,
+        "category_master_field_id": 37278,
+        "name": "Bazarın başlanğıc ili"
+      },
+      {
+        "master_field_id": 1493,
+        "category_master_field_id": 4487,
+        "name": "Düymələrin quruluşu"
+      },
+      {
+        "master_field_id": 1557,
+        "category_master_field_id": 4616,
+        "name": "Klaviaturanın rəngi"
+      },
+      {
+        "master_field_id": 2600,
+        "category_master_field_id": 10829,
+        "name": "Klaviaturanın işıqlandırılması"
+      },
+      {
+        "master_field_id": 1508,
+        "category_master_field_id": 10828,
+        "name": "Dinamiklərin sayı"
+      },
+      {
+        "master_field_id": 1554,
+        "category_master_field_id": 10826,
+        "name": "Yaddaş kartlarının dəstəklənməsi"
+      },
+      {
+        "master_field_id": 1811,
+        "category_master_field_id": 10825,
+        "name": "Wi-Fi standartı"
+      },
+      {
+        "master_field_id": 2598,
+        "category_master_field_id": 10824,
+        "name": "NFC mövcudluğu"
+      },
+      {
+        "master_field_id": 777,
+        "category_master_field_id": 10823,
+        "name": "Bluetooth standartı"
+      },
+      {
+        "master_field_id": 2597,
+        "category_master_field_id": 10822,
+        "name": "VGA (D-sub) port"
+      },
+      {
+        "master_field_id": 2596,
+        "category_master_field_id": 10821,
+        "name": "HDMI port"
+      },
+      {
+        "master_field_id": 1594,
+        "category_master_field_id": 4711,
+        "name": "Şəbəkəyə qoşulma (Ethernet)"
+      },
+      {
+        "master_field_id": 2559,
+        "category_master_field_id": 10820,
+        "name": "USB -portların sayı, əd."
+      },
+      {
+        "master_field_id": 1556,
+        "category_master_field_id": 4615,
+        "name": "Optik ötürücü"
+      },
+      {
+        "master_field_id": 1491,
+        "category_master_field_id": 4485,
+        "name": "Web-kamera"
+      },
+      {
+        "master_field_id": 1759,
+        "category_master_field_id": 10819,
+        "name": "Veb kamera"
+      },
+      {
+        "master_field_id": 2552,
+        "category_master_field_id": 10830,
+        "name": "Korpusun qorunması"
+      },
+      {
+        "master_field_id": 1492,
+        "category_master_field_id": 4486,
+        "name": "Səs formatı"
+      },
+      {
+        "master_field_id": 1744,
+        "category_master_field_id": 5322,
+        "name": "Qrafik çipsetin istehsalçısı"
+      },
+      {
+        "master_field_id": 664,
+        "category_master_field_id": 4468,
+        "name": "Prosessorun nüvələr sayı"
+      },
+      {
+        "master_field_id": 6327,
+        "category_master_field_id": 41934,
+        "name": "Oyun"
+      }
+    ],
+    "parent": {
+      "id": 15,
+      "node_type": "NODE",
+      "name": "Notbuk və kompüterlər",
+      "slugged_name": "noutbuklar-ve-komputer-texnikasi",
+      "parent": {
+        "id": 1,
+        "node_type": "NODE",
+        "name": "Elektronika və məişət texnikası",
+        "slugged_name": "elektronika-ve-meishet-texnikasi",
+        "parent": null
+      }
+    },
+    "is_refundable": true,
+    "is_adult": false,
+    "icons": {
+      "thumbnail": "https://strgimgr.umico.az/img/category/188/6c2913d6-8b63-4253-ac83-0d99e74ad30a.jpeg",
+      "original": "https://strgimgr.umico.az/img/category/original/6c2913d6-8b63-4253-ac83-0d99e74ad30a.png"
+    },
+    "is_active": true
+  },
+  "offers": [
+    {
+      "uuid": "4c23fefd-488b-446d-8c19-5300df8eca81",
+      "installment_enabled": true,
+      "max_installment_months": 3,
+      "product_offer_labels": [],
+      "old_price": 1999,
+      "retail_price": 1785.96,
+      "supplier_id": "64911831-0499-422e-9905-0ec88f0d3a3c",
+      "seller": {
+        "ext_id": "02f93c46-0e2a-4d1a-9a40-a32040d075a6",
+        "internal_id": 5529,
+        "marketing_name": {
+          "id": 5529,
+          "name": "T-Mobile.az"
+        },
+        "logo": {
+          "thumbnail": "https://storage.umico.az/cpcustomerprod01/2c55f723ac0b759ce069eedfda0c742c.png"
+        },
+        "vat_payer": true,
+        "rating": 75,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "allow_qty": 0
+    }
+  ],
+  "variations": [
+    {
+      "id": 49335,
+      "name": "Notbuk HP Omen 15-ek0002ur (104K9EA)",
+      "slugged_name": "noutbuk-hp-omen-15-ek0002ur-104k9ea",
+      "custom_fields": [
+        {
+          "master_field_id": 625,
+          "values": [
+            "Qara"
+          ]
+        },
+        {
+          "master_field_id": 2595,
+          "values": [
+            "512"
+          ]
+        },
+        {
+          "master_field_id": 672,
+          "values": [
+            "Intel Core i5"
+          ]
+        }
+      ],
+      "main_img": {
+        "big": "https://strgimgr.umico.az/sized/1680/49335-acef29a722b7db02a4c7499a6bc0f6d0.jpg",
+        "medium": "https://strgimgr.umico.az/sized/840/49335-acef29a722b7db02a4c7499a6bc0f6d0.jpg",
+        "small": "https://strgimgr.umico.az/sized/280/49335-acef29a722b7db02a4c7499a6bc0f6d0.jpg"
+      },
+      "status": "active"
+    }
+  ],
+  "size_chart": {},
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "sku": 49335,
+    "mpn": "104K9EA",
+    "url": "https://birmarket.az/product/49335-noutbuk-hp-omen-15-ek0002ur-104k9ea",
+    "name": "Notbuk HP Omen 15-ek0002ur (104K9EA)",
+    "image": [
+      "https://strgimgr.umico.az/sized/1680/49335-acef29a722b7db02a4c7499a6bc0f6d0.jpg",
+      "https://strgimgr.umico.az/sized/1680/49335-21d748a23a7f8c9123fb44b81c94f6f7.jpg",
+      "https://strgimgr.umico.az/sized/1680/49335-d726ba3fc997bdf3d08fd2cb09208b60.jpg"
+    ],
+    "description": "HP Omen 15-ek0002ur noutbuku oyunçular və peşəkarlar üçün uyğun, yüksək məhsuldarlığa malik bir qurğudur. 2,5 GHz takt tezlikli 4 nüvəli Intel Core i5 10300H prosessoru və 6 GB video yaddaşa malik NVIDIA GeForce GTX 1660 Ti qrafik adapteri ilə təchiz olunmuş noutbuk, resurslara tələbkar oyun və tətbiqləri asanlıqla idarə edə bilir. SSD-nin həcmi 512 GB, operativ yaddaşı isə 16 GB DDR4-dür ki, bu da proqramların sürətli işə düşməsi və fəaliyyəti üçün təminat verir. Mat IPS-ekranın diaqonalı 15,6 düym, ekranın təsvir ölçüsü Full HD (1920x1080), yeniləmə tezliyi isə 60 Hz-dir. Bu, əlavə işıq əksləri olmadan göstərilən təsvirin dəqiqliyini və keyfiyyətini təmin edir. Qara rəngdə ada dizaynlı klaviatura, 2.0 səs dəstəyi olan 2 dinamik, HDMI, Ethernet və 4 USB-port noutbukun istifadəsini asanlaşdırır. Korpus tozdan qorunur və şık dizaynı ilə 357 mm ölçüdə və 2,2 kq çəkidə olan cihazın daşınma rahatlığını artırır. Noutbuk 2020-ci ildə bazara təqdim olunub, qrafik kontrollerin istehsalı NVIDIA şirkəti tərəfindən həyata keçirilmişdir, markanın istehsal ölkəsi ABŞ-dır.",
+    "itemCondition": "https://schema.org/NewCondition",
+    "offers": {
+      "@type": "Offer",
+      "availability": "https://schema.org/InStock",
+      "url": "https://birmarket.az/product/49335-noutbuk-hp-omen-15-ek0002ur-104k9ea",
+      "price": 1785.96,
+      "priceCurrency": "AZN",
+      "priceValidUntil": "2026-12-02T16:34:18+00:00Z",
+      "hasMerchantReturnPolicy": {
+        "applicableCountry": "AZ",
+        "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+        "returnMethod": "https://schema.org/ReturnInStore",
+        "returnFees": "https://schema.org/FreeReturn",
+        "merchantReturnDays": 14
+      },
+      "shippingDetails": {
+        "@type": "OfferShippingDetails",
+        "shippingDestination": {
+          "@type": "DefinedRegion",
+          "addressCountry": "AZ"
+        },
+        "deliveryTime": {
+          "@type": "ShippingDeliveryTime",
+          "handlingTime": {
+            "@type": "QuantitativeValue",
+            "minValue": 0,
+            "maxValue": 1,
+            "unitCode": "DAY"
+          },
+          "transitTime": {
+            "@type": "QuantitativeValue",
+            "minValue": 0,
+            "maxValue": 1,
+            "unitCode": "DAY"
+          },
+          "businessDays": {
+            "@type": "OpeningHoursSpecification",
+            "dayOfWeek": [
+              "https://schema.org/Monday",
+              "https://schema.org/Tuesday",
+              "https://schema.org/Wednesday",
+              "https://schema.org/Thursday",
+              "https://schema.org/Friday",
+              "https://schema.org/Saturday",
+              "https://schema.org/Sunday"
+            ]
+          }
+        },
+        "shippingRate": {
+          "@type": "MonetaryAmount",
+          "value": 0,
+          "currency": "AZN"
+        }
+      }
+    },
+    "brand": {
+      "@type": "Brand",
+      "name": "HP",
+      "url": "https://birmarket.az/brands/HP"
+    }
+  }
+}

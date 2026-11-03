@@ -1,0 +1,350 @@
+{
+  "product": {
+    "id": 2653766,
+    "gtin": "",
+    "mpn": "MJ-TAB-600_no_brand",
+    "name": "Stolüstü oyun No Brand Taboo Azərbaycan dili, 13yaş+, oyunçu sayı 4 və daha çox - MJ-TAB-600",
+    "slugged_name_az": "stolustu-oyun-no-brand-taboo-azerbaycan-dili-13yash-oyunchu-sayi-4-ve-daha-chox-mj-tab-600",
+    "slugged_name_ru": "nastolnaya-igra-no-brand-taboo-na-azerbaydzhanskom-yazyke-13-kolichestvo-igrokov-4-i-bolee-mj-tab-600",
+    "description": "Xüsusiyyətləri:\n\nMəhsul növü: Stolüstü söz oyunu\n\nDil: Azərbaycan dili\n\nYaş həddi: 13+\n\nOyunçu sayı: 4 və daha çox\n\nKomplektasiya: Söz kartları, zamanölçən (qum saatı), kubik, qaydalar kitabçası\n\nSöz sayı: 600-dən çox söz\n\nBrend: Super Toys\n\nQablaşdırma: Karton qutu\n\nMəhsul haqqında\n\nTaboo – komandalarla oynanan dinamik və əyləncəli söz izah etmə oyunudur. Oyunun məqsədi kartın üzərindəki əsas sözü komanda yoldaşına izah etməkdir. Lakin kartda qeyd olunan “qadağan olunmuş” sözləri işlətmək olmaz.\n\nZaman məhduddur və qum saatı bitənə qədər maksimum düzgün cavab toplamaq lazımdır. Qadağan olunmuş söz işlədildikdə və ya səhv başa salındıqda xal rəqib komandaya keçir.\n\nDost məclisləri, ailə toplantıları və şənliklər üçün uyğun seçimdir. Nitq bacarığını, sürətli düşünmə qabiliyyətini və komanda koordinasiyasını inkişaf etdirir.",
+    "description_outlet": "",
+    "status": "active",
+    "uuid": "4b871c6f-a324-43ce-a281-0f3737b247eb",
+    "variant_code": "VC_1927124",
+    "default_offer": {
+      "uuid": "853363c3-3a58-4c5f-87f5-acb9fe284be6",
+      "installment_enabled": true,
+      "max_installment_months": 18,
+      "product_offer_labels": [],
+      "old_price": 0,
+      "retail_price": 20,
+      "supplier_id": "ada19a4c-97bc-4c5d-9df9-16ca1158a48c",
+      "qty": 0,
+      "seller": {
+        "ext_id": "ada19a4c-97bc-4c5d-9df9-16ca1158a48c",
+        "marketing_name": {
+          "id": 15663,
+          "name": "Çarşı Bazar"
+        },
+        "logo": {
+          "thumbnail": "https://storage.umico.az/cpcustomerprod01/b847ee076574e1d295297cab0077ee48.png"
+        },
+        "vat_payer": false,
+        "rating": 97,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "discount_effective_start_date": "",
+      "discount_effective_end_date": ""
+    },
+    "category_id": 1344,
+    "category": {
+      "id": 1344,
+      "name": "Masaüstü oyunlar"
+    },
+    "brand": {
+      "name": "No Brand"
+    },
+    "custom_fields": [],
+    "main_img": {
+      "big": "https://strgimgr.umico.az/img/product/1680/0dc8c768-133f-4f1d-aae9-dd1a886642e8.jpeg",
+      "medium": "https://strgimgr.umico.az/img/product/840/0dc8c768-133f-4f1d-aae9-dd1a886642e8.jpeg",
+      "small": "https://strgimgr.umico.az/img/product/280/0dc8c768-133f-4f1d-aae9-dd1a886642e8.jpeg"
+    },
+    "img_url_thumbnail": "https://strgimgr.umico.az/img/product/280/0dc8c768-133f-4f1d-aae9-dd1a886642e8.jpeg",
+    "main_video": "",
+    "imgs": [
+      {
+        "big": "https://strgimgr.umico.az/img/product/1680/0dc8c768-133f-4f1d-aae9-dd1a886642e8.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/0dc8c768-133f-4f1d-aae9-dd1a886642e8.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/0dc8c768-133f-4f1d-aae9-dd1a886642e8.jpeg"
+      },
+      {
+        "big": "https://strgimgr.umico.az/img/product/1680/9aa65984-d157-4531-872e-5c6ff99baa1b.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/9aa65984-d157-4531-872e-5c6ff99baa1b.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/9aa65984-d157-4531-872e-5c6ff99baa1b.jpeg"
+      },
+      {
+        "big": "https://strgimgr.umico.az/img/product/1680/3471bce5-3c1a-45ed-9903-a846bd32af51.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/3471bce5-3c1a-45ed-9903-a846bd32af51.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/3471bce5-3c1a-45ed-9903-a846bd32af51.jpeg"
+      }
+    ],
+    "videos": [],
+    "min_qty": 1,
+    "preorder_available": false,
+    "is_assortment": false,
+    "is_bulk_heavy": false,
+    "is_refurbished": false,
+    "is_refundable": true,
+    "is_dangerous": false,
+    "show_tech_description": false,
+    "use_external_content": true,
+    "product_labels": [],
+    "ratings": {
+      "rating_value": 0,
+      "assessment_id": 0,
+      "session_count": 0
+    },
+    "default_show_stock_qty_threshold": 0,
+    "card_type": "public"
+  },
+  "category": {
+    "id": 1344,
+    "name": "Masaüstü oyunlar",
+    "slugged_name_az": "stolustu-oyunlar",
+    "slugged_name_ru": "nastolnye-igry",
+    "view_mode": "products",
+    "mobile_visual_mode": "text",
+    "is_variant": true,
+    "depth": 3,
+    "parent_id": 1341,
+    "child_ids": [],
+    "node_type": "NODE",
+    "install_service_needed": false,
+    "fitting_allowed": false,
+    "vat": true,
+    "variations": [],
+    "custom_fields": [
+      {
+        "master_field_id": 2634,
+        "category_master_field_id": 13225,
+        "name": "Məhsulun növü"
+      },
+      {
+        "master_field_id": 751,
+        "category_master_field_id": 7078,
+        "name": "Yaş"
+      },
+      {
+        "master_field_id": 761,
+        "category_master_field_id": 32418,
+        "name": "Cins"
+      },
+      {
+        "master_field_id": 750,
+        "category_master_field_id": 32419,
+        "name": "Oyunun janrı"
+      },
+      {
+        "master_field_id": 3917,
+        "category_master_field_id": 32420,
+        "name": "Mövzu"
+      },
+      {
+        "master_field_id": 5090,
+        "category_master_field_id": 32421,
+        "name": "Xətkeş"
+      },
+      {
+        "master_field_id": 5289,
+        "category_master_field_id": 32422,
+        "name": "Minimal oyunçu sayı"
+      },
+      {
+        "master_field_id": 5290,
+        "category_master_field_id": 32423,
+        "name": "Maksimal oyunçu sayı"
+      },
+      {
+        "master_field_id": 637,
+        "category_master_field_id": 32424,
+        "name": "Material"
+      },
+      {
+        "master_field_id": 5226,
+        "category_master_field_id": 32425,
+        "name": "Personaj"
+      },
+      {
+        "master_field_id": 623,
+        "category_master_field_id": 32426,
+        "name": "Xüsusiyyətlər"
+      },
+      {
+        "master_field_id": 618,
+        "category_master_field_id": 32427,
+        "name": "İstehsalçı ölkə"
+      }
+    ],
+    "parent": {
+      "id": 1341,
+      "node_type": "NODE",
+      "name": "Əyləncə və oyunlar",
+      "slugged_name": "oyunlar",
+      "parent": {
+        "id": 1348,
+        "node_type": "NODE",
+        "name": "Hobbi",
+        "slugged_name": "hobbi-ve-yaradiciliq-uchun-mehsullar",
+        "parent": {
+          "id": 1657,
+          "node_type": "NODE",
+          "name": "Kitablar, Hobbi, Məktəb və ofis ləvazimatları",
+          "slugged_name": "ofis-ve-mekteb-levazimatlari",
+          "parent": null
+        }
+      }
+    },
+    "is_refundable": true,
+    "is_adult": false,
+    "icons": {
+      "thumbnail": "https://strgimgr.umico.az/img/category/188/5cfc95a7-2d71-4b3d-87c4-c36cc0370974.jpeg",
+      "original": "https://strgimgr.umico.az/img/category/original/5cfc95a7-2d71-4b3d-87c4-c36cc0370974.jpeg"
+    },
+    "is_active": true
+  },
+  "offers": [
+    {
+      "uuid": "d988546f-2fd0-4e2c-8d4e-e91490e5da05",
+      "installment_enabled": true,
+      "max_installment_months": 18,
+      "product_offer_labels": [],
+      "old_price": 0,
+      "retail_price": 29,
+      "supplier_id": "3060c2e2-2489-4567-9bb1-c22a866de50b",
+      "seller": {
+        "ext_id": "852846d0-cbf0-4673-86b3-06820cf115aa",
+        "internal_id": 5999,
+        "marketing_name": {
+          "id": 5999,
+          "name": "Ultra"
+        },
+        "logo": {
+          "thumbnail": "https://storage.umico.az/cpcustomerprod01/03f5ecf9c36ce3870177883a0c8ce9fa.jpg"
+        },
+        "vat_payer": false,
+        "rating": 96,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "allow_qty": 0
+    },
+    {
+      "uuid": "3ee90ae5-a52a-4dd6-be1e-97b110271612",
+      "installment_enabled": true,
+      "max_installment_months": 3,
+      "product_offer_labels": [],
+      "old_price": 29,
+      "retail_price": 25,
+      "supplier_id": "57ffd412-bb1a-4065-834e-73f25eafcbba",
+      "seller": {
+        "ext_id": "5d5d9bb8-5782-4c01-94d3-43a3f8e34137",
+        "internal_id": 3921,
+        "marketing_name": {
+          "id": 3921,
+          "name": "Oyuncaqci"
+        },
+        "logo": {
+          "thumbnail": "https://storage.umico.az/cpcustomerprod01/def28a613d0d19c8fe8bcf4e298792d7.jpeg"
+        },
+        "vat_payer": false,
+        "rating": 100,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "allow_qty": 0
+    },
+    {
+      "uuid": "853363c3-3a58-4c5f-87f5-acb9fe284be6",
+      "installment_enabled": true,
+      "max_installment_months": 18,
+      "product_offer_labels": [],
+      "old_price": 0,
+      "retail_price": 20,
+      "supplier_id": "ada19a4c-97bc-4c5d-9df9-16ca1158a48c",
+      "seller": {
+        "ext_id": "f31a6abc-e8ac-4c4a-b903-5ce5bec1bce4",
+        "internal_id": 15663,
+        "marketing_name": {
+          "id": 15663,
+          "name": "Çarşı Bazar"
+        },
+        "logo": {
+          "thumbnail": "https://storage.umico.az/cpcustomerprod01/b847ee076574e1d295297cab0077ee48.png"
+        },
+        "vat_payer": false,
+        "rating": 97,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "allow_qty": 0
+    }
+  ],
+  "variations": [],
+  "size_chart": {},
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "sku": 2653766,
+    "mpn": "MJ-TAB-600_no_brand",
+    "url": "https://birmarket.az/product/2653766-stolustu-oyun-no-brand-taboo-azerbaycan-dili-13yash-oyunchu-sayi-4-ve-daha-chox-mj-tab-600",
+    "name": "Stolüstü oyun No Brand Taboo Azərbaycan dili, 13yaş+, oyunçu sayı 4 və daha çox - MJ-TAB-600",
+    "image": [
+      "https://strgimgr.umico.az/img/product/1680/0dc8c768-133f-4f1d-aae9-dd1a886642e8.jpeg",
+      "https://strgimgr.umico.az/img/product/1680/9aa65984-d157-4531-872e-5c6ff99baa1b.jpeg",
+      "https://strgimgr.umico.az/img/product/1680/3471bce5-3c1a-45ed-9903-a846bd32af51.jpeg"
+    ],
+    "description": "Xüsusiyyətləri:\n\nMəhsul növü: Stolüstü söz oyunu\n\nDil: Azərbaycan dili\n\nYaş həddi: 13+\n\nOyunçu sayı: 4 və daha çox\n\nKomplektasiya: Söz kartları, zamanölçən (qum saatı), kubik, qaydalar kitabçası\n\nSöz sayı: 600-dən çox söz\n\nBrend: Super Toys\n\nQablaşdırma: Karton qutu\n\nMəhsul haqqında\n\nTaboo – komandalarla oynanan dinamik və əyləncəli söz izah etmə oyunudur. Oyunun məqsədi kartın üzərindəki əsas sözü komanda yoldaşına izah etməkdir. Lakin kartda qeyd olunan “qadağan olunmuş” sözləri işlətmək olmaz.\n\nZaman məhduddur və qum saatı bitənə qədər maksimum düzgün cavab toplamaq lazımdır. Qadağan olunmuş söz işlədildikdə və ya səhv başa salındıqda xal rəqib komandaya keçir.\n\nDost məclisləri, ailə toplantıları və şənliklər üçün uyğun seçimdir. Nitq bacarığını, sürətli düşünmə qabiliyyətini və komanda koordinasiyasını inkişaf etdirir.",
+    "itemCondition": "https://schema.org/NewCondition",
+    "offers": {
+      "@type": "AggregateOffer",
+      "availability": "https://schema.org/InStock",
+      "offerCount": 3,
+      "highPrice": 29,
+      "lowPrice": 20,
+      "priceCurrency": "AZN",
+      "hasMerchantReturnPolicy": {
+        "applicableCountry": "AZ",
+        "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+        "returnMethod": "https://schema.org/ReturnInStore",
+        "returnFees": "https://schema.org/FreeReturn",
+        "merchantReturnDays": 14
+      },
+      "shippingDetails": {
+        "@type": "OfferShippingDetails",
+        "shippingDestination": {
+          "@type": "DefinedRegion",
+          "addressCountry": "AZ"
+        },
+        "deliveryTime": {
+          "@type": "ShippingDeliveryTime",
+          "handlingTime": {
+            "@type": "QuantitativeValue",
+            "minValue": 0,
+            "maxValue": 1,
+            "unitCode": "DAY"
+          },
+          "transitTime": {
+            "@type": "QuantitativeValue",
+            "minValue": 0,
+            "maxValue": 1,
+            "unitCode": "DAY"
+          },
+          "businessDays": {
+            "@type": "OpeningHoursSpecification",
+            "dayOfWeek": [
+              "https://schema.org/Monday",
+              "https://schema.org/Tuesday",
+              "https://schema.org/Wednesday",
+              "https://schema.org/Thursday",
+              "https://schema.org/Friday",
+              "https://schema.org/Saturday",
+              "https://schema.org/Sunday"
+            ]
+          }
+        },
+        "shippingRate": {
+          "@type": "MonetaryAmount",
+          "value": 0,
+          "currency": "AZN"
+        }
+      }
+    },
+    "brand": {
+      "@type": "Brand",
+      "name": "No Brand",
+      "url": "https://birmarket.az/brands/No%20Brand"
+    }
+  }
+}

@@ -1,0 +1,959 @@
+{
+  "product": {
+    "id": 501913,
+    "gtin": "6975069405216",
+    "mpn": "",
+    "name": "Qəhvə maşını RAF R.113",
+    "slugged_name_az": "qehve-mashini-raf-r-113",
+    "slugged_name_ru": "kofemashina-raf-r-113",
+    "description": "Kofemaşın RAF R.113 - təzə qəhvəni sevənlər üçün dəbli və funksional damcı prinsipli qəhvəbişirən. Gücü 850 Vt və pompa təzyiqi 15 bar ideal dad və aroma təmin edir. Bu kofemaşın ilə kapuçino, qəhvə, latte, süd köpüyü və espresso hazırlamaq mümkündür. Damcı əleyhinə sistem sızmaların qarşısını alır, eyni zamanda iki fincanın hazırlanması zamanı qənaət edir. LED göstəricilər istifadənin rahatlığını təmin edir. 1.5 litr rezervuar həcmi bir neçə porsiya qəhvə hazırlanması üçün kifayətdir. Korpus metal və plastikdən hazırlanmışdır, bu qəhvəbişirənə möhkəmlik və dayanıqlıq verir. Ev şəraitində əsl qəhvə zövqü yaratmaq üçün ideal seçimdir. Çində istehsal edilmişdir.",
+    "description_outlet": "",
+    "status": "active",
+    "uuid": "30bac6f3-6af9-48ba-bce2-4d363bb116de",
+    "variant_code": "VC_501913",
+    "default_offer": {
+      "uuid": "60f39b6e-82eb-4913-b17b-457717c9ebd0",
+      "installment_enabled": true,
+      "max_installment_months": 18,
+      "product_offer_labels": [],
+      "old_price": 331.18,
+      "retail_price": 155.44,
+      "supplier_id": "230feafe-1f9a-4cce-87be-ad3d0eb7528e",
+      "qty": 0,
+      "seller": {
+        "ext_id": "230feafe-1f9a-4cce-87be-ad3d0eb7528e",
+        "marketing_name": {
+          "id": 14683,
+          "name": "Pro Tech"
+        },
+        "logo": {
+          "thumbnail": "https://storage.umico.az/cpcustomerprod01/9ce49f07358bf6a7817f14c3565c7b39.jpg"
+        },
+        "vat_payer": false,
+        "rating": 92,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "discount_effective_start_date": "",
+      "discount_effective_end_date": ""
+    },
+    "category_id": 143,
+    "category": {
+      "id": 143,
+      "name": "Qəhvəbişirənlər və qəhvə maşınları"
+    },
+    "brand": {
+      "name": "RAF"
+    },
+    "custom_fields": [
+      {
+        "master_field_id": 973,
+        "values": [
+          "Damcılı"
+        ]
+      },
+      {
+        "master_field_id": 798,
+        "values": [
+          "850"
+        ]
+      },
+      {
+        "master_field_id": 908,
+        "values": [
+          "1.5"
+        ]
+      },
+      {
+        "master_field_id": 817,
+        "values": [
+          "Gümüşü"
+        ]
+      },
+      {
+        "master_field_id": 974,
+        "values": [
+          "Üyüdülmüş"
+        ]
+      },
+      {
+        "master_field_id": 875,
+        "values": [
+          "Mexaniki"
+        ]
+      },
+      {
+        "master_field_id": 635,
+        "values": [
+          "Məişət"
+        ]
+      },
+      {
+        "master_field_id": 2222,
+        "values": [
+          "Sintetik"
+        ]
+      },
+      {
+        "master_field_id": 976,
+        "values": [
+          "15"
+        ]
+      },
+      {
+        "master_field_id": 977,
+        "values": [
+          "Bəli"
+        ]
+      },
+      {
+        "master_field_id": 941,
+        "values": [
+          "Xeyr"
+        ]
+      },
+      {
+        "master_field_id": 1914,
+        "values": [
+          "LED"
+        ]
+      },
+      {
+        "master_field_id": 2224,
+        "values": [
+          "Kapuçino",
+          "Qəhvə",
+          "Latte",
+          "Südlü köpük",
+          "Espresso"
+        ]
+      },
+      {
+        "master_field_id": 708,
+        "values": [
+          "Metal",
+          "Plastik"
+        ]
+      },
+      {
+        "master_field_id": 2226,
+        "values": [
+          "Xeyr"
+        ]
+      },
+      {
+        "master_field_id": 1044,
+        "values": [
+          "Bəli"
+        ]
+      },
+      {
+        "master_field_id": 975,
+        "values": [
+          "Xeyr"
+        ]
+      },
+      {
+        "master_field_id": 1205,
+        "values": [
+          "30"
+        ]
+      },
+      {
+        "master_field_id": 1206,
+        "values": [
+          "24"
+        ]
+      },
+      {
+        "master_field_id": 1448,
+        "values": [
+          "22"
+        ]
+      },
+      {
+        "master_field_id": 656,
+        "values": [
+          "2.7"
+        ]
+      },
+      {
+        "master_field_id": 618,
+        "values": [
+          "Çin"
+        ]
+      },
+      {
+        "master_field_id": 2210,
+        "values": [
+          "Çin"
+        ]
+      },
+      {
+        "master_field_id": 697,
+        "values": [
+          "Təlimat"
+        ]
+      }
+    ],
+    "main_img": {
+      "big": "https://strgimgr.umico.az/sized/1680/501913-8a8df4f0acb6465607ff21480e3c9bde.jpg",
+      "medium": "https://strgimgr.umico.az/sized/840/501913-8a8df4f0acb6465607ff21480e3c9bde.jpg",
+      "small": "https://strgimgr.umico.az/sized/280/501913-8a8df4f0acb6465607ff21480e3c9bde.jpg"
+    },
+    "img_url_thumbnail": "https://strgimgr.umico.az/sized/280/501913-8a8df4f0acb6465607ff21480e3c9bde.jpg",
+    "main_video": "",
+    "imgs": [
+      {
+        "big": "https://strgimgr.umico.az/sized/1680/501913-8a8df4f0acb6465607ff21480e3c9bde.jpg",
+        "medium": "https://strgimgr.umico.az/sized/840/501913-8a8df4f0acb6465607ff21480e3c9bde.jpg",
+        "small": "https://strgimgr.umico.az/sized/280/501913-8a8df4f0acb6465607ff21480e3c9bde.jpg"
+      },
+      {
+        "big": "https://strgimgr.umico.az/sized/1680/501913-98c7ec6184c97ebe5404b156b50d3d95.jpg",
+        "medium": "https://strgimgr.umico.az/sized/840/501913-98c7ec6184c97ebe5404b156b50d3d95.jpg",
+        "small": "https://strgimgr.umico.az/sized/280/501913-98c7ec6184c97ebe5404b156b50d3d95.jpg"
+      },
+      {
+        "big": "https://strgimgr.umico.az/sized/1680/501913-8186c362b2ba8b72cc93fbc8660ceca3.jpg",
+        "medium": "https://strgimgr.umico.az/sized/840/501913-8186c362b2ba8b72cc93fbc8660ceca3.jpg",
+        "small": "https://strgimgr.umico.az/sized/280/501913-8186c362b2ba8b72cc93fbc8660ceca3.jpg"
+      }
+    ],
+    "videos": [],
+    "min_qty": 1,
+    "preorder_available": false,
+    "is_assortment": false,
+    "is_bulk_heavy": false,
+    "is_refurbished": false,
+    "is_refundable": true,
+    "is_dangerous": false,
+    "show_tech_description": false,
+    "use_external_content": true,
+    "product_labels": [],
+    "ratings": {
+      "rating_value": 5,
+      "assessment_id": 0,
+      "session_count": 2,
+      "score_count": 2
+    },
+    "default_show_stock_qty_threshold": 0,
+    "card_type": "public"
+  },
+  "category": {
+    "id": 143,
+    "name": "Qəhvəbişirənlər və qəhvə maşınları",
+    "slugged_name_az": "qehvedanlar-qehve-mashinlari",
+    "slugged_name_ru": "kofevarki-kofemashiny",
+    "view_mode": "products",
+    "mobile_visual_mode": "text",
+    "is_variant": true,
+    "depth": 3,
+    "parent_id": 139,
+    "child_ids": [],
+    "node_type": "NODE",
+    "install_service_needed": false,
+    "fitting_allowed": false,
+    "vat": true,
+    "variations": [
+      {
+        "master_field_id": 817,
+        "name": "Korpusun rəngi",
+        "variation_tool_type": "default",
+        "has_size_chart": false,
+        "display_variant": false
+      }
+    ],
+    "custom_fields": [
+      {
+        "master_field_id": 973,
+        "category_master_field_id": 2227,
+        "name": "Qəhvəbişiricinin növü"
+      },
+      {
+        "master_field_id": 908,
+        "category_master_field_id": 2229,
+        "name": "Həcm, L"
+      },
+      {
+        "master_field_id": 4478,
+        "category_master_field_id": 45468,
+        "name": "Süd köpürdücü"
+      },
+      {
+        "master_field_id": 974,
+        "category_master_field_id": 2228,
+        "name": "İstifadə edilən qəhvə növü"
+      },
+      {
+        "master_field_id": 798,
+        "category_master_field_id": 5135,
+        "name": "Güc, Vt"
+      },
+      {
+        "master_field_id": 817,
+        "category_master_field_id": 9224,
+        "name": "Korpusun rəngi"
+      },
+      {
+        "master_field_id": 2211,
+        "category_master_field_id": 9241,
+        "name": "Zəmanət müddəti"
+      },
+      {
+        "master_field_id": 875,
+        "category_master_field_id": 5139,
+        "name": "İdarəetmə növü"
+      },
+      {
+        "master_field_id": 635,
+        "category_master_field_id": 2226,
+        "name": "Təyinatı"
+      },
+      {
+        "master_field_id": 976,
+        "category_master_field_id": 2231,
+        "name": "Pompanın təzyiqi, bar"
+      },
+      {
+        "master_field_id": 977,
+        "category_master_field_id": 2232,
+        "name": "İki fıncanın eyni vaxtda hazırlanması"
+      },
+      {
+        "master_field_id": 2219,
+        "category_master_field_id": 9221,
+        "name": "Porsiyalar sayı"
+      },
+      {
+        "master_field_id": 2220,
+        "category_master_field_id": 9222,
+        "name": "Qəhvə bölməsi, q"
+      },
+      {
+        "master_field_id": 2221,
+        "category_master_field_id": 9223,
+        "name": "Tullantı bölməsi (porsiyalar)"
+      },
+      {
+        "master_field_id": 2222,
+        "category_master_field_id": 9225,
+        "name": "Filtr növü"
+      },
+      {
+        "master_field_id": 2223,
+        "category_master_field_id": 9226,
+        "name": "Qızdırıcının növü"
+      },
+      {
+        "master_field_id": 2070,
+        "category_master_field_id": 9227,
+        "name": "Əlavə xüsusiyyətlər"
+      },
+      {
+        "master_field_id": 941,
+        "category_master_field_id": 9228,
+        "name": "Taymer"
+      },
+      {
+        "master_field_id": 1914,
+        "category_master_field_id": 9229,
+        "name": "Göstərici"
+      },
+      {
+        "master_field_id": 2224,
+        "category_master_field_id": 9230,
+        "name": "Hazır reseptlər"
+      },
+      {
+        "master_field_id": 708,
+        "category_master_field_id": 5137,
+        "name": "Korpusun materialı"
+      },
+      {
+        "master_field_id": 2225,
+        "category_master_field_id": 9231,
+        "name": "Borunun material"
+      },
+      {
+        "master_field_id": 2226,
+        "category_master_field_id": 9232,
+        "name": "Avtomatik təmizlənmə"
+      },
+      {
+        "master_field_id": 2802,
+        "category_master_field_id": 13800,
+        "name": "Avtomatik söndürülmə"
+      },
+      {
+        "master_field_id": 1044,
+        "category_master_field_id": 9234,
+        "name": "Damlama əleyhinə sistem"
+      },
+      {
+        "master_field_id": 975,
+        "category_master_field_id": 2230,
+        "name": "Quraşdırılan texnika"
+      },
+      {
+        "master_field_id": 1205,
+        "category_master_field_id": 9235,
+        "name": "Hündürlüyü, sm"
+      },
+      {
+        "master_field_id": 1206,
+        "category_master_field_id": 9236,
+        "name": "Eni, sm"
+      },
+      {
+        "master_field_id": 1448,
+        "category_master_field_id": 9237,
+        "name": "Dərinliyi, sm"
+      },
+      {
+        "master_field_id": 656,
+        "category_master_field_id": 9238,
+        "name": "Çəki, kq"
+      },
+      {
+        "master_field_id": 618,
+        "category_master_field_id": 5136,
+        "name": "İstehsalçı ölkə"
+      },
+      {
+        "master_field_id": 2210,
+        "category_master_field_id": 9239,
+        "name": "Brendin ölkəsi"
+      },
+      {
+        "master_field_id": 697,
+        "category_master_field_id": 9240,
+        "name": "Komplektasiya"
+      }
+    ],
+    "parent": {
+      "id": 139,
+      "node_type": "NODE",
+      "name": "Mətbəx üçün kiçik məişət texnikası",
+      "slugged_name": "metbex-uchun-kichik-meishet-texnikasi",
+      "parent": {
+        "id": 106,
+        "node_type": "NODE",
+        "name": "Məişət texnikası",
+        "slugged_name": "meishet-texnikasi",
+        "parent": {
+          "id": 1,
+          "node_type": "NODE",
+          "name": "Elektronika və məişət texnikası",
+          "slugged_name": "elektronika-ve-meishet-texnikasi",
+          "parent": null
+        }
+      }
+    },
+    "is_refundable": true,
+    "is_adult": false,
+    "icons": {
+      "thumbnail": "https://strgimgr.umico.az/img/category/188/1ee8150e-cd76-4de2-a3e4-7b86b0ce7740.jpeg",
+      "original": "https://strgimgr.umico.az/img/category/original/1ee8150e-cd76-4de2-a3e4-7b86b0ce7740.jpeg"
+    },
+    "is_active": true
+  },
+  "offers": [
+    {
+      "uuid": "d15c989d-6fae-4ddc-9a0e-6cf8ec4466b4",
+      "installment_enabled": true,
+      "max_installment_months": 18,
+      "product_offer_labels": [],
+      "old_price": 333,
+      "retail_price": 165,
+      "supplier_id": "7882c65a-61ec-48a4-b582-0b372af32833",
+      "seller": {
+        "ext_id": "e9fa0a0d-1813-4427-a3de-fec284c62471",
+        "internal_id": 13727,
+        "marketing_name": {
+          "id": 13727,
+          "name": "Aron Store"
+        },
+        "logo": {
+          "thumbnail": ""
+        },
+        "vat_payer": false,
+        "rating": 88,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "allow_qty": 0
+    },
+    {
+      "uuid": "1c0f41bb-a9da-4ef9-9861-d0126adf31ca",
+      "installment_enabled": true,
+      "max_installment_months": 18,
+      "product_offer_labels": [],
+      "old_price": 472,
+      "retail_price": 235.88,
+      "supplier_id": "954659fc-bef1-44ed-ac5f-cea2baaa7ce0",
+      "seller": {
+        "ext_id": "8f17078a-2dd7-4a6d-a620-1cb6357a9f69",
+        "internal_id": 15531,
+        "marketing_name": {
+          "id": 15531,
+          "name": "GO Play"
+        },
+        "logo": {
+          "thumbnail": "https://storage.umico.az/cpcustomerprod01/739d071d91e56e08e80b196ed3a59872.jpg"
+        },
+        "vat_payer": false,
+        "rating": 97,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "allow_qty": 0
+    },
+    {
+      "uuid": "70573dcc-e954-4e4f-aa82-5cba3ea44f80",
+      "installment_enabled": true,
+      "max_installment_months": 18,
+      "product_offer_labels": [],
+      "old_price": 0,
+      "retail_price": 300.7,
+      "supplier_id": "11fb4491-0ff5-4b92-89f9-38415ab3cad3",
+      "seller": {
+        "ext_id": "b496312c-4c16-4f0f-8b65-8f5d105f1e09",
+        "internal_id": 16316,
+        "marketing_name": {
+          "id": 16316,
+          "name": "Sürpriz hədiyyələr"
+        },
+        "logo": {
+          "thumbnail": "https://storage.umico.az/cpcustomerprod01/01063511aa5c3b67feca31d70d9d6123.jpg"
+        },
+        "vat_payer": false,
+        "rating": 87,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "allow_qty": 0
+    },
+    {
+      "uuid": "6f366c69-c022-46f6-acd4-c405591584bb",
+      "installment_enabled": true,
+      "max_installment_months": 18,
+      "product_offer_labels": [],
+      "old_price": 666,
+      "retail_price": 165,
+      "supplier_id": "90cfaf0d-3709-476f-b5a6-1f95ac9a3e19",
+      "seller": {
+        "ext_id": "4dc5356b-bb16-46a7-ae3e-e0f6334d33ce",
+        "internal_id": 13339,
+        "marketing_name": {
+          "id": 13339,
+          "name": "Tehno Az"
+        },
+        "logo": {
+          "thumbnail": ""
+        },
+        "vat_payer": false,
+        "rating": 79,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "allow_qty": 0
+    },
+    {
+      "uuid": "45e2ee2c-9921-4216-8543-15916bd234d9",
+      "installment_enabled": true,
+      "max_installment_months": 18,
+      "product_offer_labels": [],
+      "old_price": 472,
+      "retail_price": 235.88,
+      "supplier_id": "dd9e659c-cd08-43cb-8ea6-9ee786e6e196",
+      "seller": {
+        "ext_id": "55e16594-389e-43e1-a9d0-c90b02fd8274",
+        "internal_id": 17154,
+        "marketing_name": {
+          "id": 17154,
+          "name": "KERA-GROUP"
+        },
+        "logo": {
+          "thumbnail": ""
+        },
+        "vat_payer": false,
+        "rating": 95,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "allow_qty": 0
+    },
+    {
+      "uuid": "593d2b39-5c32-4a5a-8ac9-7ac86c2a02c1",
+      "installment_enabled": true,
+      "max_installment_months": 18,
+      "product_offer_labels": [],
+      "old_price": 303,
+      "retail_price": 165,
+      "supplier_id": "06380cb8-0799-4c8b-91af-773d870049ce",
+      "seller": {
+        "ext_id": "8592c3ec-da94-49b7-abdd-c39c4684d267",
+        "internal_id": 13369,
+        "marketing_name": {
+          "id": 13369,
+          "name": "PRIME ELECTRONICS"
+        },
+        "logo": {
+          "thumbnail": ""
+        },
+        "vat_payer": false,
+        "rating": 90,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "allow_qty": 0
+    },
+    {
+      "uuid": "6219d5ac-53f9-4fcf-8861-b2026911e2ef",
+      "installment_enabled": true,
+      "max_installment_months": 18,
+      "product_offer_labels": [],
+      "old_price": 300,
+      "retail_price": 165,
+      "supplier_id": "e53a1cca-ad6d-43ec-885d-03252a2714cf",
+      "seller": {
+        "ext_id": "dc9a182e-8768-4a0d-8020-3b34c8a18a4f",
+        "internal_id": 17018,
+        "marketing_name": {
+          "id": 17018,
+          "name": "AİDAelectronika"
+        },
+        "logo": {
+          "thumbnail": ""
+        },
+        "vat_payer": false,
+        "rating": 95,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "allow_qty": 0
+    },
+    {
+      "uuid": "5ff4d3d2-3a7a-47ac-b1e6-1016d7026c32",
+      "installment_enabled": true,
+      "max_installment_months": 18,
+      "product_offer_labels": [],
+      "old_price": 472,
+      "retail_price": 235.88,
+      "supplier_id": "66f818a0-aa69-458c-9199-c3cd050f379d",
+      "seller": {
+        "ext_id": "3b4bee98-fb65-4e63-b56c-bab0bd26fcb6",
+        "internal_id": 3625,
+        "marketing_name": {
+          "id": 3625,
+          "name": "Ra Brend"
+        },
+        "logo": {
+          "thumbnail": "https://storage.umico.az/cpcustomerprod01/a8aa4d77bdf2cb87035378158b989638.jpg"
+        },
+        "vat_payer": false,
+        "rating": 93,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "allow_qty": 0
+    },
+    {
+      "uuid": "110ee6ac-a546-453d-9b84-9833d4e9addf",
+      "installment_enabled": true,
+      "max_installment_months": 18,
+      "product_offer_labels": [],
+      "old_price": 472,
+      "retail_price": 235.88,
+      "supplier_id": "e9ab9dd4-04d1-434e-8f7f-1ff3f1e638e3",
+      "seller": {
+        "ext_id": "aaac1b3e-d781-4748-a51b-5f50376c563d",
+        "internal_id": 14806,
+        "marketing_name": {
+          "id": 14806,
+          "name": "Leena Home"
+        },
+        "logo": {
+          "thumbnail": "https://storage.umico.az/cpcustomerprod01/cb2e6f98549adc55ffa21dcaf6065b7a.jpg"
+        },
+        "vat_payer": false,
+        "rating": 94,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "allow_qty": 0
+    },
+    {
+      "uuid": "2fccb707-6064-432f-9882-e7dfbcc5b3fa",
+      "installment_enabled": true,
+      "max_installment_months": 18,
+      "product_offer_labels": [],
+      "old_price": 300,
+      "retail_price": 165,
+      "supplier_id": "2d785284-3d69-4a9f-917f-f8849957b468",
+      "seller": {
+        "ext_id": "882cf40f-60b8-4587-8591-bffcc83e7e32",
+        "internal_id": 11210,
+        "marketing_name": {
+          "id": 11210,
+          "name": "Az elektronik"
+        },
+        "logo": {
+          "thumbnail": ""
+        },
+        "vat_payer": false,
+        "rating": 93,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "allow_qty": 0
+    },
+    {
+      "uuid": "2174056c-c6c2-4a2a-a04c-864bf7eedb11",
+      "installment_enabled": true,
+      "max_installment_months": 18,
+      "product_offer_labels": [],
+      "old_price": 0,
+      "retail_price": 222.59,
+      "supplier_id": "e2aee83b-d632-42f3-a264-3ea21aeabda2",
+      "seller": {
+        "ext_id": "2ad2a7df-50a1-48ef-886f-06b6eb9fd4ff",
+        "internal_id": 16402,
+        "marketing_name": {
+          "id": 16402,
+          "name": "Elnur Topdan satış"
+        },
+        "logo": {
+          "thumbnail": "https://storage.umico.az/cpcustomerprod01/aa24611d685daaa7bf1006e44ecb8028.jpg"
+        },
+        "vat_payer": false,
+        "rating": 89,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "allow_qty": 0
+    },
+    {
+      "uuid": "3db2784d-3c27-4153-9c1f-a7b13b130a44",
+      "installment_enabled": true,
+      "max_installment_months": 18,
+      "product_offer_labels": [],
+      "old_price": 333,
+      "retail_price": 165,
+      "supplier_id": "c931a6e9-d5dd-4e9c-b1cc-4005df2a7e0b",
+      "seller": {
+        "ext_id": "1c0238f0-82dd-4176-a868-205b66e25e44",
+        "internal_id": 13730,
+        "marketing_name": {
+          "id": 13730,
+          "name": "Store elektronik"
+        },
+        "logo": {
+          "thumbnail": ""
+        },
+        "vat_payer": false,
+        "rating": 95,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "allow_qty": 0
+    },
+    {
+      "uuid": "0427f611-5f30-4778-b918-3120f846dead",
+      "installment_enabled": true,
+      "max_installment_months": 18,
+      "product_offer_labels": [],
+      "old_price": 1512,
+      "retail_price": 158.45,
+      "supplier_id": "0f8a5fc3-391e-4b33-9b09-c954c2df4c92",
+      "seller": {
+        "ext_id": "1836efc4-2fd2-4b1e-b930-9803c8a0cc09",
+        "internal_id": 16938,
+        "marketing_name": {
+          "id": 16938,
+          "name": "Birmall Shop"
+        },
+        "logo": {
+          "thumbnail": ""
+        },
+        "vat_payer": false,
+        "rating": 80,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "allow_qty": 0
+    },
+    {
+      "uuid": "2f04ce51-47c3-4f42-b00b-5958d0dbff05",
+      "installment_enabled": true,
+      "max_installment_months": 18,
+      "product_offer_labels": [],
+      "old_price": 335.18,
+      "retail_price": 155.48,
+      "supplier_id": "56dbac9b-9b1c-442d-924e-c17e935b3be0",
+      "seller": {
+        "ext_id": "538a291b-a994-4b77-94a7-7c82850e9035",
+        "internal_id": 12661,
+        "marketing_name": {
+          "id": 12661,
+          "name": "PoWeR Tech"
+        },
+        "logo": {
+          "thumbnail": "https://storage.umico.az/cpcustomerprod01/e2fbf993f0f6363380bf37b2f57e0e05.jpg"
+        },
+        "vat_payer": false,
+        "rating": 99,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "allow_qty": 0
+    },
+    {
+      "uuid": "60f39b6e-82eb-4913-b17b-457717c9ebd0",
+      "installment_enabled": true,
+      "max_installment_months": 18,
+      "product_offer_labels": [],
+      "old_price": 331.18,
+      "retail_price": 155.44,
+      "supplier_id": "230feafe-1f9a-4cce-87be-ad3d0eb7528e",
+      "seller": {
+        "ext_id": "f68072db-26d6-4f37-af09-de3a4853e3f4",
+        "internal_id": 14683,
+        "marketing_name": {
+          "id": 14683,
+          "name": "Pro Tech"
+        },
+        "logo": {
+          "thumbnail": "https://storage.umico.az/cpcustomerprod01/9ce49f07358bf6a7817f14c3565c7b39.jpg"
+        },
+        "vat_payer": false,
+        "rating": 92,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "allow_qty": 0
+    },
+    {
+      "uuid": "de687023-2a8c-4109-8e1a-40bb80bf6d0c",
+      "installment_enabled": true,
+      "max_installment_months": 18,
+      "product_offer_labels": [],
+      "old_price": 333,
+      "retail_price": 195,
+      "supplier_id": "afd2fa53-db64-4e92-9e4d-d920e2a5bb57",
+      "seller": {
+        "ext_id": "e9b1f75c-ade5-447d-889e-b5eb0387f31d",
+        "internal_id": 15911,
+        "marketing_name": {
+          "id": 15911,
+          "name": "Maks Shopping"
+        },
+        "logo": {
+          "thumbnail": ""
+        },
+        "vat_payer": false,
+        "rating": 97,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "allow_qty": 0
+    }
+  ],
+  "variations": [
+    {
+      "id": 501913,
+      "name": "Qəhvə maşını RAF R.113",
+      "slugged_name": "qehve-mashini-raf-r-113",
+      "custom_fields": [
+        {
+          "master_field_id": 817,
+          "values": [
+            "Gümüşü"
+          ]
+        }
+      ],
+      "main_img": {
+        "big": "https://strgimgr.umico.az/sized/1680/501913-8a8df4f0acb6465607ff21480e3c9bde.jpg",
+        "medium": "https://strgimgr.umico.az/sized/840/501913-8a8df4f0acb6465607ff21480e3c9bde.jpg",
+        "small": "https://strgimgr.umico.az/sized/280/501913-8a8df4f0acb6465607ff21480e3c9bde.jpg"
+      },
+      "status": "active"
+    }
+  ],
+  "size_chart": {},
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "sku": 501913,
+    "mpn": 501913,
+    "url": "https://birmarket.az/product/501913-qehve-mashini-raf-r-113",
+    "name": "Qəhvə maşını RAF R.113",
+    "image": [
+      "https://strgimgr.umico.az/sized/1680/501913-8a8df4f0acb6465607ff21480e3c9bde.jpg",
+      "https://strgimgr.umico.az/sized/1680/501913-98c7ec6184c97ebe5404b156b50d3d95.jpg",
+      "https://strgimgr.umico.az/sized/1680/501913-8186c362b2ba8b72cc93fbc8660ceca3.jpg"
+    ],
+    "description": "Kofemaşın RAF R.113 - təzə qəhvəni sevənlər üçün dəbli və funksional damcı prinsipli qəhvəbişirən. Gücü 850 Vt və pompa təzyiqi 15 bar ideal dad və aroma təmin edir. Bu kofemaşın ilə kapuçino, qəhvə, latte, süd köpüyü və espresso hazırlamaq mümkündür. Damcı əleyhinə sistem sızmaların qarşısını alır, eyni zamanda iki fincanın hazırlanması zamanı qənaət edir. LED göstəricilər istifadənin rahatlığını təmin edir. 1.5 litr rezervuar həcmi bir neçə porsiya qəhvə hazırlanması üçün kifayətdir. Korpus metal və plastikdən hazırlanmışdır, bu qəhvəbişirənə möhkəmlik və dayanıqlıq verir. Ev şəraitində əsl qəhvə zövqü yaratmaq üçün ideal seçimdir. Çində istehsal edilmişdir.",
+    "itemCondition": "https://schema.org/NewCondition",
+    "offers": {
+      "@type": "AggregateOffer",
+      "availability": "https://schema.org/InStock",
+      "offerCount": 16,
+      "highPrice": 300.7,
+      "lowPrice": 155.44,
+      "priceCurrency": "AZN",
+      "hasMerchantReturnPolicy": {
+        "applicableCountry": "AZ",
+        "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+        "returnMethod": "https://schema.org/ReturnInStore",
+        "returnFees": "https://schema.org/FreeReturn",
+        "merchantReturnDays": 14
+      },
+      "shippingDetails": {
+        "@type": "OfferShippingDetails",
+        "shippingDestination": {
+          "@type": "DefinedRegion",
+          "addressCountry": "AZ"
+        },
+        "deliveryTime": {
+          "@type": "ShippingDeliveryTime",
+          "handlingTime": {
+            "@type": "QuantitativeValue",
+            "minValue": 0,
+            "maxValue": 1,
+            "unitCode": "DAY"
+          },
+          "transitTime": {
+            "@type": "QuantitativeValue",
+            "minValue": 0,
+            "maxValue": 1,
+            "unitCode": "DAY"
+          },
+          "businessDays": {
+            "@type": "OpeningHoursSpecification",
+            "dayOfWeek": [
+              "https://schema.org/Monday",
+              "https://schema.org/Tuesday",
+              "https://schema.org/Wednesday",
+              "https://schema.org/Thursday",
+              "https://schema.org/Friday",
+              "https://schema.org/Saturday",
+              "https://schema.org/Sunday"
+            ]
+          }
+        },
+        "shippingRate": {
+          "@type": "MonetaryAmount",
+          "value": 0,
+          "currency": "AZN"
+        }
+      }
+    },
+    "brand": {
+      "@type": "Brand",
+      "name": "RAF",
+      "url": "https://birmarket.az/brands/RAF"
+    }
+  }
+}

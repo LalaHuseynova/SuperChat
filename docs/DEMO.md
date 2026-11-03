@@ -1,5 +1,23 @@
 # Five-minute demonstration
 
+## Real catalogue version
+
+Start `./run.sh --real`, open http://localhost:8000 and use a new chat.
+
+1. Choose English and ask “Show Samsung phones”; open a product source link.
+2. Choose Russian and ask “Второй, подробнее”; show that the selected record is preserved.
+3. Choose Azerbaijani and ask “Bu gün Dəniz Mallda hansı filmlər var?”; open a cinema source link.
+4. Choose English and ask “Flights from Baku to Istanbul on 2026-11-06”; explain the cached-fare label. Results depend on the provider cache.
+5. Ask “Back to headphones”; show shopping context and a local shopping-list action.
+6. Ask “Show Samsung Galaxy S999 phones”, then “film ticket negativity exam university depression”; show no-match and clarification without cards.
+7. Upload a clear product photo; show catalogue similarity scores and direct source links. An unrelated/blank image should not return products.
+8. Reload and reopen the conversation; inspect the exported JSONL state/version history.
+
+Use current cinema dates. Do not describe sample inventory or cached fares as live availability. Birmarket refresh is currently blocked from this environment and retains its previous collection.
+
+## Original Phase 1 version
+
+
 Run `./run.sh --vision`, open http://localhost:8000, and start a new conversation. Use the fixed demo date 2 November 2026. If repeating the demonstration, previous mock bookings still consume seats; choose a different available showtime/flight or use a separate log directory for rehearsal.
 
 | Time | Say / do | Show |

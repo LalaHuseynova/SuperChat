@@ -3,13 +3,13 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <meta name="theme-color" content="#173e34" />
+    <meta name="theme-color" content="#6d28d9" />
     <meta
       name="description"
       content="Flights, good finds, and movie nights. One conversation, with context that stays with you."
     />
-    <title>SuperChat — Your everyday, connected</title>
-    <link rel="icon" href="/static/favicon.svg" type="image/svg+xml" />
+    <title>Bir SuperChat — Your everyday, connected</title>
+    <link rel="icon" href="/static/favicon.svg?v=bir-b-2" type="image/svg+xml" />
     <link rel="stylesheet" href="/static/styles.css" />
     <script src="/static/app.js" defer></script>
   </head>
@@ -18,8 +18,8 @@
     <div class="app-shell">
       <aside id="sidebar" class="sidebar" aria-label="Conversations">
         <a href="/" class="brand"
-          ><span class="brand-mark">s<span>✦</span></span
-          ><span>superchat<span class="brand-period">.</span></span></a
+          ><span class="brand-mark">B<span>✦</span></span
+          ><span>Bir SuperChat<span class="brand-period">.</span></span></a
         >
         <div class="workspace">
           <span class="workspace-icon">U</span>
@@ -80,7 +80,7 @@
             >
               <span class="icon" data-icon="menu"></span></button
             ><span class="breadcrumb" data-t="assistant">Your assistant</span
-            ><span class="breadcrumb-slash">/</span><strong>SuperChat</strong
+            ><span class="breadcrumb-slash">/</span><strong>Bir SuperChat</strong
             ><span class="phase-label" data-t="demo">DEMO</span>
           </div>
           <div class="topbar-actions">
@@ -88,7 +88,7 @@
             ><span class="saved-label" id="save-status">All changes saved</span
             ><label class="language-select"
               ><span class="icon" data-icon="globe"></span
-              ><select id="language" aria-label="Interface and voice language">
+              ><select id="language" aria-label="Interface, replies and voice language">
                 <option value="en">EN</option>
                 <option value="az">AZ</option>
                 <option value="ru">RU</option>
@@ -133,7 +133,7 @@
                     ><span class="suggestion-label" data-t="shoppingTitle"
                       >Something just right</span
                     ><span class="suggestion-copy" data-t="shoppingPrompt"
-                      >Wireless headphones<br />under 100 AZN</span
+                      >iPhone 17 Pro</span
                     ><span class="suggestion-arrow">↗</span>
                   </button>
                   <button class="suggestion" data-example="cinema">
@@ -165,7 +165,7 @@
               <div id="notice" class="notice" role="status" hidden></div>
               <form id="composer" class="composer">
                 <label class="sr-only" for="message-input"
-                  >Message SuperChat</label
+                  >Message Bir SuperChat</label
                 ><textarea
                   id="message-input"
                   placeholder="Ask anything about flights, shopping, or cinema…"
@@ -285,6 +285,19 @@
         </div>
       </main>
     </div>
+    <dialog id="delete-dialog" class="delete-dialog" aria-labelledby="delete-heading" aria-describedby="delete-description delete-warning">
+      <div class="delete-dialog-content">
+        <div class="delete-dialog-icon" aria-hidden="true" data-icon="trash"></div>
+        <h2 id="delete-heading">Delete this conversation?</h2>
+        <p id="delete-description">Messages, shopping list, saved plans and the chat log will be permanently deleted.</p>
+        <div id="delete-chat-title" class="delete-chat-title"></div>
+        <p id="delete-warning" class="delete-warning">This cannot be undone.</p>
+        <div class="delete-dialog-actions">
+          <button id="delete-cancel" type="button" autofocus>Cancel</button>
+          <button id="delete-confirm" type="button">Delete chat</button>
+        </div>
+      </div>
+    </dialog>
     <dialog id="about-dialog">
       <button
         id="close-about"

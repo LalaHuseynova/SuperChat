@@ -1,4 +1,40 @@
 TEXT = {
+    'plan_saved': ('Saved to your plans. This is not a confirmed booking; check the source to book and confirm the price.', 'Planlarınıza əlavə edildi. Bu, təsdiqlənmiş bron deyil; bron və cari qiymət üçün mənbəni yoxlayın.', 'Сохранено в планах. Это не подтверждённая бронь; оформите бронирование и уточните цену у источника.'),
+    'plan_removed': ('Removed from your saved plans. No supplier booking was cancelled.', 'Saxlanılmış planlardan silindi. Provayderdə heç bir bron ləğv edilməyib.', 'Удалено из сохранённых планов. Бронь у поставщика не отменялась.'),
+    'choose_plan': ('Which flight or showtime would you like to save? Choose one option.', 'Hansı uçuşu və ya seansı saxlamaq istəyirsiniz? Bir variant seçin.', 'Какой рейс или сеанс сохранить? Выберите один вариант.'),
+    'choose_saved_plan': ('Select a saved plan to remove.', 'Silmək üçün saxlanılmış plan seçin.', 'Выберите сохранённый план для удаления.'),
+    'saved_plans': ('You have {count} saved plans in this category. These are not confirmed bookings.', 'Bu kateqoriyada {count} saxlanılmış planınız var. Bunlar təsdiqlənmiş bron deyil.', 'Сохранённых планов в этой категории: {count}. Это не подтверждённые бронирования.'),
+    'provider_unavailable': ('The flight data service is temporarily unavailable. Please try again later; no booking was made.', 'Uçuş məlumat xidməti müvəqqəti əlçatan deyil. Bir az sonra yenidən sınayın; bron edilməyib.', 'Сервис данных о рейсах временно недоступен. Попробуйте позже; бронирование не выполнено.'),
+    'visual_matches': ('Similar products from the saved catalogue:', 'Kataloqda oxşar məhsullar:', 'Похожие товары из сохранённого каталога:'),
+    'vision_no_match': ('I could not find a sufficiently similar product in our database. Try a clearer photo or describe the product.', 'Bazamızda kifayət qədər oxşar məhsul tapmadım. Daha aydın şəkil göndərin və ya məhsulu təsvir edin.', 'В нашей базе нет достаточно похожего товара. Попробуйте более чёткое фото или опишите товар.'),
+    'similarity_note': ('Results are ranked by image similarity; the score is not a probability or an exact product identification.', 'Nəticələr şəkil oxşarlığına görə sıralanıb; göstərici ehtimal və ya dəqiq məhsul təyini deyil.', 'Результаты отсортированы по сходству изображений; оценка не является вероятностью или точным определением товара.'),
+    "movie_without_sessions": ("Film details — check the source for showtimes", "Film haqqında — seansları mənbədən yoxlayın", "О фильме — расписание уточняйте у источника"),
+    "snapshot_list": (
+        "Your local shopping list. Estimated total: {total} AZN. Confirm prices and stock with the seller; no order has been placed.",
+        "Yerli alış-veriş siyahınız. Təxmini cəm: {total} AZN. Qiymət və stoku satıcıdan təsdiqləyin; sifariş verilməyib.",
+        "Ваш локальный список покупок. Примерная сумма: {total} AZN. Уточните цены и наличие у продавца; заказ не оформлен.",
+    ),
+    "unknown": ("Not published", "Dərc edilməyib", "Не опубликовано"),
+    "source_booking": (
+        "This is a saved listing. I cannot verify seats or reserve it. Open the source to check the current price and booking options.",
+        "Bu, saxlanılmış elandır. Yerləri yoxlaya və bron edə bilmirəm. Cari qiymət və bron üçün mənbəni açın.",
+        "Это сохранённое предложение. Я не могу проверить места или оформить бронь. Откройте источник для актуальной цены и бронирования.",
+    ),
+    "saved_to_list": (
+        "Saved {quantity} to your local shopping list. Estimated total: {total} AZN. No order was placed; confirm stock and prices with the seller.",
+        "Yerli alış-veriş siyahınıza {quantity} ədəd əlavə edildi. Təxmini cəm: {total} AZN. Sifariş verilməyib; stok və qiyməti satıcıdan yoxlayın.",
+        "В локальный список покупок добавлено: {quantity}. Примерная сумма: {total} AZN. Заказ не оформлен; уточните цену и наличие у продавца.",
+    ),
+    "no_saved_product": (
+        "I couldn't find this product in our saved Birmarket catalogue. It contains only a sample of Birmarket products, not the full store. Try another product or check Birmarket directly for current availability.",
+        "Saxlanılmış Birmarket kataloqumuzda bu məhsulu tapmadım. Kataloq bütün mağazanı deyil, məhsulların yalnız bir hissəsini əhatə edir. Başqa məhsul axtarın və ya mövcudluğu birbaşa Birmarket-də yoxlayın.",
+        "В нашем сохранённом каталоге Birmarket такой товар не найден. В нём только часть товаров, а не весь магазин. Попробуйте другой товар или проверьте наличие непосредственно на Birmarket.",
+    ),
+    "no_snapshot_match": (
+        "No matches in the saved snapshot for these filters. This does not mean the provider has no availability; try another date or check the source website.",
+        "Saxlanılmış məlumatlarda bu filtrlərə uyğun nəticə yoxdur. Bu, provayderdə yer olmadığı demək deyil; başqa tarix və ya mənbə saytını yoxlayın.",
+        "В сохранённых данных нет совпадений. Это не означает отсутствия предложений у поставщика; попробуйте другую дату или сайт источника.",
+    ),
     "welcome": (
         "Hi! I can find flights, products, and films. What would you like to explore?",
         "Salam! Uçuş, məhsul və film tapmağa kömək edə bilərəm. Nə axtarırsınız?",
@@ -13,6 +49,16 @@ TEXT = {
         "Do you mean the flight, the product, or the cinema option from your last request?",
         "Son sorğunuzdakı uçuşu, məhsulu, yoxsa kino seansını nəzərdə tutursunuz?",
         "Вы имеете в виду рейс, товар или сеанс из последнего запроса?",
+    ),
+    "malformed_request": (
+        "Your message contains an unclear number or symbol sequence. Please remove it and describe the flight, product or film you want to find.",
+        "Mesajınızda aydın olmayan rəqəm və ya simvol ardıcıllığı var. Zəhmət olmasa onu silin və axtardığınız uçuşu, məhsulu və ya filmi təsvir edin.",
+        "В сообщении есть непонятная последовательность цифр или символов. Удалите её и опишите нужный рейс, товар или фильм.",
+    ),
+    "unclear_request": (
+        "I'm not sure how these topics fit together. What would you like me to find? For example: ‘Show me comedy films tonight.’",
+        "Bu mövzuların necə əlaqəli olduğunu başa düşmədim. Nə tapmağımı istəyirsiniz? Məsələn: ‘Bu axşam komediya filmlərini göstər.’",
+        "Не совсем понятно, как связаны эти темы. Что вы хотите найти? Например: «Покажи комедии на сегодняшний вечер».",
     ),
     "out": (
         "I can help with flights, shopping, and cinema. Which would you like to explore?",
@@ -121,9 +167,9 @@ TEXT = {
         "На изображении, вероятно, {label}. Оценка уверенности: {score}%. Это совпадения из каталога, а не точное определение бренда.",
     ),
     "vision_unavailable": (
-        "Image recognition is not configured. Add your OpenRouter key or start with ./run.sh --vision. What product is in the photo?",
-        "Şəkil tanıma qurulmayıb. OpenRouter açarını əlavə edin və ya ./run.sh --vision ilə başladın. Şəkildə hansı məhsul var?",
-        "Распознавание изображений не настроено. Добавьте ключ OpenRouter или запустите ./run.sh --vision. Какой товар на фото?",
+        "Image recognition is unavailable. Start with ./run.sh --real and prepare the local vision model. What product is in the photo?",
+        "Şəkil tanıma əlçatan deyil. ./run.sh --real ilə başladın və yerli şəkil modelini hazırlayın. Şəkildə hansı məhsul var?",
+        "Распознавание изображений недоступно. Запустите ./run.sh --real и подготовьте локальную модель. Какой товар на фото?",
     ),
     "unknown_scope": (
         "I need a more specific product name, flight route, or film to search.",

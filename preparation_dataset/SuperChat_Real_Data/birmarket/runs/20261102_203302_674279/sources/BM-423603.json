@@ -1,0 +1,904 @@
+{
+  "product": {
+    "id": 423603,
+    "gtin": "",
+    "mpn": "90NR0744-M001K0",
+    "name": "Notbuk Asus TUF Gaming F17 FX706HM-HX146 (90NR0744-M001K0)",
+    "slugged_name_az": "noutbuk-asus-tuf-gaming-f17-fx706hm-hx146-90nr0744-m001k0",
+    "slugged_name_ru": "noutbuk-asus-tuf-gaming-f17-fx706hm-hx146-90nr0744-m001k0",
+    "description": "Asus TUF Gaming F17 FX706HM-HX146 notbuku, 2021-ci ildə istehsal olunub. Intel Core i5 11400H prosessoru ilə 6 nüvə və 4.5 GHz-ə qədər tezliklə işləyir. NVIDIA GeForce RTX 3060 qrafik çipseti, 6 GB video yaddaşı təmin edir. 17.3 düymlük, Full HD (1920 x 1080) qətnaməli, antiblik TN ekranı, 144 Hz yeniləmə tezliyi ilə oyun təcrübəsini yaxşılaşdırır. Oyunda və proqramlarda sürətli reaksiya üçün 16 GB DDR4 RAM və 512 GB SSD həcmi var. İşıqlandırılmış klaviatura, ada şəklində düymələrlə dizayn edilib və 720p HD kamera ilə təchiz olunub. 4 USB portu, Ethernet və HDMI, Bluetooth kimi qoşulma variantları mövcuddur. Qara korpusu zərbəyə və nəmə qarşı davamlıdır. 32 GB-a qədər genişləndirilə bilən yaddaş həcmi, oyunçular və peşəkarlar üçün uyğun seçimdir.",
+    "description_outlet": "",
+    "status": "active",
+    "uuid": "2a0aa34f-210b-4052-b120-290bf6dbd105",
+    "variant_code": "VC_423603",
+    "default_offer": {
+      "uuid": "7ce947b9-be7a-446d-bc9a-02f785f5bf2a",
+      "installment_enabled": true,
+      "max_installment_months": 18,
+      "product_offer_labels": [],
+      "old_price": 3599,
+      "retail_price": 2869,
+      "supplier_id": "e027e410-2b98-4607-b728-19e81465cc35",
+      "qty": 0,
+      "seller": {
+        "ext_id": "e027e410-2b98-4607-b728-19e81465cc35",
+        "marketing_name": {
+          "id": 12285,
+          "name": "Optimum Electronics LLC"
+        },
+        "logo": {
+          "thumbnail": "https://storage.umico.az/cpcustomerprod01/94f3c3d7decc55929452ae843eca34eb.jpg"
+        },
+        "vat_payer": false,
+        "rating": 95,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "discount_effective_start_date": "",
+      "discount_effective_end_date": ""
+    },
+    "category_id": 16,
+    "category": {
+      "id": 16,
+      "name": "Notbuklar"
+    },
+    "brand": {
+      "name": "Asus"
+    },
+    "custom_fields": [
+      {
+        "master_field_id": 6044,
+        "values": [
+          "11400H"
+        ]
+      },
+      {
+        "master_field_id": 834,
+        "values": [
+          "DDR4"
+        ]
+      },
+      {
+        "master_field_id": 661,
+        "values": [
+          "16"
+        ]
+      },
+      {
+        "master_field_id": 705,
+        "values": [
+          "NVIDIA GeForce RTX 3060"
+        ]
+      },
+      {
+        "master_field_id": 617,
+        "values": [
+          "17.3"
+        ]
+      },
+      {
+        "master_field_id": 1472,
+        "values": [
+          "144"
+        ]
+      },
+      {
+        "master_field_id": 675,
+        "values": [
+          "TN"
+        ]
+      },
+      {
+        "master_field_id": 619,
+        "values": [
+          "1920 x 1080"
+        ]
+      },
+      {
+        "master_field_id": 659,
+        "values": [
+          "ƏS yoxdur"
+        ]
+      },
+      {
+        "master_field_id": 672,
+        "values": [
+          "Intel Core i5"
+        ]
+      },
+      {
+        "master_field_id": 673,
+        "values": [
+          "4500"
+        ]
+      },
+      {
+        "master_field_id": 664,
+        "values": [
+          "6"
+        ]
+      },
+      {
+        "master_field_id": 2595,
+        "values": [
+          "512"
+        ]
+      },
+      {
+        "master_field_id": 1488,
+        "values": [
+          "SSD"
+        ]
+      },
+      {
+        "master_field_id": 1744,
+        "values": [
+          "NVIDIA"
+        ]
+      },
+      {
+        "master_field_id": 662,
+        "values": [
+          "6"
+        ]
+      },
+      {
+        "master_field_id": 1743,
+        "values": [
+          "Diskret"
+        ]
+      },
+      {
+        "master_field_id": 656,
+        "values": [
+          "2.6"
+        ]
+      },
+      {
+        "master_field_id": 625,
+        "values": [
+          "Qara"
+        ]
+      },
+      {
+        "master_field_id": 775,
+        "values": [
+          "399.2"
+        ]
+      },
+      {
+        "master_field_id": 776,
+        "values": [
+          "268.9"
+        ]
+      },
+      {
+        "master_field_id": 1637,
+        "values": [
+          "26"
+        ]
+      },
+      {
+        "master_field_id": 1476,
+        "values": [
+          "Asus TUF Gaming F17"
+        ]
+      },
+      {
+        "master_field_id": 620,
+        "values": [
+          "Oyun notbuku"
+        ]
+      },
+      {
+        "master_field_id": 1739,
+        "values": [
+          "Xeyr"
+        ]
+      },
+      {
+        "master_field_id": 1594,
+        "values": [
+          "Bəli"
+        ]
+      },
+      {
+        "master_field_id": 658,
+        "values": [
+          "Xeyr"
+        ]
+      },
+      {
+        "master_field_id": 697,
+        "values": [
+          "Təlimat"
+        ]
+      },
+      {
+        "master_field_id": 1740,
+        "values": [
+          "Kensinqton kilidi"
+        ]
+      },
+      {
+        "master_field_id": 2210,
+        "values": [
+          "Tayvan"
+        ]
+      },
+      {
+        "master_field_id": 618,
+        "values": [
+          "Çin"
+        ]
+      },
+      {
+        "master_field_id": 2635,
+        "values": [
+          "2021"
+        ]
+      },
+      {
+        "master_field_id": 1493,
+        "values": [
+          "Ada şəklində"
+        ]
+      },
+      {
+        "master_field_id": 1557,
+        "values": [
+          "Qara"
+        ]
+      },
+      {
+        "master_field_id": 2600,
+        "values": [
+          "Bəli"
+        ]
+      },
+      {
+        "master_field_id": 1508,
+        "values": [
+          "2"
+        ]
+      },
+      {
+        "master_field_id": 1554,
+        "values": [
+          "Xeyr"
+        ]
+      },
+      {
+        "master_field_id": 1811,
+        "values": [
+          "Bəli"
+        ]
+      },
+      {
+        "master_field_id": 2598,
+        "values": [
+          "Xeyr"
+        ]
+      },
+      {
+        "master_field_id": 777,
+        "values": [
+          "Bəli"
+        ]
+      },
+      {
+        "master_field_id": 2597,
+        "values": [
+          "Xeyr"
+        ]
+      },
+      {
+        "master_field_id": 2596,
+        "values": [
+          "Bəli"
+        ]
+      },
+      {
+        "master_field_id": 2559,
+        "values": [
+          "4"
+        ]
+      },
+      {
+        "master_field_id": 1556,
+        "values": [
+          "Yoxdur"
+        ]
+      },
+      {
+        "master_field_id": 1759,
+        "values": [
+          "1280x720(HD)"
+        ]
+      },
+      {
+        "master_field_id": 2552,
+        "values": [
+          "Zərbəyə davamlı",
+          "Nəmə davamlı"
+        ]
+      },
+      {
+        "master_field_id": 1492,
+        "values": [
+          "7.1"
+        ]
+      },
+      {
+        "master_field_id": 1482,
+        "values": [
+          "32"
+        ]
+      },
+      {
+        "master_field_id": 719,
+        "values": [
+          "2"
+        ]
+      },
+      {
+        "master_field_id": 660,
+        "values": [
+          "Antiblik"
+        ]
+      },
+      {
+        "master_field_id": 6327,
+        "values": [
+          "Bəli"
+        ]
+      }
+    ],
+    "main_img": {
+      "big": "https://strgimgr.umico.az/sized/1680/423603-aa08f4e381a70f218b4bc207857a9743.jpg",
+      "medium": "https://strgimgr.umico.az/sized/840/423603-aa08f4e381a70f218b4bc207857a9743.jpg",
+      "small": "https://strgimgr.umico.az/sized/280/423603-aa08f4e381a70f218b4bc207857a9743.jpg"
+    },
+    "img_url_thumbnail": "https://strgimgr.umico.az/sized/280/423603-aa08f4e381a70f218b4bc207857a9743.jpg",
+    "main_video": "",
+    "imgs": [
+      {
+        "big": "https://strgimgr.umico.az/sized/1680/423603-aa08f4e381a70f218b4bc207857a9743.jpg",
+        "medium": "https://strgimgr.umico.az/sized/840/423603-aa08f4e381a70f218b4bc207857a9743.jpg",
+        "small": "https://strgimgr.umico.az/sized/280/423603-aa08f4e381a70f218b4bc207857a9743.jpg"
+      },
+      {
+        "big": "https://strgimgr.umico.az/sized/1680/423603-9f8e8a02fd6de1e389034a854a27b354.jpg",
+        "medium": "https://strgimgr.umico.az/sized/840/423603-9f8e8a02fd6de1e389034a854a27b354.jpg",
+        "small": "https://strgimgr.umico.az/sized/280/423603-9f8e8a02fd6de1e389034a854a27b354.jpg"
+      },
+      {
+        "big": "https://strgimgr.umico.az/sized/1680/423603-cf54c14cd2f5ea9d3128184393688005.jpg",
+        "medium": "https://strgimgr.umico.az/sized/840/423603-cf54c14cd2f5ea9d3128184393688005.jpg",
+        "small": "https://strgimgr.umico.az/sized/280/423603-cf54c14cd2f5ea9d3128184393688005.jpg"
+      },
+      {
+        "big": "https://strgimgr.umico.az/sized/1680/423603-9b5738696dc164338ff7889aa6e94751.jpg",
+        "medium": "https://strgimgr.umico.az/sized/840/423603-9b5738696dc164338ff7889aa6e94751.jpg",
+        "small": "https://strgimgr.umico.az/sized/280/423603-9b5738696dc164338ff7889aa6e94751.jpg"
+      }
+    ],
+    "videos": [
+      "XbLuD2H4iQk"
+    ],
+    "min_qty": 1,
+    "preorder_available": false,
+    "is_assortment": false,
+    "is_bulk_heavy": false,
+    "is_refurbished": false,
+    "is_refundable": true,
+    "is_dangerous": false,
+    "show_tech_description": false,
+    "use_external_content": true,
+    "product_labels": [],
+    "ratings": {
+      "rating_value": 0,
+      "assessment_id": 0,
+      "session_count": 0
+    },
+    "default_show_stock_qty_threshold": 0,
+    "card_type": "public"
+  },
+  "category": {
+    "id": 16,
+    "name": "Notbuklar",
+    "slugged_name_az": "noutbuklar",
+    "slugged_name_ru": "noutbuki",
+    "view_mode": "products",
+    "mobile_visual_mode": "text",
+    "is_variant": true,
+    "depth": 2,
+    "parent_id": 15,
+    "child_ids": [],
+    "node_type": "NODE",
+    "install_service_needed": false,
+    "fitting_allowed": false,
+    "vat": true,
+    "variations": [
+      {
+        "master_field_id": 625,
+        "name": "Rəng",
+        "variation_tool_type": "image",
+        "has_size_chart": false,
+        "display_variant": false
+      },
+      {
+        "master_field_id": 2595,
+        "name": "SSD həcmi, Gb",
+        "variation_tool_type": "button",
+        "has_size_chart": false,
+        "display_variant": false
+      },
+      {
+        "master_field_id": 672,
+        "name": "Prosessorun növü",
+        "variation_tool_type": "button",
+        "has_size_chart": false,
+        "display_variant": false
+      }
+    ],
+    "custom_fields": [
+      {
+        "master_field_id": 1476,
+        "category_master_field_id": 4465,
+        "name": "Seriya"
+      },
+      {
+        "master_field_id": 620,
+        "category_master_field_id": 1503,
+        "name": "Tip"
+      },
+      {
+        "master_field_id": 672,
+        "category_master_field_id": 5316,
+        "name": "Prosessorun növü"
+      },
+      {
+        "master_field_id": 661,
+        "category_master_field_id": 1510,
+        "name": "Operativ yaddaşın həcmi, Gb"
+      },
+      {
+        "master_field_id": 834,
+        "category_master_field_id": 4473,
+        "name": "Yaddaşın növü"
+      },
+      {
+        "master_field_id": 2595,
+        "category_master_field_id": 10818,
+        "name": "SSD həcmi, Gb"
+      },
+      {
+        "master_field_id": 2594,
+        "category_master_field_id": 10817,
+        "name": "HDD həcmi, Gb"
+      },
+      {
+        "master_field_id": 1488,
+        "category_master_field_id": 4481,
+        "name": "Yığıcının növü"
+      },
+      {
+        "master_field_id": 617,
+        "category_master_field_id": 1506,
+        "name": "Ekranın diaqonalı, düym"
+      },
+      {
+        "master_field_id": 619,
+        "category_master_field_id": 4460,
+        "name": "Ekranın qətnaməsi"
+      },
+      {
+        "master_field_id": 675,
+        "category_master_field_id": 4458,
+        "name": "Matrisin növü"
+      },
+      {
+        "master_field_id": 1472,
+        "category_master_field_id": 4461,
+        "name": "Kadrların dəyişmə tezliyi, Hz"
+      },
+      {
+        "master_field_id": 659,
+        "category_master_field_id": 1507,
+        "name": "Əvvəlcədən quraşdırılmış ƏS"
+      },
+      {
+        "master_field_id": 625,
+        "category_master_field_id": 1509,
+        "name": "Rəng"
+      },
+      {
+        "master_field_id": 2211,
+        "category_master_field_id": 10835,
+        "name": "Zəmanət müddəti"
+      },
+      {
+        "master_field_id": 660,
+        "category_master_field_id": 1508,
+        "name": "Ekran örtüyünün növü"
+      },
+      {
+        "master_field_id": 6044,
+        "category_master_field_id": 38416,
+        "name": "Prosessorun kodu"
+      },
+      {
+        "master_field_id": 673,
+        "category_master_field_id": 5320,
+        "name": "Prosessorun tezliyi, MHz"
+      },
+      {
+        "master_field_id": 719,
+        "category_master_field_id": 4477,
+        "name": "Yaddaş yuvalarının sayı"
+      },
+      {
+        "master_field_id": 1482,
+        "category_master_field_id": 4472,
+        "name": "Maksimal artırıla bilən həcm, Gb"
+      },
+      {
+        "master_field_id": 662,
+        "category_master_field_id": 1511,
+        "name": "Video yaddaşın həcmi, Gb"
+      },
+      {
+        "master_field_id": 1743,
+        "category_master_field_id": 5321,
+        "name": "Qrafik kontrollerin növü"
+      },
+      {
+        "master_field_id": 656,
+        "category_master_field_id": 4590,
+        "name": "Çəki, kq"
+      },
+      {
+        "master_field_id": 826,
+        "category_master_field_id": 4588,
+        "name": "Akkumulyatorun həcmi, mA/saat"
+      },
+      {
+        "master_field_id": 775,
+        "category_master_field_id": 15508,
+        "name": "Uzunluğu, mm"
+      },
+      {
+        "master_field_id": 776,
+        "category_master_field_id": 15509,
+        "name": "Eni, mm"
+      },
+      {
+        "master_field_id": 1637,
+        "category_master_field_id": 10833,
+        "name": "Qalınlığı, mm"
+      },
+      {
+        "master_field_id": 705,
+        "category_master_field_id": 5324,
+        "name": "Qrafik çipset"
+      },
+      {
+        "master_field_id": 1739,
+        "category_master_field_id": 10815,
+        "name": "Sensor ekran"
+      },
+      {
+        "master_field_id": 658,
+        "category_master_field_id": 1505,
+        "name": "Ultrabuk"
+      },
+      {
+        "master_field_id": 697,
+        "category_master_field_id": 10834,
+        "name": "Komplektasiya"
+      },
+      {
+        "master_field_id": 1740,
+        "category_master_field_id": 5326,
+        "name": "Digər funksiyalar və xüsusiyyətlər"
+      },
+      {
+        "master_field_id": 2210,
+        "category_master_field_id": 10809,
+        "name": "Brendin ölkəsi"
+      },
+      {
+        "master_field_id": 618,
+        "category_master_field_id": 5330,
+        "name": "İstehsalçı ölkə"
+      },
+      {
+        "master_field_id": 2635,
+        "category_master_field_id": 37278,
+        "name": "Bazarın başlanğıc ili"
+      },
+      {
+        "master_field_id": 1493,
+        "category_master_field_id": 4487,
+        "name": "Düymələrin quruluşu"
+      },
+      {
+        "master_field_id": 1557,
+        "category_master_field_id": 4616,
+        "name": "Klaviaturanın rəngi"
+      },
+      {
+        "master_field_id": 2600,
+        "category_master_field_id": 10829,
+        "name": "Klaviaturanın işıqlandırılması"
+      },
+      {
+        "master_field_id": 1508,
+        "category_master_field_id": 10828,
+        "name": "Dinamiklərin sayı"
+      },
+      {
+        "master_field_id": 1554,
+        "category_master_field_id": 10826,
+        "name": "Yaddaş kartlarının dəstəklənməsi"
+      },
+      {
+        "master_field_id": 1811,
+        "category_master_field_id": 10825,
+        "name": "Wi-Fi standartı"
+      },
+      {
+        "master_field_id": 2598,
+        "category_master_field_id": 10824,
+        "name": "NFC mövcudluğu"
+      },
+      {
+        "master_field_id": 777,
+        "category_master_field_id": 10823,
+        "name": "Bluetooth standartı"
+      },
+      {
+        "master_field_id": 2597,
+        "category_master_field_id": 10822,
+        "name": "VGA (D-sub) port"
+      },
+      {
+        "master_field_id": 2596,
+        "category_master_field_id": 10821,
+        "name": "HDMI port"
+      },
+      {
+        "master_field_id": 1594,
+        "category_master_field_id": 4711,
+        "name": "Şəbəkəyə qoşulma (Ethernet)"
+      },
+      {
+        "master_field_id": 2559,
+        "category_master_field_id": 10820,
+        "name": "USB -portların sayı, əd."
+      },
+      {
+        "master_field_id": 1556,
+        "category_master_field_id": 4615,
+        "name": "Optik ötürücü"
+      },
+      {
+        "master_field_id": 1491,
+        "category_master_field_id": 4485,
+        "name": "Web-kamera"
+      },
+      {
+        "master_field_id": 1759,
+        "category_master_field_id": 10819,
+        "name": "Veb kamera"
+      },
+      {
+        "master_field_id": 2552,
+        "category_master_field_id": 10830,
+        "name": "Korpusun qorunması"
+      },
+      {
+        "master_field_id": 1492,
+        "category_master_field_id": 4486,
+        "name": "Səs formatı"
+      },
+      {
+        "master_field_id": 1744,
+        "category_master_field_id": 5322,
+        "name": "Qrafik çipsetin istehsalçısı"
+      },
+      {
+        "master_field_id": 664,
+        "category_master_field_id": 4468,
+        "name": "Prosessorun nüvələr sayı"
+      },
+      {
+        "master_field_id": 6327,
+        "category_master_field_id": 41934,
+        "name": "Oyun"
+      }
+    ],
+    "parent": {
+      "id": 15,
+      "node_type": "NODE",
+      "name": "Notbuk və kompüterlər",
+      "slugged_name": "noutbuklar-ve-komputer-texnikasi",
+      "parent": {
+        "id": 1,
+        "node_type": "NODE",
+        "name": "Elektronika və məişət texnikası",
+        "slugged_name": "elektronika-ve-meishet-texnikasi",
+        "parent": null
+      }
+    },
+    "is_refundable": true,
+    "is_adult": false,
+    "icons": {
+      "thumbnail": "https://strgimgr.umico.az/img/category/188/6c2913d6-8b63-4253-ac83-0d99e74ad30a.jpeg",
+      "original": "https://strgimgr.umico.az/img/category/original/6c2913d6-8b63-4253-ac83-0d99e74ad30a.png"
+    },
+    "is_active": true
+  },
+  "offers": [
+    {
+      "uuid": "1af330e5-b20d-42fe-8765-21ac876448d1",
+      "installment_enabled": true,
+      "max_installment_months": 3,
+      "product_offer_labels": [],
+      "old_price": 3399,
+      "retail_price": 2879,
+      "supplier_id": "2c2e2738-1060-4bb7-913c-2290ff24d410",
+      "seller": {
+        "ext_id": "e20d6265-105a-4ff8-89ba-82a907df5278",
+        "internal_id": 5892,
+        "marketing_name": {
+          "id": 5892,
+          "name": "Texno Home Plus"
+        },
+        "logo": {
+          "thumbnail": "https://storage.umico.az/cpcustomerprod01/280cb0089bb8473e625894884badbe96.jpg"
+        },
+        "vat_payer": true,
+        "rating": 75,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "allow_qty": 0
+    },
+    {
+      "uuid": "7ce947b9-be7a-446d-bc9a-02f785f5bf2a",
+      "installment_enabled": true,
+      "max_installment_months": 18,
+      "product_offer_labels": [],
+      "old_price": 3599,
+      "retail_price": 2869,
+      "supplier_id": "e027e410-2b98-4607-b728-19e81465cc35",
+      "seller": {
+        "ext_id": "1c4f7c72-1819-4cd6-b2b8-1353c8dd6745",
+        "internal_id": 12285,
+        "marketing_name": {
+          "id": 12285,
+          "name": "Optimum Electronics LLC"
+        },
+        "logo": {
+          "thumbnail": "https://storage.umico.az/cpcustomerprod01/94f3c3d7decc55929452ae843eca34eb.jpg"
+        },
+        "vat_payer": false,
+        "rating": 95,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "allow_qty": 0
+    }
+  ],
+  "variations": [
+    {
+      "id": 423603,
+      "name": "Notbuk Asus TUF Gaming F17 FX706HM-HX146 (90NR0744-M001K0)",
+      "slugged_name": "noutbuk-asus-tuf-gaming-f17-fx706hm-hx146-90nr0744-m001k0",
+      "custom_fields": [
+        {
+          "master_field_id": 625,
+          "values": [
+            "Qara"
+          ]
+        },
+        {
+          "master_field_id": 2595,
+          "values": [
+            "512"
+          ]
+        },
+        {
+          "master_field_id": 672,
+          "values": [
+            "Intel Core i5"
+          ]
+        }
+      ],
+      "main_img": {
+        "big": "https://strgimgr.umico.az/sized/1680/423603-aa08f4e381a70f218b4bc207857a9743.jpg",
+        "medium": "https://strgimgr.umico.az/sized/840/423603-aa08f4e381a70f218b4bc207857a9743.jpg",
+        "small": "https://strgimgr.umico.az/sized/280/423603-aa08f4e381a70f218b4bc207857a9743.jpg"
+      },
+      "status": "active"
+    }
+  ],
+  "size_chart": {},
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "sku": 423603,
+    "mpn": "90NR0744-M001K0",
+    "url": "https://birmarket.az/product/423603-noutbuk-asus-tuf-gaming-f17-fx706hm-hx146-90nr0744-m001k0",
+    "name": "Notbuk Asus TUF Gaming F17 FX706HM-HX146 (90NR0744-M001K0)",
+    "image": [
+      "https://strgimgr.umico.az/sized/1680/423603-aa08f4e381a70f218b4bc207857a9743.jpg",
+      "https://strgimgr.umico.az/sized/1680/423603-9f8e8a02fd6de1e389034a854a27b354.jpg",
+      "https://strgimgr.umico.az/sized/1680/423603-cf54c14cd2f5ea9d3128184393688005.jpg",
+      "https://strgimgr.umico.az/sized/1680/423603-9b5738696dc164338ff7889aa6e94751.jpg"
+    ],
+    "description": "Asus TUF Gaming F17 FX706HM-HX146 notbuku, 2021-ci ildə istehsal olunub. Intel Core i5 11400H prosessoru ilə 6 nüvə və 4.5 GHz-ə qədər tezliklə işləyir. NVIDIA GeForce RTX 3060 qrafik çipseti, 6 GB video yaddaşı təmin edir. 17.3 düymlük, Full HD (1920 x 1080) qətnaməli, antiblik TN ekranı, 144 Hz yeniləmə tezliyi ilə oyun təcrübəsini yaxşılaşdırır. Oyunda və proqramlarda sürətli reaksiya üçün 16 GB DDR4 RAM və 512 GB SSD həcmi var. İşıqlandırılmış klaviatura, ada şəklində düymələrlə dizayn edilib və 720p HD kamera ilə təchiz olunub. 4 USB portu, Ethernet və HDMI, Bluetooth kimi qoşulma variantları mövcuddur. Qara korpusu zərbəyə və nəmə qarşı davamlıdır. 32 GB-a qədər genişləndirilə bilən yaddaş həcmi, oyunçular və peşəkarlar üçün uyğun seçimdir.",
+    "itemCondition": "https://schema.org/NewCondition",
+    "offers": {
+      "@type": "AggregateOffer",
+      "availability": "https://schema.org/InStock",
+      "offerCount": 2,
+      "highPrice": 2879,
+      "lowPrice": 2869,
+      "priceCurrency": "AZN",
+      "hasMerchantReturnPolicy": {
+        "applicableCountry": "AZ",
+        "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+        "returnMethod": "https://schema.org/ReturnInStore",
+        "returnFees": "https://schema.org/FreeReturn",
+        "merchantReturnDays": 14
+      },
+      "shippingDetails": {
+        "@type": "OfferShippingDetails",
+        "shippingDestination": {
+          "@type": "DefinedRegion",
+          "addressCountry": "AZ"
+        },
+        "deliveryTime": {
+          "@type": "ShippingDeliveryTime",
+          "handlingTime": {
+            "@type": "QuantitativeValue",
+            "minValue": 0,
+            "maxValue": 1,
+            "unitCode": "DAY"
+          },
+          "transitTime": {
+            "@type": "QuantitativeValue",
+            "minValue": 0,
+            "maxValue": 1,
+            "unitCode": "DAY"
+          },
+          "businessDays": {
+            "@type": "OpeningHoursSpecification",
+            "dayOfWeek": [
+              "https://schema.org/Monday",
+              "https://schema.org/Tuesday",
+              "https://schema.org/Wednesday",
+              "https://schema.org/Thursday",
+              "https://schema.org/Friday",
+              "https://schema.org/Saturday",
+              "https://schema.org/Sunday"
+            ]
+          }
+        },
+        "shippingRate": {
+          "@type": "MonetaryAmount",
+          "value": 0,
+          "currency": "AZN"
+        }
+      }
+    },
+    "brand": {
+      "@type": "Brand",
+      "name": "Asus",
+      "url": "https://birmarket.az/brands/Asus"
+    }
+  }
+}

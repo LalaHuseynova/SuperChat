@@ -1,0 +1,34 @@
+{
+  "source": "https://cinemastercard.az",
+  "schema_version": "1.0",
+  "fetched_at": "2026-11-03T00:06:14.484121+04:00",
+  "run_directory": "cinema/runs/20261103_000614_484121",
+  "timezone": "Asia/Baku",
+  "currency": "AZN",
+  "coverage": "discovered_public_listings_collected",
+  "counts": {
+    "movies": 28,
+    "cinemas": 11,
+    "showtimes": 488,
+    "images": 36,
+    "price_conflicts": 86
+  },
+  "dates": [
+    "2026-11-03",
+    "2026-11-04"
+  ],
+  "movie_pages_requested": 28,
+  "cinema_pages_requested": 11,
+  "errors": [],
+  "limitations": [
+    "Public listings only: no seat selection, reservation, checkout or login performed.",
+    "Prices are displayed session prices; seat-specific charges, promotions and availability are not verified.",
+    "Conflicting movie/venue prices are retained in price_observations; movie-page price takes precedence.",
+    "Movie ratings, exact seat counts and absent duration/age/address/district values remain null.",
+    "Only dates published on fetched pages are collected. Missing sessions do not establish sold-out status.",
+    "Movie language is null for multiple/unknown languages; use each showtime languages/subtitles instead.",
+    "Coordinates are unverified source map values; 0,0 placeholders are discarded.",
+    "Tariff images are preserved separately, not interpreted as a session price or discount.",
+    "Content is Azerbaijani as published; no synthetic translations or mock values are added."
+  ]
+}

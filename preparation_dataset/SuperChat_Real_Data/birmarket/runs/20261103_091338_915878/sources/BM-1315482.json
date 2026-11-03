@@ -1,0 +1,846 @@
+{
+  "product": {
+    "id": 1315482,
+    "gtin": "4894947092565",
+    "mpn": "",
+    "name": "Smartfon Infinix Hot 60 Pro Plus 8GB/256GB Black NFC",
+    "slugged_name_az": "smartfon-infinix-hot-60-pro-plus-8gb-256gb-black-nfc",
+    "slugged_name_ru": "smartfon-infinix-hot-60-pro-plus-8gb-256gb-black-nfc",
+    "description": "Infinix Hot 60 Pro Plus smartfonu Android əməliyyat sistemi ilə işləyən, Çində hazırlanmış yüksək texnologiyalı bir cihazdır. Smartfon güclü Mediatek Helio G200 prosessoru ilə təchiz olunub və 256 GB daxili yaddaşa malikdir ki, bu da sürətli və effektiv iş imkanı yaradır. Əsas kamera 50 MP, ön kamera isə 13 MP çözünürlüğündəndir ki, bu da keyfiyyətli şəkillər çəkməyə imkan verir. Cihazın xüsusiyyəti kontaktsız texnologiyalar üçün rahatlıq təmin edən NFC-modulun olmasıdır. Smartfon suya və toza davamlıdır, həmçinin 3G, 2G, LTE əlaqə standartlarını dəstəkləyir. 6.78 düymlük AMOLED ekran görüntülərin yüksək keyfiyyətdə göstərilməsini təmin edir. Komplektə təlimat, smartfon və zəmanət talonu daxildir. Bu smartfon keyfiyyəti, məhsuldarlığı və funksionallığı dəyərləndirənlər üçün əla seçim olacaq.",
+    "description_outlet": "",
+    "status": "active",
+    "uuid": "3e7bca08-bc8d-4525-98fe-c4cc0f11683f",
+    "variant_code": "Infinix Hot 60 Pro Plus",
+    "default_offer": {
+      "uuid": "1905d71a-8d20-4835-be65-0a22e33bf49c",
+      "installment_enabled": true,
+      "max_installment_months": 3,
+      "product_offer_labels": [],
+      "old_price": 0,
+      "retail_price": 689,
+      "supplier_id": "217b2604-2ea1-4855-bda3-9ce0add2dbf1",
+      "qty": 0,
+      "seller": {
+        "ext_id": "217b2604-2ea1-4855-bda3-9ce0add2dbf1",
+        "marketing_name": {
+          "id": 8399,
+          "name": "Minor Smart"
+        },
+        "logo": {
+          "thumbnail": "https://storage.umico.az/cpcustomerprod01/b166d3e558aea16abc9063a7a9ee5bf3.jpg"
+        },
+        "vat_payer": true,
+        "rating": 100,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "discount_effective_start_date": "",
+      "discount_effective_end_date": ""
+    },
+    "category_id": 3,
+    "category": {
+      "id": 3,
+      "name": "Mobil telefonlar və smartfonlar"
+    },
+    "brand": {
+      "name": "Infinix"
+    },
+    "custom_fields": [
+      {
+        "master_field_id": 1476,
+        "values": [
+          "Infinix Hot 60 Pro Plus"
+        ]
+      },
+      {
+        "master_field_id": 1815,
+        "values": [
+          "8 Gb"
+        ]
+      },
+      {
+        "master_field_id": 1816,
+        "values": [
+          "256 Gb"
+        ]
+      },
+      {
+        "master_field_id": 625,
+        "values": [
+          "Qara"
+        ]
+      },
+      {
+        "master_field_id": 616,
+        "values": [
+          "Android"
+        ]
+      },
+      {
+        "master_field_id": 617,
+        "values": [
+          "6.78"
+        ]
+      },
+      {
+        "master_field_id": 619,
+        "values": [
+          "2720 x 1224"
+        ]
+      },
+      {
+        "master_field_id": 1813,
+        "values": [
+          "AMOLED"
+        ]
+      },
+      {
+        "master_field_id": 826,
+        "values": [
+          "5160"
+        ]
+      },
+      {
+        "master_field_id": 613,
+        "values": [
+          "3G",
+          "2G",
+          "LTE"
+        ]
+      },
+      {
+        "master_field_id": 615,
+        "values": [
+          "2"
+        ]
+      },
+      {
+        "master_field_id": 1812,
+        "values": [
+          "Nano"
+        ]
+      },
+      {
+        "master_field_id": 1533,
+        "values": [
+          "50"
+        ]
+      },
+      {
+        "master_field_id": 1505,
+        "values": [
+          "13"
+        ]
+      },
+      {
+        "master_field_id": 6038,
+        "values": [
+          "Bəli"
+        ]
+      },
+      {
+        "master_field_id": 6334,
+        "values": [
+          "Yeni"
+        ]
+      },
+      {
+        "master_field_id": 2211,
+        "values": [
+          "12 ay"
+        ]
+      },
+      {
+        "master_field_id": 612,
+        "values": [
+          "Smartfon"
+        ]
+      },
+      {
+        "master_field_id": 614,
+        "values": [
+          "Monoblok"
+        ]
+      },
+      {
+        "master_field_id": 1739,
+        "values": [
+          "Bəli"
+        ]
+      },
+      {
+        "master_field_id": 1534,
+        "values": [
+          "Mediatek Helio G200"
+        ]
+      },
+      {
+        "master_field_id": 664,
+        "values": [
+          "8"
+        ]
+      },
+      {
+        "master_field_id": 1554,
+        "values": [
+          "Xeyr"
+        ]
+      },
+      {
+        "master_field_id": 830,
+        "values": [
+          "Yoxdur"
+        ]
+      },
+      {
+        "master_field_id": 5086,
+        "values": [
+          "50"
+        ]
+      },
+      {
+        "master_field_id": 5087,
+        "values": [
+          "13"
+        ]
+      },
+      {
+        "master_field_id": 1811,
+        "values": [
+          "Bəli"
+        ]
+      },
+      {
+        "master_field_id": 777,
+        "values": [
+          "5.4"
+        ]
+      },
+      {
+        "master_field_id": 1810,
+        "values": [
+          "USB Type-C"
+        ]
+      },
+      {
+        "master_field_id": 1809,
+        "values": [
+          "Xeyr"
+        ]
+      },
+      {
+        "master_field_id": 1808,
+        "values": [
+          "Çıxarılmayan"
+        ]
+      },
+      {
+        "master_field_id": 1807,
+        "values": [
+          "Xeyr"
+        ]
+      },
+      {
+        "master_field_id": 2552,
+        "values": [
+          "Nəmə davamlı",
+          "Toza davamlı"
+        ]
+      },
+      {
+        "master_field_id": 1740,
+        "values": [
+          "Barmaq izi skaneri",
+          "Akselerometr",
+          "Qiroskop",
+          "Yaxınlaşma göstəricisi",
+          "Kompas"
+        ]
+      },
+      {
+        "master_field_id": 2635,
+        "values": [
+          "2025"
+        ]
+      },
+      {
+        "master_field_id": 708,
+        "values": [
+          "Plastik"
+        ]
+      },
+      {
+        "master_field_id": 641,
+        "values": [
+          "164"
+        ]
+      },
+      {
+        "master_field_id": 776,
+        "values": [
+          "75.8"
+        ]
+      },
+      {
+        "master_field_id": 1637,
+        "values": [
+          "6"
+        ]
+      },
+      {
+        "master_field_id": 870,
+        "values": [
+          "155"
+        ]
+      },
+      {
+        "master_field_id": 697,
+        "values": [
+          "Təlimat",
+          "Smartfon",
+          "Zəmanət kartı"
+        ]
+      },
+      {
+        "master_field_id": 2210,
+        "values": [
+          "Çin"
+        ]
+      },
+      {
+        "master_field_id": 618,
+        "values": [
+          "Çin"
+        ]
+      }
+    ],
+    "main_img": {
+      "big": "https://strgimgr.umico.az/img/product/1680/868bc769-fb32-4eda-bfbf-9df5cb3313c7.jpeg",
+      "medium": "https://strgimgr.umico.az/img/product/840/868bc769-fb32-4eda-bfbf-9df5cb3313c7.jpeg",
+      "small": "https://strgimgr.umico.az/img/product/280/868bc769-fb32-4eda-bfbf-9df5cb3313c7.jpeg"
+    },
+    "img_url_thumbnail": "https://strgimgr.umico.az/img/product/280/868bc769-fb32-4eda-bfbf-9df5cb3313c7.jpeg",
+    "main_video": "",
+    "imgs": [
+      {
+        "big": "https://strgimgr.umico.az/img/product/1680/868bc769-fb32-4eda-bfbf-9df5cb3313c7.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/868bc769-fb32-4eda-bfbf-9df5cb3313c7.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/868bc769-fb32-4eda-bfbf-9df5cb3313c7.jpeg"
+      },
+      {
+        "big": "https://strgimgr.umico.az/img/product/1680/d43ceb45-36c7-4856-b546-192c4c472c91.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/d43ceb45-36c7-4856-b546-192c4c472c91.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/d43ceb45-36c7-4856-b546-192c4c472c91.jpeg"
+      },
+      {
+        "big": "https://strgimgr.umico.az/img/product/1680/5e13fec7-30d6-44bf-a7bd-ceb13e132f54.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/5e13fec7-30d6-44bf-a7bd-ceb13e132f54.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/5e13fec7-30d6-44bf-a7bd-ceb13e132f54.jpeg"
+      },
+      {
+        "big": "https://strgimgr.umico.az/img/product/1680/1332c31e-4f73-4dff-9fb2-650420d70d37.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/1332c31e-4f73-4dff-9fb2-650420d70d37.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/1332c31e-4f73-4dff-9fb2-650420d70d37.jpeg"
+      },
+      {
+        "big": "https://strgimgr.umico.az/img/product/1680/9da3d149-5f38-477a-bee5-b02f2a203162.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/9da3d149-5f38-477a-bee5-b02f2a203162.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/9da3d149-5f38-477a-bee5-b02f2a203162.jpeg"
+      },
+      {
+        "big": "https://strgimgr.umico.az/img/product/1680/8e9924a3-2ef8-405f-9c72-e058332f8b7c.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/8e9924a3-2ef8-405f-9c72-e058332f8b7c.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/8e9924a3-2ef8-405f-9c72-e058332f8b7c.jpeg"
+      },
+      {
+        "big": "https://strgimgr.umico.az/img/product/1680/4b3d9b31-8eb0-4ea2-85c1-a6f16f9f3dfd.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/4b3d9b31-8eb0-4ea2-85c1-a6f16f9f3dfd.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/4b3d9b31-8eb0-4ea2-85c1-a6f16f9f3dfd.jpeg"
+      },
+      {
+        "big": "https://strgimgr.umico.az/img/product/1680/f7fa732d-9e45-41f4-993e-ee24e959d477.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/f7fa732d-9e45-41f4-993e-ee24e959d477.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/f7fa732d-9e45-41f4-993e-ee24e959d477.jpeg"
+      }
+    ],
+    "videos": [
+      ""
+    ],
+    "min_qty": 1,
+    "preorder_available": false,
+    "is_assortment": false,
+    "is_bulk_heavy": false,
+    "is_refurbished": false,
+    "is_refundable": true,
+    "is_dangerous": false,
+    "show_tech_description": false,
+    "use_external_content": false,
+    "product_labels": [],
+    "ratings": {
+      "rating_value": 3.9,
+      "assessment_id": 0,
+      "session_count": 36,
+      "score_count": 11,
+      "review_count": 25
+    },
+    "default_show_stock_qty_threshold": 0,
+    "card_type": "public"
+  },
+  "category": {
+    "id": 3,
+    "name": "Mobil telefonlar və smartfonlar",
+    "slugged_name_az": "mobil-telefonlar-ve-smartfonlar",
+    "slugged_name_ru": "mobilnye-telefony-i-smartfony",
+    "view_mode": "products",
+    "mobile_visual_mode": "text",
+    "is_variant": true,
+    "depth": 2,
+    "parent_id": 2,
+    "child_ids": [],
+    "node_type": "NODE",
+    "install_service_needed": false,
+    "fitting_allowed": false,
+    "vat": true,
+    "variations": [
+      {
+        "master_field_id": 625,
+        "name": "Rəng",
+        "variation_tool_type": "image",
+        "has_size_chart": false,
+        "display_variant": true
+      },
+      {
+        "master_field_id": 1812,
+        "name": "SİM kartının növü",
+        "variation_tool_type": "button",
+        "has_size_chart": false,
+        "display_variant": false
+      },
+      {
+        "master_field_id": 1816,
+        "name": "Daxili yaddaş həcmi",
+        "variation_tool_type": "button",
+        "has_size_chart": false,
+        "display_variant": false
+      }
+    ],
+    "custom_fields": [
+      {
+        "master_field_id": 1476,
+        "category_master_field_id": 15459,
+        "name": "Seriya"
+      },
+      {
+        "master_field_id": 616,
+        "category_master_field_id": 1440,
+        "name": "Əməliyyat sistemi"
+      },
+      {
+        "master_field_id": 1815,
+        "category_master_field_id": 5520,
+        "name": "Operativ yaddaşın həcmi"
+      },
+      {
+        "master_field_id": 1816,
+        "category_master_field_id": 5521,
+        "name": "Daxili yaddaş həcmi"
+      },
+      {
+        "master_field_id": 617,
+        "category_master_field_id": 1441,
+        "name": "Ekranın diaqonalı, düym"
+      },
+      {
+        "master_field_id": 619,
+        "category_master_field_id": 1443,
+        "name": "Ekranın qətnaməsi"
+      },
+      {
+        "master_field_id": 1813,
+        "category_master_field_id": 5517,
+        "name": "Ekran texnologiyası"
+      },
+      {
+        "master_field_id": 826,
+        "category_master_field_id": 4575,
+        "name": "Akkumulyatorun həcmi, mA/saat"
+      },
+      {
+        "master_field_id": 613,
+        "category_master_field_id": 1437,
+        "name": "Rabitə standartları"
+      },
+      {
+        "master_field_id": 615,
+        "category_master_field_id": 1439,
+        "name": "SİM kartların sayı"
+      },
+      {
+        "master_field_id": 1812,
+        "category_master_field_id": 5516,
+        "name": "SİM kartının növü"
+      },
+      {
+        "master_field_id": 1533,
+        "category_master_field_id": 4577,
+        "name": "Əsas kamera, Mp"
+      },
+      {
+        "master_field_id": 1505,
+        "category_master_field_id": 4578,
+        "name": "Ön kamera, Mp"
+      },
+      {
+        "master_field_id": 625,
+        "category_master_field_id": 4484,
+        "name": "Rəng"
+      },
+      {
+        "master_field_id": 6038,
+        "category_master_field_id": 38184,
+        "name": "NFC"
+      },
+      {
+        "master_field_id": 6334,
+        "category_master_field_id": 42680,
+        "name": "Vəziyyət"
+      },
+      {
+        "master_field_id": 2211,
+        "category_master_field_id": 15463,
+        "name": "Zəmanət müddəti"
+      },
+      {
+        "master_field_id": 5086,
+        "category_master_field_id": 27201,
+        "name": "Əsas kamera dəsti, Mp"
+      },
+      {
+        "master_field_id": 5087,
+        "category_master_field_id": 27202,
+        "name": "Ön kamera dəsti, Mp"
+      },
+      {
+        "master_field_id": 612,
+        "category_master_field_id": 1436,
+        "name": "Qurğunun növü"
+      },
+      {
+        "master_field_id": 1554,
+        "category_master_field_id": 4613,
+        "name": "Yaddaş kartlarının dəstəklənməsi"
+      },
+      {
+        "master_field_id": 708,
+        "category_master_field_id": 4585,
+        "name": "Korpusun materialı"
+      },
+      {
+        "master_field_id": 2552,
+        "category_master_field_id": 15460,
+        "name": "Korpusun qorunması"
+      },
+      {
+        "master_field_id": 614,
+        "category_master_field_id": 1438,
+        "name": "Form-faktor"
+      },
+      {
+        "master_field_id": 1739,
+        "category_master_field_id": 5309,
+        "name": "Sensor ekran"
+      },
+      {
+        "master_field_id": 1534,
+        "category_master_field_id": 15461,
+        "name": "Prosessor"
+      },
+      {
+        "master_field_id": 664,
+        "category_master_field_id": 4579,
+        "name": "Prosessorun nüvələr sayı"
+      },
+      {
+        "master_field_id": 830,
+        "category_master_field_id": 5518,
+        "name": "Yaddaş kartları üçün yuvalar"
+      },
+      {
+        "master_field_id": 1811,
+        "category_master_field_id": 5515,
+        "name": "Wi-Fi standartı"
+      },
+      {
+        "master_field_id": 777,
+        "category_master_field_id": 5313,
+        "name": "Bluetooth standartı"
+      },
+      {
+        "master_field_id": 1810,
+        "category_master_field_id": 5514,
+        "name": "Qoşulma portu"
+      },
+      {
+        "master_field_id": 1809,
+        "category_master_field_id": 5513,
+        "name": "Audio çıxış"
+      },
+      {
+        "master_field_id": 1808,
+        "category_master_field_id": 5512,
+        "name": "Akkumulyatorun bərkitməsi"
+      },
+      {
+        "master_field_id": 1807,
+        "category_master_field_id": 5511,
+        "name": "Simsiz enerji toplama"
+      },
+      {
+        "master_field_id": 1740,
+        "category_master_field_id": 5311,
+        "name": "Digər funksiyalar və xüsusiyyətlər"
+      },
+      {
+        "master_field_id": 2635,
+        "category_master_field_id": 10939,
+        "name": "Bazarın başlanğıc ili"
+      },
+      {
+        "master_field_id": 641,
+        "category_master_field_id": 5507,
+        "name": "Hündürlüyü, mm"
+      },
+      {
+        "master_field_id": 776,
+        "category_master_field_id": 5508,
+        "name": "Eni, mm"
+      },
+      {
+        "master_field_id": 1637,
+        "category_master_field_id": 5509,
+        "name": "Qalınlığı, mm"
+      },
+      {
+        "master_field_id": 870,
+        "category_master_field_id": 4587,
+        "name": "Çəki, q"
+      },
+      {
+        "master_field_id": 618,
+        "category_master_field_id": 1442,
+        "name": "İstehsalçı ölkə"
+      },
+      {
+        "master_field_id": 2210,
+        "category_master_field_id": 15458,
+        "name": "Brendin ölkəsi"
+      },
+      {
+        "master_field_id": 697,
+        "category_master_field_id": 15462,
+        "name": "Komplektasiya"
+      },
+      {
+        "master_field_id": 6541,
+        "category_master_field_id": 44302,
+        "name": "İstehsalçı rəngi"
+      }
+    ],
+    "parent": {
+      "id": 2,
+      "node_type": "NODE",
+      "name": "Telefonlar, Smart cihazlar və telefon aksessuarları",
+      "slugged_name": "telefonlar-ve-aksessuarlar",
+      "parent": {
+        "id": 1,
+        "node_type": "NODE",
+        "name": "Elektronika və məişət texnikası",
+        "slugged_name": "elektronika-ve-meishet-texnikasi",
+        "parent": null
+      }
+    },
+    "is_refundable": true,
+    "is_adult": false,
+    "icons": {
+      "thumbnail": "https://strgimgr.umico.az/img/category/188/6eda4927-c28e-4785-a432-8e63a69439f5.jpeg",
+      "original": "https://strgimgr.umico.az/img/category/original/6eda4927-c28e-4785-a432-8e63a69439f5.jpeg"
+    },
+    "is_active": true
+  },
+  "offers": [
+    {
+      "uuid": "1905d71a-8d20-4835-be65-0a22e33bf49c",
+      "installment_enabled": true,
+      "max_installment_months": 3,
+      "product_offer_labels": [],
+      "old_price": 0,
+      "retail_price": 689,
+      "supplier_id": "217b2604-2ea1-4855-bda3-9ce0add2dbf1",
+      "seller": {
+        "ext_id": "fc8cbcbe-afe9-41ad-8e06-d9e0a8094d6e",
+        "internal_id": 8399,
+        "marketing_name": {
+          "id": 8399,
+          "name": "Minor Smart"
+        },
+        "logo": {
+          "thumbnail": "https://storage.umico.az/cpcustomerprod01/b166d3e558aea16abc9063a7a9ee5bf3.jpg"
+        },
+        "vat_payer": true,
+        "rating": 100,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "allow_qty": 0
+    }
+  ],
+  "variations": [
+    {
+      "id": 1315486,
+      "name": "Smartfon Infinix Hot 60 Pro Plus 8GB/256GB Silver NFC",
+      "slugged_name": "smartfon-infinix-hot-60-pro-plus-8gb-256gb-silver-nfc",
+      "custom_fields": [
+        {
+          "master_field_id": 625,
+          "values": [
+            "Gümüşü"
+          ]
+        },
+        {
+          "master_field_id": 1812,
+          "values": [
+            "Nano"
+          ]
+        },
+        {
+          "master_field_id": 1816,
+          "values": [
+            "256 Gb"
+          ]
+        }
+      ],
+      "main_img": {
+        "big": "https://strgimgr.umico.az/img/product/1680/341f8c90-7f48-4f1c-9abf-7a7876eff1ee.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/341f8c90-7f48-4f1c-9abf-7a7876eff1ee.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/341f8c90-7f48-4f1c-9abf-7a7876eff1ee.jpeg"
+      },
+      "status": "active"
+    },
+    {
+      "id": 1315482,
+      "name": "Smartfon Infinix Hot 60 Pro Plus 8GB/256GB Black NFC",
+      "slugged_name": "smartfon-infinix-hot-60-pro-plus-8gb-256gb-black-nfc",
+      "custom_fields": [
+        {
+          "master_field_id": 625,
+          "values": [
+            "Qara"
+          ]
+        },
+        {
+          "master_field_id": 1812,
+          "values": [
+            "Nano"
+          ]
+        },
+        {
+          "master_field_id": 1816,
+          "values": [
+            "256 Gb"
+          ]
+        }
+      ],
+      "main_img": {
+        "big": "https://strgimgr.umico.az/img/product/1680/868bc769-fb32-4eda-bfbf-9df5cb3313c7.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/868bc769-fb32-4eda-bfbf-9df5cb3313c7.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/868bc769-fb32-4eda-bfbf-9df5cb3313c7.jpeg"
+      },
+      "status": "active"
+    }
+  ],
+  "size_chart": {},
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "sku": 1315482,
+    "mpn": 1315482,
+    "url": "https://birmarket.az/product/1315482-smartfon-infinix-hot-60-pro-plus-8gb-256gb-black-nfc",
+    "name": "Smartfon Infinix Hot 60 Pro Plus 8GB/256GB Black NFC",
+    "image": [
+      "https://strgimgr.umico.az/img/product/1680/868bc769-fb32-4eda-bfbf-9df5cb3313c7.jpeg",
+      "https://strgimgr.umico.az/img/product/1680/d43ceb45-36c7-4856-b546-192c4c472c91.jpeg",
+      "https://strgimgr.umico.az/img/product/1680/5e13fec7-30d6-44bf-a7bd-ceb13e132f54.jpeg",
+      "https://strgimgr.umico.az/img/product/1680/1332c31e-4f73-4dff-9fb2-650420d70d37.jpeg",
+      "https://strgimgr.umico.az/img/product/1680/9da3d149-5f38-477a-bee5-b02f2a203162.jpeg",
+      "https://strgimgr.umico.az/img/product/1680/8e9924a3-2ef8-405f-9c72-e058332f8b7c.jpeg",
+      "https://strgimgr.umico.az/img/product/1680/4b3d9b31-8eb0-4ea2-85c1-a6f16f9f3dfd.jpeg",
+      "https://strgimgr.umico.az/img/product/1680/f7fa732d-9e45-41f4-993e-ee24e959d477.jpeg"
+    ],
+    "description": "Infinix Hot 60 Pro Plus smartfonu Android əməliyyat sistemi ilə işləyən, Çində hazırlanmış yüksək texnologiyalı bir cihazdır. Smartfon güclü Mediatek Helio G200 prosessoru ilə təchiz olunub və 256 GB daxili yaddaşa malikdir ki, bu da sürətli və effektiv iş imkanı yaradır. Əsas kamera 50 MP, ön kamera isə 13 MP çözünürlüğündəndir ki, bu da keyfiyyətli şəkillər çəkməyə imkan verir. Cihazın xüsusiyyəti kontaktsız texnologiyalar üçün rahatlıq təmin edən NFC-modulun olmasıdır. Smartfon suya və toza davamlıdır, həmçinin 3G, 2G, LTE əlaqə standartlarını dəstəkləyir. 6.78 düymlük AMOLED ekran görüntülərin yüksək keyfiyyətdə göstərilməsini təmin edir. Komplektə təlimat, smartfon və zəmanət talonu daxildir. Bu smartfon keyfiyyəti, məhsuldarlığı və funksionallığı dəyərləndirənlər üçün əla seçim olacaq.",
+    "itemCondition": "https://schema.org/NewCondition",
+    "offers": {
+      "@type": "Offer",
+      "availability": "https://schema.org/InStock",
+      "url": "https://birmarket.az/product/1315482-smartfon-infinix-hot-60-pro-plus-8gb-256gb-black-nfc",
+      "price": 689,
+      "priceCurrency": "AZN",
+      "priceValidUntil": "2026-12-03T05:15:08+00:00Z",
+      "hasMerchantReturnPolicy": {
+        "applicableCountry": "AZ",
+        "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+        "returnMethod": "https://schema.org/ReturnInStore",
+        "returnFees": "https://schema.org/FreeReturn",
+        "merchantReturnDays": 14
+      },
+      "shippingDetails": {
+        "@type": "OfferShippingDetails",
+        "shippingDestination": {
+          "@type": "DefinedRegion",
+          "addressCountry": "AZ"
+        },
+        "deliveryTime": {
+          "@type": "ShippingDeliveryTime",
+          "handlingTime": {
+            "@type": "QuantitativeValue",
+            "minValue": 0,
+            "maxValue": 1,
+            "unitCode": "DAY"
+          },
+          "transitTime": {
+            "@type": "QuantitativeValue",
+            "minValue": 0,
+            "maxValue": 1,
+            "unitCode": "DAY"
+          },
+          "businessDays": {
+            "@type": "OpeningHoursSpecification",
+            "dayOfWeek": [
+              "https://schema.org/Monday",
+              "https://schema.org/Tuesday",
+              "https://schema.org/Wednesday",
+              "https://schema.org/Thursday",
+              "https://schema.org/Friday",
+              "https://schema.org/Saturday",
+              "https://schema.org/Sunday"
+            ]
+          }
+        },
+        "shippingRate": {
+          "@type": "MonetaryAmount",
+          "value": 0,
+          "currency": "AZN"
+        }
+      }
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": 4,
+      "reviewCount": 25
+    },
+    "brand": {
+      "@type": "Brand",
+      "name": "Infinix",
+      "url": "https://birmarket.az/brands/Infinix"
+    }
+  }
+}

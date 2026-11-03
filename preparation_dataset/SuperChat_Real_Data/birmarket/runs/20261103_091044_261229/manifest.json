@@ -1,0 +1,40 @@
+{
+  "source": "https://birmarket.az",
+  "fetched_at": "2026-11-03T09:10:44.261229+04:00",
+  "run_directory": "birmarket/runs/20261103_091044_261229",
+  "product_count": 180,
+  "counts_by_category": {
+    "audio": 30
+  },
+  "requested_per_category": 30,
+  "max_pages_per_category": 5,
+  "pages_collected_by_category": {
+    "audio": 2
+  },
+  "category_stop_reasons": {
+    "audio": "product_limit"
+  },
+  "max_images_per_product": 1,
+  "collection_transport": "chrome_browser",
+  "retained_product_count": 170,
+  "new_product_count": 10,
+  "category_mapping": {
+    "audio": "/categories/6-qulaqliqlar-ve-qarniturlar"
+  },
+  "explicit_product_urls": [],
+  "stopped_by_site": false,
+  "errors": [],
+  "coverage": "configured_sample_collected",
+  "image_count": 638,
+  "downloaded_images": 570,
+  "image_coverage": "partial",
+  "russian_names": 180,
+  "limitations": [
+    "This is the configured category/page sample, not the entire Birmarket inventory.",
+    "English translations and exact stock quantities are unknown and remain null.",
+    "Sizes/colors describe listed variants; prices and stock of unfetched variants remain null.",
+    "Delivery, promotions and seller prices are snapshots and may depend on location or checkout.",
+    "Missing dimensions, warranty or descriptions mean the source did not publish them in the fetched data.",
+    "Image URLs are remote unless local_file is present. Mock files are preserved."
+  ]
+}

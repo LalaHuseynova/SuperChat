@@ -1,0 +1,439 @@
+{
+  "product": {
+    "id": 919966,
+    "gtin": "",
+    "mpn": "FB1761_grey",
+    "name": "Bel çantası FB1761 boz",
+    "slugged_name_az": "bel-chantasi-fb1761-boz",
+    "slugged_name_ru": "ryukzak-fb1761-seryy",
+    "description": "",
+    "description_outlet": "",
+    "status": "active",
+    "uuid": "42f04c7d-1e86-4728-a692-39043b5c5fa9",
+    "variant_code": "VC_919966",
+    "default_offer": {
+      "uuid": "95bb9d8c-13f0-4c9d-88e2-f270f2a6b2b4",
+      "installment_enabled": true,
+      "max_installment_months": 18,
+      "product_offer_labels": [],
+      "old_price": 0,
+      "retail_price": 55,
+      "supplier_id": "55a38220-c26b-42cc-9728-ab7472e089fb",
+      "qty": 0,
+      "seller": {
+        "ext_id": "55a38220-c26b-42cc-9728-ab7472e089fb",
+        "marketing_name": {
+          "id": 9460,
+          "name": "Bagazinni"
+        },
+        "logo": {
+          "thumbnail": ""
+        },
+        "vat_payer": false,
+        "rating": 100,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "discount_effective_start_date": "",
+      "discount_effective_end_date": ""
+    },
+    "category_id": 2283,
+    "category": {
+      "id": 2283,
+      "name": "Şəhər bel çantaları"
+    },
+    "brand": {
+      "name": "No Brand"
+    },
+    "custom_fields": [
+      {
+        "master_field_id": 625,
+        "values": [
+          "Boz"
+        ]
+      },
+      {
+        "master_field_id": 1412,
+        "values": [
+          "30"
+        ]
+      },
+      {
+        "master_field_id": 1206,
+        "values": [
+          "40"
+        ]
+      },
+      {
+        "master_field_id": 639,
+        "values": [
+          "Zəncirbənd"
+        ]
+      },
+      {
+        "master_field_id": 761,
+        "values": [
+          "Kişi"
+        ]
+      },
+      {
+        "master_field_id": 638,
+        "values": [
+          "Printsiz və naxışsız"
+        ]
+      },
+      {
+        "master_field_id": 623,
+        "values": [
+          "А4 formatını yerləşdirir",
+          "Tənzimlənən tutacaqlar ilə",
+          "Telefon/MP3 kabelləri üçün dəlik",
+          "Əsas bölmədə ayırıcı",
+          "Sukeçirməz"
+        ]
+      },
+      {
+        "master_field_id": 618,
+        "values": [
+          "Türkiyə"
+        ]
+      },
+      {
+        "master_field_id": 2210,
+        "values": [
+          "Türkiyə"
+        ]
+      }
+    ],
+    "main_img": {
+      "big": "https://strgimgr.umico.az/sized/1680/919966-077c378224c32195244302e104edc4e3.jpg",
+      "medium": "https://strgimgr.umico.az/sized/840/919966-077c378224c32195244302e104edc4e3.jpg",
+      "small": "https://strgimgr.umico.az/sized/280/919966-077c378224c32195244302e104edc4e3.jpg"
+    },
+    "img_url_thumbnail": "https://strgimgr.umico.az/sized/280/919966-077c378224c32195244302e104edc4e3.jpg",
+    "main_video": "",
+    "imgs": [
+      {
+        "big": "https://strgimgr.umico.az/sized/1680/919966-077c378224c32195244302e104edc4e3.jpg",
+        "medium": "https://strgimgr.umico.az/sized/840/919966-077c378224c32195244302e104edc4e3.jpg",
+        "small": "https://strgimgr.umico.az/sized/280/919966-077c378224c32195244302e104edc4e3.jpg"
+      },
+      {
+        "big": "https://strgimgr.umico.az/sized/1680/919966-dbbb07ba6f4276b06f9ff4c343a09d8f.jpg",
+        "medium": "https://strgimgr.umico.az/sized/840/919966-dbbb07ba6f4276b06f9ff4c343a09d8f.jpg",
+        "small": "https://strgimgr.umico.az/sized/280/919966-dbbb07ba6f4276b06f9ff4c343a09d8f.jpg"
+      },
+      {
+        "big": "https://strgimgr.umico.az/sized/1680/919966-2e157a098c1fb10c0ced75d8702b41dd.jpg",
+        "medium": "https://strgimgr.umico.az/sized/840/919966-2e157a098c1fb10c0ced75d8702b41dd.jpg",
+        "small": "https://strgimgr.umico.az/sized/280/919966-2e157a098c1fb10c0ced75d8702b41dd.jpg"
+      },
+      {
+        "big": "https://strgimgr.umico.az/sized/1680/919966-573bd724b3852a86f7aa7a1ef5aa49f5.jpg",
+        "medium": "https://strgimgr.umico.az/sized/840/919966-573bd724b3852a86f7aa7a1ef5aa49f5.jpg",
+        "small": "https://strgimgr.umico.az/sized/280/919966-573bd724b3852a86f7aa7a1ef5aa49f5.jpg"
+      },
+      {
+        "big": "https://strgimgr.umico.az/sized/1680/919966-2e3387f7658815a7cbffd3001bb432b4.jpg",
+        "medium": "https://strgimgr.umico.az/sized/840/919966-2e3387f7658815a7cbffd3001bb432b4.jpg",
+        "small": "https://strgimgr.umico.az/sized/280/919966-2e3387f7658815a7cbffd3001bb432b4.jpg"
+      },
+      {
+        "big": "https://strgimgr.umico.az/sized/1680/919966-a8069e9c80f07c2a27a178522878d137.jpg",
+        "medium": "https://strgimgr.umico.az/sized/840/919966-a8069e9c80f07c2a27a178522878d137.jpg",
+        "small": "https://strgimgr.umico.az/sized/280/919966-a8069e9c80f07c2a27a178522878d137.jpg"
+      },
+      {
+        "big": "https://strgimgr.umico.az/sized/1680/919966-3a37f0f58b0421636ebff356d1b85402.jpg",
+        "medium": "https://strgimgr.umico.az/sized/840/919966-3a37f0f58b0421636ebff356d1b85402.jpg",
+        "small": "https://strgimgr.umico.az/sized/280/919966-3a37f0f58b0421636ebff356d1b85402.jpg"
+      }
+    ],
+    "videos": [],
+    "min_qty": 1,
+    "preorder_available": false,
+    "is_assortment": false,
+    "is_bulk_heavy": false,
+    "is_refurbished": false,
+    "is_refundable": true,
+    "is_dangerous": false,
+    "show_tech_description": false,
+    "use_external_content": true,
+    "product_labels": [],
+    "ratings": {
+      "rating_value": 5,
+      "assessment_id": 0,
+      "session_count": 2,
+      "review_count": 2
+    },
+    "default_show_stock_qty_threshold": 0,
+    "card_type": "public"
+  },
+  "category": {
+    "id": 2283,
+    "name": "Şəhər bel çantaları",
+    "slugged_name_az": "sheher-bel-chantalari",
+    "slugged_name_ru": "ryukzaki-gorodskie",
+    "view_mode": "products",
+    "mobile_visual_mode": "text",
+    "is_variant": false,
+    "depth": 2,
+    "parent_id": 2267,
+    "child_ids": [],
+    "node_type": "NODE",
+    "install_service_needed": false,
+    "fitting_allowed": false,
+    "vat": true,
+    "variations": [
+      {
+        "master_field_id": 638,
+        "name": "Naxışlar və printlər",
+        "variation_tool_type": "default",
+        "has_size_chart": false,
+        "display_variant": false
+      },
+      {
+        "master_field_id": 625,
+        "name": "Rəng",
+        "variation_tool_type": "default",
+        "has_size_chart": false,
+        "display_variant": false
+      }
+    ],
+    "custom_fields": [
+      {
+        "master_field_id": 625,
+        "category_master_field_id": 11134,
+        "name": "Rəng"
+      },
+      {
+        "master_field_id": 637,
+        "category_master_field_id": 11132,
+        "name": "Material"
+      },
+      {
+        "master_field_id": 639,
+        "category_master_field_id": 11141,
+        "name": "Kilid növü"
+      },
+      {
+        "master_field_id": 1412,
+        "category_master_field_id": 11136,
+        "name": "Uzunluğu, sm"
+      },
+      {
+        "master_field_id": 1206,
+        "category_master_field_id": 11137,
+        "name": "Eni, sm"
+      },
+      {
+        "master_field_id": 761,
+        "category_master_field_id": 11133,
+        "name": "Cins"
+      },
+      {
+        "master_field_id": 908,
+        "category_master_field_id": 11143,
+        "name": "Həcm, L"
+      },
+      {
+        "master_field_id": 638,
+        "category_master_field_id": 11135,
+        "name": "Naxışlar və printlər"
+      },
+      {
+        "master_field_id": 1448,
+        "category_master_field_id": 37676,
+        "name": "Dərinliyi, sm"
+      },
+      {
+        "master_field_id": 762,
+        "category_master_field_id": 11139,
+        "name": "Bölmələrin sayı"
+      },
+      {
+        "master_field_id": 623,
+        "category_master_field_id": 11140,
+        "name": "Xüsusiyyətlər"
+      },
+      {
+        "master_field_id": 2637,
+        "category_master_field_id": 11142,
+        "name": "Bel çantasının arxası"
+      },
+      {
+        "master_field_id": 870,
+        "category_master_field_id": 11144,
+        "name": "Çəki, q"
+      },
+      {
+        "master_field_id": 618,
+        "category_master_field_id": 11145,
+        "name": "İstehsalçı ölkə"
+      },
+      {
+        "master_field_id": 2210,
+        "category_master_field_id": 11146,
+        "name": "Brendin ölkəsi"
+      }
+    ],
+    "parent": {
+      "id": 2267,
+      "node_type": "NODE",
+      "name": "Çantalar, pul kisələri və aksessuarlar",
+      "slugged_name": "chantalar-pul-kiseleri-ve-aksessuarlar",
+      "parent": {
+        "id": 3003,
+        "node_type": "NODE",
+        "name": "Geyim,ayaqqabı və aksessuarlar",
+        "slugged_name": "geyim-ve-ayaqqabi",
+        "parent": null
+      }
+    },
+    "is_refundable": true,
+    "is_adult": false,
+    "icons": {
+      "thumbnail": "https://strgimgr.umico.az/img/category/188/4030f9db-3c53-4a51-905b-ab006bb8b9af.jpeg",
+      "original": "https://strgimgr.umico.az/img/category/original/4030f9db-3c53-4a51-905b-ab006bb8b9af.jpeg"
+    },
+    "is_active": true
+  },
+  "offers": [
+    {
+      "uuid": "95bb9d8c-13f0-4c9d-88e2-f270f2a6b2b4",
+      "installment_enabled": true,
+      "max_installment_months": 18,
+      "product_offer_labels": [],
+      "old_price": 0,
+      "retail_price": 55,
+      "supplier_id": "55a38220-c26b-42cc-9728-ab7472e089fb",
+      "seller": {
+        "ext_id": "99fa1da1-96d7-4aae-89f7-7d559a1054c3",
+        "internal_id": 9460,
+        "marketing_name": {
+          "id": 9460,
+          "name": "Bagazinni"
+        },
+        "logo": {
+          "thumbnail": ""
+        },
+        "vat_payer": false,
+        "rating": 100,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "allow_qty": 0
+    }
+  ],
+  "variations": [
+    {
+      "id": 919966,
+      "name": "Bel çantası FB1761 boz",
+      "slugged_name": "bel-chantasi-fb1761-boz",
+      "custom_fields": [
+        {
+          "master_field_id": 638,
+          "values": [
+            "Printsiz və naxışsız"
+          ]
+        },
+        {
+          "master_field_id": 625,
+          "values": [
+            "Boz"
+          ]
+        }
+      ],
+      "main_img": {
+        "big": "https://strgimgr.umico.az/sized/1680/919966-077c378224c32195244302e104edc4e3.jpg",
+        "medium": "https://strgimgr.umico.az/sized/840/919966-077c378224c32195244302e104edc4e3.jpg",
+        "small": "https://strgimgr.umico.az/sized/280/919966-077c378224c32195244302e104edc4e3.jpg"
+      },
+      "status": "active"
+    }
+  ],
+  "size_chart": {},
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "sku": 919966,
+    "mpn": "FB1761_grey",
+    "url": "https://birmarket.az/product/919966-bel-chantasi-fb1761-boz",
+    "name": "Bel çantası FB1761 boz",
+    "image": [
+      "https://strgimgr.umico.az/sized/1680/919966-077c378224c32195244302e104edc4e3.jpg",
+      "https://strgimgr.umico.az/sized/1680/919966-dbbb07ba6f4276b06f9ff4c343a09d8f.jpg",
+      "https://strgimgr.umico.az/sized/1680/919966-2e157a098c1fb10c0ced75d8702b41dd.jpg",
+      "https://strgimgr.umico.az/sized/1680/919966-573bd724b3852a86f7aa7a1ef5aa49f5.jpg",
+      "https://strgimgr.umico.az/sized/1680/919966-2e3387f7658815a7cbffd3001bb432b4.jpg",
+      "https://strgimgr.umico.az/sized/1680/919966-a8069e9c80f07c2a27a178522878d137.jpg",
+      "https://strgimgr.umico.az/sized/1680/919966-3a37f0f58b0421636ebff356d1b85402.jpg"
+    ],
+    "description": "Bel çantası FB1761 boz - KREDİTLƏ ayda ◉ 2.82₼-dən ♢Birmarket-dən Bakı və Azərbaycan üzrə çatdırılma",
+    "itemCondition": "https://schema.org/NewCondition",
+    "offers": {
+      "@type": "Offer",
+      "availability": "https://schema.org/InStock",
+      "url": "https://birmarket.az/product/919966-bel-chantasi-fb1761-boz",
+      "price": 55,
+      "priceCurrency": "AZN",
+      "priceValidUntil": "2026-12-02T16:39:37+00:00Z",
+      "hasMerchantReturnPolicy": {
+        "applicableCountry": "AZ",
+        "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+        "returnMethod": "https://schema.org/ReturnInStore",
+        "returnFees": "https://schema.org/FreeReturn",
+        "merchantReturnDays": 14
+      },
+      "shippingDetails": {
+        "@type": "OfferShippingDetails",
+        "shippingDestination": {
+          "@type": "DefinedRegion",
+          "addressCountry": "AZ"
+        },
+        "deliveryTime": {
+          "@type": "ShippingDeliveryTime",
+          "handlingTime": {
+            "@type": "QuantitativeValue",
+            "minValue": 0,
+            "maxValue": 1,
+            "unitCode": "DAY"
+          },
+          "transitTime": {
+            "@type": "QuantitativeValue",
+            "minValue": 0,
+            "maxValue": 1,
+            "unitCode": "DAY"
+          },
+          "businessDays": {
+            "@type": "OpeningHoursSpecification",
+            "dayOfWeek": [
+              "https://schema.org/Monday",
+              "https://schema.org/Tuesday",
+              "https://schema.org/Wednesday",
+              "https://schema.org/Thursday",
+              "https://schema.org/Friday",
+              "https://schema.org/Saturday",
+              "https://schema.org/Sunday"
+            ]
+          }
+        },
+        "shippingRate": {
+          "@type": "MonetaryAmount",
+          "value": 0,
+          "currency": "AZN"
+        }
+      }
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": 5,
+      "reviewCount": 2
+    },
+    "brand": {
+      "@type": "Brand",
+      "name": "No Brand",
+      "url": "https://birmarket.az/brands/No%20Brand"
+    }
+  }
+}

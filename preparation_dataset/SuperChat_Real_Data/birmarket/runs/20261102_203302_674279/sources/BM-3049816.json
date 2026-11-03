@@ -1,0 +1,594 @@
+{
+  "product": {
+    "id": 3049816,
+    "gtin": "",
+    "mpn": "17627_19002585",
+    "name": "Uşaq ağıllı saatı Canyon Kids Smart Watch Jondy Blue CNE-KW44BL",
+    "slugged_name_az": "ushaq-saati-canyon-kids-smart-watch-jondy-blue-cne-kw44bl-jondy-blue-goy",
+    "slugged_name_ru": "ushaq-saati-canyon-kids-smart-watch-jondy-blue-cne-kw44bl-jondy-blue-goy",
+    "description": "",
+    "description_outlet": "",
+    "status": "active",
+    "uuid": "6ffd83fc-9b10-43f2-ad5c-e4c37ad77df8",
+    "variant_code": "VC_3049816",
+    "default_offer": {
+      "uuid": "e4befdcb-0f1f-4260-985e-f29900ee5acd",
+      "installment_enabled": true,
+      "max_installment_months": 18,
+      "product_offer_labels": [],
+      "old_price": 299.99,
+      "retail_price": 239.99,
+      "supplier_id": "e18bc5d0-f38e-4574-b7c3-c42c1ee05e46",
+      "qty": 0,
+      "seller": {
+        "ext_id": "e18bc5d0-f38e-4574-b7c3-c42c1ee05e46",
+        "marketing_name": {
+          "id": 16884,
+          "name": "MiniMix"
+        },
+        "logo": {
+          "thumbnail": "https://storage.umico.az/cpcustomerprod01/e85a9d667f3d5f153109f96683520ff0.jpg"
+        },
+        "vat_payer": false,
+        "rating": 100,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "discount_effective_start_date": "",
+      "discount_effective_end_date": ""
+    },
+    "category_id": 4,
+    "category": {
+      "id": 4,
+      "name": "Ağıllı saatlar və fitnes qolbaqları"
+    },
+    "brand": {
+      "name": "Canyon"
+    },
+    "custom_fields": [
+      {
+        "master_field_id": 620,
+        "values": [
+          "Uşaq saatı"
+        ]
+      },
+      {
+        "master_field_id": 6541,
+        "values": [
+          "Blue"
+        ]
+      },
+      {
+        "master_field_id": 625,
+        "values": [
+          "Göy"
+        ]
+      },
+      {
+        "master_field_id": 621,
+        "values": [
+          "iOS",
+          "Android"
+        ]
+      },
+      {
+        "master_field_id": 1826,
+        "values": [
+          "nano-SIM"
+        ]
+      },
+      {
+        "master_field_id": 616,
+        "values": [
+          "Proprietary OS"
+        ]
+      },
+      {
+        "master_field_id": 806,
+        "values": [
+          "Təcili zəng SOS",
+          "Video zəng",
+          "Zəngli saat"
+        ]
+      },
+      {
+        "master_field_id": 1827,
+        "values": [
+          "IPS"
+        ]
+      },
+      {
+        "master_field_id": 1828,
+        "values": [
+          "43"
+        ]
+      },
+      {
+        "master_field_id": 708,
+        "values": [
+          "Plastik"
+        ]
+      },
+      {
+        "master_field_id": 624,
+        "values": [
+          "Silikon"
+        ]
+      },
+      {
+        "master_field_id": 826,
+        "values": [
+          "700"
+        ]
+      },
+      {
+        "master_field_id": 2211,
+        "values": [
+          "6 ay"
+        ]
+      },
+      {
+        "master_field_id": 6334,
+        "values": [
+          "Yeni"
+        ]
+      },
+      {
+        "master_field_id": 2186,
+        "values": [
+          "IP67"
+        ]
+      }
+    ],
+    "main_img": {
+      "big": "https://strgimgr.umico.az/img/product/1680/2c86eb1f-7637-42ea-a7b5-0feb48f9ceaa.jpeg",
+      "medium": "https://strgimgr.umico.az/img/product/840/2c86eb1f-7637-42ea-a7b5-0feb48f9ceaa.jpeg",
+      "small": "https://strgimgr.umico.az/img/product/280/2c86eb1f-7637-42ea-a7b5-0feb48f9ceaa.jpeg"
+    },
+    "img_url_thumbnail": "https://strgimgr.umico.az/img/product/280/2c86eb1f-7637-42ea-a7b5-0feb48f9ceaa.jpeg",
+    "main_video": "",
+    "imgs": [
+      {
+        "big": "https://strgimgr.umico.az/img/product/1680/2c86eb1f-7637-42ea-a7b5-0feb48f9ceaa.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/2c86eb1f-7637-42ea-a7b5-0feb48f9ceaa.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/2c86eb1f-7637-42ea-a7b5-0feb48f9ceaa.jpeg"
+      },
+      {
+        "big": "https://strgimgr.umico.az/img/product/1680/248f06b8-11e4-4d48-ae00-91ad47360988.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/248f06b8-11e4-4d48-ae00-91ad47360988.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/248f06b8-11e4-4d48-ae00-91ad47360988.jpeg"
+      },
+      {
+        "big": "https://strgimgr.umico.az/img/product/1680/af8c1e15-f067-477a-a6cb-3dca8a3ea96b.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/af8c1e15-f067-477a-a6cb-3dca8a3ea96b.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/af8c1e15-f067-477a-a6cb-3dca8a3ea96b.jpeg"
+      },
+      {
+        "big": "https://strgimgr.umico.az/img/product/1680/db3aae3b-19cb-410d-b60f-59492e033a20.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/db3aae3b-19cb-410d-b60f-59492e033a20.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/db3aae3b-19cb-410d-b60f-59492e033a20.jpeg"
+      }
+    ],
+    "videos": [],
+    "min_qty": 1,
+    "preorder_available": false,
+    "is_assortment": false,
+    "is_bulk_heavy": false,
+    "is_refurbished": false,
+    "is_refundable": true,
+    "is_dangerous": false,
+    "show_tech_description": false,
+    "use_external_content": true,
+    "product_labels": [
+      {
+        "color": "40C4FF",
+        "id": 43211724,
+        "image_url": "",
+        "label_id": 1,
+        "name": "Новинка",
+        "position": 1,
+        "rule_type": "parameters",
+        "show_in_see_also_products": false,
+        "text": "Yenilik"
+      }
+    ],
+    "ratings": {
+      "rating_value": 0,
+      "assessment_id": 0,
+      "session_count": 0
+    },
+    "default_show_stock_qty_threshold": 0,
+    "card_type": "public"
+  },
+  "category": {
+    "id": 4,
+    "name": "Ağıllı saatlar və fitnes qolbaqları",
+    "slugged_name_az": "agilli-saatlar-ve-fitnes-qolbaqlari",
+    "slugged_name_ru": "umnye-chasy-i-fitnes-braslety",
+    "view_mode": "products",
+    "mobile_visual_mode": "text",
+    "is_variant": false,
+    "depth": 2,
+    "parent_id": 2,
+    "child_ids": [],
+    "node_type": "NODE",
+    "install_service_needed": false,
+    "fitting_allowed": false,
+    "vat": true,
+    "variations": [
+      {
+        "master_field_id": 625,
+        "name": "Rəng",
+        "variation_tool_type": "image",
+        "has_size_chart": false,
+        "display_variant": false
+      },
+      {
+        "master_field_id": 1828,
+        "name": "Korpusun ölçüsü, mm",
+        "variation_tool_type": "button",
+        "has_size_chart": false,
+        "display_variant": false
+      },
+      {
+        "master_field_id": 1476,
+        "name": "Seriya",
+        "variation_tool_type": "button",
+        "has_size_chart": false,
+        "display_variant": false
+      }
+    ],
+    "custom_fields": [
+      {
+        "master_field_id": 1476,
+        "category_master_field_id": 10643,
+        "name": "Seriya"
+      },
+      {
+        "master_field_id": 620,
+        "category_master_field_id": 1445,
+        "name": "Tip"
+      },
+      {
+        "master_field_id": 621,
+        "category_master_field_id": 1446,
+        "name": "Uyğunluğu"
+      },
+      {
+        "master_field_id": 1828,
+        "category_master_field_id": 5545,
+        "name": "Korpusun ölçüsü, mm"
+      },
+      {
+        "master_field_id": 1827,
+        "category_master_field_id": 5544,
+        "name": "Ağıllı saatın ekranı"
+      },
+      {
+        "master_field_id": 1826,
+        "category_master_field_id": 5541,
+        "name": "SIM kartı"
+      },
+      {
+        "master_field_id": 826,
+        "category_master_field_id": 4623,
+        "name": "Akkumulyatorun həcmi, mA/saat"
+      },
+      {
+        "master_field_id": 2186,
+        "category_master_field_id": 45755,
+        "name": "Nəmə davamlı"
+      },
+      {
+        "master_field_id": 708,
+        "category_master_field_id": 4624,
+        "name": "Korpusun materialı"
+      },
+      {
+        "master_field_id": 625,
+        "category_master_field_id": 1451,
+        "name": "Rəng"
+      },
+      {
+        "master_field_id": 2211,
+        "category_master_field_id": 10648,
+        "name": "Zəmanət müddəti"
+      },
+      {
+        "master_field_id": 806,
+        "category_master_field_id": 15464,
+        "name": "Funksiyalar"
+      },
+      {
+        "master_field_id": 616,
+        "category_master_field_id": 1447,
+        "name": "Əməliyyat sistemi"
+      },
+      {
+        "master_field_id": 624,
+        "category_master_field_id": 1450,
+        "name": "Qayışın materialı"
+      },
+      {
+        "master_field_id": 1825,
+        "category_master_field_id": 5540,
+        "name": "Operativ yaddaş"
+      },
+      {
+        "master_field_id": 623,
+        "category_master_field_id": 1449,
+        "name": "Xüsusiyyətlər"
+      },
+      {
+        "master_field_id": 634,
+        "category_master_field_id": 5542,
+        "name": "Ekranın növü"
+      },
+      {
+        "master_field_id": 1739,
+        "category_master_field_id": 5543,
+        "name": "Sensor ekran"
+      },
+      {
+        "master_field_id": 1833,
+        "category_master_field_id": 5550,
+        "name": "Zənglər"
+      },
+      {
+        "master_field_id": 1752,
+        "category_master_field_id": 5551,
+        "name": "Kamera"
+      },
+      {
+        "master_field_id": 622,
+        "category_master_field_id": 1448,
+        "name": "İnterfeyslər"
+      },
+      {
+        "master_field_id": 1829,
+        "category_master_field_id": 5546,
+        "name": "Korpusun forması"
+      },
+      {
+        "master_field_id": 2552,
+        "category_master_field_id": 10645,
+        "name": "Korpusun qorunması"
+      },
+      {
+        "master_field_id": 1830,
+        "category_master_field_id": 5547,
+        "name": "Çıxarılan kəmər"
+      },
+      {
+        "master_field_id": 1831,
+        "category_master_field_id": 5548,
+        "name": "Multimedia"
+      },
+      {
+        "master_field_id": 1824,
+        "category_master_field_id": 5539,
+        "name": "Uzaqdan idarəetmə"
+      },
+      {
+        "master_field_id": 1832,
+        "category_master_field_id": 5549,
+        "name": "Smartfonlarla qarşılıqlı əlaqə"
+      },
+      {
+        "master_field_id": 1834,
+        "category_master_field_id": 5552,
+        "name": "Vibrasiya"
+      },
+      {
+        "master_field_id": 1835,
+        "category_master_field_id": 5553,
+        "name": "Naviqasiya, məlumatların ötürülməsi"
+      },
+      {
+        "master_field_id": 1836,
+        "category_master_field_id": 5554,
+        "name": "Enerji toplamanın xüsusiyyətləri"
+      },
+      {
+        "master_field_id": 721,
+        "category_master_field_id": 5555,
+        "name": "Akkumulyatorun növü"
+      },
+      {
+        "master_field_id": 761,
+        "category_master_field_id": 5537,
+        "name": "Cins"
+      },
+      {
+        "master_field_id": 1325,
+        "category_master_field_id": 4354,
+        "name": "Yaş qrupu"
+      },
+      {
+        "master_field_id": 870,
+        "category_master_field_id": 4626,
+        "name": "Çəki, q"
+      },
+      {
+        "master_field_id": 697,
+        "category_master_field_id": 10647,
+        "name": "Komplektasiya"
+      },
+      {
+        "master_field_id": 2635,
+        "category_master_field_id": 37277,
+        "name": "Bazarın başlanğıc ili"
+      },
+      {
+        "master_field_id": 2210,
+        "category_master_field_id": 10641,
+        "name": "Brendin ölkəsi"
+      },
+      {
+        "master_field_id": 618,
+        "category_master_field_id": 1444,
+        "name": "İstehsalçı ölkə"
+      },
+      {
+        "master_field_id": 6541,
+        "category_master_field_id": 44303,
+        "name": "İstehsalçı rəngi"
+      },
+      {
+        "master_field_id": 6334,
+        "category_master_field_id": 45122,
+        "name": "Vəziyyət"
+      }
+    ],
+    "parent": {
+      "id": 2,
+      "node_type": "NODE",
+      "name": "Telefonlar, Smart cihazlar və telefon aksessuarları",
+      "slugged_name": "telefonlar-ve-aksessuarlar",
+      "parent": {
+        "id": 1,
+        "node_type": "NODE",
+        "name": "Elektronika və məişət texnikası",
+        "slugged_name": "elektronika-ve-meishet-texnikasi",
+        "parent": null
+      }
+    },
+    "is_refundable": true,
+    "is_adult": false,
+    "icons": {
+      "thumbnail": "https://strgimgr.umico.az/img/category/188/358f11b7-3edc-4811-83af-955a1941b985.jpeg",
+      "original": "https://strgimgr.umico.az/img/category/original/358f11b7-3edc-4811-83af-955a1941b985.png"
+    },
+    "is_active": true
+  },
+  "offers": [
+    {
+      "uuid": "e4befdcb-0f1f-4260-985e-f29900ee5acd",
+      "installment_enabled": true,
+      "max_installment_months": 18,
+      "product_offer_labels": [],
+      "old_price": 299.99,
+      "retail_price": 239.99,
+      "supplier_id": "e18bc5d0-f38e-4574-b7c3-c42c1ee05e46",
+      "seller": {
+        "ext_id": "bfb13ea5-7f9f-4759-9357-40fb99e6afae",
+        "internal_id": 16884,
+        "marketing_name": {
+          "id": 16884,
+          "name": "MiniMix"
+        },
+        "logo": {
+          "thumbnail": "https://storage.umico.az/cpcustomerprod01/e85a9d667f3d5f153109f96683520ff0.jpg"
+        },
+        "vat_payer": false,
+        "rating": 100,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "allow_qty": 0
+    }
+  ],
+  "variations": [
+    {
+      "id": 3049816,
+      "name": "Uşaq ağıllı saatı Canyon Kids Smart Watch Jondy Blue CNE-KW44BL",
+      "slugged_name": "ushaq-saati-canyon-kids-smart-watch-jondy-blue-cne-kw44bl-jondy-blue-goy",
+      "custom_fields": [
+        {
+          "master_field_id": 625,
+          "values": [
+            "Göy"
+          ]
+        },
+        {
+          "master_field_id": 1828,
+          "values": [
+            "43"
+          ]
+        }
+      ],
+      "main_img": {
+        "big": "https://strgimgr.umico.az/img/product/1680/2c86eb1f-7637-42ea-a7b5-0feb48f9ceaa.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/2c86eb1f-7637-42ea-a7b5-0feb48f9ceaa.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/2c86eb1f-7637-42ea-a7b5-0feb48f9ceaa.jpeg"
+      },
+      "status": "active"
+    }
+  ],
+  "size_chart": {},
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "sku": 3049816,
+    "mpn": "17627_19002585",
+    "url": "https://birmarket.az/product/3049816-ushaq-saati-canyon-kids-smart-watch-jondy-blue-cne-kw44bl-jondy-blue-goy",
+    "name": "Uşaq ağıllı saatı Canyon Kids Smart Watch Jondy Blue CNE-KW44BL",
+    "image": [
+      "https://strgimgr.umico.az/img/product/1680/2c86eb1f-7637-42ea-a7b5-0feb48f9ceaa.jpeg",
+      "https://strgimgr.umico.az/img/product/1680/248f06b8-11e4-4d48-ae00-91ad47360988.jpeg",
+      "https://strgimgr.umico.az/img/product/1680/af8c1e15-f067-477a-a6cb-3dca8a3ea96b.jpeg",
+      "https://strgimgr.umico.az/img/product/1680/db3aae3b-19cb-410d-b60f-59492e033a20.jpeg"
+    ],
+    "description": "Uşaq ağıllı saatı Canyon Kids Smart Watch Jondy Blue CNE-KW44BL - KREDİTLƏ ayda ◉ 12.30₼-dən ♢Birmarket-dən Bakı və Azərbaycan üzrə çatdırılma",
+    "itemCondition": "https://schema.org/NewCondition",
+    "offers": {
+      "@type": "Offer",
+      "availability": "https://schema.org/InStock",
+      "url": "https://birmarket.az/product/3049816-ushaq-saati-canyon-kids-smart-watch-jondy-blue-cne-kw44bl-jondy-blue-goy",
+      "price": 239.99,
+      "priceCurrency": "AZN",
+      "priceValidUntil": "2026-12-02T16:36:56+00:00Z",
+      "hasMerchantReturnPolicy": {
+        "applicableCountry": "AZ",
+        "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+        "returnMethod": "https://schema.org/ReturnInStore",
+        "returnFees": "https://schema.org/FreeReturn",
+        "merchantReturnDays": 14
+      },
+      "shippingDetails": {
+        "@type": "OfferShippingDetails",
+        "shippingDestination": {
+          "@type": "DefinedRegion",
+          "addressCountry": "AZ"
+        },
+        "deliveryTime": {
+          "@type": "ShippingDeliveryTime",
+          "handlingTime": {
+            "@type": "QuantitativeValue",
+            "minValue": 0,
+            "maxValue": 1,
+            "unitCode": "DAY"
+          },
+          "transitTime": {
+            "@type": "QuantitativeValue",
+            "minValue": 0,
+            "maxValue": 1,
+            "unitCode": "DAY"
+          },
+          "businessDays": {
+            "@type": "OpeningHoursSpecification",
+            "dayOfWeek": [
+              "https://schema.org/Monday",
+              "https://schema.org/Tuesday",
+              "https://schema.org/Wednesday",
+              "https://schema.org/Thursday",
+              "https://schema.org/Friday",
+              "https://schema.org/Saturday",
+              "https://schema.org/Sunday"
+            ]
+          }
+        },
+        "shippingRate": {
+          "@type": "MonetaryAmount",
+          "value": 0,
+          "currency": "AZN"
+        }
+      }
+    },
+    "brand": {
+      "@type": "Brand",
+      "name": "Canyon",
+      "url": "https://birmarket.az/brands/Canyon"
+    }
+  }
+}

@@ -1,0 +1,764 @@
+{
+  "product": {
+    "id": 1201648,
+    "gtin": "",
+    "mpn": "Simli Qulaqliq phone 14 Pro Max A klass  TELEDOCTOR",
+    "name": "Simli qulaqliq İphone 14 Pro Max",
+    "slugged_name_az": "simli-qulaqliq-iphone-14-pro-max-a-klass-teledoctor",
+    "slugged_name_ru": "simli-qulaqliq-iphone-14-pro-max-a-klass-teledoctor",
+    "description": "iPhone 14 Pro Max naqilli qulaqcıqları Lightning qoşulma interfeysinə malik dəbli taxma (tıxac) qulaqcıqlardır. Onlar stereo səsi və əla səs izolə etməsi təmin edir ki, bu da xarici səs-küyləri olmadan keyfiyyətli səsdən zövq almağa imkan verir. Qulaqcıqlarla birlikdə mikrofon da gəlir ki, bu da onları zənglər üçün rahat edir. Uzunluğu 1 metr olan kabel hərəkət azadlığı təmin edir, və cəmi 20.3 qram çəki onları istifadədə yüngül və rahat edir. Bu qulaqcıqlar iPhone 14 Pro Max ilə istifadəyə mükəmməl uyğun gəlir və bir dəfə şarjla 50 saata qədər işləmə təklif edir. Ağ rəngi və yüksək keyfiyyətli istehsalı onları dəbli və funksional aksessuara çevirir. Çin istehsalıdır.",
+    "description_outlet": "",
+    "status": "active",
+    "uuid": "a2cefae8-31d7-4b6f-9312-263a5a65decb",
+    "variant_code": "VC_1201648",
+    "default_offer": {
+      "uuid": "af0a2f19-7298-4ff9-94ab-b707fc08030f",
+      "installment_enabled": true,
+      "max_installment_months": 3,
+      "product_offer_labels": [],
+      "old_price": 0,
+      "retail_price": 7.75,
+      "supplier_id": "1ddec096-d98d-44bd-b301-442715957e5d",
+      "qty": 0,
+      "seller": {
+        "ext_id": "1ddec096-d98d-44bd-b301-442715957e5d",
+        "marketing_name": {
+          "id": 10570,
+          "name": "Case Baku"
+        },
+        "logo": {
+          "thumbnail": "https://storage.umico.az/cpcustomerprod01/3fff27729f5553e98bfde7ca67d1a804.jpg"
+        },
+        "vat_payer": false,
+        "rating": 96,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "discount_effective_start_date": "",
+      "discount_effective_end_date": ""
+    },
+    "category_id": 6,
+    "category": {
+      "id": 6,
+      "name": "Qulaqlıqlar və qarniturlar"
+    },
+    "brand": {
+      "name": "No Brand"
+    },
+    "custom_fields": [
+      {
+        "master_field_id": 628,
+        "values": [
+          "İçlik (qapaq)"
+        ]
+      },
+      {
+        "master_field_id": 629,
+        "values": [
+          "Simli"
+        ]
+      },
+      {
+        "master_field_id": 625,
+        "values": [
+          "Ağ"
+        ]
+      },
+      {
+        "master_field_id": 1568,
+        "values": [
+          "Xeyr"
+        ]
+      },
+      {
+        "master_field_id": 633,
+        "values": [
+          "Lightning"
+        ]
+      },
+      {
+        "master_field_id": 678,
+        "values": [
+          "Lightning"
+        ]
+      },
+      {
+        "master_field_id": 1574,
+        "values": [
+          "50"
+        ]
+      },
+      {
+        "master_field_id": 1140,
+        "values": [
+          "1.25"
+        ]
+      },
+      {
+        "master_field_id": 1570,
+        "values": [
+          "Stereo"
+        ]
+      },
+      {
+        "master_field_id": 1567,
+        "values": [
+          "Bəli"
+        ]
+      },
+      {
+        "master_field_id": 870,
+        "values": [
+          "20.3"
+        ]
+      },
+      {
+        "master_field_id": 782,
+        "values": [
+          "1"
+        ]
+      },
+      {
+        "master_field_id": 2210,
+        "values": [
+          "Çin"
+        ]
+      },
+      {
+        "master_field_id": 618,
+        "values": [
+          "Çin"
+        ]
+      }
+    ],
+    "main_img": {
+      "big": "https://strgimgr.umico.az/img/product/1680/0d899512-16ec-4b4a-ad47-e87836817a01.jpeg",
+      "medium": "https://strgimgr.umico.az/img/product/840/0d899512-16ec-4b4a-ad47-e87836817a01.jpeg",
+      "small": "https://strgimgr.umico.az/img/product/280/0d899512-16ec-4b4a-ad47-e87836817a01.jpeg"
+    },
+    "img_url_thumbnail": "https://strgimgr.umico.az/img/product/280/0d899512-16ec-4b4a-ad47-e87836817a01.jpeg",
+    "main_video": "",
+    "imgs": [
+      {
+        "big": "https://strgimgr.umico.az/img/product/1680/0d899512-16ec-4b4a-ad47-e87836817a01.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/0d899512-16ec-4b4a-ad47-e87836817a01.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/0d899512-16ec-4b4a-ad47-e87836817a01.jpeg"
+      },
+      {
+        "big": "https://strgimgr.umico.az/img/product/1680/45f5eff0-bf5b-4c6b-bca9-fa0488cb318b.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/45f5eff0-bf5b-4c6b-bca9-fa0488cb318b.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/45f5eff0-bf5b-4c6b-bca9-fa0488cb318b.jpeg"
+      },
+      {
+        "big": "https://strgimgr.umico.az/img/product/1680/92f52468-f383-46a0-9147-49da55b7bf8d.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/92f52468-f383-46a0-9147-49da55b7bf8d.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/92f52468-f383-46a0-9147-49da55b7bf8d.jpeg"
+      }
+    ],
+    "videos": [],
+    "min_qty": 1,
+    "preorder_available": false,
+    "is_assortment": false,
+    "is_bulk_heavy": false,
+    "is_refurbished": false,
+    "is_refundable": true,
+    "is_dangerous": false,
+    "show_tech_description": false,
+    "use_external_content": true,
+    "product_labels": [],
+    "ratings": {
+      "rating_value": 4,
+      "assessment_id": 0,
+      "session_count": 11,
+      "score_count": 8,
+      "review_count": 3
+    },
+    "default_show_stock_qty_threshold": 0,
+    "card_type": "public"
+  },
+  "category": {
+    "id": 6,
+    "name": "Qulaqlıqlar və qarniturlar",
+    "slugged_name_az": "qulaqliqlar-ve-qarniturlar",
+    "slugged_name_ru": "naushniki-i-garnitury",
+    "view_mode": "products",
+    "mobile_visual_mode": "text",
+    "is_variant": true,
+    "depth": 2,
+    "parent_id": 2,
+    "child_ids": [],
+    "node_type": "NODE",
+    "install_service_needed": false,
+    "fitting_allowed": false,
+    "vat": true,
+    "variations": [
+      {
+        "master_field_id": 625,
+        "name": "Rəng",
+        "variation_tool_type": "image",
+        "has_size_chart": false,
+        "display_variant": false
+      }
+    ],
+    "custom_fields": [
+      {
+        "master_field_id": 1476,
+        "category_master_field_id": 10651,
+        "name": "Seriya"
+      },
+      {
+        "master_field_id": 628,
+        "category_master_field_id": 1455,
+        "name": "Qulaqlıq növü"
+      },
+      {
+        "master_field_id": 629,
+        "category_master_field_id": 1456,
+        "name": "Qoşulma tipi"
+      },
+      {
+        "master_field_id": 633,
+        "category_master_field_id": 1460,
+        "name": "Port tipi"
+      },
+      {
+        "master_field_id": 777,
+        "category_master_field_id": 45543,
+        "name": "Bluetooth standartı"
+      },
+      {
+        "master_field_id": 6487,
+        "category_master_field_id": 45544,
+        "name": "Aktiv səs-küyün boğulması (ANC)"
+      },
+      {
+        "master_field_id": 759,
+        "category_master_field_id": 4638,
+        "name": "Mikrofon"
+      },
+      {
+        "master_field_id": 1574,
+        "category_master_field_id": 4669,
+        "name": "İşləmə müddəti, saat"
+      },
+      {
+        "master_field_id": 2186,
+        "category_master_field_id": 45545,
+        "name": "Nəmə davamlı"
+      },
+      {
+        "master_field_id": 625,
+        "category_master_field_id": 4637,
+        "name": "Rəng"
+      },
+      {
+        "master_field_id": 2211,
+        "category_master_field_id": 10656,
+        "name": "Zəmanət müddəti"
+      },
+      {
+        "master_field_id": 1568,
+        "category_master_field_id": 4663,
+        "name": "Səs-küyün boğulması"
+      },
+      {
+        "master_field_id": 678,
+        "category_master_field_id": 10650,
+        "name": "Qoşulma interfeysi"
+      },
+      {
+        "master_field_id": 657,
+        "category_master_field_id": 4640,
+        "name": "Quruluş"
+      },
+      {
+        "master_field_id": 630,
+        "category_master_field_id": 1457,
+        "name": "Həssaslıq, dB"
+      },
+      {
+        "master_field_id": 631,
+        "category_master_field_id": 1458,
+        "name": "Minimal təkrarlanan tezlik, Hz"
+      },
+      {
+        "master_field_id": 632,
+        "category_master_field_id": 1459,
+        "name": "Maksimal təkrarlanan tezlik, Hz"
+      },
+      {
+        "master_field_id": 1838,
+        "category_master_field_id": 5557,
+        "name": "Port forması"
+      },
+      {
+        "master_field_id": 782,
+        "category_master_field_id": 4636,
+        "name": "Kabelin uzunluğu, m"
+      },
+      {
+        "master_field_id": 3287,
+        "category_master_field_id": 15468,
+        "name": "Qulaqlıqların bərkitməsi"
+      },
+      {
+        "master_field_id": 1840,
+        "category_master_field_id": 5559,
+        "name": "Akustik formalaşdırma"
+      },
+      {
+        "master_field_id": 1140,
+        "category_master_field_id": 15469,
+        "name": "Təsir radiusu, m"
+      },
+      {
+        "master_field_id": 1841,
+        "category_master_field_id": 5560,
+        "name": "Maksimal çıxış gücü, Vt"
+      },
+      {
+        "master_field_id": 1842,
+        "category_master_field_id": 5561,
+        "name": "Diapazonun yuxarı həddi, Hz"
+      },
+      {
+        "master_field_id": 1843,
+        "category_master_field_id": 5562,
+        "name": "Diapazonun aşağı həddi, Hz"
+      },
+      {
+        "master_field_id": 1844,
+        "category_master_field_id": 5563,
+        "name": "Siqnal/səs-küy nisbəti, dB"
+      },
+      {
+        "master_field_id": 797,
+        "category_master_field_id": 5570,
+        "name": "Empendans, Om"
+      },
+      {
+        "master_field_id": 1567,
+        "category_master_field_id": 4662,
+        "name": "Səs izolyasiyası"
+      },
+      {
+        "master_field_id": 1845,
+        "category_master_field_id": 5564,
+        "name": "Səs səviyyəsinin tənzimləyicisi"
+      },
+      {
+        "master_field_id": 1570,
+        "category_master_field_id": 4665,
+        "name": "Ətraf səs"
+      },
+      {
+        "master_field_id": 1573,
+        "category_master_field_id": 4668,
+        "name": "Dinamiklərin ümumi sayı"
+      },
+      {
+        "master_field_id": 1846,
+        "category_master_field_id": 5565,
+        "name": "Mikrofon növü"
+      },
+      {
+        "master_field_id": 1847,
+        "category_master_field_id": 5566,
+        "name": "Mikrofonun diapazonunun yuxarı həddi, Hz"
+      },
+      {
+        "master_field_id": 1848,
+        "category_master_field_id": 5567,
+        "name": "Mikrofonun diapazonunun aşağı həddi, Hz"
+      },
+      {
+        "master_field_id": 1849,
+        "category_master_field_id": 5568,
+        "name": "Mikrofonun siqnal/səs-küy nisbəti"
+      },
+      {
+        "master_field_id": 1850,
+        "category_master_field_id": 5569,
+        "name": "Mikrofonun bərkitməsi"
+      },
+      {
+        "master_field_id": 1740,
+        "category_master_field_id": 5571,
+        "name": "Digər funksiyalar və xüsusiyyətlər"
+      },
+      {
+        "master_field_id": 870,
+        "category_master_field_id": 4634,
+        "name": "Çəki, q"
+      },
+      {
+        "master_field_id": 2552,
+        "category_master_field_id": 10654,
+        "name": "Korpusun qorunması"
+      },
+      {
+        "master_field_id": 697,
+        "category_master_field_id": 10655,
+        "name": "Komplektasiya"
+      },
+      {
+        "master_field_id": 2210,
+        "category_master_field_id": 10649,
+        "name": "Brendin ölkəsi"
+      },
+      {
+        "master_field_id": 618,
+        "category_master_field_id": 4635,
+        "name": "İstehsalçı ölkə"
+      }
+    ],
+    "parent": {
+      "id": 2,
+      "node_type": "NODE",
+      "name": "Telefonlar, Smart cihazlar və telefon aksessuarları",
+      "slugged_name": "telefonlar-ve-aksessuarlar",
+      "parent": {
+        "id": 1,
+        "node_type": "NODE",
+        "name": "Elektronika və məişət texnikası",
+        "slugged_name": "elektronika-ve-meishet-texnikasi",
+        "parent": null
+      }
+    },
+    "is_refundable": true,
+    "is_adult": false,
+    "icons": {
+      "thumbnail": "https://strgimgr.umico.az/img/category/188/7a8b0d8a-c1a8-46f5-a7cd-c7483dbc6bee.jpeg",
+      "original": "https://strgimgr.umico.az/img/category/original/7a8b0d8a-c1a8-46f5-a7cd-c7483dbc6bee.jpeg"
+    },
+    "is_active": true
+  },
+  "offers": [
+    {
+      "uuid": "2ca49be8-d837-4760-bb2c-31d3f6ab6a66",
+      "installment_enabled": true,
+      "max_installment_months": 18,
+      "product_offer_labels": [],
+      "old_price": 15,
+      "retail_price": 10,
+      "supplier_id": "1bfc0b7a-868c-4505-b428-790da8602217",
+      "seller": {
+        "ext_id": "584c5c1f-dbf4-4b2a-b0c2-186527a46193",
+        "internal_id": 7332,
+        "marketing_name": {
+          "id": 7332,
+          "name": "Nur Telekom"
+        },
+        "logo": {
+          "thumbnail": "https://storage.umico.az/cpcustomerprod01/cbbe15fefcf76d9a23f83524ef23fb06.jpg"
+        },
+        "vat_payer": false,
+        "rating": 98,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "allow_qty": 0
+    },
+    {
+      "uuid": "628d9aa3-11fa-4be1-87fd-78bb428c7304",
+      "installment_enabled": true,
+      "max_installment_months": 12,
+      "product_offer_labels": [],
+      "old_price": 25,
+      "retail_price": 9.99,
+      "supplier_id": "1f7b4a25-7c8f-4e67-9a2f-bd40bf9e7a37",
+      "seller": {
+        "ext_id": "f86227b7-8952-4c59-84ce-b070e6a4978a",
+        "internal_id": 4052,
+        "marketing_name": {
+          "id": 4052,
+          "name": "Brend Aksesuar"
+        },
+        "logo": {
+          "thumbnail": "https://storage.umico.az/cpcustomerprod01/4708876baebaaad9c3effe88ff54738e.jpg"
+        },
+        "vat_payer": false,
+        "rating": 98,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "allow_qty": 0
+    },
+    {
+      "uuid": "b162a592-ca54-4fb0-8ba1-852b979e3d3b",
+      "installment_enabled": true,
+      "max_installment_months": 18,
+      "product_offer_labels": [],
+      "old_price": 43.99,
+      "retail_price": 9,
+      "supplier_id": "213e804b-fc49-4daf-a1c6-308e9b24f558",
+      "seller": {
+        "ext_id": "b4118680-ac1c-4626-a4d4-3951e629b2d7",
+        "internal_id": 13532,
+        "marketing_name": {
+          "id": 13532,
+          "name": "OzonMarket"
+        },
+        "logo": {
+          "thumbnail": ""
+        },
+        "vat_payer": false,
+        "rating": 93,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "allow_qty": 0
+    },
+    {
+      "uuid": "be01c51a-84c5-411d-b75f-8b5c0c13349a",
+      "installment_enabled": true,
+      "max_installment_months": 18,
+      "product_offer_labels": [],
+      "old_price": 25,
+      "retail_price": 14.99,
+      "supplier_id": "4487fb1f-0cbb-4b26-ae18-c0eaf5b47477",
+      "seller": {
+        "ext_id": "85aed90f-733e-48dd-af31-36b3540fbbc5",
+        "internal_id": 12399,
+        "marketing_name": {
+          "id": 12399,
+          "name": "Case de Baku"
+        },
+        "logo": {
+          "thumbnail": "https://storage.umico.az/cpcustomerprod01/a2cfd439c6e242ae69f75e2f9b08ac55.png"
+        },
+        "vat_payer": false,
+        "rating": 96,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "allow_qty": 0
+    },
+    {
+      "uuid": "d82aa37a-eb00-4610-aba4-e548ada0a444",
+      "installment_enabled": true,
+      "max_installment_months": 18,
+      "product_offer_labels": [],
+      "old_price": 15,
+      "retail_price": 10,
+      "supplier_id": "04a54ca4-5399-44b6-b0e4-a266ec48c288",
+      "seller": {
+        "ext_id": "53fb2ed7-be56-41ae-ba34-c1515380bc94",
+        "internal_id": 15260,
+        "marketing_name": {
+          "id": 15260,
+          "name": "Çexol Aləmi"
+        },
+        "logo": {
+          "thumbnail": ""
+        },
+        "vat_payer": false,
+        "rating": 98,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "allow_qty": 0
+    },
+    {
+      "uuid": "d00f53c2-ac36-40ae-9a7b-e46611be1e9a",
+      "installment_enabled": true,
+      "max_installment_months": 18,
+      "product_offer_labels": [],
+      "old_price": 30,
+      "retail_price": 14.96,
+      "supplier_id": "36853efb-d3b4-476e-af85-53ab24a91fed",
+      "seller": {
+        "ext_id": "a66fc8f0-93ed-494a-9b9d-5e56f3278135",
+        "internal_id": 9945,
+        "marketing_name": {
+          "id": 9945,
+          "name": "RS Baku"
+        },
+        "logo": {
+          "thumbnail": "https://storage.umico.az/cpcustomerprod01/7868a54325713cef37e1c32d2ca077c3.jpg"
+        },
+        "vat_payer": false,
+        "rating": 95,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "allow_qty": 0
+    },
+    {
+      "uuid": "825c88b7-4c5c-49f1-9c26-9a80a315dfdf",
+      "installment_enabled": true,
+      "max_installment_months": 18,
+      "product_offer_labels": [],
+      "old_price": 20,
+      "retail_price": 14.99,
+      "supplier_id": "e283c215-be80-4341-88bc-163f7596f188",
+      "seller": {
+        "ext_id": "5f18a8db-dbd8-4161-b75f-90800cb4e19b",
+        "internal_id": 12349,
+        "marketing_name": {
+          "id": 12349,
+          "name": "La Case de Azerbaijan"
+        },
+        "logo": {
+          "thumbnail": "https://storage.umico.az/cpcustomerprod01/48474bfdab72392675eccd904180fc36.png"
+        },
+        "vat_payer": false,
+        "rating": 100,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "allow_qty": 0
+    },
+    {
+      "uuid": "af0a2f19-7298-4ff9-94ab-b707fc08030f",
+      "installment_enabled": true,
+      "max_installment_months": 3,
+      "product_offer_labels": [],
+      "old_price": 0,
+      "retail_price": 7.75,
+      "supplier_id": "1ddec096-d98d-44bd-b301-442715957e5d",
+      "seller": {
+        "ext_id": "ffbe35ee-50e6-4896-bfa4-faaf5bb0abb0",
+        "internal_id": 10570,
+        "marketing_name": {
+          "id": 10570,
+          "name": "Case Baku"
+        },
+        "logo": {
+          "thumbnail": "https://storage.umico.az/cpcustomerprod01/3fff27729f5553e98bfde7ca67d1a804.jpg"
+        },
+        "vat_payer": false,
+        "rating": 96,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "allow_qty": 0
+    },
+    {
+      "uuid": "828dde04-4357-4581-9ecd-3d59ea6a1fba",
+      "installment_enabled": true,
+      "max_installment_months": 18,
+      "product_offer_labels": [],
+      "old_price": 43.99,
+      "retail_price": 9.98,
+      "supplier_id": "47b35ed1-7df1-4f72-856e-b3ea8085fca9",
+      "seller": {
+        "ext_id": "454912d0-6477-44e0-986f-aa78030f6fdf",
+        "internal_id": 13818,
+        "marketing_name": {
+          "id": 13818,
+          "name": "Meta Store"
+        },
+        "logo": {
+          "thumbnail": ""
+        },
+        "vat_payer": false,
+        "rating": 94,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "allow_qty": 0
+    }
+  ],
+  "variations": [
+    {
+      "id": 1201648,
+      "name": "Simli qulaqliq İphone 14 Pro Max",
+      "slugged_name": "simli-qulaqliq-iphone-14-pro-max-a-klass-teledoctor",
+      "custom_fields": [
+        {
+          "master_field_id": 625,
+          "values": [
+            "Ağ"
+          ]
+        }
+      ],
+      "main_img": {
+        "big": "https://strgimgr.umico.az/img/product/1680/0d899512-16ec-4b4a-ad47-e87836817a01.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/0d899512-16ec-4b4a-ad47-e87836817a01.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/0d899512-16ec-4b4a-ad47-e87836817a01.jpeg"
+      },
+      "status": "active"
+    }
+  ],
+  "size_chart": {},
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "sku": 1201648,
+    "mpn": "Simli Qulaqliq phone 14 Pro Max A klass  TELEDOCTOR",
+    "url": "https://birmarket.az/product/1201648-simli-qulaqliq-iphone-14-pro-max-a-klass-teledoctor",
+    "name": "Simli qulaqliq İphone 14 Pro Max",
+    "image": [
+      "https://strgimgr.umico.az/img/product/1680/0d899512-16ec-4b4a-ad47-e87836817a01.jpeg",
+      "https://strgimgr.umico.az/img/product/1680/45f5eff0-bf5b-4c6b-bca9-fa0488cb318b.jpeg",
+      "https://strgimgr.umico.az/img/product/1680/92f52468-f383-46a0-9147-49da55b7bf8d.jpeg"
+    ],
+    "description": "iPhone 14 Pro Max naqilli qulaqcıqları Lightning qoşulma interfeysinə malik dəbli taxma (tıxac) qulaqcıqlardır. Onlar stereo səsi və əla səs izolə etməsi təmin edir ki, bu da xarici səs-küyləri olmadan keyfiyyətli səsdən zövq almağa imkan verir. Qulaqcıqlarla birlikdə mikrofon da gəlir ki, bu da onları zənglər üçün rahat edir. Uzunluğu 1 metr olan kabel hərəkət azadlığı təmin edir, və cəmi 20.3 qram çəki onları istifadədə yüngül və rahat edir. Bu qulaqcıqlar iPhone 14 Pro Max ilə istifadəyə mükəmməl uyğun gəlir və bir dəfə şarjla 50 saata qədər işləmə təklif edir. Ağ rəngi və yüksək keyfiyyətli istehsalı onları dəbli və funksional aksessuara çevirir. Çin istehsalıdır.",
+    "itemCondition": "https://schema.org/NewCondition",
+    "offers": {
+      "@type": "AggregateOffer",
+      "availability": "https://schema.org/InStock",
+      "offerCount": 9,
+      "highPrice": 14.99,
+      "lowPrice": 7.75,
+      "priceCurrency": "AZN",
+      "hasMerchantReturnPolicy": {
+        "applicableCountry": "AZ",
+        "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+        "returnMethod": "https://schema.org/ReturnInStore",
+        "returnFees": "https://schema.org/FreeReturn",
+        "merchantReturnDays": 14
+      },
+      "shippingDetails": {
+        "@type": "OfferShippingDetails",
+        "shippingDestination": {
+          "@type": "DefinedRegion",
+          "addressCountry": "AZ"
+        },
+        "deliveryTime": {
+          "@type": "ShippingDeliveryTime",
+          "handlingTime": {
+            "@type": "QuantitativeValue",
+            "minValue": 0,
+            "maxValue": 1,
+            "unitCode": "DAY"
+          },
+          "transitTime": {
+            "@type": "QuantitativeValue",
+            "minValue": 0,
+            "maxValue": 1,
+            "unitCode": "DAY"
+          },
+          "businessDays": {
+            "@type": "OpeningHoursSpecification",
+            "dayOfWeek": [
+              "https://schema.org/Monday",
+              "https://schema.org/Tuesday",
+              "https://schema.org/Wednesday",
+              "https://schema.org/Thursday",
+              "https://schema.org/Friday",
+              "https://schema.org/Saturday",
+              "https://schema.org/Sunday"
+            ]
+          }
+        },
+        "shippingRate": {
+          "@type": "MonetaryAmount",
+          "value": 0,
+          "currency": "AZN"
+        }
+      }
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": 4,
+      "reviewCount": 3
+    },
+    "brand": {
+      "@type": "Brand",
+      "name": "No Brand",
+      "url": "https://birmarket.az/brands/No%20Brand"
+    }
+  }
+}

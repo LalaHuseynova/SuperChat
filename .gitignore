@@ -6,3 +6,8 @@ runtime/
 tmp/
 .DS_Store
 *.pyc
+*.sqlite3
+*.sqlite3-wal
+*.sqlite3-shm
+preparation_dataset/SuperChat_Real_Data/.staging/
+preparation_dataset/SuperChat_Real_Data/.failed/

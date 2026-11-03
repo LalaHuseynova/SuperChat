@@ -1,0 +1,776 @@
+[
+  {
+    "source_url": "https://www.aviasales.az/routes/bak/ist",
+    "fetched_at": "2026-11-02T21:25:14.663635+04:00",
+    "title": "Bakı-İstanbul aviabiletləri",
+    "origin": {
+      "code": "BAK",
+      "city": "Baku",
+      "code_type": "city",
+      "timezone": "Asia/Baku",
+      "country_code": "AZ",
+      "airport_code": null,
+      "scope": "city"
+    },
+    "destination": {
+      "code": "IST",
+      "city": "Istanbul",
+      "code_type": "city",
+      "timezone": "Europe/Istanbul",
+      "country_code": "TR",
+      "airport_code": null,
+      "scope": "city"
+    },
+    "price_history": [
+      {
+        "date": "2026-01-02T16:57:52.353Z",
+        "price": 229.50004308,
+        "lowestPrice": false
+      },
+      {
+        "date": "2026-02-02T16:57:52.353Z",
+        "price": 205.22197171,
+        "lowestPrice": true
+      },
+      {
+        "date": "2026-03-02T16:57:52.353Z",
+        "price": 218.23032574,
+        "lowestPrice": true
+      },
+      {
+        "date": "2026-04-02T16:57:52.353Z",
+        "price": 234.46458399,
+        "lowestPrice": false
+      },
+      {
+        "date": "2026-05-02T16:57:52.353Z",
+        "price": 332.68708326,
+        "lowestPrice": false
+      },
+      {
+        "date": "2026-06-02T16:57:52.353Z",
+        "price": 288.67653283,
+        "lowestPrice": false
+      },
+      {
+        "date": "2026-07-02T16:57:52.353Z",
+        "price": 265.04783179,
+        "lowestPrice": false
+      },
+      {
+        "date": "2026-08-02T16:57:52.353Z",
+        "price": 319.57399208,
+        "lowestPrice": false
+      },
+      {
+        "date": "2026-09-02T16:57:52.353Z",
+        "price": 326.50759141,
+        "lowestPrice": false
+      },
+      {
+        "date": "2026-10-02T16:57:52.353Z",
+        "price": 268.46226288,
+        "lowestPrice": false
+      },
+      {
+        "date": "2026-11-02T16:57:52.353Z",
+        "price": 254.61601165,
+        "lowestPrice": false
+      },
+      {
+        "date": "2026-12-02T16:57:52.353Z",
+        "price": 237.89996251,
+        "lowestPrice": false
+      }
+    ],
+    "source_file": "aviasales/runs/20261102_212511_334320/sources/BAK-IST.html"
+  },
+  {
+    "source_url": "https://www.aviasales.az/routes/ist/bak",
+    "fetched_at": "2026-11-02T21:25:15.635043+04:00",
+    "title": "İstanbul-Bakı aviabiletləri",
+    "origin": {
+      "code": "IST",
+      "city": "Istanbul",
+      "code_type": "city",
+      "timezone": "Europe/Istanbul",
+      "country_code": "TR",
+      "airport_code": null,
+      "scope": "city"
+    },
+    "destination": {
+      "code": "BAK",
+      "city": "Baku",
+      "code_type": "city",
+      "timezone": "Asia/Baku",
+      "country_code": "AZ",
+      "airport_code": null,
+      "scope": "city"
+    },
+    "price_history": [
+      {
+        "date": "2026-01-02T16:59:55.258Z",
+        "price": 246.3417768,
+        "lowestPrice": false
+      },
+      {
+        "date": "2026-02-02T16:59:55.258Z",
+        "price": 169.15049725,
+        "lowestPrice": true
+      },
+      {
+        "date": "2026-03-02T16:59:55.258Z",
+        "price": 206.22744835,
+        "lowestPrice": false
+      },
+      {
+        "date": "2026-04-02T16:59:55.258Z",
+        "price": 203.35765044,
+        "lowestPrice": true
+      },
+      {
+        "date": "2026-05-02T16:59:55.258Z",
+        "price": 320.22336241,
+        "lowestPrice": false
+      },
+      {
+        "date": "2026-06-02T16:59:55.258Z",
+        "price": 305.91626772,
+        "lowestPrice": false
+      },
+      {
+        "date": "2026-07-02T16:59:55.258Z",
+        "price": 311.17407265,
+        "lowestPrice": false
+      },
+      {
+        "date": "2026-08-02T16:59:55.258Z",
+        "price": 340.01868376,
+        "lowestPrice": false
+      },
+      {
+        "date": "2026-09-02T16:59:55.258Z",
+        "price": 325.25074561,
+        "lowestPrice": false
+      },
+      {
+        "date": "2026-10-02T16:59:55.258Z",
+        "price": 282.05714495,
+        "lowestPrice": false
+      },
+      {
+        "date": "2026-11-02T16:59:55.258Z",
+        "price": 251.51579201,
+        "lowestPrice": false
+      },
+      {
+        "date": "2026-12-02T16:59:55.258Z",
+        "price": 263.01593108,
+        "lowestPrice": false
+      }
+    ],
+    "source_file": "aviasales/runs/20261102_212511_334320/sources/IST-BAK.html"
+  },
+  {
+    "source_url": "https://www.aviasales.az/routes/bak/dxb",
+    "fetched_at": "2026-11-02T21:25:16.534292+04:00",
+    "title": "Bakı-Dubay aviabiletləri",
+    "origin": {
+      "code": "BAK",
+      "city": "Baku",
+      "code_type": "city",
+      "timezone": "Asia/Baku",
+      "country_code": "AZ",
+      "airport_code": null,
+      "scope": "city"
+    },
+    "destination": {
+      "code": "DXB",
+      "city": "Dubai",
+      "code_type": "city",
+      "timezone": "Asia/Dubai",
+      "country_code": "AE",
+      "airport_code": null,
+      "scope": "city"
+    },
+    "price_history": [
+      {
+        "date": "2026-01-02T16:59:48.493Z",
+        "price": 380.34248651,
+        "lowestPrice": false
+      },
+      {
+        "date": "2026-02-02T16:59:48.493Z",
+        "price": 325.87916851,
+        "lowestPrice": false
+      },
+      {
+        "date": "2026-03-02T16:59:48.493Z",
+        "price": 353.99061957,
+        "lowestPrice": false
+      },
+      {
+        "date": "2026-04-02T16:59:48.493Z",
+        "price": 663.30037095,
+        "lowestPrice": false
+      },
+      {
+        "date": "2026-05-02T16:59:48.493Z",
+        "price": 439.49802883,
+        "lowestPrice": false
+      },
+      {
+        "date": "2026-06-02T16:59:48.493Z",
+        "price": 356.83947005,
+        "lowestPrice": false
+      },
+      {
+        "date": "2026-07-02T16:59:48.493Z",
+        "price": 386.2706092,
+        "lowestPrice": false
+      },
+      {
+        "date": "2026-08-02T16:59:48.493Z",
+        "price": 374.41436382,
+        "lowestPrice": false
+      },
+      {
+        "date": "2026-09-02T16:59:48.493Z",
+        "price": 318.6104103,
+        "lowestPrice": true
+      },
+      {
+        "date": "2026-10-02T16:59:48.493Z",
+        "price": 395.02663494,
+        "lowestPrice": false
+      },
+      {
+        "date": "2026-11-02T16:59:48.493Z",
+        "price": 308.3461696,
+        "lowestPrice": true
+      },
+      {
+        "date": "2026-12-02T16:59:48.493Z",
+        "price": 376.46721196,
+        "lowestPrice": false
+      }
+    ],
+    "source_file": "aviasales/runs/20261102_212511_334320/sources/BAK-DXB.html"
+  },
+  {
+    "source_url": "https://www.aviasales.az/routes/dxb/bak",
+    "fetched_at": "2026-11-02T21:25:17.538324+04:00",
+    "title": "Dubay-Bakı aviabiletləri",
+    "origin": {
+      "code": "DXB",
+      "city": "Dubai",
+      "code_type": "city",
+      "timezone": "Asia/Dubai",
+      "country_code": "AE",
+      "airport_code": null,
+      "scope": "city"
+    },
+    "destination": {
+      "code": "BAK",
+      "city": "Baku",
+      "code_type": "city",
+      "timezone": "Asia/Baku",
+      "country_code": "AZ",
+      "airport_code": null,
+      "scope": "city"
+    },
+    "price_history": [
+      {
+        "date": "2026-01-02T16:59:56.853Z",
+        "price": 377.97542692,
+        "lowestPrice": false
+      },
+      {
+        "date": "2026-02-02T16:59:56.853Z",
+        "price": 328.14149095,
+        "lowestPrice": true
+      },
+      {
+        "date": "2026-03-02T16:59:56.853Z",
+        "price": 422.55155796,
+        "lowestPrice": false
+      },
+      {
+        "date": "2026-04-02T16:59:56.853Z",
+        "price": 644.72000054,
+        "lowestPrice": false
+      },
+      {
+        "date": "2026-05-02T16:59:56.853Z",
+        "price": 528.16850002,
+        "lowestPrice": false
+      },
+      {
+        "date": "2026-06-02T16:59:56.853Z",
+        "price": 405.35371793,
+        "lowestPrice": false
+      },
+      {
+        "date": "2026-07-02T16:59:56.853Z",
+        "price": 412.41300184,
+        "lowestPrice": false
+      },
+      {
+        "date": "2026-08-02T16:59:56.853Z",
+        "price": 366.74760444,
+        "lowestPrice": false
+      },
+      {
+        "date": "2026-09-02T16:59:56.853Z",
+        "price": 346.4704922,
+        "lowestPrice": true
+      },
+      {
+        "date": "2026-10-02T16:59:56.853Z",
+        "price": 382.52101923,
+        "lowestPrice": false
+      },
+      {
+        "date": "2026-11-02T16:59:56.853Z",
+        "price": 371.87972479,
+        "lowestPrice": false
+      },
+      {
+        "date": "2026-12-02T16:59:56.853Z",
+        "price": 411.95215838,
+        "lowestPrice": false
+      }
+    ],
+    "source_file": "aviasales/runs/20261102_212511_334320/sources/DXB-BAK.html"
+  },
+  {
+    "source_url": "https://www.aviasales.az/routes/bak/mow",
+    "fetched_at": "2026-11-02T21:25:18.533384+04:00",
+    "title": "Bakı-Moskva aviabiletləri",
+    "origin": {
+      "code": "BAK",
+      "city": "Baku",
+      "code_type": "city",
+      "timezone": "Asia/Baku",
+      "country_code": "AZ",
+      "airport_code": null,
+      "scope": "city"
+    },
+    "destination": {
+      "code": "MOW",
+      "city": "Moscow",
+      "code_type": "city",
+      "timezone": "Europe/Moscow",
+      "country_code": "RU",
+      "airport_code": null,
+      "scope": "city"
+    },
+    "price_history": [
+      {
+        "date": "2026-01-02T16:59:50.223Z",
+        "price": 319.8672561,
+        "lowestPrice": false
+      },
+      {
+        "date": "2026-02-02T16:59:50.223Z",
+        "price": 323.82632037,
+        "lowestPrice": false
+      },
+      {
+        "date": "2026-03-02T16:59:50.223Z",
+        "price": 312.26333901,
+        "lowestPrice": false
+      },
+      {
+        "date": "2026-04-02T16:59:50.223Z",
+        "price": 306.0419523,
+        "lowestPrice": false
+      },
+      {
+        "date": "2026-05-02T16:59:50.223Z",
+        "price": 295.79865903,
+        "lowestPrice": false
+      },
+      {
+        "date": "2026-06-02T16:59:50.223Z",
+        "price": 290.72938097,
+        "lowestPrice": true
+      },
+      {
+        "date": "2026-07-02T16:59:50.223Z",
+        "price": 327.74348978,
+        "lowestPrice": false
+      },
+      {
+        "date": "2026-08-02T16:59:50.223Z",
+        "price": 605.02462069,
+        "lowestPrice": false
+      },
+      {
+        "date": "2026-09-02T16:59:50.223Z",
+        "price": 519.99900232,
+        "lowestPrice": false
+      },
+      {
+        "date": "2026-10-02T16:59:50.223Z",
+        "price": 394.0211583,
+        "lowestPrice": false
+      },
+      {
+        "date": "2026-11-02T16:59:50.223Z",
+        "price": 387.21324355,
+        "lowestPrice": false
+      },
+      {
+        "date": "2026-12-02T16:59:50.223Z",
+        "price": 288.61369054,
+        "lowestPrice": true
+      }
+    ],
+    "source_file": "aviasales/runs/20261102_212511_334320/sources/BAK-MOW.html"
+  },
+  {
+    "source_url": "https://www.aviasales.az/routes/mow/bak",
+    "fetched_at": "2026-11-02T21:25:19.636280+04:00",
+    "title": "Moskva-Bakı aviabiletləri",
+    "origin": {
+      "code": "MOW",
+      "city": "Moscow",
+      "code_type": "city",
+      "timezone": "Europe/Moscow",
+      "country_code": "RU",
+      "airport_code": null,
+      "scope": "city"
+    },
+    "destination": {
+      "code": "BAK",
+      "city": "Baku",
+      "code_type": "city",
+      "timezone": "Asia/Baku",
+      "country_code": "AZ",
+      "airport_code": null,
+      "scope": "city"
+    },
+    "price_history": [
+      {
+        "date": "2026-01-02T16:59:58.601Z",
+        "price": 319.80441381,
+        "lowestPrice": false
+      },
+      {
+        "date": "2026-02-02T16:59:58.601Z",
+        "price": 288.09000479,
+        "lowestPrice": true
+      },
+      {
+        "date": "2026-03-02T16:59:58.601Z",
+        "price": 307.5082724,
+        "lowestPrice": false
+      },
+      {
+        "date": "2026-04-02T16:59:58.601Z",
+        "price": 264.18898716,
+        "lowestPrice": true
+      },
+      {
+        "date": "2026-05-02T16:59:58.601Z",
+        "price": 353.48788125,
+        "lowestPrice": false
+      },
+      {
+        "date": "2026-06-02T16:59:58.601Z",
+        "price": 507.1372803,
+        "lowestPrice": false
+      },
+      {
+        "date": "2026-07-02T16:59:58.601Z",
+        "price": 568.17809132,
+        "lowestPrice": false
+      },
+      {
+        "date": "2026-08-02T16:59:58.601Z",
+        "price": 542.66412158,
+        "lowestPrice": false
+      },
+      {
+        "date": "2026-09-02T16:59:58.601Z",
+        "price": 467.127689,
+        "lowestPrice": false
+      },
+      {
+        "date": "2026-10-02T16:59:58.601Z",
+        "price": 375.73405191,
+        "lowestPrice": false
+      },
+      {
+        "date": "2026-11-02T16:59:58.601Z",
+        "price": 333.96487649,
+        "lowestPrice": false
+      },
+      {
+        "date": "2026-12-02T16:59:58.601Z",
+        "price": 411.21899833,
+        "lowestPrice": false
+      }
+    ],
+    "source_file": "aviasales/runs/20261102_212511_334320/sources/MOW-BAK.html"
+  },
+  {
+    "source_url": "https://www.aviasales.az/routes/bak/tbs",
+    "fetched_at": "2026-11-02T21:25:20.543504+04:00",
+    "title": "Bakı-Tbilisi aviabiletləri",
+    "origin": {
+      "code": "BAK",
+      "city": "Baku",
+      "code_type": "city",
+      "timezone": "Asia/Baku",
+      "country_code": "AZ",
+      "airport_code": null,
+      "scope": "city"
+    },
+    "destination": {
+      "code": "TBS",
+      "city": "Tbilisi",
+      "code_type": "city",
+      "timezone": "Asia/Tbilisi",
+      "country_code": "GE",
+      "airport_code": null,
+      "scope": "city"
+    },
+    "price_history": [
+      {
+        "date": "2026-01-02T16:59:51.866Z",
+        "price": 159.13762571,
+        "lowestPrice": false
+      },
+      {
+        "date": "2026-02-02T16:59:51.866Z",
+        "price": 165.63132901,
+        "lowestPrice": false
+      },
+      {
+        "date": "2026-03-02T16:59:51.866Z",
+        "price": 158.02741192,
+        "lowestPrice": false
+      },
+      {
+        "date": "2026-04-02T16:59:51.866Z",
+        "price": 164.77248438,
+        "lowestPrice": false
+      },
+      {
+        "date": "2026-05-02T16:59:51.866Z",
+        "price": 190.621613,
+        "lowestPrice": false
+      },
+      {
+        "date": "2026-06-02T16:59:51.866Z",
+        "price": 191.16624618,
+        "lowestPrice": false
+      },
+      {
+        "date": "2026-07-02T16:59:51.866Z",
+        "price": 229.24867392,
+        "lowestPrice": false
+      },
+      {
+        "date": "2026-08-02T16:59:51.866Z",
+        "price": 219.86422528,
+        "lowestPrice": false
+      },
+      {
+        "date": "2026-09-02T16:59:51.866Z",
+        "price": 217.66474513,
+        "lowestPrice": false
+      },
+      {
+        "date": "2026-10-02T16:59:51.866Z",
+        "price": 175.18335709,
+        "lowestPrice": false
+      },
+      {
+        "date": "2026-11-02T16:59:51.866Z",
+        "price": 143.82505438,
+        "lowestPrice": true
+      },
+      {
+        "date": "2026-12-02T16:59:51.866Z",
+        "price": 144.70484644,
+        "lowestPrice": true
+      }
+    ],
+    "source_file": "aviasales/runs/20261102_212511_334320/sources/BAK-TBS.html"
+  },
+  {
+    "source_url": "https://www.aviasales.az/routes/tbs/bak",
+    "fetched_at": "2026-11-02T21:25:21.542742+04:00",
+    "title": "Tbilisi-Bakı aviabiletləri",
+    "origin": {
+      "code": "TBS",
+      "city": "Tbilisi",
+      "code_type": "city",
+      "timezone": "Asia/Tbilisi",
+      "country_code": "GE",
+      "airport_code": null,
+      "scope": "city"
+    },
+    "destination": {
+      "code": "BAK",
+      "city": "Baku",
+      "code_type": "city",
+      "timezone": "Asia/Baku",
+      "country_code": "AZ",
+      "airport_code": null,
+      "scope": "city"
+    },
+    "price_history": [
+      {
+        "date": "2026-01-02T16:59:59.684Z",
+        "price": 281.76388093,
+        "lowestPrice": false
+      },
+      {
+        "date": "2026-02-02T16:59:59.684Z",
+        "price": 271.10163906,
+        "lowestPrice": true
+      },
+      {
+        "date": "2026-03-02T16:59:59.684Z",
+        "price": 290.05906321,
+        "lowestPrice": false
+      },
+      {
+        "date": "2026-04-02T16:59:59.684Z",
+        "price": 230.61025687,
+        "lowestPrice": true
+      },
+      {
+        "date": "2026-05-02T16:59:59.684Z",
+        "price": 298.31235063,
+        "lowestPrice": false
+      },
+      {
+        "date": "2026-06-02T16:59:59.684Z",
+        "price": 296.69939852,
+        "lowestPrice": false
+      },
+      {
+        "date": "2026-07-02T16:59:59.684Z",
+        "price": 322.52757971,
+        "lowestPrice": false
+      },
+      {
+        "date": "2026-08-02T16:59:59.684Z",
+        "price": 346.09343846,
+        "lowestPrice": false
+      },
+      {
+        "date": "2026-09-02T16:59:59.684Z",
+        "price": 322.10863111,
+        "lowestPrice": false
+      },
+      {
+        "date": "2026-10-02T16:59:59.684Z",
+        "price": 310.88080863,
+        "lowestPrice": false
+      },
+      {
+        "date": "2026-11-02T16:59:59.684Z",
+        "price": 296.13381791,
+        "lowestPrice": false
+      },
+      {
+        "date": "2026-12-02T16:59:59.684Z",
+        "price": 285.28304917,
+        "lowestPrice": false
+      }
+    ],
+    "source_file": "aviasales/runs/20261102_212511_334320/sources/TBS-BAK.html"
+  },
+  {
+    "source_url": "https://www.aviasales.az/routes/bak/tas",
+    "fetched_at": "2026-11-02T21:25:22.554330+04:00",
+    "title": "Bakı-Daşkənd aviabiletləri",
+    "origin": {
+      "code": "BAK",
+      "city": "Baku",
+      "code_type": "city",
+      "timezone": "Asia/Baku",
+      "country_code": "AZ",
+      "airport_code": null,
+      "scope": "city"
+    },
+    "destination": {
+      "code": "TAS",
+      "city": "Tashkent",
+      "code_type": "city",
+      "timezone": "Asia/Tashkent",
+      "country_code": "UZ",
+      "airport_code": null,
+      "scope": "city"
+    },
+    "price_history": [
+      {
+        "date": "2026-01-02T16:59:53.574Z",
+        "price": 265.8228867,
+        "lowestPrice": true
+      },
+      {
+        "date": "2026-02-02T16:59:53.574Z",
+        "price": 207.98703247,
+        "lowestPrice": true
+      },
+      {
+        "date": "2026-03-02T16:59:53.574Z",
+        "price": 272.08616827,
+        "lowestPrice": false
+      },
+      {
+        "date": "2026-04-02T16:59:53.574Z",
+        "price": 280.38135055,
+        "lowestPrice": false
+      },
+      {
+        "date": "2026-05-02T16:59:53.574Z",
+        "price": 307.5082724,
+        "lowestPrice": false
+      },
+      {
+        "date": "2026-06-02T16:59:53.574Z",
+        "price": 299.06645811,
+        "lowestPrice": false
+      },
+      {
+        "date": "2026-07-02T16:59:53.574Z",
+        "price": 266.61888904,
+        "lowestPrice": false
+      },
+      {
+        "date": "2026-08-02T16:59:53.574Z",
+        "price": 358.78758104,
+        "lowestPrice": false
+      },
+      {
+        "date": "2026-09-02T16:59:53.574Z",
+        "price": 377.11658229,
+        "lowestPrice": false
+      },
+      {
+        "date": "2026-10-02T16:59:53.574Z",
+        "price": 348.33481347,
+        "lowestPrice": false
+      },
+      {
+        "date": "2026-11-02T16:59:53.574Z",
+        "price": 306.23047917,
+        "lowestPrice": false
+      },
+      {
+        "date": "2026-12-02T16:59:53.574Z",
+        "price": 282.39230383,
+        "lowestPrice": false
+      }
+    ],
+    "source_file": "aviasales/runs/20261102_212511_334320/sources/BAK-TAS.html"
+  }
+]

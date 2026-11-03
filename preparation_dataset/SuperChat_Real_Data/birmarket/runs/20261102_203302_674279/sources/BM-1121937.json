@@ -1,0 +1,801 @@
+{
+  "product": {
+    "id": 1121937,
+    "gtin": "6941812737071",
+    "mpn": "BHR9283GL",
+    "name": "Simsiz qulaqlıq Xiaomi Redmi Buds 6 Play Blue (BHR9283GL)",
+    "slugged_name_az": "simsiz-qulaqliq-xiaomi-redmi-buds-6-play-blue-bhr9283gl",
+    "slugged_name_ru": "besprovodnye-naushniki-xiaomi-redmi-buds-6-play-blue-bhr9283gl",
+    "description": "Simlizes qulaqcıqlar Xiaomi Redmi Buds 6 Play Blue (BHR9283GL) - populyar marka Xiaomi-dən stil və funksional xüsusiyyətləri ilə dolu olan TWS quruluşlu qulaqcıqlar. Onlar stereo səslə, daxili mikrofonla və 16 Ohm impedansla təchiz olunmuşdur. Qulaqcıqlar bağlanmış akustik dizayna malikdir və səs səviyyəsinin aşağı salınmasını təmin edirlər, bu da xarici səs-küylərdən arınmış yüksək keyfiyyətli səs dinləməyə imkan verir. Bluetooth vasitəsilə simsiz qoşulma və 7.5 saat işləmə müddəti sayəsində onlar aktiv həyat tərzi üçün əvəzedilməz aksesuara çevrilir. Dəstdə təlimat və mikrofon da var.",
+    "description_outlet": "",
+    "status": "active",
+    "uuid": "85d88e30-eb53-474f-bc50-590e3553b797",
+    "variant_code": "Xiaomi Redmi Buds 6 Play",
+    "default_offer": {
+      "uuid": "4f644de7-6e62-4a46-b00c-ab1e6d6bf5f5",
+      "installment_enabled": true,
+      "max_installment_months": 3,
+      "product_offer_labels": [],
+      "old_price": 27.99,
+      "retail_price": 20.63,
+      "supplier_id": "08efecf5-1ebd-4308-83d1-90556dd64be9",
+      "qty": 0,
+      "seller": {
+        "ext_id": "08efecf5-1ebd-4308-83d1-90556dd64be9",
+        "marketing_name": {
+          "id": 2189,
+          "name": "Texno Home"
+        },
+        "logo": {
+          "thumbnail": "https://storage.umico.az/cpcustomerprod01/0d9a9e502354fbf0c8dc605bb52591e9.jpg"
+        },
+        "vat_payer": true,
+        "rating": 98,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "discount_effective_start_date": "",
+      "discount_effective_end_date": ""
+    },
+    "category_id": 6,
+    "category": {
+      "id": 6,
+      "name": "Qulaqlıqlar və qarniturlar"
+    },
+    "brand": {
+      "name": "Xiaomi"
+    },
+    "custom_fields": [
+      {
+        "master_field_id": 1476,
+        "values": [
+          "Xiaomi Redmi Buds 6 Play"
+        ]
+      },
+      {
+        "master_field_id": 628,
+        "values": [
+          "İçlik (qapaq)"
+        ]
+      },
+      {
+        "master_field_id": 629,
+        "values": [
+          "Simsiz"
+        ]
+      },
+      {
+        "master_field_id": 625,
+        "values": [
+          "Göy"
+        ]
+      },
+      {
+        "master_field_id": 1568,
+        "values": [
+          "Bəli"
+        ]
+      },
+      {
+        "master_field_id": 633,
+        "values": [
+          "Type-C"
+        ]
+      },
+      {
+        "master_field_id": 678,
+        "values": [
+          "Bluetooth"
+        ]
+      },
+      {
+        "master_field_id": 657,
+        "values": [
+          "TWS"
+        ]
+      },
+      {
+        "master_field_id": 1574,
+        "values": [
+          "7.5"
+        ]
+      },
+      {
+        "master_field_id": 1140,
+        "values": [
+          "10"
+        ]
+      },
+      {
+        "master_field_id": 1570,
+        "values": [
+          "Stereo"
+        ]
+      },
+      {
+        "master_field_id": 1842,
+        "values": [
+          "20000"
+        ]
+      },
+      {
+        "master_field_id": 1843,
+        "values": [
+          "20"
+        ]
+      },
+      {
+        "master_field_id": 797,
+        "values": [
+          "16"
+        ]
+      },
+      {
+        "master_field_id": 631,
+        "values": [
+          "20"
+        ]
+      },
+      {
+        "master_field_id": 632,
+        "values": [
+          "20000"
+        ]
+      },
+      {
+        "master_field_id": 1840,
+        "values": [
+          "Qapalı"
+        ]
+      },
+      {
+        "master_field_id": 1567,
+        "values": [
+          "Xeyr"
+        ]
+      },
+      {
+        "master_field_id": 1845,
+        "values": [
+          "Xeyr"
+        ]
+      },
+      {
+        "master_field_id": 1573,
+        "values": [
+          "2"
+        ]
+      },
+      {
+        "master_field_id": 1850,
+        "values": [
+          "Bərkidilmiş"
+        ]
+      },
+      {
+        "master_field_id": 870,
+        "values": [
+          "40"
+        ]
+      },
+      {
+        "master_field_id": 3287,
+        "values": [
+          "Qulaq içi"
+        ]
+      },
+      {
+        "master_field_id": 697,
+        "values": [
+          "Təlimat"
+        ]
+      },
+      {
+        "master_field_id": 2210,
+        "values": [
+          "Çin"
+        ]
+      },
+      {
+        "master_field_id": 618,
+        "values": [
+          "Çin"
+        ]
+      }
+    ],
+    "main_img": {
+      "big": "https://strgimgr.umico.az/img/product/1680/a6bfe638-adc8-4a1e-9571-b0ce4cb8a205.jpeg",
+      "medium": "https://strgimgr.umico.az/img/product/840/a6bfe638-adc8-4a1e-9571-b0ce4cb8a205.jpeg",
+      "small": "https://strgimgr.umico.az/img/product/280/a6bfe638-adc8-4a1e-9571-b0ce4cb8a205.jpeg"
+    },
+    "img_url_thumbnail": "https://strgimgr.umico.az/img/product/280/a6bfe638-adc8-4a1e-9571-b0ce4cb8a205.jpeg",
+    "main_video": "",
+    "imgs": [
+      {
+        "big": "https://strgimgr.umico.az/img/product/1680/a6bfe638-adc8-4a1e-9571-b0ce4cb8a205.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/a6bfe638-adc8-4a1e-9571-b0ce4cb8a205.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/a6bfe638-adc8-4a1e-9571-b0ce4cb8a205.jpeg"
+      },
+      {
+        "big": "https://strgimgr.umico.az/img/product/1680/8fb5ca77-541d-4a44-a9a1-6e7847c98538.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/8fb5ca77-541d-4a44-a9a1-6e7847c98538.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/8fb5ca77-541d-4a44-a9a1-6e7847c98538.jpeg"
+      },
+      {
+        "big": "https://strgimgr.umico.az/img/product/1680/c2cd986b-f723-4e27-b379-f6dc18d2b727.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/c2cd986b-f723-4e27-b379-f6dc18d2b727.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/c2cd986b-f723-4e27-b379-f6dc18d2b727.jpeg"
+      },
+      {
+        "big": "https://strgimgr.umico.az/img/product/1680/3a44eda9-a3ad-49a5-a6ff-cd243ec30eac.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/3a44eda9-a3ad-49a5-a6ff-cd243ec30eac.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/3a44eda9-a3ad-49a5-a6ff-cd243ec30eac.jpeg"
+      },
+      {
+        "big": "https://strgimgr.umico.az/img/product/1680/f294141c-6c67-4f68-84d9-68e34068824c.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/f294141c-6c67-4f68-84d9-68e34068824c.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/f294141c-6c67-4f68-84d9-68e34068824c.jpeg"
+      }
+    ],
+    "videos": [
+      ""
+    ],
+    "min_qty": 1,
+    "preorder_available": false,
+    "is_assortment": false,
+    "is_bulk_heavy": false,
+    "is_refurbished": false,
+    "is_refundable": true,
+    "is_dangerous": false,
+    "show_tech_description": false,
+    "use_external_content": false,
+    "product_labels": [
+      {
+        "color": "40C4FF",
+        "id": 43325159,
+        "image_url": "",
+        "label_id": 1,
+        "name": "Новинка",
+        "position": 1,
+        "rule_type": "parameters",
+        "show_in_see_also_products": false,
+        "text": "Yenilik"
+      }
+    ],
+    "ratings": {
+      "rating_value": 4.4,
+      "assessment_id": 0,
+      "session_count": 36,
+      "score_count": 15,
+      "review_count": 21
+    },
+    "default_show_stock_qty_threshold": 0,
+    "card_type": "private"
+  },
+  "category": {
+    "id": 6,
+    "name": "Qulaqlıqlar və qarniturlar",
+    "slugged_name_az": "qulaqliqlar-ve-qarniturlar",
+    "slugged_name_ru": "naushniki-i-garnitury",
+    "view_mode": "products",
+    "mobile_visual_mode": "text",
+    "is_variant": true,
+    "depth": 2,
+    "parent_id": 2,
+    "child_ids": [],
+    "node_type": "NODE",
+    "install_service_needed": false,
+    "fitting_allowed": false,
+    "vat": true,
+    "variations": [
+      {
+        "master_field_id": 625,
+        "name": "Rəng",
+        "variation_tool_type": "image",
+        "has_size_chart": false,
+        "display_variant": false
+      }
+    ],
+    "custom_fields": [
+      {
+        "master_field_id": 1476,
+        "category_master_field_id": 10651,
+        "name": "Seriya"
+      },
+      {
+        "master_field_id": 628,
+        "category_master_field_id": 1455,
+        "name": "Qulaqlıq növü"
+      },
+      {
+        "master_field_id": 629,
+        "category_master_field_id": 1456,
+        "name": "Qoşulma tipi"
+      },
+      {
+        "master_field_id": 633,
+        "category_master_field_id": 1460,
+        "name": "Port tipi"
+      },
+      {
+        "master_field_id": 777,
+        "category_master_field_id": 45543,
+        "name": "Bluetooth standartı"
+      },
+      {
+        "master_field_id": 6487,
+        "category_master_field_id": 45544,
+        "name": "Aktiv səs-küyün boğulması (ANC)"
+      },
+      {
+        "master_field_id": 759,
+        "category_master_field_id": 4638,
+        "name": "Mikrofon"
+      },
+      {
+        "master_field_id": 1574,
+        "category_master_field_id": 4669,
+        "name": "İşləmə müddəti, saat"
+      },
+      {
+        "master_field_id": 2186,
+        "category_master_field_id": 45545,
+        "name": "Nəmə davamlı"
+      },
+      {
+        "master_field_id": 625,
+        "category_master_field_id": 4637,
+        "name": "Rəng"
+      },
+      {
+        "master_field_id": 2211,
+        "category_master_field_id": 10656,
+        "name": "Zəmanət müddəti"
+      },
+      {
+        "master_field_id": 1568,
+        "category_master_field_id": 4663,
+        "name": "Səs-küyün boğulması"
+      },
+      {
+        "master_field_id": 678,
+        "category_master_field_id": 10650,
+        "name": "Qoşulma interfeysi"
+      },
+      {
+        "master_field_id": 657,
+        "category_master_field_id": 4640,
+        "name": "Quruluş"
+      },
+      {
+        "master_field_id": 630,
+        "category_master_field_id": 1457,
+        "name": "Həssaslıq, dB"
+      },
+      {
+        "master_field_id": 631,
+        "category_master_field_id": 1458,
+        "name": "Minimal təkrarlanan tezlik, Hz"
+      },
+      {
+        "master_field_id": 632,
+        "category_master_field_id": 1459,
+        "name": "Maksimal təkrarlanan tezlik, Hz"
+      },
+      {
+        "master_field_id": 1838,
+        "category_master_field_id": 5557,
+        "name": "Port forması"
+      },
+      {
+        "master_field_id": 782,
+        "category_master_field_id": 4636,
+        "name": "Kabelin uzunluğu, m"
+      },
+      {
+        "master_field_id": 3287,
+        "category_master_field_id": 15468,
+        "name": "Qulaqlıqların bərkitməsi"
+      },
+      {
+        "master_field_id": 1840,
+        "category_master_field_id": 5559,
+        "name": "Akustik formalaşdırma"
+      },
+      {
+        "master_field_id": 1140,
+        "category_master_field_id": 15469,
+        "name": "Təsir radiusu, m"
+      },
+      {
+        "master_field_id": 1841,
+        "category_master_field_id": 5560,
+        "name": "Maksimal çıxış gücü, Vt"
+      },
+      {
+        "master_field_id": 1842,
+        "category_master_field_id": 5561,
+        "name": "Diapazonun yuxarı həddi, Hz"
+      },
+      {
+        "master_field_id": 1843,
+        "category_master_field_id": 5562,
+        "name": "Diapazonun aşağı həddi, Hz"
+      },
+      {
+        "master_field_id": 1844,
+        "category_master_field_id": 5563,
+        "name": "Siqnal/səs-küy nisbəti, dB"
+      },
+      {
+        "master_field_id": 797,
+        "category_master_field_id": 5570,
+        "name": "Empendans, Om"
+      },
+      {
+        "master_field_id": 1567,
+        "category_master_field_id": 4662,
+        "name": "Səs izolyasiyası"
+      },
+      {
+        "master_field_id": 1845,
+        "category_master_field_id": 5564,
+        "name": "Səs səviyyəsinin tənzimləyicisi"
+      },
+      {
+        "master_field_id": 1570,
+        "category_master_field_id": 4665,
+        "name": "Ətraf səs"
+      },
+      {
+        "master_field_id": 1573,
+        "category_master_field_id": 4668,
+        "name": "Dinamiklərin ümumi sayı"
+      },
+      {
+        "master_field_id": 1846,
+        "category_master_field_id": 5565,
+        "name": "Mikrofon növü"
+      },
+      {
+        "master_field_id": 1847,
+        "category_master_field_id": 5566,
+        "name": "Mikrofonun diapazonunun yuxarı həddi, Hz"
+      },
+      {
+        "master_field_id": 1848,
+        "category_master_field_id": 5567,
+        "name": "Mikrofonun diapazonunun aşağı həddi, Hz"
+      },
+      {
+        "master_field_id": 1849,
+        "category_master_field_id": 5568,
+        "name": "Mikrofonun siqnal/səs-küy nisbəti"
+      },
+      {
+        "master_field_id": 1850,
+        "category_master_field_id": 5569,
+        "name": "Mikrofonun bərkitməsi"
+      },
+      {
+        "master_field_id": 1740,
+        "category_master_field_id": 5571,
+        "name": "Digər funksiyalar və xüsusiyyətlər"
+      },
+      {
+        "master_field_id": 870,
+        "category_master_field_id": 4634,
+        "name": "Çəki, q"
+      },
+      {
+        "master_field_id": 2552,
+        "category_master_field_id": 10654,
+        "name": "Korpusun qorunması"
+      },
+      {
+        "master_field_id": 697,
+        "category_master_field_id": 10655,
+        "name": "Komplektasiya"
+      },
+      {
+        "master_field_id": 2210,
+        "category_master_field_id": 10649,
+        "name": "Brendin ölkəsi"
+      },
+      {
+        "master_field_id": 618,
+        "category_master_field_id": 4635,
+        "name": "İstehsalçı ölkə"
+      }
+    ],
+    "parent": {
+      "id": 2,
+      "node_type": "NODE",
+      "name": "Telefonlar, Smart cihazlar və telefon aksessuarları",
+      "slugged_name": "telefonlar-ve-aksessuarlar",
+      "parent": {
+        "id": 1,
+        "node_type": "NODE",
+        "name": "Elektronika və məişət texnikası",
+        "slugged_name": "elektronika-ve-meishet-texnikasi",
+        "parent": null
+      }
+    },
+    "is_refundable": true,
+    "is_adult": false,
+    "icons": {
+      "thumbnail": "https://strgimgr.umico.az/img/category/188/7a8b0d8a-c1a8-46f5-a7cd-c7483dbc6bee.jpeg",
+      "original": "https://strgimgr.umico.az/img/category/original/7a8b0d8a-c1a8-46f5-a7cd-c7483dbc6bee.jpeg"
+    },
+    "is_active": true
+  },
+  "offers": [
+    {
+      "uuid": "2d1d4e68-91ac-49b1-aab8-5de35095a3e5",
+      "installment_enabled": true,
+      "max_installment_months": 3,
+      "product_offer_labels": [],
+      "old_price": 29.99,
+      "retail_price": 20.98,
+      "supplier_id": "ccbe09a1-769c-42d6-b7f8-f77ffbbef768",
+      "seller": {
+        "ext_id": "72e071b2-14c6-4b6a-8ee7-1b24fa542b29",
+        "internal_id": 3517,
+        "marketing_name": {
+          "id": 3517,
+          "name": "Trend In"
+        },
+        "logo": {
+          "thumbnail": "https://storage.umico.az/cpcustomerprod01/c1c9a54a5656101fb7f6c333d263bebf.jpg"
+        },
+        "vat_payer": false,
+        "rating": 99,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "allow_qty": 0
+    },
+    {
+      "uuid": "4f644de7-6e62-4a46-b00c-ab1e6d6bf5f5",
+      "installment_enabled": true,
+      "max_installment_months": 3,
+      "product_offer_labels": [],
+      "old_price": 27.99,
+      "retail_price": 20.63,
+      "supplier_id": "08efecf5-1ebd-4308-83d1-90556dd64be9",
+      "seller": {
+        "ext_id": "7f7bb32b-14c6-4485-9dac-1b78a114e140",
+        "internal_id": 2189,
+        "marketing_name": {
+          "id": 2189,
+          "name": "Texno Home"
+        },
+        "logo": {
+          "thumbnail": "https://storage.umico.az/cpcustomerprod01/0d9a9e502354fbf0c8dc605bb52591e9.jpg"
+        },
+        "vat_payer": true,
+        "rating": 98,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "allow_qty": 0
+    }
+  ],
+  "variations": [
+    {
+      "id": 2575308,
+      "name": "Simsiz qulaqlıq No Brand Redmi Buds 6 Play Blue (BHR9283GL)",
+      "slugged_name": "simsiz-qulaqliq-no-brand-redmi-buds-6-play-blue-bhr9283gl",
+      "custom_fields": [
+        {
+          "master_field_id": 625,
+          "values": [
+            "Göy"
+          ]
+        }
+      ],
+      "main_img": {
+        "big": "https://strgimgr.umico.az/img/product/1680/8fb5ca77-541d-4a44-a9a1-6e7847c98538.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/8fb5ca77-541d-4a44-a9a1-6e7847c98538.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/8fb5ca77-541d-4a44-a9a1-6e7847c98538.jpeg"
+      },
+      "status": "active"
+    },
+    {
+      "id": 960859,
+      "name": "Simsiz qulaqlıq Xiaomi Redmi Buds 6 Play Black (BHR8776GL)",
+      "slugged_name": "simsiz-qulaqliq-xiaomi-redmi-buds-6-play-black-bhr8776gl",
+      "custom_fields": [
+        {
+          "master_field_id": 625,
+          "values": [
+            "Qara"
+          ]
+        }
+      ],
+      "main_img": {
+        "big": "https://strgimgr.umico.az/img/product/1680/4e1d8aae-5ba1-435f-9eef-0fa676eb21f3.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/4e1d8aae-5ba1-435f-9eef-0fa676eb21f3.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/4e1d8aae-5ba1-435f-9eef-0fa676eb21f3.jpeg"
+      },
+      "status": "active"
+    },
+    {
+      "id": 1091162,
+      "name": "Simsiz qulaqlıq Xiaomi Redmi Buds 6 Play Pink (BHR8775GL)",
+      "slugged_name": "simsiz-qulaqliqlar-xiaomi-redmi-buds-6-play-pink-bhr8775gl",
+      "custom_fields": [
+        {
+          "master_field_id": 625,
+          "values": [
+            "Çəhrayı"
+          ]
+        }
+      ],
+      "main_img": {
+        "big": "https://strgimgr.umico.az/img/product/1680/cd2dacb3-ccca-4d0f-be54-6d12732a6dad.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/cd2dacb3-ccca-4d0f-be54-6d12732a6dad.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/cd2dacb3-ccca-4d0f-be54-6d12732a6dad.jpeg"
+      },
+      "status": "active"
+    },
+    {
+      "id": 2575229,
+      "name": "Simsiz qulaqlıq No Brand Redmi Buds 6 Play Black (BHR8776GL)",
+      "slugged_name": "simsiz-qulaqliq-no-brand-redmi-buds-6-play-black-bhr8776gl",
+      "custom_fields": [
+        {
+          "master_field_id": 625,
+          "values": [
+            "Qara"
+          ]
+        }
+      ],
+      "main_img": {
+        "big": "https://strgimgr.umico.az/img/product/1680/94735530-c7fb-4938-80d3-484acfad25fe.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/94735530-c7fb-4938-80d3-484acfad25fe.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/94735530-c7fb-4938-80d3-484acfad25fe.jpeg"
+      },
+      "status": "active"
+    },
+    {
+      "id": 960858,
+      "name": "Simsiz qulaqlıq Xiaomi Redmi Buds 6 Play White (BHR8773GL)",
+      "slugged_name": "simsiz-qulaqliq-xiaomi-redmi-buds-6-play-white-bhr8773gl",
+      "custom_fields": [
+        {
+          "master_field_id": 625,
+          "values": [
+            "Ağ"
+          ]
+        }
+      ],
+      "main_img": {
+        "big": "https://strgimgr.umico.az/img/product/1680/36be4c79-b768-41cd-9649-0209b1df9cea.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/36be4c79-b768-41cd-9649-0209b1df9cea.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/36be4c79-b768-41cd-9649-0209b1df9cea.jpeg"
+      },
+      "status": "active"
+    },
+    {
+      "id": 2575303,
+      "name": "Simsiz qulaqlıq No Brand Redmi Buds 6 Play Pink (BHR8775GL)",
+      "slugged_name": "simsiz-qulaqliq-no-brand-redmi-buds-6-play-pink-bhr8775gl",
+      "custom_fields": [
+        {
+          "master_field_id": 625,
+          "values": [
+            "Çəhrayı"
+          ]
+        }
+      ],
+      "main_img": {
+        "big": "https://strgimgr.umico.az/img/product/1680/1f154659-af44-4405-b7f4-8551b51b6023.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/1f154659-af44-4405-b7f4-8551b51b6023.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/1f154659-af44-4405-b7f4-8551b51b6023.jpeg"
+      },
+      "status": "active"
+    },
+    {
+      "id": 1121937,
+      "name": "Simsiz qulaqlıq Xiaomi Redmi Buds 6 Play Blue (BHR9283GL)",
+      "slugged_name": "simsiz-qulaqliq-xiaomi-redmi-buds-6-play-blue-bhr9283gl",
+      "custom_fields": [
+        {
+          "master_field_id": 625,
+          "values": [
+            "Göy"
+          ]
+        }
+      ],
+      "main_img": {
+        "big": "https://strgimgr.umico.az/img/product/1680/a6bfe638-adc8-4a1e-9571-b0ce4cb8a205.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/a6bfe638-adc8-4a1e-9571-b0ce4cb8a205.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/a6bfe638-adc8-4a1e-9571-b0ce4cb8a205.jpeg"
+      },
+      "status": "active"
+    }
+  ],
+  "size_chart": {},
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "sku": 1121937,
+    "mpn": "BHR9283GL",
+    "url": "https://birmarket.az/product/1121937-simsiz-qulaqliq-xiaomi-redmi-buds-6-play-blue-bhr9283gl",
+    "name": "Simsiz qulaqlıq Xiaomi Redmi Buds 6 Play Blue (BHR9283GL)",
+    "image": [
+      "https://strgimgr.umico.az/img/product/1680/a6bfe638-adc8-4a1e-9571-b0ce4cb8a205.jpeg",
+      "https://strgimgr.umico.az/img/product/1680/8fb5ca77-541d-4a44-a9a1-6e7847c98538.jpeg",
+      "https://strgimgr.umico.az/img/product/1680/c2cd986b-f723-4e27-b379-f6dc18d2b727.jpeg",
+      "https://strgimgr.umico.az/img/product/1680/3a44eda9-a3ad-49a5-a6ff-cd243ec30eac.jpeg",
+      "https://strgimgr.umico.az/img/product/1680/f294141c-6c67-4f68-84d9-68e34068824c.jpeg"
+    ],
+    "description": "Simlizes qulaqcıqlar Xiaomi Redmi Buds 6 Play Blue (BHR9283GL) - populyar marka Xiaomi-dən stil və funksional xüsusiyyətləri ilə dolu olan TWS quruluşlu qulaqcıqlar. Onlar stereo səslə, daxili mikrofonla və 16 Ohm impedansla təchiz olunmuşdur. Qulaqcıqlar bağlanmış akustik dizayna malikdir və səs səviyyəsinin aşağı salınmasını təmin edirlər, bu da xarici səs-küylərdən arınmış yüksək keyfiyyətli səs dinləməyə imkan verir. Bluetooth vasitəsilə simsiz qoşulma və 7.5 saat işləmə müddəti sayəsində onlar aktiv həyat tərzi üçün əvəzedilməz aksesuara çevrilir. Dəstdə təlimat və mikrofon da var.",
+    "itemCondition": "https://schema.org/NewCondition",
+    "offers": {
+      "@type": "AggregateOffer",
+      "availability": "https://schema.org/InStock",
+      "offerCount": 2,
+      "highPrice": 20.98,
+      "lowPrice": 20.63,
+      "priceCurrency": "AZN",
+      "hasMerchantReturnPolicy": {
+        "applicableCountry": "AZ",
+        "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+        "returnMethod": "https://schema.org/ReturnInStore",
+        "returnFees": "https://schema.org/FreeReturn",
+        "merchantReturnDays": 14
+      },
+      "shippingDetails": {
+        "@type": "OfferShippingDetails",
+        "shippingDestination": {
+          "@type": "DefinedRegion",
+          "addressCountry": "AZ"
+        },
+        "deliveryTime": {
+          "@type": "ShippingDeliveryTime",
+          "handlingTime": {
+            "@type": "QuantitativeValue",
+            "minValue": 0,
+            "maxValue": 1,
+            "unitCode": "DAY"
+          },
+          "transitTime": {
+            "@type": "QuantitativeValue",
+            "minValue": 0,
+            "maxValue": 1,
+            "unitCode": "DAY"
+          },
+          "businessDays": {
+            "@type": "OpeningHoursSpecification",
+            "dayOfWeek": [
+              "https://schema.org/Monday",
+              "https://schema.org/Tuesday",
+              "https://schema.org/Wednesday",
+              "https://schema.org/Thursday",
+              "https://schema.org/Friday",
+              "https://schema.org/Saturday",
+              "https://schema.org/Sunday"
+            ]
+          }
+        },
+        "shippingRate": {
+          "@type": "MonetaryAmount",
+          "value": 0,
+          "currency": "AZN"
+        }
+      }
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": 4,
+      "reviewCount": 21
+    },
+    "brand": {
+      "@type": "Brand",
+      "name": "Xiaomi",
+      "url": "https://birmarket.az/brands/Xiaomi"
+    }
+  }
+}

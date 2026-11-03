@@ -1,0 +1,503 @@
+{
+  "product": {
+    "id": 3061050,
+    "gtin": "",
+    "mpn": "AT29015-12Fincan-QEHVE-MAKINESI-AK-M20-T5-7689048_15826",
+    "name": "Qəhvəbişirən Aote AT-29015, Damcılı, 2200 Vt, 3 L, Gümüşü, Qara",
+    "slugged_name_az": "qehvebishiren-aote-at-29015-damcili-2200-vt-3-l-gumushu-qara",
+    "slugged_name_ru": "qehvebishiren-aote-at-29015-damcili-2200-vt-3-l-gumushu-qara",
+    "description": "<p>AOTE AT-29015 filtrli qəhvə dəmləyən aparat evdə və ofisdə rahat, sürətli və dadlı qəhvə hazırlamaq üçün nəzərdə tutulmuş funksional mətbəx cihazıdır. Müasir dizaynı, rəqəmsal idarəetmə paneli və geniş tutumlu şüşə qrafinı ilə gündəlik qəhvə hazırlama prosesini daha rahat və zövqlü edir. Aparat filtrli dəmləmə texnologiyası ilə işləyir. İstifadə zamanı su xüsusi su bölməsinə əlavə edilir, üyüdülmüş qəhvə filtr hissəsinə yerləşdirilir və cihaz işə salındıqdan sonra isti su qəhvənin içindən süzülərək şüşə qrafinə tökülür. Bu üsul qəhvənin təbii ətrinin və dadının qorunmasına kömək edir. Nəticədə gündəlik istifadə üçün ləzzətli və aromatik qəhvə hazırlamaq mümkündür. Modelin ən diqqətçəkən xüsusiyyətlərindən biri 12 fincanlıq tutumudur. Geniş qrafin sayəsində eyni anda bir neçə nəfər üçün qəhvə hazırlamaq mümkündür. Bu xüsusiyyət cihazı ailə istifadəsi, qonaqlıqlar və ofis şəraiti üçün xüsusilə əlverişli edir. Qrafin üzərində yerləşən ölçü göstəriciləri içərisindəki qəhvənin miqdarını izləməyə imkan verir. Aparatın üzərində yerləşən rəqəmsal idarəetmə paneli istifadəni daha rahat edir. Ekran vasitəsilə cihazın vaxt göstəricilərini izləmək və mövcud idarəetmə funksiyalarından istifadə etmək mümkündür. Vaxt tənzimləmə funksiyası qəhvə hazırlama prosesini əvvəlcədən planlaşdırmağa kömək edir. Beləliklə, səhər oyanarkən və ya günün müəyyən saatında təzə dəmlənmiş qəhvədən zövq ala bilərsiniz. Cihazın yan hissəsində yerləşən şəffaf su səviyyəsi göstəricisi suyun miqdarını rahat şəkildə nəzarətdə saxlamağa imkan verir. Bu, hər dəfə lazımi miqdarda su əlavə etməyi asanlaşdırır. Şüşə qrafinin rahat tutacağı isə hazırlanmış qəhvəni fincanlara təhlükəsiz və rahat şəkildə süzməyə şərait yaradır. Alt hissədə yerləşən isitmə platforması dəmlənmiş qəhvənin temperaturunu müəyyən müddət qorumağa kömək edir. Bu xüsusiyyət qəhvənin hazırlandıqdan sonra dərhal içilmədiyi hallarda xüsusilə faydalıdır.</p>",
+    "description_outlet": "",
+    "status": "active",
+    "uuid": "cbec2d47-59d6-4933-a7c1-a5d2d86f1c08",
+    "variant_code": "VC_3061050",
+    "default_offer": {
+      "uuid": "b9fdefc0-87fc-4759-8c3f-5cde9c49a754",
+      "installment_enabled": true,
+      "max_installment_months": 12,
+      "product_offer_labels": [],
+      "old_price": 249,
+      "retail_price": 127.99,
+      "supplier_id": "7fc17ab7-0c61-41c8-b2c1-a6d0f8a7030e",
+      "qty": 0,
+      "seller": {
+        "ext_id": "7fc17ab7-0c61-41c8-b2c1-a6d0f8a7030e",
+        "marketing_name": {
+          "id": 15318,
+          "name": "RSelectronics"
+        },
+        "logo": {
+          "thumbnail": ""
+        },
+        "vat_payer": false,
+        "rating": 100,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "discount_effective_start_date": "",
+      "discount_effective_end_date": ""
+    },
+    "category_id": 143,
+    "category": {
+      "id": 143,
+      "name": "Qəhvəbişirənlər və qəhvə maşınları"
+    },
+    "brand": {
+      "name": "Aote"
+    },
+    "custom_fields": [
+      {
+        "master_field_id": 973,
+        "values": [
+          "Damcılı"
+        ]
+      },
+      {
+        "master_field_id": 798,
+        "values": [
+          "2200"
+        ]
+      },
+      {
+        "master_field_id": 908,
+        "values": [
+          "3"
+        ]
+      },
+      {
+        "master_field_id": 817,
+        "values": [
+          "Gümüşü",
+          "Qara"
+        ]
+      },
+      {
+        "master_field_id": 974,
+        "values": [
+          "Üyüdülmüş"
+        ]
+      },
+      {
+        "master_field_id": 2211,
+        "values": [
+          "6 ay"
+        ]
+      },
+      {
+        "master_field_id": 4478,
+        "values": [
+          "Avtomatik"
+        ]
+      }
+    ],
+    "main_img": {
+      "big": "https://strgimgr.umico.az/img/product/1680/898425a5-c8f0-4692-8555-b094c9698dbb.jpeg",
+      "medium": "https://strgimgr.umico.az/img/product/840/898425a5-c8f0-4692-8555-b094c9698dbb.jpeg",
+      "small": "https://strgimgr.umico.az/img/product/280/898425a5-c8f0-4692-8555-b094c9698dbb.jpeg"
+    },
+    "img_url_thumbnail": "https://strgimgr.umico.az/img/product/280/898425a5-c8f0-4692-8555-b094c9698dbb.jpeg",
+    "main_video": "",
+    "imgs": [
+      {
+        "big": "https://strgimgr.umico.az/img/product/1680/898425a5-c8f0-4692-8555-b094c9698dbb.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/898425a5-c8f0-4692-8555-b094c9698dbb.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/898425a5-c8f0-4692-8555-b094c9698dbb.jpeg"
+      }
+    ],
+    "videos": [],
+    "min_qty": 1,
+    "preorder_available": false,
+    "is_assortment": false,
+    "is_bulk_heavy": false,
+    "is_refurbished": false,
+    "is_refundable": true,
+    "is_dangerous": false,
+    "show_tech_description": false,
+    "use_external_content": true,
+    "product_labels": [
+      {
+        "color": "40C4FF",
+        "id": 43268250,
+        "image_url": "",
+        "label_id": 1,
+        "name": "Новинка",
+        "position": 1,
+        "rule_type": "parameters",
+        "show_in_see_also_products": false,
+        "text": "Yenilik"
+      }
+    ],
+    "ratings": {
+      "rating_value": 0,
+      "assessment_id": 0,
+      "session_count": 0
+    },
+    "default_show_stock_qty_threshold": 0,
+    "card_type": "public"
+  },
+  "category": {
+    "id": 143,
+    "name": "Qəhvəbişirənlər və qəhvə maşınları",
+    "slugged_name_az": "qehvedanlar-qehve-mashinlari",
+    "slugged_name_ru": "kofevarki-kofemashiny",
+    "view_mode": "products",
+    "mobile_visual_mode": "text",
+    "is_variant": true,
+    "depth": 3,
+    "parent_id": 139,
+    "child_ids": [],
+    "node_type": "NODE",
+    "install_service_needed": false,
+    "fitting_allowed": false,
+    "vat": true,
+    "variations": [
+      {
+        "master_field_id": 817,
+        "name": "Korpusun rəngi",
+        "variation_tool_type": "default",
+        "has_size_chart": false,
+        "display_variant": false
+      }
+    ],
+    "custom_fields": [
+      {
+        "master_field_id": 973,
+        "category_master_field_id": 2227,
+        "name": "Qəhvəbişiricinin növü"
+      },
+      {
+        "master_field_id": 908,
+        "category_master_field_id": 2229,
+        "name": "Həcm, L"
+      },
+      {
+        "master_field_id": 4478,
+        "category_master_field_id": 45468,
+        "name": "Süd köpürdücü"
+      },
+      {
+        "master_field_id": 974,
+        "category_master_field_id": 2228,
+        "name": "İstifadə edilən qəhvə növü"
+      },
+      {
+        "master_field_id": 798,
+        "category_master_field_id": 5135,
+        "name": "Güc, Vt"
+      },
+      {
+        "master_field_id": 817,
+        "category_master_field_id": 9224,
+        "name": "Korpusun rəngi"
+      },
+      {
+        "master_field_id": 2211,
+        "category_master_field_id": 9241,
+        "name": "Zəmanət müddəti"
+      },
+      {
+        "master_field_id": 875,
+        "category_master_field_id": 5139,
+        "name": "İdarəetmə növü"
+      },
+      {
+        "master_field_id": 635,
+        "category_master_field_id": 2226,
+        "name": "Təyinatı"
+      },
+      {
+        "master_field_id": 976,
+        "category_master_field_id": 2231,
+        "name": "Pompanın təzyiqi, bar"
+      },
+      {
+        "master_field_id": 977,
+        "category_master_field_id": 2232,
+        "name": "İki fıncanın eyni vaxtda hazırlanması"
+      },
+      {
+        "master_field_id": 2219,
+        "category_master_field_id": 9221,
+        "name": "Porsiyalar sayı"
+      },
+      {
+        "master_field_id": 2220,
+        "category_master_field_id": 9222,
+        "name": "Qəhvə bölməsi, q"
+      },
+      {
+        "master_field_id": 2221,
+        "category_master_field_id": 9223,
+        "name": "Tullantı bölməsi (porsiyalar)"
+      },
+      {
+        "master_field_id": 2222,
+        "category_master_field_id": 9225,
+        "name": "Filtr növü"
+      },
+      {
+        "master_field_id": 2223,
+        "category_master_field_id": 9226,
+        "name": "Qızdırıcının növü"
+      },
+      {
+        "master_field_id": 2070,
+        "category_master_field_id": 9227,
+        "name": "Əlavə xüsusiyyətlər"
+      },
+      {
+        "master_field_id": 941,
+        "category_master_field_id": 9228,
+        "name": "Taymer"
+      },
+      {
+        "master_field_id": 1914,
+        "category_master_field_id": 9229,
+        "name": "Göstərici"
+      },
+      {
+        "master_field_id": 2224,
+        "category_master_field_id": 9230,
+        "name": "Hazır reseptlər"
+      },
+      {
+        "master_field_id": 708,
+        "category_master_field_id": 5137,
+        "name": "Korpusun materialı"
+      },
+      {
+        "master_field_id": 2225,
+        "category_master_field_id": 9231,
+        "name": "Borunun material"
+      },
+      {
+        "master_field_id": 2226,
+        "category_master_field_id": 9232,
+        "name": "Avtomatik təmizlənmə"
+      },
+      {
+        "master_field_id": 2802,
+        "category_master_field_id": 13800,
+        "name": "Avtomatik söndürülmə"
+      },
+      {
+        "master_field_id": 1044,
+        "category_master_field_id": 9234,
+        "name": "Damlama əleyhinə sistem"
+      },
+      {
+        "master_field_id": 975,
+        "category_master_field_id": 2230,
+        "name": "Quraşdırılan texnika"
+      },
+      {
+        "master_field_id": 1205,
+        "category_master_field_id": 9235,
+        "name": "Hündürlüyü, sm"
+      },
+      {
+        "master_field_id": 1206,
+        "category_master_field_id": 9236,
+        "name": "Eni, sm"
+      },
+      {
+        "master_field_id": 1448,
+        "category_master_field_id": 9237,
+        "name": "Dərinliyi, sm"
+      },
+      {
+        "master_field_id": 656,
+        "category_master_field_id": 9238,
+        "name": "Çəki, kq"
+      },
+      {
+        "master_field_id": 618,
+        "category_master_field_id": 5136,
+        "name": "İstehsalçı ölkə"
+      },
+      {
+        "master_field_id": 2210,
+        "category_master_field_id": 9239,
+        "name": "Brendin ölkəsi"
+      },
+      {
+        "master_field_id": 697,
+        "category_master_field_id": 9240,
+        "name": "Komplektasiya"
+      }
+    ],
+    "parent": {
+      "id": 139,
+      "node_type": "NODE",
+      "name": "Mətbəx üçün kiçik məişət texnikası",
+      "slugged_name": "metbex-uchun-kichik-meishet-texnikasi",
+      "parent": {
+        "id": 106,
+        "node_type": "NODE",
+        "name": "Məişət texnikası",
+        "slugged_name": "meishet-texnikasi",
+        "parent": {
+          "id": 1,
+          "node_type": "NODE",
+          "name": "Elektronika və məişət texnikası",
+          "slugged_name": "elektronika-ve-meishet-texnikasi",
+          "parent": null
+        }
+      }
+    },
+    "is_refundable": true,
+    "is_adult": false,
+    "icons": {
+      "thumbnail": "https://strgimgr.umico.az/img/category/188/1ee8150e-cd76-4de2-a3e4-7b86b0ce7740.jpeg",
+      "original": "https://strgimgr.umico.az/img/category/original/1ee8150e-cd76-4de2-a3e4-7b86b0ce7740.jpeg"
+    },
+    "is_active": true
+  },
+  "offers": [
+    {
+      "uuid": "b9fdefc0-87fc-4759-8c3f-5cde9c49a754",
+      "installment_enabled": true,
+      "max_installment_months": 12,
+      "product_offer_labels": [],
+      "old_price": 249,
+      "retail_price": 127.99,
+      "supplier_id": "7fc17ab7-0c61-41c8-b2c1-a6d0f8a7030e",
+      "seller": {
+        "ext_id": "00061d82-8bcd-478c-b8d7-25f40235c039",
+        "internal_id": 15318,
+        "marketing_name": {
+          "id": 15318,
+          "name": "RSelectronics"
+        },
+        "logo": {
+          "thumbnail": ""
+        },
+        "vat_payer": false,
+        "rating": 100,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "allow_qty": 0
+    },
+    {
+      "uuid": "abdd7deb-5d71-40b3-9d08-5008a0ac0e22",
+      "installment_enabled": true,
+      "max_installment_months": 18,
+      "product_offer_labels": [],
+      "old_price": 249,
+      "retail_price": 128,
+      "supplier_id": "bb588a29-51f3-4c12-bf89-cef50ca62d5c",
+      "seller": {
+        "ext_id": "729fb0bf-e399-4170-957b-934b74497b9d",
+        "internal_id": 15090,
+        "marketing_name": {
+          "id": 15090,
+          "name": "Computer City"
+        },
+        "logo": {
+          "thumbnail": ""
+        },
+        "vat_payer": false,
+        "rating": 75,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "allow_qty": 0
+    }
+  ],
+  "variations": [
+    {
+      "id": 3061050,
+      "name": "Qəhvəbişirən Aote AT-29015, Damcılı, 2200 Vt, 3 L, Gümüşü, Qara",
+      "slugged_name": "qehvebishiren-aote-at-29015-damcili-2200-vt-3-l-gumushu-qara",
+      "custom_fields": [
+        {
+          "master_field_id": 817,
+          "values": [
+            "Gümüşü",
+            "Qara"
+          ]
+        }
+      ],
+      "main_img": {
+        "big": "https://strgimgr.umico.az/img/product/1680/898425a5-c8f0-4692-8555-b094c9698dbb.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/898425a5-c8f0-4692-8555-b094c9698dbb.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/898425a5-c8f0-4692-8555-b094c9698dbb.jpeg"
+      },
+      "status": "active"
+    }
+  ],
+  "size_chart": {},
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "sku": 3061050,
+    "mpn": "AT29015-12Fincan-QEHVE-MAKINESI-AK-M20-T5-7689048_15826",
+    "url": "https://birmarket.az/product/3061050-qehvebishiren-aote-at-29015-damcili-2200-vt-3-l-gumushu-qara",
+    "name": "Qəhvəbişirən Aote AT-29015, Damcılı, 2200 Vt, 3 L, Gümüşü, Qara",
+    "image": [
+      "https://strgimgr.umico.az/img/product/1680/898425a5-c8f0-4692-8555-b094c9698dbb.jpeg"
+    ],
+    "description": "&lt;p&gt;AOTE AT-29015 filtrli qəhvə dəmləyən aparat evdə və ofisdə rahat, sürətli və dadlı qəhvə hazırlamaq üçün nəzərdə tutulmuş funksional mətbəx cihazıdır. Müasir dizaynı, rəqəmsal idarəetmə paneli və geniş tutumlu şüşə qrafinı ilə gündəlik qəhvə hazırlama prosesini daha rahat və zövqlü edir. Aparat filtrli dəmləmə texnologiyası ilə işləyir. İstifadə zamanı su xüsusi su bölməsinə əlavə edilir, üyüdülmüş qəhvə filtr hissəsinə yerləşdirilir və cihaz işə salındıqdan sonra isti su qəhvənin içindən süzülərək şüşə qrafinə tökülür. Bu üsul qəhvənin təbii ətrinin və dadının qorunmasına kömək edir. Nəticədə gündəlik istifadə üçün ləzzətli və aromatik qəhvə hazırlamaq mümkündür. Modelin ən diqqətçəkən xüsusiyyətlərindən biri 12 fincanlıq tutumudur. Geniş qrafin sayəsində eyni anda bir neçə nəfər üçün qəhvə hazırlamaq mümkündür. Bu xüsusiyyət cihazı ailə istifadəsi, qonaqlıqlar və ofis şəraiti üçün xüsusilə əlverişli edir. Qrafin üzərində yerləşən ölçü göstəriciləri içərisindəki qəhvənin miqdarını izləməyə imkan verir. Aparatın üzərində yerləşən rəqəmsal idarəetmə paneli istifadəni daha rahat edir. Ekran vasitəsilə cihazın vaxt göstəricilərini izləmək və mövcud idarəetmə funksiyalarından istifadə etmək mümkündür. Vaxt tənzimləmə funksiyası qəhvə hazırlama prosesini əvvəlcədən planlaşdırmağa kömək edir. Beləliklə, səhər oyanarkən və ya günün müəyyən saatında təzə dəmlənmiş qəhvədən zövq ala bilərsiniz. Cihazın yan hissəsində yerləşən şəffaf su səviyyəsi göstəricisi suyun miqdarını rahat şəkildə nəzarətdə saxlamağa imkan verir. Bu, hər dəfə lazımi miqdarda su əlavə etməyi asanlaşdırır. Şüşə qrafinin rahat tutacağı isə hazırlanmış qəhvəni fincanlara təhlükəsiz və rahat şəkildə süzməyə şərait yaradır. Alt hissədə yerləşən isitmə platforması dəmlənmiş qəhvənin temperaturunu müəyyən müddət qorumağa kömək edir. Bu xüsusiyyət qəhvənin hazırlandıqdan sonra dərhal içilmədiyi hallarda xüsusilə faydalıdır.&lt;/p&gt;",
+    "itemCondition": "https://schema.org/NewCondition",
+    "offers": {
+      "@type": "AggregateOffer",
+      "availability": "https://schema.org/InStock",
+      "offerCount": 2,
+      "highPrice": 128,
+      "lowPrice": 127.99,
+      "priceCurrency": "AZN",
+      "hasMerchantReturnPolicy": {
+        "applicableCountry": "AZ",
+        "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+        "returnMethod": "https://schema.org/ReturnInStore",
+        "returnFees": "https://schema.org/FreeReturn",
+        "merchantReturnDays": 14
+      },
+      "shippingDetails": {
+        "@type": "OfferShippingDetails",
+        "shippingDestination": {
+          "@type": "DefinedRegion",
+          "addressCountry": "AZ"
+        },
+        "deliveryTime": {
+          "@type": "ShippingDeliveryTime",
+          "handlingTime": {
+            "@type": "QuantitativeValue",
+            "minValue": 0,
+            "maxValue": 1,
+            "unitCode": "DAY"
+          },
+          "transitTime": {
+            "@type": "QuantitativeValue",
+            "minValue": 0,
+            "maxValue": 1,
+            "unitCode": "DAY"
+          },
+          "businessDays": {
+            "@type": "OpeningHoursSpecification",
+            "dayOfWeek": [
+              "https://schema.org/Monday",
+              "https://schema.org/Tuesday",
+              "https://schema.org/Wednesday",
+              "https://schema.org/Thursday",
+              "https://schema.org/Friday",
+              "https://schema.org/Saturday",
+              "https://schema.org/Sunday"
+            ]
+          }
+        },
+        "shippingRate": {
+          "@type": "MonetaryAmount",
+          "value": 0,
+          "currency": "AZN"
+        }
+      }
+    },
+    "brand": {
+      "@type": "Brand",
+      "name": "Aote",
+      "url": "https://birmarket.az/brands/Aote"
+    }
+  }
+}

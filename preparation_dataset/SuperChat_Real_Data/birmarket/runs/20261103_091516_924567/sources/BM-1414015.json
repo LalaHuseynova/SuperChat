@@ -1,0 +1,1084 @@
+{
+  "product": {
+    "id": 1414015,
+    "gtin": "195950645637",
+    "mpn": "MEH34RK/A",
+    "name": "Ağıllı saat Apple Watch SE 3 GPS 40mm Starlight with Starlight Sport Band - S/M (Rəsmi zəmanət)",
+    "slugged_name_az": "agilli-saat-apple-watch-se-3-gps-40mm-starlight-with-starlight-sport-band-s-m-resmi-zemanet",
+    "slugged_name_ru": "umnye-chasy-apple-watch-se-3-gps-40mm-starlight-with-starlight-sport-band-s-m-ofitsialnaya-garantiya",
+    "description": "Ağıllı saat Apple Watch SE 3 GPS 40mm Starlight with Starlight Sport Band - S/M, fəal həyat tərzini sevənlər üçün dəbli və funksional bir aksessuardır. Bu ağıllı saatlar bir çox faydalı funksiyalara malikdir, fitnes-trekeri, saat, təqvim, kalkulyator, saniyəölçən, yuxu monitorinqi, SOS təcili çağırışı, stress səviyyəsinin monitorinqi, Suri adlı səs köməkçisi də daxil olmaqla. Onlar rəngli OLED ekrana, rəngli fluorlastomer materialdan olan çıxarılıb taxıla bilən bağlamaya, vibrasiya siqnalına malikdir, həmçinin uzaqdan musiqi idarəsi imkanı təklif edir. Apple Watch SE 3 iOS ilə uyğunluq təşkil edir, nəm və tozdan qorunur, simsiz enerji ilə təchiz edilib, sensor ekranı, Bluetooth və Wi-Fi interfeysləri var. Onlar üslub, rahatlıq və qabaqcıl texnologiyaların ideal birləşməsini təqdim edir və fəal böyüklər üçün uyğundur. Dəstəyə ağıllı saatlar və təlimat daxildir. Zəmanətli istifadə müddəti - 12 aydır. Ağıllı saatların çəkisi 26.3 qramdır, ekran ölçüsü - 1.57 düym, batareya tutumu - 245 mAh-dır. Korpus alüminiumdan hazırlanmışdır, davamlılığı və yüngüllüyü təmin edir. Zənglər, naviqasiya və məlumatların ötürülməsi GPS, GLONASS, Galileo, QZSS, Beidou vasitəsilə dəstəklənir.",
+    "description_outlet": "",
+    "status": "active",
+    "uuid": "f4895bbe-f64e-47ac-a600-ee328dc564d5",
+    "variant_code": "Apple Watch SE 3",
+    "default_offer": {
+      "uuid": "33244248-0363-472b-b5c6-8af694e1d1c6",
+      "installment_enabled": true,
+      "max_installment_months": 3,
+      "product_offer_labels": [],
+      "old_price": 759,
+      "retail_price": 519,
+      "supplier_id": "2166e74a-d844-4c8d-a80f-423f95079a17",
+      "qty": 0,
+      "seller": {
+        "ext_id": "2166e74a-d844-4c8d-a80f-423f95079a17",
+        "marketing_name": {
+          "id": 7908,
+          "name": "Birmarket.az"
+        },
+        "logo": {
+          "thumbnail": "https://storage.umico.az/cpcustomerprod01/32e1599b42555bf3dbae2eba71ef461d.png"
+        },
+        "vat_payer": true,
+        "rating": 99,
+        "role_name": "FBU"
+      },
+      "comment": "",
+      "discount_effective_start_date": "",
+      "discount_effective_end_date": ""
+    },
+    "category_id": 4,
+    "category": {
+      "id": 4,
+      "name": "Ağıllı saatlar və fitnes qolbaqları"
+    },
+    "brand": {
+      "name": "Apple"
+    },
+    "custom_fields": [
+      {
+        "master_field_id": 620,
+        "values": [
+          "Ağıllı saat"
+        ]
+      },
+      {
+        "master_field_id": 1476,
+        "values": [
+          "Apple Watch SE 3"
+        ]
+      },
+      {
+        "master_field_id": 625,
+        "values": [
+          "Bej"
+        ]
+      },
+      {
+        "master_field_id": 621,
+        "values": [
+          "iOS"
+        ]
+      },
+      {
+        "master_field_id": 623,
+        "values": [
+          "Addımölçən",
+          "Çıxarılan kəmər",
+          "Toza və nəmə davamlı korpus",
+          "Maqnitometr (kompas)",
+          "İşıqlandırma göstəricisi",
+          "Akselerometr",
+          "Termometr",
+          "Nəbzölçən"
+        ]
+      },
+      {
+        "master_field_id": 761,
+        "values": [
+          "Hər kəs üçün"
+        ]
+      },
+      {
+        "master_field_id": 1325,
+        "values": [
+          "Böyüklər üçün"
+        ]
+      },
+      {
+        "master_field_id": 1826,
+        "values": [
+          "Xeyr"
+        ]
+      },
+      {
+        "master_field_id": 616,
+        "values": [
+          "Watch OS"
+        ]
+      },
+      {
+        "master_field_id": 622,
+        "values": [
+          "Bluetooth",
+          "Wi-Fi"
+        ]
+      },
+      {
+        "master_field_id": 806,
+        "values": [
+          "Fitnes-treker",
+          "Zəngli saat",
+          "Təqvim",
+          "Kalkulyator",
+          "Saniyəölçən",
+          "Yuxu monitorinqi",
+          "Təcili zəng SOS",
+          "Stress səviyyəsinin monitorinqi",
+          "Səsli köməkçi Siri"
+        ]
+      },
+      {
+        "master_field_id": 634,
+        "values": [
+          "Rəngli"
+        ]
+      },
+      {
+        "master_field_id": 1739,
+        "values": [
+          "Bəli"
+        ]
+      },
+      {
+        "master_field_id": 1827,
+        "values": [
+          "OLED"
+        ]
+      },
+      {
+        "master_field_id": 1828,
+        "values": [
+          "1.57"
+        ]
+      },
+      {
+        "master_field_id": 1829,
+        "values": [
+          "Düzbucaq"
+        ]
+      },
+      {
+        "master_field_id": 708,
+        "values": [
+          "Alüminium"
+        ]
+      },
+      {
+        "master_field_id": 2552,
+        "values": [
+          "Nəmə davamlı",
+          "Toza davamlı"
+        ]
+      },
+      {
+        "master_field_id": 1830,
+        "values": [
+          "Bəli"
+        ]
+      },
+      {
+        "master_field_id": 624,
+        "values": [
+          "Ftorelastomer"
+        ]
+      },
+      {
+        "master_field_id": 1824,
+        "values": [
+          "Musiqi"
+        ]
+      },
+      {
+        "master_field_id": 1832,
+        "values": [
+          "Zənglər haqqında məlumatlandırma",
+          "SMS haqqında məlumatlandırma",
+          "Pleyerin idarə olunması"
+        ]
+      },
+      {
+        "master_field_id": 1833,
+        "values": [
+          "Bəli"
+        ]
+      },
+      {
+        "master_field_id": 1752,
+        "values": [
+          "Xeyr"
+        ]
+      },
+      {
+        "master_field_id": 1834,
+        "values": [
+          "Bəli"
+        ]
+      },
+      {
+        "master_field_id": 1835,
+        "values": [
+          "GPS",
+          "GLONASS",
+          "Galileo",
+          "QZSS",
+          "Beidou"
+        ]
+      },
+      {
+        "master_field_id": 1836,
+        "values": [
+          "Simsiz enerji toplama"
+        ]
+      },
+      {
+        "master_field_id": 826,
+        "values": [
+          "245"
+        ]
+      },
+      {
+        "master_field_id": 721,
+        "values": [
+          "Li-Ion"
+        ]
+      },
+      {
+        "master_field_id": 870,
+        "values": [
+          "26.3"
+        ]
+      },
+      {
+        "master_field_id": 697,
+        "values": [
+          "Təlimat",
+          "Ağıllı saat"
+        ]
+      },
+      {
+        "master_field_id": 2635,
+        "values": [
+          "2025"
+        ]
+      },
+      {
+        "master_field_id": 2211,
+        "values": [
+          "12 ay"
+        ]
+      },
+      {
+        "master_field_id": 2210,
+        "values": [
+          "ABŞ"
+        ]
+      }
+    ],
+    "main_img": {
+      "big": "https://strgimgr.umico.az/img/product/1680/c0ffd574-a063-48b6-94b1-e277a48a62ca.jpeg",
+      "medium": "https://strgimgr.umico.az/img/product/840/c0ffd574-a063-48b6-94b1-e277a48a62ca.jpeg",
+      "small": "https://strgimgr.umico.az/img/product/280/c0ffd574-a063-48b6-94b1-e277a48a62ca.jpeg"
+    },
+    "img_url_thumbnail": "https://strgimgr.umico.az/img/product/280/c0ffd574-a063-48b6-94b1-e277a48a62ca.jpeg",
+    "main_video": "",
+    "imgs": [
+      {
+        "big": "https://strgimgr.umico.az/img/product/1680/c0ffd574-a063-48b6-94b1-e277a48a62ca.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/c0ffd574-a063-48b6-94b1-e277a48a62ca.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/c0ffd574-a063-48b6-94b1-e277a48a62ca.jpeg"
+      },
+      {
+        "big": "https://strgimgr.umico.az/img/product/1680/fa92884e-3d22-4bfe-a440-07ef1d40a6d5.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/fa92884e-3d22-4bfe-a440-07ef1d40a6d5.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/fa92884e-3d22-4bfe-a440-07ef1d40a6d5.jpeg"
+      },
+      {
+        "big": "https://strgimgr.umico.az/img/product/1680/16be1074-3d57-44df-82b7-b8e38d2474e3.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/16be1074-3d57-44df-82b7-b8e38d2474e3.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/16be1074-3d57-44df-82b7-b8e38d2474e3.jpeg"
+      },
+      {
+        "big": "https://strgimgr.umico.az/img/product/1680/1049097c-873c-4793-93af-fab7fbf920ac.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/1049097c-873c-4793-93af-fab7fbf920ac.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/1049097c-873c-4793-93af-fab7fbf920ac.jpeg"
+      },
+      {
+        "big": "https://strgimgr.umico.az/img/product/1680/45702897-232c-4cbd-8f5c-5ede0cccb5d9.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/45702897-232c-4cbd-8f5c-5ede0cccb5d9.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/45702897-232c-4cbd-8f5c-5ede0cccb5d9.jpeg"
+      },
+      {
+        "big": "https://strgimgr.umico.az/img/product/1680/9e43d21f-b3e5-4085-9ca0-cfd485bb58f3.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/9e43d21f-b3e5-4085-9ca0-cfd485bb58f3.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/9e43d21f-b3e5-4085-9ca0-cfd485bb58f3.jpeg"
+      },
+      {
+        "big": "https://strgimgr.umico.az/img/product/1680/2bcd8389-fd82-4c1f-9ab9-06f4ded5af47.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/2bcd8389-fd82-4c1f-9ab9-06f4ded5af47.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/2bcd8389-fd82-4c1f-9ab9-06f4ded5af47.jpeg"
+      },
+      {
+        "big": "https://strgimgr.umico.az/img/product/1680/17704313-14c0-4329-bfee-4028261edf4c.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/17704313-14c0-4329-bfee-4028261edf4c.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/17704313-14c0-4329-bfee-4028261edf4c.jpeg"
+      },
+      {
+        "big": "https://strgimgr.umico.az/img/product/1680/5b1d5994-e2cb-45c1-8e28-1fa05d6b9543.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/5b1d5994-e2cb-45c1-8e28-1fa05d6b9543.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/5b1d5994-e2cb-45c1-8e28-1fa05d6b9543.jpeg"
+      }
+    ],
+    "videos": [
+      ""
+    ],
+    "min_qty": 1,
+    "preorder_available": false,
+    "is_assortment": false,
+    "is_bulk_heavy": false,
+    "is_refurbished": false,
+    "is_refundable": true,
+    "is_dangerous": false,
+    "show_tech_description": false,
+    "use_external_content": false,
+    "product_labels": [
+      {
+        "color": "",
+        "id": 41761673,
+        "image_url": "https://strgimgr.umico.az/dcmimages/Images/garantiya_apple_az.png",
+        "label_id": 14,
+        "name": "garantiya_apple",
+        "position": 1,
+        "rule_type": "photo",
+        "show_in_see_also_products": false,
+        "text": ""
+      }
+    ],
+    "ratings": {
+      "rating_value": 5,
+      "assessment_id": 0,
+      "session_count": 23,
+      "score_count": 18,
+      "review_count": 5
+    },
+    "default_show_stock_qty_threshold": 0,
+    "card_type": "private"
+  },
+  "category": {
+    "id": 4,
+    "name": "Ağıllı saatlar və fitnes qolbaqları",
+    "slugged_name_az": "agilli-saatlar-ve-fitnes-qolbaqlari",
+    "slugged_name_ru": "umnye-chasy-i-fitnes-braslety",
+    "view_mode": "products",
+    "mobile_visual_mode": "text",
+    "is_variant": false,
+    "depth": 2,
+    "parent_id": 2,
+    "child_ids": [],
+    "node_type": "NODE",
+    "install_service_needed": false,
+    "fitting_allowed": false,
+    "vat": true,
+    "variations": [
+      {
+        "master_field_id": 625,
+        "name": "Rəng",
+        "variation_tool_type": "image",
+        "has_size_chart": false,
+        "display_variant": false
+      },
+      {
+        "master_field_id": 1828,
+        "name": "Korpusun ölçüsü, mm",
+        "variation_tool_type": "button",
+        "has_size_chart": false,
+        "display_variant": false
+      },
+      {
+        "master_field_id": 1476,
+        "name": "Seriya",
+        "variation_tool_type": "button",
+        "has_size_chart": false,
+        "display_variant": false
+      }
+    ],
+    "custom_fields": [
+      {
+        "master_field_id": 1476,
+        "category_master_field_id": 10643,
+        "name": "Seriya"
+      },
+      {
+        "master_field_id": 620,
+        "category_master_field_id": 1445,
+        "name": "Tip"
+      },
+      {
+        "master_field_id": 621,
+        "category_master_field_id": 1446,
+        "name": "Uyğunluğu"
+      },
+      {
+        "master_field_id": 1828,
+        "category_master_field_id": 5545,
+        "name": "Korpusun ölçüsü, mm"
+      },
+      {
+        "master_field_id": 1827,
+        "category_master_field_id": 5544,
+        "name": "Ağıllı saatın ekranı"
+      },
+      {
+        "master_field_id": 1826,
+        "category_master_field_id": 5541,
+        "name": "SIM kartı"
+      },
+      {
+        "master_field_id": 826,
+        "category_master_field_id": 4623,
+        "name": "Akkumulyatorun həcmi, mA/saat"
+      },
+      {
+        "master_field_id": 2186,
+        "category_master_field_id": 45755,
+        "name": "Nəmə davamlı"
+      },
+      {
+        "master_field_id": 708,
+        "category_master_field_id": 4624,
+        "name": "Korpusun materialı"
+      },
+      {
+        "master_field_id": 625,
+        "category_master_field_id": 1451,
+        "name": "Rəng"
+      },
+      {
+        "master_field_id": 2211,
+        "category_master_field_id": 10648,
+        "name": "Zəmanət müddəti"
+      },
+      {
+        "master_field_id": 806,
+        "category_master_field_id": 15464,
+        "name": "Funksiyalar"
+      },
+      {
+        "master_field_id": 616,
+        "category_master_field_id": 1447,
+        "name": "Əməliyyat sistemi"
+      },
+      {
+        "master_field_id": 624,
+        "category_master_field_id": 1450,
+        "name": "Qayışın materialı"
+      },
+      {
+        "master_field_id": 1825,
+        "category_master_field_id": 5540,
+        "name": "Operativ yaddaş"
+      },
+      {
+        "master_field_id": 623,
+        "category_master_field_id": 1449,
+        "name": "Xüsusiyyətlər"
+      },
+      {
+        "master_field_id": 634,
+        "category_master_field_id": 5542,
+        "name": "Ekranın növü"
+      },
+      {
+        "master_field_id": 1739,
+        "category_master_field_id": 5543,
+        "name": "Sensor ekran"
+      },
+      {
+        "master_field_id": 1833,
+        "category_master_field_id": 5550,
+        "name": "Zənglər"
+      },
+      {
+        "master_field_id": 1752,
+        "category_master_field_id": 5551,
+        "name": "Kamera"
+      },
+      {
+        "master_field_id": 622,
+        "category_master_field_id": 1448,
+        "name": "İnterfeyslər"
+      },
+      {
+        "master_field_id": 1829,
+        "category_master_field_id": 5546,
+        "name": "Korpusun forması"
+      },
+      {
+        "master_field_id": 2552,
+        "category_master_field_id": 10645,
+        "name": "Korpusun qorunması"
+      },
+      {
+        "master_field_id": 1830,
+        "category_master_field_id": 5547,
+        "name": "Çıxarılan kəmər"
+      },
+      {
+        "master_field_id": 1831,
+        "category_master_field_id": 5548,
+        "name": "Multimedia"
+      },
+      {
+        "master_field_id": 1824,
+        "category_master_field_id": 5539,
+        "name": "Uzaqdan idarəetmə"
+      },
+      {
+        "master_field_id": 1832,
+        "category_master_field_id": 5549,
+        "name": "Smartfonlarla qarşılıqlı əlaqə"
+      },
+      {
+        "master_field_id": 1834,
+        "category_master_field_id": 5552,
+        "name": "Vibrasiya"
+      },
+      {
+        "master_field_id": 1835,
+        "category_master_field_id": 5553,
+        "name": "Naviqasiya, məlumatların ötürülməsi"
+      },
+      {
+        "master_field_id": 1836,
+        "category_master_field_id": 5554,
+        "name": "Enerji toplamanın xüsusiyyətləri"
+      },
+      {
+        "master_field_id": 721,
+        "category_master_field_id": 5555,
+        "name": "Akkumulyatorun növü"
+      },
+      {
+        "master_field_id": 761,
+        "category_master_field_id": 5537,
+        "name": "Cins"
+      },
+      {
+        "master_field_id": 1325,
+        "category_master_field_id": 4354,
+        "name": "Yaş qrupu"
+      },
+      {
+        "master_field_id": 870,
+        "category_master_field_id": 4626,
+        "name": "Çəki, q"
+      },
+      {
+        "master_field_id": 697,
+        "category_master_field_id": 10647,
+        "name": "Komplektasiya"
+      },
+      {
+        "master_field_id": 2635,
+        "category_master_field_id": 37277,
+        "name": "Bazarın başlanğıc ili"
+      },
+      {
+        "master_field_id": 2210,
+        "category_master_field_id": 10641,
+        "name": "Brendin ölkəsi"
+      },
+      {
+        "master_field_id": 618,
+        "category_master_field_id": 1444,
+        "name": "İstehsalçı ölkə"
+      },
+      {
+        "master_field_id": 6541,
+        "category_master_field_id": 44303,
+        "name": "İstehsalçı rəngi"
+      },
+      {
+        "master_field_id": 6334,
+        "category_master_field_id": 45122,
+        "name": "Vəziyyət"
+      }
+    ],
+    "parent": {
+      "id": 2,
+      "node_type": "NODE",
+      "name": "Telefonlar, Smart cihazlar və telefon aksessuarları",
+      "slugged_name": "telefonlar-ve-aksessuarlar",
+      "parent": {
+        "id": 1,
+        "node_type": "NODE",
+        "name": "Elektronika və məişət texnikası",
+        "slugged_name": "elektronika-ve-meishet-texnikasi",
+        "parent": null
+      }
+    },
+    "is_refundable": true,
+    "is_adult": false,
+    "icons": {
+      "thumbnail": "https://strgimgr.umico.az/img/category/188/358f11b7-3edc-4811-83af-955a1941b985.jpeg",
+      "original": "https://strgimgr.umico.az/img/category/original/358f11b7-3edc-4811-83af-955a1941b985.png"
+    },
+    "is_active": true
+  },
+  "offers": [
+    {
+      "uuid": "33244248-0363-472b-b5c6-8af694e1d1c6",
+      "installment_enabled": true,
+      "max_installment_months": 3,
+      "product_offer_labels": [],
+      "old_price": 759,
+      "retail_price": 519,
+      "supplier_id": "2166e74a-d844-4c8d-a80f-423f95079a17",
+      "seller": {
+        "ext_id": "09616069-19a3-4414-a807-1dc0d3dad024",
+        "internal_id": 7908,
+        "marketing_name": {
+          "id": 7908,
+          "name": "Birmarket.az"
+        },
+        "logo": {
+          "thumbnail": "https://storage.umico.az/cpcustomerprod01/32e1599b42555bf3dbae2eba71ef461d.png"
+        },
+        "vat_payer": true,
+        "rating": 99,
+        "role_name": "FBU"
+      },
+      "comment": "",
+      "allow_qty": 0
+    }
+  ],
+  "variations": [
+    {
+      "id": 1496240,
+      "name": "Ağıllı saat Apple Watch SE 3 GPS 44mm Starlight with Starlight Sport Band - M/L",
+      "slugged_name": "agilli-saat-apple-watch-se-3-gps-44mm-starlight-with-starlight-sport-band-m-l",
+      "custom_fields": [
+        {
+          "master_field_id": 625,
+          "values": [
+            "Bej"
+          ]
+        },
+        {
+          "master_field_id": 1828,
+          "values": [
+            "1.78"
+          ]
+        },
+        {
+          "master_field_id": 1476,
+          "values": [
+            "Apple Watch SE 3"
+          ]
+        }
+      ],
+      "main_img": {
+        "big": "https://strgimgr.umico.az/img/product/1680/23316781-4a0d-400c-b45f-ab1d92bd36d5.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/23316781-4a0d-400c-b45f-ab1d92bd36d5.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/23316781-4a0d-400c-b45f-ab1d92bd36d5.jpeg"
+      },
+      "status": "active"
+    },
+    {
+      "id": 1496247,
+      "name": "Ağıllı saat Apple Watch SE 3 GPS 40mm Midnight with Midnight Sport Band - M/L",
+      "slugged_name": "agilli-saat-apple-watch-se-3-gps-40mm-midnight-with-midnight-sport-band-m-l",
+      "custom_fields": [
+        {
+          "master_field_id": 625,
+          "values": [
+            "Göy"
+          ]
+        },
+        {
+          "master_field_id": 1828,
+          "values": [
+            "1.57"
+          ]
+        },
+        {
+          "master_field_id": 1476,
+          "values": [
+            "Apple Watch SE 3"
+          ]
+        }
+      ],
+      "main_img": {
+        "big": "https://strgimgr.umico.az/img/product/1680/afe9b682-143f-42ce-8119-6b56a36c2ec7.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/afe9b682-143f-42ce-8119-6b56a36c2ec7.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/afe9b682-143f-42ce-8119-6b56a36c2ec7.jpeg"
+      },
+      "status": "active"
+    },
+    {
+      "id": 1414083,
+      "name": "Ağıllı saat Apple Watch SE 3 GPS 40mm Midnight with Midnight Sport Band - S/M (Rəsmi zəmanət)",
+      "slugged_name": "agilli-saat-apple-watch-se-3-gps-40mm-midnight-with-midnight-sport-band-s-m-resmi-zemanet",
+      "custom_fields": [
+        {
+          "master_field_id": 625,
+          "values": [
+            "Göy"
+          ]
+        },
+        {
+          "master_field_id": 1828,
+          "values": [
+            "1.57"
+          ]
+        },
+        {
+          "master_field_id": 1476,
+          "values": [
+            "Apple Watch SE 3"
+          ]
+        }
+      ],
+      "main_img": {
+        "big": "https://strgimgr.umico.az/img/product/1680/8987b9e5-3df5-4dab-b7e3-94c760198dbc.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/8987b9e5-3df5-4dab-b7e3-94c760198dbc.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/8987b9e5-3df5-4dab-b7e3-94c760198dbc.jpeg"
+      },
+      "status": "active"
+    },
+    {
+      "id": 1414015,
+      "name": "Ağıllı saat Apple Watch SE 3 GPS 40mm Starlight with Starlight Sport Band - S/M (Rəsmi zəmanət)",
+      "slugged_name": "agilli-saat-apple-watch-se-3-gps-40mm-starlight-with-starlight-sport-band-s-m-resmi-zemanet",
+      "custom_fields": [
+        {
+          "master_field_id": 625,
+          "values": [
+            "Bej"
+          ]
+        },
+        {
+          "master_field_id": 1828,
+          "values": [
+            "1.57"
+          ]
+        },
+        {
+          "master_field_id": 1476,
+          "values": [
+            "Apple Watch SE 3"
+          ]
+        }
+      ],
+      "main_img": {
+        "big": "https://strgimgr.umico.az/img/product/1680/c0ffd574-a063-48b6-94b1-e277a48a62ca.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/c0ffd574-a063-48b6-94b1-e277a48a62ca.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/c0ffd574-a063-48b6-94b1-e277a48a62ca.jpeg"
+      },
+      "status": "active"
+    },
+    {
+      "id": 1414069,
+      "name": "Ağıllı saat Apple Watch SE 3 GPS 40mm Midnight Aluminium Case with Midnight Sport Band - S/M (Rəsmi zəmanət)",
+      "slugged_name": "agilli-saat-apple-watch-se-3-gps-40mm-midnight-aluminium-case-with-midnight-sport-band-s-m-resmi-zemanet",
+      "custom_fields": [
+        {
+          "master_field_id": 625,
+          "values": [
+            "Göy"
+          ]
+        },
+        {
+          "master_field_id": 1828,
+          "values": [
+            "1.57"
+          ]
+        },
+        {
+          "master_field_id": 1476,
+          "values": [
+            "Apple Watch SE 3"
+          ]
+        }
+      ],
+      "main_img": {
+        "big": "https://strgimgr.umico.az/img/product/1680/4619473d-8afa-46b3-8302-5568bd4f323f.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/4619473d-8afa-46b3-8302-5568bd4f323f.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/4619473d-8afa-46b3-8302-5568bd4f323f.jpeg"
+      },
+      "status": "active"
+    },
+    {
+      "id": 1496241,
+      "name": "Ağıllı saat Apple Watch SE 3 GPS 44mm Midnight with Midnight Sport Band - S/M",
+      "slugged_name": "agilli-saat-apple-watch-se-3-gps-44mm-midnight-with-midnight-sport-band-s-m",
+      "custom_fields": [
+        {
+          "master_field_id": 625,
+          "values": [
+            "Göy"
+          ]
+        },
+        {
+          "master_field_id": 1828,
+          "values": [
+            "1.78"
+          ]
+        },
+        {
+          "master_field_id": 1476,
+          "values": [
+            "Apple Watch SE 3"
+          ]
+        }
+      ],
+      "main_img": {
+        "big": "https://strgimgr.umico.az/img/product/1680/355d0e85-eb6b-4a31-84fb-a12579cddd5a.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/355d0e85-eb6b-4a31-84fb-a12579cddd5a.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/355d0e85-eb6b-4a31-84fb-a12579cddd5a.jpeg"
+      },
+      "status": "active"
+    },
+    {
+      "id": 1496243,
+      "name": "Ağıllı saat Apple Watch SE 3 GPS 44mm Starlight with Starlight Sport Band - S/M",
+      "slugged_name": "agilli-saat-apple-watch-se-3-gps-44mm-starlight-with-starlight-sport-band-s-m",
+      "custom_fields": [
+        {
+          "master_field_id": 625,
+          "values": [
+            "Bej"
+          ]
+        },
+        {
+          "master_field_id": 1828,
+          "values": [
+            "1.78"
+          ]
+        },
+        {
+          "master_field_id": 1476,
+          "values": [
+            "Apple Watch SE 3"
+          ]
+        }
+      ],
+      "main_img": {
+        "big": "https://strgimgr.umico.az/img/product/1680/a7970b31-0a96-4984-ada9-5310a04a8986.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/a7970b31-0a96-4984-ada9-5310a04a8986.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/a7970b31-0a96-4984-ada9-5310a04a8986.jpeg"
+      },
+      "status": "active"
+    },
+    {
+      "id": 1496244,
+      "name": "Ağıllı saat Apple Watch SE 3 GPS 40mm Starlight with Starlight Sport Band - M/L",
+      "slugged_name": "agilli-saat-apple-watch-se-3-gps-40mm-starlight-with-starlight-sport-band-m-l",
+      "custom_fields": [
+        {
+          "master_field_id": 625,
+          "values": [
+            "Bej"
+          ]
+        },
+        {
+          "master_field_id": 1828,
+          "values": [
+            "1.57"
+          ]
+        },
+        {
+          "master_field_id": 1476,
+          "values": [
+            "Apple Watch SE 3"
+          ]
+        }
+      ],
+      "main_img": {
+        "big": "https://strgimgr.umico.az/img/product/1680/fa92884e-3d22-4bfe-a440-07ef1d40a6d5.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/fa92884e-3d22-4bfe-a440-07ef1d40a6d5.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/fa92884e-3d22-4bfe-a440-07ef1d40a6d5.jpeg"
+      },
+      "status": "active"
+    },
+    {
+      "id": 1496237,
+      "name": "Ağıllı saat Apple Watch SE 3 GPS 40mm Starlight with Starlight Sport Band - S/M",
+      "slugged_name": "agilli-saat-apple-watch-se-3-gps-40mm-starlight-with-starlight-sport-band-s-m",
+      "custom_fields": [
+        {
+          "master_field_id": 625,
+          "values": [
+            "Bej"
+          ]
+        },
+        {
+          "master_field_id": 1828,
+          "values": [
+            "1.57"
+          ]
+        },
+        {
+          "master_field_id": 1476,
+          "values": [
+            "Apple Watch SE 3"
+          ]
+        }
+      ],
+      "main_img": {
+        "big": "https://strgimgr.umico.az/img/product/1680/fa92884e-3d22-4bfe-a440-07ef1d40a6d5.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/fa92884e-3d22-4bfe-a440-07ef1d40a6d5.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/fa92884e-3d22-4bfe-a440-07ef1d40a6d5.jpeg"
+      },
+      "status": "active"
+    },
+    {
+      "id": 1496239,
+      "name": "Ağıllı saat Apple Watch SE 3 GPS 40mm Midnight with Midnight Sport Band - S/M",
+      "slugged_name": "agilli-saat-apple-watch-se-3-gps-40mm-midnight-with-midnight-sport-band-s-m",
+      "custom_fields": [
+        {
+          "master_field_id": 625,
+          "values": [
+            "Göy"
+          ]
+        },
+        {
+          "master_field_id": 1828,
+          "values": [
+            "1.57"
+          ]
+        },
+        {
+          "master_field_id": 1476,
+          "values": [
+            "Apple Watch SE 3"
+          ]
+        }
+      ],
+      "main_img": {
+        "big": "https://strgimgr.umico.az/img/product/1680/afe9b682-143f-42ce-8119-6b56a36c2ec7.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/afe9b682-143f-42ce-8119-6b56a36c2ec7.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/afe9b682-143f-42ce-8119-6b56a36c2ec7.jpeg"
+      },
+      "status": "active"
+    },
+    {
+      "id": 1496242,
+      "name": "Ağıllı saat Apple Watch SE 3 GPS 44mm Midnight with Midnight Sport Band - M/L",
+      "slugged_name": "agilli-saat-apple-watch-se-3-gps-44mm-midnight-with-midnight-sport-band-m-l",
+      "custom_fields": [
+        {
+          "master_field_id": 625,
+          "values": [
+            "Göy"
+          ]
+        },
+        {
+          "master_field_id": 1828,
+          "values": [
+            "1.78"
+          ]
+        },
+        {
+          "master_field_id": 1476,
+          "values": [
+            "Apple Watch SE 3"
+          ]
+        }
+      ],
+      "main_img": {
+        "big": "https://strgimgr.umico.az/img/product/1680/355d0e85-eb6b-4a31-84fb-a12579cddd5a.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/355d0e85-eb6b-4a31-84fb-a12579cddd5a.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/355d0e85-eb6b-4a31-84fb-a12579cddd5a.jpeg"
+      },
+      "status": "active"
+    }
+  ],
+  "size_chart": {},
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "sku": 1414015,
+    "mpn": "MEH34RK/A",
+    "url": "https://birmarket.az/product/1414015-agilli-saat-apple-watch-se-3-gps-40mm-starlight-with-starlight-sport-band-s-m-resmi-zemanet",
+    "name": "Ağıllı saat Apple Watch SE 3 GPS 40mm Starlight with Starlight Sport Band - S/M (Rəsmi zəmanət)",
+    "image": [
+      "https://strgimgr.umico.az/img/product/1680/c0ffd574-a063-48b6-94b1-e277a48a62ca.jpeg",
+      "https://strgimgr.umico.az/img/product/1680/fa92884e-3d22-4bfe-a440-07ef1d40a6d5.jpeg",
+      "https://strgimgr.umico.az/img/product/1680/16be1074-3d57-44df-82b7-b8e38d2474e3.jpeg",
+      "https://strgimgr.umico.az/img/product/1680/1049097c-873c-4793-93af-fab7fbf920ac.jpeg",
+      "https://strgimgr.umico.az/img/product/1680/45702897-232c-4cbd-8f5c-5ede0cccb5d9.jpeg",
+      "https://strgimgr.umico.az/img/product/1680/9e43d21f-b3e5-4085-9ca0-cfd485bb58f3.jpeg",
+      "https://strgimgr.umico.az/img/product/1680/2bcd8389-fd82-4c1f-9ab9-06f4ded5af47.jpeg",
+      "https://strgimgr.umico.az/img/product/1680/17704313-14c0-4329-bfee-4028261edf4c.jpeg",
+      "https://strgimgr.umico.az/img/product/1680/5b1d5994-e2cb-45c1-8e28-1fa05d6b9543.jpeg"
+    ],
+    "description": "Ağıllı saat Apple Watch SE 3 GPS 40mm Starlight with Starlight Sport Band - S/M, fəal həyat tərzini sevənlər üçün dəbli və funksional bir aksessuardır. Bu ağıllı saatlar bir çox faydalı funksiyalara malikdir, fitnes-trekeri, saat, təqvim, kalkulyator, saniyəölçən, yuxu monitorinqi, SOS təcili çağırışı, stress səviyyəsinin monitorinqi, Suri adlı səs köməkçisi də daxil olmaqla. Onlar rəngli OLED ekrana, rəngli fluorlastomer materialdan olan çıxarılıb taxıla bilən bağlamaya, vibrasiya siqnalına malikdir, həmçinin uzaqdan musiqi idarəsi imkanı təklif edir. Apple Watch SE 3 iOS ilə uyğunluq təşkil edir, nəm və tozdan qorunur, simsiz enerji ilə təchiz edilib, sensor ekranı, Bluetooth və Wi-Fi interfeysləri var. Onlar üslub, rahatlıq və qabaqcıl texnologiyaların ideal birləşməsini təqdim edir və fəal böyüklər üçün uyğundur. Dəstəyə ağıllı saatlar və təlimat daxildir. Zəmanətli istifadə müddəti - 12 aydır. Ağıllı saatların çəkisi 26.3 qramdır, ekran ölçüsü - 1.57 düym, batareya tutumu - 245 mAh-dır. Korpus alüminiumdan hazırlanmışdır, davamlılığı və yüngüllüyü təmin edir. Zənglər, naviqasiya və məlumatların ötürülməsi GPS, GLONASS, Galileo, QZSS, Beidou vasitəsilə dəstəklənir.",
+    "itemCondition": "https://schema.org/NewCondition",
+    "offers": {
+      "@type": "Offer",
+      "availability": "https://schema.org/InStock",
+      "url": "https://birmarket.az/product/1414015-agilli-saat-apple-watch-se-3-gps-40mm-starlight-with-starlight-sport-band-s-m-resmi-zemanet",
+      "price": 519,
+      "priceCurrency": "AZN",
+      "priceValidUntil": "2026-12-03T05:15:27+00:00Z",
+      "hasMerchantReturnPolicy": {
+        "applicableCountry": "AZ",
+        "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+        "returnMethod": "https://schema.org/ReturnInStore",
+        "returnFees": "https://schema.org/FreeReturn",
+        "merchantReturnDays": 14
+      },
+      "shippingDetails": {
+        "@type": "OfferShippingDetails",
+        "shippingDestination": {
+          "@type": "DefinedRegion",
+          "addressCountry": "AZ"
+        },
+        "deliveryTime": {
+          "@type": "ShippingDeliveryTime",
+          "handlingTime": {
+            "@type": "QuantitativeValue",
+            "minValue": 0,
+            "maxValue": 1,
+            "unitCode": "DAY"
+          },
+          "transitTime": {
+            "@type": "QuantitativeValue",
+            "minValue": 0,
+            "maxValue": 1,
+            "unitCode": "DAY"
+          },
+          "businessDays": {
+            "@type": "OpeningHoursSpecification",
+            "dayOfWeek": [
+              "https://schema.org/Monday",
+              "https://schema.org/Tuesday",
+              "https://schema.org/Wednesday",
+              "https://schema.org/Thursday",
+              "https://schema.org/Friday",
+              "https://schema.org/Saturday",
+              "https://schema.org/Sunday"
+            ]
+          }
+        },
+        "shippingRate": {
+          "@type": "MonetaryAmount",
+          "value": 0,
+          "currency": "AZN"
+        }
+      }
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": 5,
+      "reviewCount": 5
+    },
+    "brand": {
+      "@type": "Brand",
+      "name": "Apple",
+      "url": "https://birmarket.az/brands/Apple"
+    }
+  }
+}

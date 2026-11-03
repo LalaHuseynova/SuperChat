@@ -1,0 +1,337 @@
+{
+  "product": {
+    "id": 3054486,
+    "gtin": "",
+    "mpn": "17567_75316768",
+    "name": "Masaüstü oyun Кто тут суетолог?, 18+",
+    "slugged_name_az": "masaustu-oyun-no-brand-18-minimal-oyunchu-sayi-2-maksimal-oyunchu-sayi-6",
+    "slugged_name_ru": "masaustu-oyun-no-brand-18-minimal-oyunchu-sayi-2-maksimal-oyunchu-sayi-6",
+    "description": "<p>🎲 «Кто тут суетолог?» – İqtisadi Stolüstü Oyun 💸 Öz biznesini qurmağa, əmlak almağa və dostlarınla rəqabət aparmağa hazırsan? 💰 «Кто тут суетолог?» iqtisadi strategiya və əyləncəni birləşdirən stolüstü oyundur. Əmlaklar əldə et, sərmayələrini idarə et, fərqli situasiyalarla qarşılaş və rəqiblərindən daha uğurlu olmağa çalış! ✨ Əsas xüsusiyyətləri: ● 🏠 Əmlak almaq və biznes qurmaq imkanları ● 💵 Oyun pulları ilə iqtisadi qərarlar vermək ● 🎭 Xüsusi bacarıq və tapşırıqları olan personaj kartları ● 🃏 Gözlənilməz hadisələr və maraqlı situasiya kartları ● 🎯 Strategiya qurmaq və rəqiblərlə yarışmaq ● 🧠 Məntiqi düşünmə və qərarvermə bacarıqlarını məşq etdirməyə kömək edir ● 👥 Dostlarla oynamaq üçün maraqlı seçim 📦 Dəstə daxildir: ● Oyun lövhəsi ● Tapşırıq, hadisə, personaj və əmlak kartları ● Oyun pulları və fiqurları ● 2 oyun zəri ● 24 ev və 12 otel fiquru 👥 Oyunçu sayı: 2–6 nəfər 🔞 Yaş həddi: 18+ 🎁 Dost məclislərinə rəqabət və əyləncə qatmaq üçün möhtəşəm hədiyyə seçimi! 🛒 Biznes dünyasında öz şansını sına! Oyunu elə indi sifariş et və dostlarınla milyonçu olmaq uğrunda yarış!</p>",
+    "description_outlet": "",
+    "status": "active",
+    "uuid": "8c8a470f-3e87-4786-8fd3-e089ee538d1e",
+    "variant_code": "VC_3054486",
+    "default_offer": {
+      "uuid": "d4fcedc7-ab67-4c9a-9cdb-9884e487d297",
+      "installment_enabled": true,
+      "max_installment_months": 18,
+      "product_offer_labels": [],
+      "old_price": 0,
+      "retail_price": 21,
+      "supplier_id": "e605753a-b00e-436f-9705-0a1abd34ff19",
+      "qty": 0,
+      "seller": {
+        "ext_id": "e605753a-b00e-436f-9705-0a1abd34ff19",
+        "marketing_name": {
+          "id": 16828,
+          "name": "Balasso"
+        },
+        "logo": {
+          "thumbnail": ""
+        },
+        "vat_payer": false,
+        "rating": 95,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "discount_effective_start_date": "",
+      "discount_effective_end_date": ""
+    },
+    "category_id": 1344,
+    "category": {
+      "id": 1344,
+      "name": "Masaüstü oyunlar"
+    },
+    "brand": {
+      "name": "No Brand"
+    },
+    "custom_fields": [
+      {
+        "master_field_id": 2634,
+        "values": [
+          "Masaüstü oyun dəsti"
+        ]
+      },
+      {
+        "master_field_id": 751,
+        "values": [
+          "18+"
+        ]
+      },
+      {
+        "master_field_id": 5289,
+        "values": [
+          "2"
+        ]
+      },
+      {
+        "master_field_id": 5290,
+        "values": [
+          "6"
+        ]
+      }
+    ],
+    "main_img": {
+      "big": "https://strgimgr.umico.az/img/product/1680/a8ac2ca6-cd9a-4244-9cfa-ba350a7cf213.jpeg",
+      "medium": "https://strgimgr.umico.az/img/product/840/a8ac2ca6-cd9a-4244-9cfa-ba350a7cf213.jpeg",
+      "small": "https://strgimgr.umico.az/img/product/280/a8ac2ca6-cd9a-4244-9cfa-ba350a7cf213.jpeg"
+    },
+    "img_url_thumbnail": "https://strgimgr.umico.az/img/product/280/a8ac2ca6-cd9a-4244-9cfa-ba350a7cf213.jpeg",
+    "main_video": "",
+    "imgs": [
+      {
+        "big": "https://strgimgr.umico.az/img/product/1680/a8ac2ca6-cd9a-4244-9cfa-ba350a7cf213.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/a8ac2ca6-cd9a-4244-9cfa-ba350a7cf213.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/a8ac2ca6-cd9a-4244-9cfa-ba350a7cf213.jpeg"
+      },
+      {
+        "big": "https://strgimgr.umico.az/img/product/1680/c9f6e867-3ec9-4a51-ab9d-4839d4a6d5a1.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/c9f6e867-3ec9-4a51-ab9d-4839d4a6d5a1.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/c9f6e867-3ec9-4a51-ab9d-4839d4a6d5a1.jpeg"
+      },
+      {
+        "big": "https://strgimgr.umico.az/img/product/1680/77cffa35-1d5d-47c6-b08b-64fa2f6efb92.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/77cffa35-1d5d-47c6-b08b-64fa2f6efb92.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/77cffa35-1d5d-47c6-b08b-64fa2f6efb92.jpeg"
+      }
+    ],
+    "videos": [],
+    "min_qty": 1,
+    "preorder_available": false,
+    "is_assortment": false,
+    "is_bulk_heavy": false,
+    "is_refurbished": false,
+    "is_refundable": true,
+    "is_dangerous": false,
+    "show_tech_description": false,
+    "use_external_content": true,
+    "product_labels": [
+      {
+        "color": "40C4FF",
+        "id": 43266294,
+        "image_url": "",
+        "label_id": 1,
+        "name": "Новинка",
+        "position": 1,
+        "rule_type": "parameters",
+        "show_in_see_also_products": false,
+        "text": "Yenilik"
+      }
+    ],
+    "ratings": {
+      "rating_value": 0,
+      "assessment_id": 0,
+      "session_count": 0
+    },
+    "default_show_stock_qty_threshold": 0,
+    "card_type": "public"
+  },
+  "category": {
+    "id": 1344,
+    "name": "Masaüstü oyunlar",
+    "slugged_name_az": "stolustu-oyunlar",
+    "slugged_name_ru": "nastolnye-igry",
+    "view_mode": "products",
+    "mobile_visual_mode": "text",
+    "is_variant": true,
+    "depth": 3,
+    "parent_id": 1341,
+    "child_ids": [],
+    "node_type": "NODE",
+    "install_service_needed": false,
+    "fitting_allowed": false,
+    "vat": true,
+    "variations": [],
+    "custom_fields": [
+      {
+        "master_field_id": 2634,
+        "category_master_field_id": 13225,
+        "name": "Məhsulun növü"
+      },
+      {
+        "master_field_id": 751,
+        "category_master_field_id": 7078,
+        "name": "Yaş"
+      },
+      {
+        "master_field_id": 761,
+        "category_master_field_id": 32418,
+        "name": "Cins"
+      },
+      {
+        "master_field_id": 750,
+        "category_master_field_id": 32419,
+        "name": "Oyunun janrı"
+      },
+      {
+        "master_field_id": 3917,
+        "category_master_field_id": 32420,
+        "name": "Mövzu"
+      },
+      {
+        "master_field_id": 5090,
+        "category_master_field_id": 32421,
+        "name": "Xətkeş"
+      },
+      {
+        "master_field_id": 5289,
+        "category_master_field_id": 32422,
+        "name": "Minimal oyunçu sayı"
+      },
+      {
+        "master_field_id": 5290,
+        "category_master_field_id": 32423,
+        "name": "Maksimal oyunçu sayı"
+      },
+      {
+        "master_field_id": 637,
+        "category_master_field_id": 32424,
+        "name": "Material"
+      },
+      {
+        "master_field_id": 5226,
+        "category_master_field_id": 32425,
+        "name": "Personaj"
+      },
+      {
+        "master_field_id": 623,
+        "category_master_field_id": 32426,
+        "name": "Xüsusiyyətlər"
+      },
+      {
+        "master_field_id": 618,
+        "category_master_field_id": 32427,
+        "name": "İstehsalçı ölkə"
+      }
+    ],
+    "parent": {
+      "id": 1341,
+      "node_type": "NODE",
+      "name": "Əyləncə və oyunlar",
+      "slugged_name": "oyunlar",
+      "parent": {
+        "id": 1348,
+        "node_type": "NODE",
+        "name": "Hobbi",
+        "slugged_name": "hobbi-ve-yaradiciliq-uchun-mehsullar",
+        "parent": {
+          "id": 1657,
+          "node_type": "NODE",
+          "name": "Kitablar, Hobbi, Məktəb və ofis ləvazimatları",
+          "slugged_name": "ofis-ve-mekteb-levazimatlari",
+          "parent": null
+        }
+      }
+    },
+    "is_refundable": true,
+    "is_adult": false,
+    "icons": {
+      "thumbnail": "https://strgimgr.umico.az/img/category/188/5cfc95a7-2d71-4b3d-87c4-c36cc0370974.jpeg",
+      "original": "https://strgimgr.umico.az/img/category/original/5cfc95a7-2d71-4b3d-87c4-c36cc0370974.jpeg"
+    },
+    "is_active": true
+  },
+  "offers": [
+    {
+      "uuid": "d4fcedc7-ab67-4c9a-9cdb-9884e487d297",
+      "installment_enabled": true,
+      "max_installment_months": 18,
+      "product_offer_labels": [],
+      "old_price": 0,
+      "retail_price": 21,
+      "supplier_id": "e605753a-b00e-436f-9705-0a1abd34ff19",
+      "seller": {
+        "ext_id": "dbc3270c-6a88-4267-8ced-b881e3d5a510",
+        "internal_id": 16828,
+        "marketing_name": {
+          "id": 16828,
+          "name": "Balasso"
+        },
+        "logo": {
+          "thumbnail": ""
+        },
+        "vat_payer": false,
+        "rating": 95,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "allow_qty": 0
+    }
+  ],
+  "variations": [],
+  "size_chart": {},
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "sku": 3054486,
+    "mpn": "17567_75316768",
+    "url": "https://birmarket.az/product/3054486-masaustu-oyun-no-brand-18-minimal-oyunchu-sayi-2-maksimal-oyunchu-sayi-6",
+    "name": "Masaüstü oyun Кто тут суетолог?, 18+",
+    "image": [
+      "https://strgimgr.umico.az/img/product/1680/a8ac2ca6-cd9a-4244-9cfa-ba350a7cf213.jpeg",
+      "https://strgimgr.umico.az/img/product/1680/c9f6e867-3ec9-4a51-ab9d-4839d4a6d5a1.jpeg",
+      "https://strgimgr.umico.az/img/product/1680/77cffa35-1d5d-47c6-b08b-64fa2f6efb92.jpeg"
+    ],
+    "description": "&lt;p&gt;🎲 «Кто тут суетолог?» – İqtisadi Stolüstü Oyun 💸 Öz biznesini qurmağa, əmlak almağa və dostlarınla rəqabət aparmağa hazırsan? 💰 «Кто тут суетолог?» iqtisadi strategiya və əyləncəni birləşdirən stolüstü oyundur. Əmlaklar əldə et, sərmayələrini idarə et, fərqli situasiyalarla qarşılaş və rəqiblərindən daha uğurlu olmağa çalış! ✨ Əsas xüsusiyyətləri: ● 🏠 Əmlak almaq və biznes qurmaq imkanları ● 💵 Oyun pulları ilə iqtisadi qərarlar vermək ● 🎭 Xüsusi bacarıq və tapşırıqları olan personaj kartları ● 🃏 Gözlənilməz hadisələr və maraqlı situasiya kartları ● 🎯 Strategiya qurmaq və rəqiblərlə yarışmaq ● 🧠 Məntiqi düşünmə və qərarvermə bacarıqlarını məşq etdirməyə kömək edir ● 👥 Dostlarla oynamaq üçün maraqlı seçim 📦 Dəstə daxildir: ● Oyun lövhəsi ● Tapşırıq, hadisə, personaj və əmlak kartları ● Oyun pulları və fiqurları ● 2 oyun zəri ● 24 ev və 12 otel fiquru 👥 Oyunçu sayı: 2–6 nəfər 🔞 Yaş həddi: 18+ 🎁 Dost məclislərinə rəqabət və əyləncə qatmaq üçün möhtəşəm hədiyyə seçimi! 🛒 Biznes dünyasında öz şansını sına! Oyunu elə indi sifariş et və dostlarınla milyonçu olmaq uğrunda yarış!&lt;/p&gt;",
+    "itemCondition": "https://schema.org/NewCondition",
+    "offers": {
+      "@type": "Offer",
+      "availability": "https://schema.org/InStock",
+      "url": "https://birmarket.az/product/3054486-masaustu-oyun-no-brand-18-minimal-oyunchu-sayi-2-maksimal-oyunchu-sayi-6",
+      "price": 21,
+      "priceCurrency": "AZN",
+      "priceValidUntil": "2026-12-02T16:41:01+00:00Z",
+      "hasMerchantReturnPolicy": {
+        "applicableCountry": "AZ",
+        "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+        "returnMethod": "https://schema.org/ReturnInStore",
+        "returnFees": "https://schema.org/FreeReturn",
+        "merchantReturnDays": 14
+      },
+      "shippingDetails": {
+        "@type": "OfferShippingDetails",
+        "shippingDestination": {
+          "@type": "DefinedRegion",
+          "addressCountry": "AZ"
+        },
+        "deliveryTime": {
+          "@type": "ShippingDeliveryTime",
+          "handlingTime": {
+            "@type": "QuantitativeValue",
+            "minValue": 0,
+            "maxValue": 1,
+            "unitCode": "DAY"
+          },
+          "transitTime": {
+            "@type": "QuantitativeValue",
+            "minValue": 0,
+            "maxValue": 1,
+            "unitCode": "DAY"
+          },
+          "businessDays": {
+            "@type": "OpeningHoursSpecification",
+            "dayOfWeek": [
+              "https://schema.org/Monday",
+              "https://schema.org/Tuesday",
+              "https://schema.org/Wednesday",
+              "https://schema.org/Thursday",
+              "https://schema.org/Friday",
+              "https://schema.org/Saturday",
+              "https://schema.org/Sunday"
+            ]
+          }
+        },
+        "shippingRate": {
+          "@type": "MonetaryAmount",
+          "value": 0,
+          "currency": "AZN"
+        }
+      }
+    },
+    "brand": {
+      "@type": "Brand",
+      "name": "No Brand",
+      "url": "https://birmarket.az/brands/No%20Brand"
+    }
+  }
+}

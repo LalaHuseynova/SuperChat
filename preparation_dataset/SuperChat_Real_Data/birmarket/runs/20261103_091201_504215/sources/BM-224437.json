@@ -1,0 +1,832 @@
+{
+  "product": {
+    "id": 224437,
+    "gtin": "195122215293",
+    "mpn": "175R5EA#B5H",
+    "name": "Notbuk HP 250 G7 (175R5EA)",
+    "slugged_name_az": "noutbuk-hp-250-g7-1s5g0pa",
+    "slugged_name_ru": "noutbuk-hp-250-g7-1s5g0pa",
+    "description": "Noutbuk HP 250 G7 (175R5EA) Noutbuk HP 250 G7 münasib qiymətə malikdir və həmişə əlaqəni saxlamağa imkan verir. O, Intel texnologiyalarını və birgə iş üçün lazım olan hər şeyi birləşdirir. Noutbukun möhkəm korpusu daşıma zamanı onu zədələrdən etibarlı şəkildə qoruyur. Mobil və etibarlı. Əmin olun — HP 250 G7 yolda təcili tapşırıqları yerinə yetirmək qabiliyyətinə malikdir. Möhkəm korpus noutbukun etibarlı şəkildə qorunmasını təmin edir və ona iş görkəmi verir. Artıq səsdən xilas olun HP Noise Cancellation ətrafdakı səs-küyləri, o cümlədən klaviatura səslərini boğur. Bütün lazımi birləşdirmə yerləri və yuvalar. Ofisdə və ya evdə RJ-45 və HDMI ənənəvi birləşdirmə yerləri vasitəsilə periferiya qurğularına sürətli qoşulma. HP 250 noutbuku SD yaddaş kartı yuvası ilə təchiz olunub. Bununla, məlumatları rahat şəkildə köçürmək və onların ehtiyat nüsxələrini saxlamaq mümkündür. Geniş birləşdirmə imkanları. Yüksək sürətli məlumat ötürülməsini qiymətləndirin, Bluetooth 4.2 dəstəkli kombinasiyalı modul vasitəsilə Gigabit lokal şəbəkəsinə və ya simsiz lokal Wi-Fi şəbəkəsinə qoşulma ilə.",
+    "description_outlet": "",
+    "status": "active",
+    "uuid": "7930a467-f462-40de-896c-3cfc0743a90e",
+    "variant_code": "VC_224437",
+    "default_offer": {
+      "uuid": "8dbbb8d0-881e-49fa-b466-32880871dcf3",
+      "installment_enabled": true,
+      "max_installment_months": 18,
+      "product_offer_labels": [],
+      "old_price": 0,
+      "retail_price": 949.97,
+      "supplier_id": "c9e0417e-74e1-428a-a9a6-880e9b928144",
+      "qty": 0,
+      "seller": {
+        "ext_id": "c9e0417e-74e1-428a-a9a6-880e9b928144",
+        "marketing_name": {
+          "id": 14660,
+          "name": "YES.MART"
+        },
+        "logo": {
+          "thumbnail": ""
+        },
+        "vat_payer": false,
+        "rating": 100,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "discount_effective_start_date": "",
+      "discount_effective_end_date": ""
+    },
+    "category_id": 16,
+    "category": {
+      "id": 16,
+      "name": "Notbuklar"
+    },
+    "brand": {
+      "name": "HP"
+    },
+    "custom_fields": [
+      {
+        "master_field_id": 6044,
+        "values": [
+          "1035G1"
+        ]
+      },
+      {
+        "master_field_id": 834,
+        "values": [
+          "DDR4"
+        ]
+      },
+      {
+        "master_field_id": 661,
+        "values": [
+          "4"
+        ]
+      },
+      {
+        "master_field_id": 705,
+        "values": [
+          "NVIDIA GeForce MX110"
+        ]
+      },
+      {
+        "master_field_id": 617,
+        "values": [
+          "15.6"
+        ]
+      },
+      {
+        "master_field_id": 1472,
+        "values": [
+          "60"
+        ]
+      },
+      {
+        "master_field_id": 619,
+        "values": [
+          "1366 x 768"
+        ]
+      },
+      {
+        "master_field_id": 659,
+        "values": [
+          "FreeDOS"
+        ]
+      },
+      {
+        "master_field_id": 672,
+        "values": [
+          "Intel Core i5"
+        ]
+      },
+      {
+        "master_field_id": 673,
+        "values": [
+          "3600"
+        ]
+      },
+      {
+        "master_field_id": 664,
+        "values": [
+          "4"
+        ]
+      },
+      {
+        "master_field_id": 1488,
+        "values": [
+          "HDD"
+        ]
+      },
+      {
+        "master_field_id": 1744,
+        "values": [
+          "NVIDIA"
+        ]
+      },
+      {
+        "master_field_id": 662,
+        "values": [
+          "2"
+        ]
+      },
+      {
+        "master_field_id": 1743,
+        "values": [
+          "Diskret"
+        ]
+      },
+      {
+        "master_field_id": 656,
+        "values": [
+          "1.78"
+        ]
+      },
+      {
+        "master_field_id": 625,
+        "values": [
+          "Qara"
+        ]
+      },
+      {
+        "master_field_id": 775,
+        "values": [
+          "376"
+        ]
+      },
+      {
+        "master_field_id": 776,
+        "values": [
+          "246"
+        ]
+      },
+      {
+        "master_field_id": 1637,
+        "values": [
+          "22.5"
+        ]
+      },
+      {
+        "master_field_id": 1476,
+        "values": [
+          "HP 250"
+        ]
+      },
+      {
+        "master_field_id": 620,
+        "values": [
+          "Ev və iş üçün"
+        ]
+      },
+      {
+        "master_field_id": 1739,
+        "values": [
+          "Xeyr"
+        ]
+      },
+      {
+        "master_field_id": 1594,
+        "values": [
+          "Bəli"
+        ]
+      },
+      {
+        "master_field_id": 658,
+        "values": [
+          "Xeyr"
+        ]
+      },
+      {
+        "master_field_id": 2594,
+        "values": [
+          "1000"
+        ]
+      },
+      {
+        "master_field_id": 697,
+        "values": [
+          "Noutbuk",
+          "Təlimat",
+          "Adapter"
+        ]
+      },
+      {
+        "master_field_id": 2210,
+        "values": [
+          "ABŞ"
+        ]
+      },
+      {
+        "master_field_id": 618,
+        "values": [
+          "Çin"
+        ]
+      },
+      {
+        "master_field_id": 2635,
+        "values": [
+          "2020"
+        ]
+      },
+      {
+        "master_field_id": 1493,
+        "values": [
+          "Ada şəklində"
+        ]
+      },
+      {
+        "master_field_id": 1557,
+        "values": [
+          "Qara"
+        ]
+      },
+      {
+        "master_field_id": 1508,
+        "values": [
+          "2"
+        ]
+      },
+      {
+        "master_field_id": 1554,
+        "values": [
+          "SD",
+          "SDHC",
+          "SDXC"
+        ]
+      },
+      {
+        "master_field_id": 1811,
+        "values": [
+          "Bəli"
+        ]
+      },
+      {
+        "master_field_id": 2598,
+        "values": [
+          "Xeyr"
+        ]
+      },
+      {
+        "master_field_id": 777,
+        "values": [
+          "Bəli"
+        ]
+      },
+      {
+        "master_field_id": 2597,
+        "values": [
+          "Xeyr"
+        ]
+      },
+      {
+        "master_field_id": 2596,
+        "values": [
+          "Bəli"
+        ]
+      },
+      {
+        "master_field_id": 2559,
+        "values": [
+          "3"
+        ]
+      },
+      {
+        "master_field_id": 1556,
+        "values": [
+          "Yoxdur"
+        ]
+      },
+      {
+        "master_field_id": 1759,
+        "values": [
+          "1280x720(HD)"
+        ]
+      },
+      {
+        "master_field_id": 1492,
+        "values": [
+          "2.0"
+        ]
+      },
+      {
+        "master_field_id": 660,
+        "values": [
+          "Antiblik"
+        ]
+      },
+      {
+        "master_field_id": 6327,
+        "values": [
+          "Xeyr"
+        ]
+      }
+    ],
+    "main_img": {
+      "big": "https://strgimgr.umico.az/sized/1680/224437-f79587f26ce758e66f7953f98d4042a9.jpg",
+      "medium": "https://strgimgr.umico.az/sized/840/224437-f79587f26ce758e66f7953f98d4042a9.jpg",
+      "small": "https://strgimgr.umico.az/sized/280/224437-f79587f26ce758e66f7953f98d4042a9.jpg"
+    },
+    "img_url_thumbnail": "https://strgimgr.umico.az/sized/280/224437-f79587f26ce758e66f7953f98d4042a9.jpg",
+    "main_video": "",
+    "imgs": [
+      {
+        "big": "https://strgimgr.umico.az/sized/1680/224437-f79587f26ce758e66f7953f98d4042a9.jpg",
+        "medium": "https://strgimgr.umico.az/sized/840/224437-f79587f26ce758e66f7953f98d4042a9.jpg",
+        "small": "https://strgimgr.umico.az/sized/280/224437-f79587f26ce758e66f7953f98d4042a9.jpg"
+      },
+      {
+        "big": "https://strgimgr.umico.az/sized/1680/224437-faae7ff0d77ee66396452e64797e0336.jpg",
+        "medium": "https://strgimgr.umico.az/sized/840/224437-faae7ff0d77ee66396452e64797e0336.jpg",
+        "small": "https://strgimgr.umico.az/sized/280/224437-faae7ff0d77ee66396452e64797e0336.jpg"
+      },
+      {
+        "big": "https://strgimgr.umico.az/sized/1680/224437-f6635cfe80ae9dc86c4f0e744cee75b4.jpg",
+        "medium": "https://strgimgr.umico.az/sized/840/224437-f6635cfe80ae9dc86c4f0e744cee75b4.jpg",
+        "small": "https://strgimgr.umico.az/sized/280/224437-f6635cfe80ae9dc86c4f0e744cee75b4.jpg"
+      }
+    ],
+    "videos": [],
+    "min_qty": 1,
+    "preorder_available": false,
+    "is_assortment": false,
+    "is_bulk_heavy": false,
+    "is_refurbished": false,
+    "is_refundable": true,
+    "is_dangerous": false,
+    "show_tech_description": false,
+    "use_external_content": true,
+    "product_labels": [],
+    "ratings": {
+      "rating_value": 0,
+      "assessment_id": 0,
+      "session_count": 0
+    },
+    "default_show_stock_qty_threshold": 0,
+    "card_type": "public"
+  },
+  "category": {
+    "id": 16,
+    "name": "Notbuklar",
+    "slugged_name_az": "noutbuklar",
+    "slugged_name_ru": "noutbuki",
+    "view_mode": "products",
+    "mobile_visual_mode": "text",
+    "is_variant": true,
+    "depth": 2,
+    "parent_id": 15,
+    "child_ids": [],
+    "node_type": "NODE",
+    "install_service_needed": false,
+    "fitting_allowed": false,
+    "vat": true,
+    "variations": [
+      {
+        "master_field_id": 625,
+        "name": "Rəng",
+        "variation_tool_type": "image",
+        "has_size_chart": false,
+        "display_variant": false
+      },
+      {
+        "master_field_id": 2595,
+        "name": "SSD həcmi, Gb",
+        "variation_tool_type": "button",
+        "has_size_chart": false,
+        "display_variant": false
+      },
+      {
+        "master_field_id": 672,
+        "name": "Prosessorun növü",
+        "variation_tool_type": "button",
+        "has_size_chart": false,
+        "display_variant": false
+      }
+    ],
+    "custom_fields": [
+      {
+        "master_field_id": 1476,
+        "category_master_field_id": 4465,
+        "name": "Seriya"
+      },
+      {
+        "master_field_id": 620,
+        "category_master_field_id": 1503,
+        "name": "Tip"
+      },
+      {
+        "master_field_id": 672,
+        "category_master_field_id": 5316,
+        "name": "Prosessorun növü"
+      },
+      {
+        "master_field_id": 661,
+        "category_master_field_id": 1510,
+        "name": "Operativ yaddaşın həcmi, Gb"
+      },
+      {
+        "master_field_id": 834,
+        "category_master_field_id": 4473,
+        "name": "Yaddaşın növü"
+      },
+      {
+        "master_field_id": 2595,
+        "category_master_field_id": 10818,
+        "name": "SSD həcmi, Gb"
+      },
+      {
+        "master_field_id": 2594,
+        "category_master_field_id": 10817,
+        "name": "HDD həcmi, Gb"
+      },
+      {
+        "master_field_id": 1488,
+        "category_master_field_id": 4481,
+        "name": "Yığıcının növü"
+      },
+      {
+        "master_field_id": 617,
+        "category_master_field_id": 1506,
+        "name": "Ekranın diaqonalı, düym"
+      },
+      {
+        "master_field_id": 619,
+        "category_master_field_id": 4460,
+        "name": "Ekranın qətnaməsi"
+      },
+      {
+        "master_field_id": 675,
+        "category_master_field_id": 4458,
+        "name": "Matrisin növü"
+      },
+      {
+        "master_field_id": 1472,
+        "category_master_field_id": 4461,
+        "name": "Kadrların dəyişmə tezliyi, Hz"
+      },
+      {
+        "master_field_id": 659,
+        "category_master_field_id": 1507,
+        "name": "Əvvəlcədən quraşdırılmış ƏS"
+      },
+      {
+        "master_field_id": 625,
+        "category_master_field_id": 1509,
+        "name": "Rəng"
+      },
+      {
+        "master_field_id": 2211,
+        "category_master_field_id": 10835,
+        "name": "Zəmanət müddəti"
+      },
+      {
+        "master_field_id": 660,
+        "category_master_field_id": 1508,
+        "name": "Ekran örtüyünün növü"
+      },
+      {
+        "master_field_id": 6044,
+        "category_master_field_id": 38416,
+        "name": "Prosessorun kodu"
+      },
+      {
+        "master_field_id": 673,
+        "category_master_field_id": 5320,
+        "name": "Prosessorun tezliyi, MHz"
+      },
+      {
+        "master_field_id": 719,
+        "category_master_field_id": 4477,
+        "name": "Yaddaş yuvalarının sayı"
+      },
+      {
+        "master_field_id": 1482,
+        "category_master_field_id": 4472,
+        "name": "Maksimal artırıla bilən həcm, Gb"
+      },
+      {
+        "master_field_id": 662,
+        "category_master_field_id": 1511,
+        "name": "Video yaddaşın həcmi, Gb"
+      },
+      {
+        "master_field_id": 1743,
+        "category_master_field_id": 5321,
+        "name": "Qrafik kontrollerin növü"
+      },
+      {
+        "master_field_id": 656,
+        "category_master_field_id": 4590,
+        "name": "Çəki, kq"
+      },
+      {
+        "master_field_id": 826,
+        "category_master_field_id": 4588,
+        "name": "Akkumulyatorun həcmi, mA/saat"
+      },
+      {
+        "master_field_id": 775,
+        "category_master_field_id": 15508,
+        "name": "Uzunluğu, mm"
+      },
+      {
+        "master_field_id": 776,
+        "category_master_field_id": 15509,
+        "name": "Eni, mm"
+      },
+      {
+        "master_field_id": 1637,
+        "category_master_field_id": 10833,
+        "name": "Qalınlığı, mm"
+      },
+      {
+        "master_field_id": 705,
+        "category_master_field_id": 5324,
+        "name": "Qrafik çipset"
+      },
+      {
+        "master_field_id": 1739,
+        "category_master_field_id": 10815,
+        "name": "Sensor ekran"
+      },
+      {
+        "master_field_id": 658,
+        "category_master_field_id": 1505,
+        "name": "Ultrabuk"
+      },
+      {
+        "master_field_id": 697,
+        "category_master_field_id": 10834,
+        "name": "Komplektasiya"
+      },
+      {
+        "master_field_id": 1740,
+        "category_master_field_id": 5326,
+        "name": "Digər funksiyalar və xüsusiyyətlər"
+      },
+      {
+        "master_field_id": 2210,
+        "category_master_field_id": 10809,
+        "name": "Brendin ölkəsi"
+      },
+      {
+        "master_field_id": 618,
+        "category_master_field_id": 5330,
+        "name": "İstehsalçı ölkə"
+      },
+      {
+        "master_field_id": 2635,
+        "category_master_field_id": 37278,
+        "name": "Bazarın başlanğıc ili"
+      },
+      {
+        "master_field_id": 1493,
+        "category_master_field_id": 4487,
+        "name": "Düymələrin quruluşu"
+      },
+      {
+        "master_field_id": 1557,
+        "category_master_field_id": 4616,
+        "name": "Klaviaturanın rəngi"
+      },
+      {
+        "master_field_id": 2600,
+        "category_master_field_id": 10829,
+        "name": "Klaviaturanın işıqlandırılması"
+      },
+      {
+        "master_field_id": 1508,
+        "category_master_field_id": 10828,
+        "name": "Dinamiklərin sayı"
+      },
+      {
+        "master_field_id": 1554,
+        "category_master_field_id": 10826,
+        "name": "Yaddaş kartlarının dəstəklənməsi"
+      },
+      {
+        "master_field_id": 1811,
+        "category_master_field_id": 10825,
+        "name": "Wi-Fi standartı"
+      },
+      {
+        "master_field_id": 2598,
+        "category_master_field_id": 10824,
+        "name": "NFC mövcudluğu"
+      },
+      {
+        "master_field_id": 777,
+        "category_master_field_id": 10823,
+        "name": "Bluetooth standartı"
+      },
+      {
+        "master_field_id": 2597,
+        "category_master_field_id": 10822,
+        "name": "VGA (D-sub) port"
+      },
+      {
+        "master_field_id": 2596,
+        "category_master_field_id": 10821,
+        "name": "HDMI port"
+      },
+      {
+        "master_field_id": 1594,
+        "category_master_field_id": 4711,
+        "name": "Şəbəkəyə qoşulma (Ethernet)"
+      },
+      {
+        "master_field_id": 2559,
+        "category_master_field_id": 10820,
+        "name": "USB -portların sayı, əd."
+      },
+      {
+        "master_field_id": 1556,
+        "category_master_field_id": 4615,
+        "name": "Optik ötürücü"
+      },
+      {
+        "master_field_id": 1491,
+        "category_master_field_id": 4485,
+        "name": "Web-kamera"
+      },
+      {
+        "master_field_id": 1759,
+        "category_master_field_id": 10819,
+        "name": "Veb kamera"
+      },
+      {
+        "master_field_id": 2552,
+        "category_master_field_id": 10830,
+        "name": "Korpusun qorunması"
+      },
+      {
+        "master_field_id": 1492,
+        "category_master_field_id": 4486,
+        "name": "Səs formatı"
+      },
+      {
+        "master_field_id": 1744,
+        "category_master_field_id": 5322,
+        "name": "Qrafik çipsetin istehsalçısı"
+      },
+      {
+        "master_field_id": 664,
+        "category_master_field_id": 4468,
+        "name": "Prosessorun nüvələr sayı"
+      },
+      {
+        "master_field_id": 6327,
+        "category_master_field_id": 41934,
+        "name": "Oyun"
+      }
+    ],
+    "parent": {
+      "id": 15,
+      "node_type": "NODE",
+      "name": "Notbuk və kompüterlər",
+      "slugged_name": "noutbuklar-ve-komputer-texnikasi",
+      "parent": {
+        "id": 1,
+        "node_type": "NODE",
+        "name": "Elektronika və məişət texnikası",
+        "slugged_name": "elektronika-ve-meishet-texnikasi",
+        "parent": null
+      }
+    },
+    "is_refundable": true,
+    "is_adult": false,
+    "icons": {
+      "thumbnail": "https://strgimgr.umico.az/img/category/188/6c2913d6-8b63-4253-ac83-0d99e74ad30a.jpeg",
+      "original": "https://strgimgr.umico.az/img/category/original/6c2913d6-8b63-4253-ac83-0d99e74ad30a.png"
+    },
+    "is_active": true
+  },
+  "offers": [
+    {
+      "uuid": "8dbbb8d0-881e-49fa-b466-32880871dcf3",
+      "installment_enabled": true,
+      "max_installment_months": 18,
+      "product_offer_labels": [],
+      "old_price": 0,
+      "retail_price": 949.97,
+      "supplier_id": "c9e0417e-74e1-428a-a9a6-880e9b928144",
+      "seller": {
+        "ext_id": "4053acd6-9d4e-42cb-8609-5a07c4faab7c",
+        "internal_id": 14660,
+        "marketing_name": {
+          "id": 14660,
+          "name": "YES.MART"
+        },
+        "logo": {
+          "thumbnail": ""
+        },
+        "vat_payer": false,
+        "rating": 100,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "allow_qty": 0
+    }
+  ],
+  "variations": [
+    {
+      "id": 224437,
+      "name": "Notbuk HP 250 G7 (175R5EA)",
+      "slugged_name": "noutbuk-hp-250-g7-1s5g0pa",
+      "custom_fields": [
+        {
+          "master_field_id": 625,
+          "values": [
+            "Qara"
+          ]
+        },
+        {
+          "master_field_id": 672,
+          "values": [
+            "Intel Core i5"
+          ]
+        }
+      ],
+      "main_img": {
+        "big": "https://strgimgr.umico.az/sized/1680/224437-f79587f26ce758e66f7953f98d4042a9.jpg",
+        "medium": "https://strgimgr.umico.az/sized/840/224437-f79587f26ce758e66f7953f98d4042a9.jpg",
+        "small": "https://strgimgr.umico.az/sized/280/224437-f79587f26ce758e66f7953f98d4042a9.jpg"
+      },
+      "status": "active"
+    }
+  ],
+  "size_chart": {},
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "sku": 224437,
+    "mpn": "175R5EA#B5H",
+    "url": "https://birmarket.az/product/224437-noutbuk-hp-250-g7-1s5g0pa",
+    "name": "Notbuk HP 250 G7 (175R5EA)",
+    "image": [
+      "https://strgimgr.umico.az/sized/1680/224437-f79587f26ce758e66f7953f98d4042a9.jpg",
+      "https://strgimgr.umico.az/sized/1680/224437-faae7ff0d77ee66396452e64797e0336.jpg",
+      "https://strgimgr.umico.az/sized/1680/224437-f6635cfe80ae9dc86c4f0e744cee75b4.jpg"
+    ],
+    "description": "Noutbuk HP 250 G7 (175R5EA) Noutbuk HP 250 G7 münasib qiymətə malikdir və həmişə əlaqəni saxlamağa imkan verir. O, Intel texnologiyalarını və birgə iş üçün lazım olan hər şeyi birləşdirir. Noutbukun möhkəm korpusu daşıma zamanı onu zədələrdən etibarlı şəkildə qoruyur. Mobil və etibarlı. Əmin olun — HP 250 G7 yolda təcili tapşırıqları yerinə yetirmək qabiliyyətinə malikdir. Möhkəm korpus noutbukun etibarlı şəkildə qorunmasını təmin edir və ona iş görkəmi verir. Artıq səsdən xilas olun HP Noise Cancellation ətrafdakı səs-küyləri, o cümlədən klaviatura səslərini boğur. Bütün lazımi birləşdirmə yerləri və yuvalar. Ofisdə və ya evdə RJ-45 və HDMI ənənəvi birləşdirmə yerləri vasitəsilə periferiya qurğularına sürətli qoşulma. HP 250 noutbuku SD yaddaş kartı yuvası ilə təchiz olunub. Bununla, məlumatları rahat şəkildə köçürmək və onların ehtiyat nüsxələrini saxlamaq mümkündür. Geniş birləşdirmə imkanları. Yüksək sürətli məlumat ötürülməsini qiymətləndirin, Bluetooth 4.2 dəstəkli kombinasiyalı modul vasitəsilə Gigabit lokal şəbəkəsinə və ya simsiz lokal Wi-Fi şəbəkəsinə qoşulma ilə.",
+    "itemCondition": "https://schema.org/NewCondition",
+    "offers": {
+      "@type": "Offer",
+      "availability": "https://schema.org/InStock",
+      "url": "https://birmarket.az/product/224437-noutbuk-hp-250-g7-1s5g0pa",
+      "price": 949.97,
+      "priceCurrency": "AZN",
+      "priceValidUntil": "2026-12-03T05:12:07+00:00Z",
+      "hasMerchantReturnPolicy": {
+        "applicableCountry": "AZ",
+        "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+        "returnMethod": "https://schema.org/ReturnInStore",
+        "returnFees": "https://schema.org/FreeReturn",
+        "merchantReturnDays": 14
+      },
+      "shippingDetails": {
+        "@type": "OfferShippingDetails",
+        "shippingDestination": {
+          "@type": "DefinedRegion",
+          "addressCountry": "AZ"
+        },
+        "deliveryTime": {
+          "@type": "ShippingDeliveryTime",
+          "handlingTime": {
+            "@type": "QuantitativeValue",
+            "minValue": 0,
+            "maxValue": 1,
+            "unitCode": "DAY"
+          },
+          "transitTime": {
+            "@type": "QuantitativeValue",
+            "minValue": 0,
+            "maxValue": 1,
+            "unitCode": "DAY"
+          },
+          "businessDays": {
+            "@type": "OpeningHoursSpecification",
+            "dayOfWeek": [
+              "https://schema.org/Monday",
+              "https://schema.org/Tuesday",
+              "https://schema.org/Wednesday",
+              "https://schema.org/Thursday",
+              "https://schema.org/Friday",
+              "https://schema.org/Saturday",
+              "https://schema.org/Sunday"
+            ]
+          }
+        },
+        "shippingRate": {
+          "@type": "MonetaryAmount",
+          "value": 0,
+          "currency": "AZN"
+        }
+      }
+    },
+    "brand": {
+      "@type": "Brand",
+      "name": "HP",
+      "url": "https://birmarket.az/brands/HP"
+    }
+  }
+}

@@ -1,0 +1,853 @@
+{
+  "product": {
+    "id": 868002,
+    "gtin": "",
+    "mpn": "A58 Plus Pink",
+    "name": "Ağıllı saat Smart Watch A58 Plus Pink",
+    "slugged_name_az": "agilli-saat-smart-watch-a58-plus-pink",
+    "slugged_name_ru": "umnye-chasy-smart-watch-a58-plus-pink",
+    "description": "Ağıllı saatlar Smart Watch A58 Plus Pink - 2.01 düym ölçüsündə sensorlu rəngli ekranı olan funksional cihazlardır, sink ərintisindən hazırlanmışdırlar. Onlar Android və iOS əsaslı cihazlarla uyğun gəlir, zənglər haqqında məlumatlandırma təmin edir və Bluetooth interfeysini dəstəkləyir. Saatlar nəbz, ürək ritmi, qanda oksigen səviyyəsi və yuxu keyfiyyətinin izlənməsini təmin edir. Çıxarılan silikon kəmər və 220,300 mA/saat tutumunda batareya onların istifadəsini rahat edir, çəhrayı rəngli dizaynı isə onları stil aksesuarı edir. Böyük qadınlara uyğundur.",
+    "description_outlet": "",
+    "status": "active",
+    "uuid": "b6ee93b3-a386-4a64-843c-665231f8e68f",
+    "variant_code": "VC_868002",
+    "default_offer": {
+      "uuid": "f9d48c51-4b25-40de-b7d4-3f09ddb94944",
+      "installment_enabled": true,
+      "max_installment_months": 18,
+      "product_offer_labels": [],
+      "old_price": 80,
+      "retail_price": 42.39,
+      "supplier_id": "3a4ac4a3-9ac5-47a6-b119-d432f5e1052b",
+      "qty": 0,
+      "seller": {
+        "ext_id": "3a4ac4a3-9ac5-47a6-b119-d432f5e1052b",
+        "marketing_name": {
+          "id": 4236,
+          "name": "Bir electronics"
+        },
+        "logo": {
+          "thumbnail": "https://storage.umico.az/cpcustomerprod01/349c844bd9683c4253850c7873f41bd4.jpeg"
+        },
+        "vat_payer": false,
+        "rating": 92,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "discount_effective_start_date": "",
+      "discount_effective_end_date": ""
+    },
+    "category_id": 4,
+    "category": {
+      "id": 4,
+      "name": "Ağıllı saatlar və fitnes qolbaqları"
+    },
+    "brand": {
+      "name": "Smart Watch"
+    },
+    "custom_fields": [
+      {
+        "master_field_id": 620,
+        "values": [
+          "Ağıllı saat"
+        ]
+      },
+      {
+        "master_field_id": 1476,
+        "values": [
+          "Smart Watch A58 Plus"
+        ]
+      },
+      {
+        "master_field_id": 625,
+        "values": [
+          "Çəhrayı"
+        ]
+      },
+      {
+        "master_field_id": 621,
+        "values": [
+          "Android",
+          "iOS"
+        ]
+      },
+      {
+        "master_field_id": 623,
+        "values": [
+          "Yuxu monitorinqi",
+          "Ürək ritminin göstəricisi",
+          "Qanda oksigen səviyyəsi sensoru",
+          "Nəbzölçən"
+        ]
+      },
+      {
+        "master_field_id": 761,
+        "values": [
+          "Qadınlar üçün"
+        ]
+      },
+      {
+        "master_field_id": 1325,
+        "values": [
+          "Böyüklər üçün"
+        ]
+      },
+      {
+        "master_field_id": 1826,
+        "values": [
+          "Xeyr"
+        ]
+      },
+      {
+        "master_field_id": 622,
+        "values": [
+          "Bluetooth"
+        ]
+      },
+      {
+        "master_field_id": 806,
+        "values": [
+          "Zəngli saat",
+          "Kalendar",
+          "Kalkulyator",
+          "Hərəkət monitorinqi",
+          "Nəbzin monitorinqi",
+          "Ürək dərəcəsi monitorinqi",
+          "Yuxu monitorinqi",
+          "Qanda oksigen səviyyəsi monitorinqi"
+        ]
+      },
+      {
+        "master_field_id": 634,
+        "values": [
+          "Rəngli"
+        ]
+      },
+      {
+        "master_field_id": 1739,
+        "values": [
+          "Bəli"
+        ]
+      },
+      {
+        "master_field_id": 1828,
+        "values": [
+          "2.01"
+        ]
+      },
+      {
+        "master_field_id": 1829,
+        "values": [
+          "Düzbucaq"
+        ]
+      },
+      {
+        "master_field_id": 708,
+        "values": [
+          "Sink ərintisi"
+        ]
+      },
+      {
+        "master_field_id": 1830,
+        "values": [
+          "Bəli"
+        ]
+      },
+      {
+        "master_field_id": 624,
+        "values": [
+          "Silikon"
+        ]
+      },
+      {
+        "master_field_id": 1832,
+        "values": [
+          "Zənglər haqqında məlumatlandırma"
+        ]
+      },
+      {
+        "master_field_id": 1833,
+        "values": [
+          "Xeyr"
+        ]
+      },
+      {
+        "master_field_id": 1752,
+        "values": [
+          "Xeyr"
+        ]
+      },
+      {
+        "master_field_id": 826,
+        "values": [
+          "220",
+          "300"
+        ]
+      },
+      {
+        "master_field_id": 697,
+        "values": [
+          "Saat",
+          "Kəmər"
+        ]
+      },
+      {
+        "master_field_id": 2210,
+        "values": [
+          "Çin"
+        ]
+      },
+      {
+        "master_field_id": 618,
+        "values": [
+          "Çin"
+        ]
+      }
+    ],
+    "main_img": {
+      "big": "https://strgimgr.umico.az/sized/1680/868002-0cb340bffb70c3bbe0685494d647e561.jpg",
+      "medium": "https://strgimgr.umico.az/sized/840/868002-0cb340bffb70c3bbe0685494d647e561.jpg",
+      "small": "https://strgimgr.umico.az/sized/280/868002-0cb340bffb70c3bbe0685494d647e561.jpg"
+    },
+    "img_url_thumbnail": "https://strgimgr.umico.az/sized/280/868002-0cb340bffb70c3bbe0685494d647e561.jpg",
+    "main_video": "",
+    "imgs": [
+      {
+        "big": "https://strgimgr.umico.az/sized/1680/868002-0cb340bffb70c3bbe0685494d647e561.jpg",
+        "medium": "https://strgimgr.umico.az/sized/840/868002-0cb340bffb70c3bbe0685494d647e561.jpg",
+        "small": "https://strgimgr.umico.az/sized/280/868002-0cb340bffb70c3bbe0685494d647e561.jpg"
+      },
+      {
+        "big": "https://strgimgr.umico.az/sized/1680/868002-aecb11796b2116925e54aead61b40c65.jpg",
+        "medium": "https://strgimgr.umico.az/sized/840/868002-aecb11796b2116925e54aead61b40c65.jpg",
+        "small": "https://strgimgr.umico.az/sized/280/868002-aecb11796b2116925e54aead61b40c65.jpg"
+      },
+      {
+        "big": "https://strgimgr.umico.az/sized/1680/868002-31c333b2491f2d596c45dc77e52cfda2.jpg",
+        "medium": "https://strgimgr.umico.az/sized/840/868002-31c333b2491f2d596c45dc77e52cfda2.jpg",
+        "small": "https://strgimgr.umico.az/sized/280/868002-31c333b2491f2d596c45dc77e52cfda2.jpg"
+      }
+    ],
+    "videos": [],
+    "min_qty": 1,
+    "preorder_available": false,
+    "is_assortment": false,
+    "is_bulk_heavy": false,
+    "is_refurbished": false,
+    "is_refundable": true,
+    "is_dangerous": false,
+    "show_tech_description": false,
+    "use_external_content": true,
+    "product_labels": [],
+    "ratings": {
+      "rating_value": 4.7,
+      "assessment_id": 0,
+      "session_count": 14,
+      "score_count": 10,
+      "review_count": 4
+    },
+    "default_show_stock_qty_threshold": 0,
+    "card_type": "public"
+  },
+  "category": {
+    "id": 4,
+    "name": "Ağıllı saatlar və fitnes qolbaqları",
+    "slugged_name_az": "agilli-saatlar-ve-fitnes-qolbaqlari",
+    "slugged_name_ru": "umnye-chasy-i-fitnes-braslety",
+    "view_mode": "products",
+    "mobile_visual_mode": "text",
+    "is_variant": false,
+    "depth": 2,
+    "parent_id": 2,
+    "child_ids": [],
+    "node_type": "NODE",
+    "install_service_needed": false,
+    "fitting_allowed": false,
+    "vat": true,
+    "variations": [
+      {
+        "master_field_id": 625,
+        "name": "Rəng",
+        "variation_tool_type": "image",
+        "has_size_chart": false,
+        "display_variant": false
+      },
+      {
+        "master_field_id": 1828,
+        "name": "Korpusun ölçüsü, mm",
+        "variation_tool_type": "button",
+        "has_size_chart": false,
+        "display_variant": false
+      },
+      {
+        "master_field_id": 1476,
+        "name": "Seriya",
+        "variation_tool_type": "button",
+        "has_size_chart": false,
+        "display_variant": false
+      }
+    ],
+    "custom_fields": [
+      {
+        "master_field_id": 1476,
+        "category_master_field_id": 10643,
+        "name": "Seriya"
+      },
+      {
+        "master_field_id": 620,
+        "category_master_field_id": 1445,
+        "name": "Tip"
+      },
+      {
+        "master_field_id": 621,
+        "category_master_field_id": 1446,
+        "name": "Uyğunluğu"
+      },
+      {
+        "master_field_id": 1828,
+        "category_master_field_id": 5545,
+        "name": "Korpusun ölçüsü, mm"
+      },
+      {
+        "master_field_id": 1827,
+        "category_master_field_id": 5544,
+        "name": "Ağıllı saatın ekranı"
+      },
+      {
+        "master_field_id": 1826,
+        "category_master_field_id": 5541,
+        "name": "SIM kartı"
+      },
+      {
+        "master_field_id": 826,
+        "category_master_field_id": 4623,
+        "name": "Akkumulyatorun həcmi, mA/saat"
+      },
+      {
+        "master_field_id": 2186,
+        "category_master_field_id": 45755,
+        "name": "Nəmə davamlı"
+      },
+      {
+        "master_field_id": 708,
+        "category_master_field_id": 4624,
+        "name": "Korpusun materialı"
+      },
+      {
+        "master_field_id": 625,
+        "category_master_field_id": 1451,
+        "name": "Rəng"
+      },
+      {
+        "master_field_id": 2211,
+        "category_master_field_id": 10648,
+        "name": "Zəmanət müddəti"
+      },
+      {
+        "master_field_id": 806,
+        "category_master_field_id": 15464,
+        "name": "Funksiyalar"
+      },
+      {
+        "master_field_id": 616,
+        "category_master_field_id": 1447,
+        "name": "Əməliyyat sistemi"
+      },
+      {
+        "master_field_id": 624,
+        "category_master_field_id": 1450,
+        "name": "Qayışın materialı"
+      },
+      {
+        "master_field_id": 1825,
+        "category_master_field_id": 5540,
+        "name": "Operativ yaddaş"
+      },
+      {
+        "master_field_id": 623,
+        "category_master_field_id": 1449,
+        "name": "Xüsusiyyətlər"
+      },
+      {
+        "master_field_id": 634,
+        "category_master_field_id": 5542,
+        "name": "Ekranın növü"
+      },
+      {
+        "master_field_id": 1739,
+        "category_master_field_id": 5543,
+        "name": "Sensor ekran"
+      },
+      {
+        "master_field_id": 1833,
+        "category_master_field_id": 5550,
+        "name": "Zənglər"
+      },
+      {
+        "master_field_id": 1752,
+        "category_master_field_id": 5551,
+        "name": "Kamera"
+      },
+      {
+        "master_field_id": 622,
+        "category_master_field_id": 1448,
+        "name": "İnterfeyslər"
+      },
+      {
+        "master_field_id": 1829,
+        "category_master_field_id": 5546,
+        "name": "Korpusun forması"
+      },
+      {
+        "master_field_id": 2552,
+        "category_master_field_id": 10645,
+        "name": "Korpusun qorunması"
+      },
+      {
+        "master_field_id": 1830,
+        "category_master_field_id": 5547,
+        "name": "Çıxarılan kəmər"
+      },
+      {
+        "master_field_id": 1831,
+        "category_master_field_id": 5548,
+        "name": "Multimedia"
+      },
+      {
+        "master_field_id": 1824,
+        "category_master_field_id": 5539,
+        "name": "Uzaqdan idarəetmə"
+      },
+      {
+        "master_field_id": 1832,
+        "category_master_field_id": 5549,
+        "name": "Smartfonlarla qarşılıqlı əlaqə"
+      },
+      {
+        "master_field_id": 1834,
+        "category_master_field_id": 5552,
+        "name": "Vibrasiya"
+      },
+      {
+        "master_field_id": 1835,
+        "category_master_field_id": 5553,
+        "name": "Naviqasiya, məlumatların ötürülməsi"
+      },
+      {
+        "master_field_id": 1836,
+        "category_master_field_id": 5554,
+        "name": "Enerji toplamanın xüsusiyyətləri"
+      },
+      {
+        "master_field_id": 721,
+        "category_master_field_id": 5555,
+        "name": "Akkumulyatorun növü"
+      },
+      {
+        "master_field_id": 761,
+        "category_master_field_id": 5537,
+        "name": "Cins"
+      },
+      {
+        "master_field_id": 1325,
+        "category_master_field_id": 4354,
+        "name": "Yaş qrupu"
+      },
+      {
+        "master_field_id": 870,
+        "category_master_field_id": 4626,
+        "name": "Çəki, q"
+      },
+      {
+        "master_field_id": 697,
+        "category_master_field_id": 10647,
+        "name": "Komplektasiya"
+      },
+      {
+        "master_field_id": 2635,
+        "category_master_field_id": 37277,
+        "name": "Bazarın başlanğıc ili"
+      },
+      {
+        "master_field_id": 2210,
+        "category_master_field_id": 10641,
+        "name": "Brendin ölkəsi"
+      },
+      {
+        "master_field_id": 618,
+        "category_master_field_id": 1444,
+        "name": "İstehsalçı ölkə"
+      },
+      {
+        "master_field_id": 6541,
+        "category_master_field_id": 44303,
+        "name": "İstehsalçı rəngi"
+      },
+      {
+        "master_field_id": 6334,
+        "category_master_field_id": 45122,
+        "name": "Vəziyyət"
+      }
+    ],
+    "parent": {
+      "id": 2,
+      "node_type": "NODE",
+      "name": "Telefonlar, Smart cihazlar və telefon aksessuarları",
+      "slugged_name": "telefonlar-ve-aksessuarlar",
+      "parent": {
+        "id": 1,
+        "node_type": "NODE",
+        "name": "Elektronika və məişət texnikası",
+        "slugged_name": "elektronika-ve-meishet-texnikasi",
+        "parent": null
+      }
+    },
+    "is_refundable": true,
+    "is_adult": false,
+    "icons": {
+      "thumbnail": "https://strgimgr.umico.az/img/category/188/358f11b7-3edc-4811-83af-955a1941b985.jpeg",
+      "original": "https://strgimgr.umico.az/img/category/original/358f11b7-3edc-4811-83af-955a1941b985.png"
+    },
+    "is_active": true
+  },
+  "offers": [
+    {
+      "uuid": "52087284-09a5-45bd-8341-9903741a6527",
+      "installment_enabled": true,
+      "max_installment_months": 18,
+      "product_offer_labels": [],
+      "old_price": 100,
+      "retail_price": 55.5,
+      "supplier_id": "c51b53fb-de1d-4cea-ba0e-7ef29fe20eb8",
+      "seller": {
+        "ext_id": "d0883133-efee-46dc-8cae-6c15af1c065c",
+        "internal_id": 15988,
+        "marketing_name": {
+          "id": 15988,
+          "name": "NovaShop"
+        },
+        "logo": {
+          "thumbnail": ""
+        },
+        "vat_payer": false,
+        "rating": 100,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "allow_qty": 0
+    },
+    {
+      "uuid": "bdfb2a50-32aa-4773-86fd-9b9bdce99e82",
+      "installment_enabled": true,
+      "max_installment_months": 18,
+      "product_offer_labels": [],
+      "old_price": 75,
+      "retail_price": 50.59,
+      "supplier_id": "3060c2e2-2489-4567-9bb1-c22a866de50b",
+      "seller": {
+        "ext_id": "852846d0-cbf0-4673-86b3-06820cf115aa",
+        "internal_id": 5999,
+        "marketing_name": {
+          "id": 5999,
+          "name": "Ultra"
+        },
+        "logo": {
+          "thumbnail": "https://storage.umico.az/cpcustomerprod01/03f5ecf9c36ce3870177883a0c8ce9fa.jpg"
+        },
+        "vat_payer": false,
+        "rating": 96,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "allow_qty": 0
+    },
+    {
+      "uuid": "98e6d275-4434-4729-be00-9a9a369ec7c3",
+      "installment_enabled": true,
+      "max_installment_months": 18,
+      "product_offer_labels": [],
+      "old_price": 100,
+      "retail_price": 55.5,
+      "supplier_id": "692428c5-5699-46f1-8de7-7f934485a8a2",
+      "seller": {
+        "ext_id": "af428651-751f-4e6a-9dab-5eca08fb79b9",
+        "internal_id": 16766,
+        "marketing_name": {
+          "id": 16766,
+          "name": "Galactic store"
+        },
+        "logo": {
+          "thumbnail": ""
+        },
+        "vat_payer": false,
+        "rating": 92,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "allow_qty": 0
+    },
+    {
+      "uuid": "94892e11-6f29-4b53-9ca6-1c0fa03f38dd",
+      "installment_enabled": true,
+      "max_installment_months": 18,
+      "product_offer_labels": [],
+      "old_price": 80,
+      "retail_price": 55.5,
+      "supplier_id": "91427e22-9bcd-4d1d-b0a7-0a507243af92",
+      "seller": {
+        "ext_id": "38835511-d603-4087-b333-626e718d0f6d",
+        "internal_id": 16770,
+        "marketing_name": {
+          "id": 16770,
+          "name": "Galaxy"
+        },
+        "logo": {
+          "thumbnail": ""
+        },
+        "vat_payer": false,
+        "rating": 80,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "allow_qty": 0
+    },
+    {
+      "uuid": "f46fac0d-f54d-4f85-a282-4b68965b6ce2",
+      "installment_enabled": true,
+      "max_installment_months": 18,
+      "product_offer_labels": [],
+      "old_price": 100,
+      "retail_price": 57,
+      "supplier_id": "48f8e3ef-37b0-4ee5-a7b0-66a84784fc54",
+      "seller": {
+        "ext_id": "4e7e371a-cb6f-4dcc-91d6-6975782342c1",
+        "internal_id": 11528,
+        "marketing_name": {
+          "id": 11528,
+          "name": "FF home"
+        },
+        "logo": {
+          "thumbnail": ""
+        },
+        "vat_payer": false,
+        "rating": 82,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "allow_qty": 0
+    },
+    {
+      "uuid": "802c3f67-a03b-42fc-ba25-ddb179674b22",
+      "installment_enabled": true,
+      "max_installment_months": 18,
+      "product_offer_labels": [],
+      "old_price": 100,
+      "retail_price": 57,
+      "supplier_id": "b3d78885-bcb7-4588-919a-9c9503d54f32",
+      "seller": {
+        "ext_id": "9d3b99b8-f0df-4851-ba10-f8baaaff6650",
+        "internal_id": 16590,
+        "marketing_name": {
+          "id": 16590,
+          "name": "Bellora"
+        },
+        "logo": {
+          "thumbnail": ""
+        },
+        "vat_payer": false,
+        "rating": 93,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "allow_qty": 0
+    },
+    {
+      "uuid": "e708c213-839a-4007-8a65-80e3e8918f07",
+      "installment_enabled": true,
+      "max_installment_months": 18,
+      "product_offer_labels": [],
+      "old_price": 100,
+      "retail_price": 55.5,
+      "supplier_id": "3bd08cdf-311d-440c-9527-3798a74e50b4",
+      "seller": {
+        "ext_id": "ec8d3662-0921-47b1-9466-647a2a31564f",
+        "internal_id": 15781,
+        "marketing_name": {
+          "id": 15781,
+          "name": "Saat Shop"
+        },
+        "logo": {
+          "thumbnail": ""
+        },
+        "vat_payer": false,
+        "rating": 100,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "allow_qty": 0
+    },
+    {
+      "uuid": "54f6ce03-2cd8-4052-9a07-2b8119db96d5",
+      "installment_enabled": true,
+      "max_installment_months": 18,
+      "product_offer_labels": [],
+      "old_price": 100,
+      "retail_price": 50.6,
+      "supplier_id": "2cdff3b4-08a1-424e-9e05-79c508168949",
+      "seller": {
+        "ext_id": "7cff31fb-c983-43d3-9228-feaeb7dd33ed",
+        "internal_id": 17079,
+        "marketing_name": {
+          "id": 17079,
+          "name": "TT-MALL"
+        },
+        "logo": {
+          "thumbnail": ""
+        },
+        "vat_payer": false,
+        "rating": 100,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "allow_qty": 0
+    },
+    {
+      "uuid": "f9d48c51-4b25-40de-b7d4-3f09ddb94944",
+      "installment_enabled": true,
+      "max_installment_months": 18,
+      "product_offer_labels": [],
+      "old_price": 80,
+      "retail_price": 42.39,
+      "supplier_id": "3a4ac4a3-9ac5-47a6-b119-d432f5e1052b",
+      "seller": {
+        "ext_id": "04f8687d-8079-47b2-8701-c7cf6e379743",
+        "internal_id": 4236,
+        "marketing_name": {
+          "id": 4236,
+          "name": "Bir electronics"
+        },
+        "logo": {
+          "thumbnail": "https://storage.umico.az/cpcustomerprod01/349c844bd9683c4253850c7873f41bd4.jpeg"
+        },
+        "vat_payer": false,
+        "rating": 92,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "allow_qty": 0
+    }
+  ],
+  "variations": [
+    {
+      "id": 868002,
+      "name": "Ağıllı saat Smart Watch A58 Plus Pink",
+      "slugged_name": "agilli-saat-smart-watch-a58-plus-pink",
+      "custom_fields": [
+        {
+          "master_field_id": 625,
+          "values": [
+            "Çəhrayı"
+          ]
+        },
+        {
+          "master_field_id": 1828,
+          "values": [
+            "2.01"
+          ]
+        },
+        {
+          "master_field_id": 1476,
+          "values": [
+            "Smart Watch A58 Plus"
+          ]
+        }
+      ],
+      "main_img": {
+        "big": "https://strgimgr.umico.az/sized/1680/868002-0cb340bffb70c3bbe0685494d647e561.jpg",
+        "medium": "https://strgimgr.umico.az/sized/840/868002-0cb340bffb70c3bbe0685494d647e561.jpg",
+        "small": "https://strgimgr.umico.az/sized/280/868002-0cb340bffb70c3bbe0685494d647e561.jpg"
+      },
+      "status": "active"
+    }
+  ],
+  "size_chart": {},
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "sku": 868002,
+    "mpn": "A58 Plus Pink",
+    "url": "https://birmarket.az/product/868002-agilli-saat-smart-watch-a58-plus-pink",
+    "name": "Ağıllı saat Smart Watch A58 Plus Pink",
+    "image": [
+      "https://strgimgr.umico.az/sized/1680/868002-0cb340bffb70c3bbe0685494d647e561.jpg",
+      "https://strgimgr.umico.az/sized/1680/868002-aecb11796b2116925e54aead61b40c65.jpg",
+      "https://strgimgr.umico.az/sized/1680/868002-31c333b2491f2d596c45dc77e52cfda2.jpg"
+    ],
+    "description": "Ağıllı saatlar Smart Watch A58 Plus Pink - 2.01 düym ölçüsündə sensorlu rəngli ekranı olan funksional cihazlardır, sink ərintisindən hazırlanmışdırlar. Onlar Android və iOS əsaslı cihazlarla uyğun gəlir, zənglər haqqında məlumatlandırma təmin edir və Bluetooth interfeysini dəstəkləyir. Saatlar nəbz, ürək ritmi, qanda oksigen səviyyəsi və yuxu keyfiyyətinin izlənməsini təmin edir. Çıxarılan silikon kəmər və 220,300 mA/saat tutumunda batareya onların istifadəsini rahat edir, çəhrayı rəngli dizaynı isə onları stil aksesuarı edir. Böyük qadınlara uyğundur.",
+    "itemCondition": "https://schema.org/NewCondition",
+    "offers": {
+      "@type": "AggregateOffer",
+      "availability": "https://schema.org/InStock",
+      "offerCount": 9,
+      "highPrice": 57,
+      "lowPrice": 42.39,
+      "priceCurrency": "AZN",
+      "hasMerchantReturnPolicy": {
+        "applicableCountry": "AZ",
+        "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+        "returnMethod": "https://schema.org/ReturnInStore",
+        "returnFees": "https://schema.org/FreeReturn",
+        "merchantReturnDays": 14
+      },
+      "shippingDetails": {
+        "@type": "OfferShippingDetails",
+        "shippingDestination": {
+          "@type": "DefinedRegion",
+          "addressCountry": "AZ"
+        },
+        "deliveryTime": {
+          "@type": "ShippingDeliveryTime",
+          "handlingTime": {
+            "@type": "QuantitativeValue",
+            "minValue": 0,
+            "maxValue": 1,
+            "unitCode": "DAY"
+          },
+          "transitTime": {
+            "@type": "QuantitativeValue",
+            "minValue": 0,
+            "maxValue": 1,
+            "unitCode": "DAY"
+          },
+          "businessDays": {
+            "@type": "OpeningHoursSpecification",
+            "dayOfWeek": [
+              "https://schema.org/Monday",
+              "https://schema.org/Tuesday",
+              "https://schema.org/Wednesday",
+              "https://schema.org/Thursday",
+              "https://schema.org/Friday",
+              "https://schema.org/Saturday",
+              "https://schema.org/Sunday"
+            ]
+          }
+        },
+        "shippingRate": {
+          "@type": "MonetaryAmount",
+          "value": 0,
+          "currency": "AZN"
+        }
+      }
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": 5,
+      "reviewCount": 4
+    },
+    "brand": {
+      "@type": "Brand",
+      "name": "Smart Watch",
+      "url": "https://birmarket.az/brands/Smart%20Watch"
+    }
+  }
+}

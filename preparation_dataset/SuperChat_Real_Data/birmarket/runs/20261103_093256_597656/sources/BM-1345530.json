@@ -1,0 +1,405 @@
+{
+  "product": {
+    "id": 1345530,
+    "gtin": "",
+    "mpn": "foxxcanta30",
+    "name": "Bel çantası Kanken classic, mavi, 27x11x38 sm",
+    "slugged_name_az": "kanken-classic",
+    "slugged_name_ru": "kanken-classic",
+    "description": "Kanken classic kürək çantası şəhər üslubu üçün dəbli və funksional bir aksesuardır. Dayanıqlı və yüngül mavi rəngli polyester materialdan hazırlanmışdır. Həm kişilər, həm də qadınlar üçün idealdır. Çantanın ölçüləri 27x11x38 sm-dir, bu da şəxsi əşyalar üçün kifayət qədər yer təmin edir. Keyfiyyət və uzunömürlülüyü təmin edən Çin istehsalıdır.",
+    "description_outlet": "",
+    "status": "active",
+    "uuid": "62f0ec56-4fe1-49bd-b026-2f2ed3b9e0c4",
+    "variant_code": "VC_1345530",
+    "default_offer": {
+      "uuid": "bb770d69-9256-4318-90a4-5804c90bfc2c",
+      "installment_enabled": true,
+      "max_installment_months": 3,
+      "product_offer_labels": [],
+      "old_price": 0,
+      "retail_price": 45,
+      "supplier_id": "1812096f-8091-4132-8ff4-a4879b66e17a",
+      "qty": 0,
+      "seller": {
+        "ext_id": "1812096f-8091-4132-8ff4-a4879b66e17a",
+        "marketing_name": {
+          "id": 8353,
+          "name": "Foxx çanta"
+        },
+        "logo": {
+          "thumbnail": "https://storage.umico.az/cpcustomerprod01/00b424460b4b4e77830219ad61e5d655.jpg"
+        },
+        "vat_payer": false,
+        "rating": 86,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "discount_effective_start_date": "",
+      "discount_effective_end_date": ""
+    },
+    "category_id": 2283,
+    "category": {
+      "id": 2283,
+      "name": "Şəhər bel çantaları"
+    },
+    "brand": {
+      "name": "No Brand"
+    },
+    "custom_fields": [
+      {
+        "master_field_id": 625,
+        "values": [
+          "Mavi"
+        ]
+      },
+      {
+        "master_field_id": 637,
+        "values": [
+          "Poliester"
+        ]
+      },
+      {
+        "master_field_id": 1412,
+        "values": [
+          "38"
+        ]
+      },
+      {
+        "master_field_id": 1206,
+        "values": [
+          "27"
+        ]
+      },
+      {
+        "master_field_id": 761,
+        "values": [
+          "Hər kəs üçün"
+        ]
+      },
+      {
+        "master_field_id": 1448,
+        "values": [
+          "11"
+        ]
+      },
+      {
+        "master_field_id": 618,
+        "values": [
+          "Çin"
+        ]
+      }
+    ],
+    "main_img": {
+      "big": "https://strgimgr.umico.az/img/product/1680/b7772fc5-0735-4e88-ae4c-c2bdef1cd8c2.jpeg",
+      "medium": "https://strgimgr.umico.az/img/product/840/b7772fc5-0735-4e88-ae4c-c2bdef1cd8c2.jpeg",
+      "small": "https://strgimgr.umico.az/img/product/280/b7772fc5-0735-4e88-ae4c-c2bdef1cd8c2.jpeg"
+    },
+    "img_url_thumbnail": "https://strgimgr.umico.az/img/product/280/b7772fc5-0735-4e88-ae4c-c2bdef1cd8c2.jpeg",
+    "main_video": "",
+    "imgs": [
+      {
+        "big": "https://strgimgr.umico.az/img/product/1680/b7772fc5-0735-4e88-ae4c-c2bdef1cd8c2.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/b7772fc5-0735-4e88-ae4c-c2bdef1cd8c2.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/b7772fc5-0735-4e88-ae4c-c2bdef1cd8c2.jpeg"
+      },
+      {
+        "big": "https://strgimgr.umico.az/img/product/1680/ce856060-9597-4657-9f86-1e8cb1fcf06e.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/ce856060-9597-4657-9f86-1e8cb1fcf06e.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/ce856060-9597-4657-9f86-1e8cb1fcf06e.jpeg"
+      },
+      {
+        "big": "https://strgimgr.umico.az/img/product/1680/d4152c4f-da7a-491e-b752-6fb1b61e02a5.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/d4152c4f-da7a-491e-b752-6fb1b61e02a5.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/d4152c4f-da7a-491e-b752-6fb1b61e02a5.jpeg"
+      },
+      {
+        "big": "https://strgimgr.umico.az/img/product/1680/bbd4daf0-f0d5-4ae3-8547-26e11a4e99e4.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/bbd4daf0-f0d5-4ae3-8547-26e11a4e99e4.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/bbd4daf0-f0d5-4ae3-8547-26e11a4e99e4.jpeg"
+      },
+      {
+        "big": "https://strgimgr.umico.az/img/product/1680/e5243e50-c824-45ed-9a61-af0607893285.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/e5243e50-c824-45ed-9a61-af0607893285.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/e5243e50-c824-45ed-9a61-af0607893285.jpeg"
+      },
+      {
+        "big": "https://strgimgr.umico.az/img/product/1680/179e3814-63ab-4c5f-9081-306deb460a40.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/179e3814-63ab-4c5f-9081-306deb460a40.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/179e3814-63ab-4c5f-9081-306deb460a40.jpeg"
+      }
+    ],
+    "videos": [],
+    "min_qty": 1,
+    "preorder_available": false,
+    "is_assortment": false,
+    "is_bulk_heavy": false,
+    "is_refurbished": false,
+    "is_refundable": true,
+    "is_dangerous": false,
+    "show_tech_description": false,
+    "use_external_content": true,
+    "product_labels": [],
+    "ratings": {
+      "rating_value": 0,
+      "assessment_id": 0,
+      "session_count": 0
+    },
+    "default_show_stock_qty_threshold": 0,
+    "card_type": "public"
+  },
+  "category": {
+    "id": 2283,
+    "name": "Şəhər bel çantaları",
+    "slugged_name_az": "sheher-bel-chantalari",
+    "slugged_name_ru": "ryukzaki-gorodskie",
+    "view_mode": "products",
+    "mobile_visual_mode": "text",
+    "is_variant": false,
+    "depth": 2,
+    "parent_id": 2267,
+    "child_ids": [],
+    "node_type": "NODE",
+    "install_service_needed": false,
+    "fitting_allowed": false,
+    "vat": true,
+    "variations": [
+      {
+        "master_field_id": 638,
+        "name": "Naxışlar və printlər",
+        "variation_tool_type": "default",
+        "has_size_chart": false,
+        "display_variant": false
+      },
+      {
+        "master_field_id": 625,
+        "name": "Rəng",
+        "variation_tool_type": "default",
+        "has_size_chart": false,
+        "display_variant": false
+      }
+    ],
+    "custom_fields": [
+      {
+        "master_field_id": 625,
+        "category_master_field_id": 11134,
+        "name": "Rəng"
+      },
+      {
+        "master_field_id": 637,
+        "category_master_field_id": 11132,
+        "name": "Material"
+      },
+      {
+        "master_field_id": 639,
+        "category_master_field_id": 11141,
+        "name": "Kilid növü"
+      },
+      {
+        "master_field_id": 1412,
+        "category_master_field_id": 11136,
+        "name": "Uzunluğu, sm"
+      },
+      {
+        "master_field_id": 1206,
+        "category_master_field_id": 11137,
+        "name": "Eni, sm"
+      },
+      {
+        "master_field_id": 761,
+        "category_master_field_id": 11133,
+        "name": "Cins"
+      },
+      {
+        "master_field_id": 908,
+        "category_master_field_id": 11143,
+        "name": "Həcm, L"
+      },
+      {
+        "master_field_id": 638,
+        "category_master_field_id": 11135,
+        "name": "Naxışlar və printlər"
+      },
+      {
+        "master_field_id": 1448,
+        "category_master_field_id": 37676,
+        "name": "Dərinliyi, sm"
+      },
+      {
+        "master_field_id": 762,
+        "category_master_field_id": 11139,
+        "name": "Bölmələrin sayı"
+      },
+      {
+        "master_field_id": 623,
+        "category_master_field_id": 11140,
+        "name": "Xüsusiyyətlər"
+      },
+      {
+        "master_field_id": 2637,
+        "category_master_field_id": 11142,
+        "name": "Bel çantasının arxası"
+      },
+      {
+        "master_field_id": 870,
+        "category_master_field_id": 11144,
+        "name": "Çəki, q"
+      },
+      {
+        "master_field_id": 618,
+        "category_master_field_id": 11145,
+        "name": "İstehsalçı ölkə"
+      },
+      {
+        "master_field_id": 2210,
+        "category_master_field_id": 11146,
+        "name": "Brendin ölkəsi"
+      }
+    ],
+    "parent": {
+      "id": 2267,
+      "node_type": "NODE",
+      "name": "Çantalar, pul kisələri və aksessuarlar",
+      "slugged_name": "chantalar-pul-kiseleri-ve-aksessuarlar",
+      "parent": {
+        "id": 3003,
+        "node_type": "NODE",
+        "name": "Geyim,ayaqqabı və aksessuarlar",
+        "slugged_name": "geyim-ve-ayaqqabi",
+        "parent": null
+      }
+    },
+    "is_refundable": true,
+    "is_adult": false,
+    "icons": {
+      "thumbnail": "https://strgimgr.umico.az/img/category/188/4030f9db-3c53-4a51-905b-ab006bb8b9af.jpeg",
+      "original": "https://strgimgr.umico.az/img/category/original/4030f9db-3c53-4a51-905b-ab006bb8b9af.jpeg"
+    },
+    "is_active": true
+  },
+  "offers": [
+    {
+      "uuid": "bb770d69-9256-4318-90a4-5804c90bfc2c",
+      "installment_enabled": true,
+      "max_installment_months": 3,
+      "product_offer_labels": [],
+      "old_price": 0,
+      "retail_price": 45,
+      "supplier_id": "1812096f-8091-4132-8ff4-a4879b66e17a",
+      "seller": {
+        "ext_id": "3675c5e6-d4ca-449d-a0d9-45beb3a6db8d",
+        "internal_id": 8353,
+        "marketing_name": {
+          "id": 8353,
+          "name": "Foxx çanta"
+        },
+        "logo": {
+          "thumbnail": "https://storage.umico.az/cpcustomerprod01/00b424460b4b4e77830219ad61e5d655.jpg"
+        },
+        "vat_payer": false,
+        "rating": 86,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "allow_qty": 0
+    }
+  ],
+  "variations": [
+    {
+      "id": 1345530,
+      "name": "Bel çantası Kanken classic, mavi, 27x11x38 sm",
+      "slugged_name": "kanken-classic",
+      "custom_fields": [
+        {
+          "master_field_id": 625,
+          "values": [
+            "Mavi"
+          ]
+        }
+      ],
+      "main_img": {
+        "big": "https://strgimgr.umico.az/img/product/1680/b7772fc5-0735-4e88-ae4c-c2bdef1cd8c2.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/b7772fc5-0735-4e88-ae4c-c2bdef1cd8c2.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/b7772fc5-0735-4e88-ae4c-c2bdef1cd8c2.jpeg"
+      },
+      "status": "active"
+    }
+  ],
+  "size_chart": {},
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "sku": 1345530,
+    "mpn": "foxxcanta30",
+    "url": "https://birmarket.az/product/1345530-kanken-classic",
+    "name": "Bel çantası Kanken classic, mavi, 27x11x38 sm",
+    "image": [
+      "https://strgimgr.umico.az/img/product/1680/b7772fc5-0735-4e88-ae4c-c2bdef1cd8c2.jpeg",
+      "https://strgimgr.umico.az/img/product/1680/ce856060-9597-4657-9f86-1e8cb1fcf06e.jpeg",
+      "https://strgimgr.umico.az/img/product/1680/d4152c4f-da7a-491e-b752-6fb1b61e02a5.jpeg",
+      "https://strgimgr.umico.az/img/product/1680/bbd4daf0-f0d5-4ae3-8547-26e11a4e99e4.jpeg",
+      "https://strgimgr.umico.az/img/product/1680/e5243e50-c824-45ed-9a61-af0607893285.jpeg",
+      "https://strgimgr.umico.az/img/product/1680/179e3814-63ab-4c5f-9081-306deb460a40.jpeg"
+    ],
+    "description": "Kanken classic kürək çantası şəhər üslubu üçün dəbli və funksional bir aksesuardır. Dayanıqlı və yüngül mavi rəngli polyester materialdan hazırlanmışdır. Həm kişilər, həm də qadınlar üçün idealdır. Çantanın ölçüləri 27x11x38 sm-dir, bu da şəxsi əşyalar üçün kifayət qədər yer təmin edir. Keyfiyyət və uzunömürlülüyü təmin edən Çin istehsalıdır.",
+    "itemCondition": "https://schema.org/NewCondition",
+    "offers": {
+      "@type": "Offer",
+      "availability": "https://schema.org/InStock",
+      "url": "https://birmarket.az/product/1345530-kanken-classic",
+      "price": 45,
+      "priceCurrency": "AZN",
+      "priceValidUntil": "2026-12-03T09:33:40+04:00Z",
+      "hasMerchantReturnPolicy": {
+        "applicableCountry": "AZ",
+        "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+        "returnMethod": "https://schema.org/ReturnInStore",
+        "returnFees": "https://schema.org/FreeReturn",
+        "merchantReturnDays": 14
+      },
+      "shippingDetails": {
+        "@type": "OfferShippingDetails",
+        "shippingDestination": {
+          "@type": "DefinedRegion",
+          "addressCountry": "AZ"
+        },
+        "deliveryTime": {
+          "@type": "ShippingDeliveryTime",
+          "handlingTime": {
+            "@type": "QuantitativeValue",
+            "minValue": 0,
+            "maxValue": 1,
+            "unitCode": "DAY"
+          },
+          "transitTime": {
+            "@type": "QuantitativeValue",
+            "minValue": 0,
+            "maxValue": 1,
+            "unitCode": "DAY"
+          },
+          "businessDays": {
+            "@type": "OpeningHoursSpecification",
+            "dayOfWeek": [
+              "https://schema.org/Monday",
+              "https://schema.org/Tuesday",
+              "https://schema.org/Wednesday",
+              "https://schema.org/Thursday",
+              "https://schema.org/Friday",
+              "https://schema.org/Saturday",
+              "https://schema.org/Sunday"
+            ]
+          }
+        },
+        "shippingRate": {
+          "@type": "MonetaryAmount",
+          "value": 0,
+          "currency": "AZN"
+        }
+      }
+    },
+    "brand": {
+      "@type": "Brand",
+      "name": "No Brand",
+      "url": "https://birmarket.az/brands/No%20Brand"
+    }
+  }
+}

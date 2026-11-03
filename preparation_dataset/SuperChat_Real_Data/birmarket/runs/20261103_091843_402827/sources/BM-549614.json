@@ -1,0 +1,399 @@
+{
+  "product": {
+    "id": 549614,
+    "gtin": "",
+    "mpn": "KDML_ID_crrt",
+    "name": "Şəhər bel çantası KDML narıncı",
+    "slugged_name_az": "sheher-bel-chantasi-kdml-narinci",
+    "slugged_name_ru": "ryukzak-gorodskoy-kdml-oranzhevyy",
+    "description": "",
+    "description_outlet": "",
+    "status": "active",
+    "uuid": "8a62d199-2c52-46e4-8978-e2ce10092436",
+    "variant_code": "VC_549614",
+    "default_offer": {
+      "uuid": "d9351d78-6635-4dfa-9328-fa0336ce103e",
+      "installment_enabled": true,
+      "max_installment_months": 3,
+      "product_offer_labels": [],
+      "old_price": 48,
+      "retail_price": 34,
+      "supplier_id": "728f837a-ca23-463d-9dd2-9c60d48c0bab",
+      "qty": 0,
+      "seller": {
+        "ext_id": "728f837a-ca23-463d-9dd2-9c60d48c0bab",
+        "marketing_name": {
+          "id": 3521,
+          "name": "SASA  ACCESSORIES"
+        },
+        "logo": {
+          "thumbnail": "https://storage.umico.az/cpcustomerprod01/c5b2e18cbd180f3d3ca4b11a32ca0354.jpg"
+        },
+        "vat_payer": false,
+        "rating": 100,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "discount_effective_start_date": "",
+      "discount_effective_end_date": ""
+    },
+    "category_id": 2283,
+    "category": {
+      "id": 2283,
+      "name": "Şəhər bel çantaları"
+    },
+    "brand": {
+      "name": "No Brand"
+    },
+    "custom_fields": [
+      {
+        "master_field_id": 625,
+        "values": [
+          "Narıncı"
+        ]
+      },
+      {
+        "master_field_id": 637,
+        "values": [
+          "Neylon"
+        ]
+      },
+      {
+        "master_field_id": 1412,
+        "values": [
+          "46"
+        ]
+      },
+      {
+        "master_field_id": 1206,
+        "values": [
+          "31"
+        ]
+      },
+      {
+        "master_field_id": 639,
+        "values": [
+          "Zəncirbənd"
+        ]
+      },
+      {
+        "master_field_id": 638,
+        "values": [
+          "Naxışsız və printsiz"
+        ]
+      },
+      {
+        "master_field_id": 1448,
+        "values": [
+          "19"
+        ]
+      },
+      {
+        "master_field_id": 762,
+        "values": [
+          "6"
+        ]
+      },
+      {
+        "master_field_id": 618,
+        "values": [
+          "Çin"
+        ]
+      }
+    ],
+    "main_img": {
+      "big": "https://strgimgr.umico.az/sized/1680/549614-75bd40c406717b93de5063ef76fdfb0c.jpg",
+      "medium": "https://strgimgr.umico.az/sized/840/549614-75bd40c406717b93de5063ef76fdfb0c.jpg",
+      "small": "https://strgimgr.umico.az/sized/280/549614-75bd40c406717b93de5063ef76fdfb0c.jpg"
+    },
+    "img_url_thumbnail": "https://strgimgr.umico.az/sized/280/549614-75bd40c406717b93de5063ef76fdfb0c.jpg",
+    "main_video": "",
+    "imgs": [
+      {
+        "big": "https://strgimgr.umico.az/sized/1680/549614-75bd40c406717b93de5063ef76fdfb0c.jpg",
+        "medium": "https://strgimgr.umico.az/sized/840/549614-75bd40c406717b93de5063ef76fdfb0c.jpg",
+        "small": "https://strgimgr.umico.az/sized/280/549614-75bd40c406717b93de5063ef76fdfb0c.jpg"
+      },
+      {
+        "big": "https://strgimgr.umico.az/sized/1680/549614-0b06b1aee04c56eb157e2977be641938.jpg",
+        "medium": "https://strgimgr.umico.az/sized/840/549614-0b06b1aee04c56eb157e2977be641938.jpg",
+        "small": "https://strgimgr.umico.az/sized/280/549614-0b06b1aee04c56eb157e2977be641938.jpg"
+      }
+    ],
+    "videos": [],
+    "min_qty": 1,
+    "preorder_available": false,
+    "is_assortment": false,
+    "is_bulk_heavy": false,
+    "is_refurbished": false,
+    "is_refundable": true,
+    "is_dangerous": false,
+    "show_tech_description": false,
+    "use_external_content": true,
+    "product_labels": [],
+    "ratings": {
+      "rating_value": 0,
+      "assessment_id": 0,
+      "session_count": 0
+    },
+    "default_show_stock_qty_threshold": 0,
+    "card_type": "public"
+  },
+  "category": {
+    "id": 2283,
+    "name": "Şəhər bel çantaları",
+    "slugged_name_az": "sheher-bel-chantalari",
+    "slugged_name_ru": "ryukzaki-gorodskie",
+    "view_mode": "products",
+    "mobile_visual_mode": "text",
+    "is_variant": false,
+    "depth": 2,
+    "parent_id": 2267,
+    "child_ids": [],
+    "node_type": "NODE",
+    "install_service_needed": false,
+    "fitting_allowed": false,
+    "vat": true,
+    "variations": [
+      {
+        "master_field_id": 638,
+        "name": "Naxışlar və printlər",
+        "variation_tool_type": "default",
+        "has_size_chart": false,
+        "display_variant": false
+      },
+      {
+        "master_field_id": 625,
+        "name": "Rəng",
+        "variation_tool_type": "default",
+        "has_size_chart": false,
+        "display_variant": false
+      }
+    ],
+    "custom_fields": [
+      {
+        "master_field_id": 625,
+        "category_master_field_id": 11134,
+        "name": "Rəng"
+      },
+      {
+        "master_field_id": 637,
+        "category_master_field_id": 11132,
+        "name": "Material"
+      },
+      {
+        "master_field_id": 639,
+        "category_master_field_id": 11141,
+        "name": "Kilid növü"
+      },
+      {
+        "master_field_id": 1412,
+        "category_master_field_id": 11136,
+        "name": "Uzunluğu, sm"
+      },
+      {
+        "master_field_id": 1206,
+        "category_master_field_id": 11137,
+        "name": "Eni, sm"
+      },
+      {
+        "master_field_id": 761,
+        "category_master_field_id": 11133,
+        "name": "Cins"
+      },
+      {
+        "master_field_id": 908,
+        "category_master_field_id": 11143,
+        "name": "Həcm, L"
+      },
+      {
+        "master_field_id": 638,
+        "category_master_field_id": 11135,
+        "name": "Naxışlar və printlər"
+      },
+      {
+        "master_field_id": 1448,
+        "category_master_field_id": 37676,
+        "name": "Dərinliyi, sm"
+      },
+      {
+        "master_field_id": 762,
+        "category_master_field_id": 11139,
+        "name": "Bölmələrin sayı"
+      },
+      {
+        "master_field_id": 623,
+        "category_master_field_id": 11140,
+        "name": "Xüsusiyyətlər"
+      },
+      {
+        "master_field_id": 2637,
+        "category_master_field_id": 11142,
+        "name": "Bel çantasının arxası"
+      },
+      {
+        "master_field_id": 870,
+        "category_master_field_id": 11144,
+        "name": "Çəki, q"
+      },
+      {
+        "master_field_id": 618,
+        "category_master_field_id": 11145,
+        "name": "İstehsalçı ölkə"
+      },
+      {
+        "master_field_id": 2210,
+        "category_master_field_id": 11146,
+        "name": "Brendin ölkəsi"
+      }
+    ],
+    "parent": {
+      "id": 2267,
+      "node_type": "NODE",
+      "name": "Çantalar, pul kisələri və aksessuarlar",
+      "slugged_name": "chantalar-pul-kiseleri-ve-aksessuarlar",
+      "parent": {
+        "id": 3003,
+        "node_type": "NODE",
+        "name": "Geyim,ayaqqabı və aksessuarlar",
+        "slugged_name": "geyim-ve-ayaqqabi",
+        "parent": null
+      }
+    },
+    "is_refundable": true,
+    "is_adult": false,
+    "icons": {
+      "thumbnail": "https://strgimgr.umico.az/img/category/188/4030f9db-3c53-4a51-905b-ab006bb8b9af.jpeg",
+      "original": "https://strgimgr.umico.az/img/category/original/4030f9db-3c53-4a51-905b-ab006bb8b9af.jpeg"
+    },
+    "is_active": true
+  },
+  "offers": [
+    {
+      "uuid": "d9351d78-6635-4dfa-9328-fa0336ce103e",
+      "installment_enabled": true,
+      "max_installment_months": 3,
+      "product_offer_labels": [],
+      "old_price": 48,
+      "retail_price": 34,
+      "supplier_id": "728f837a-ca23-463d-9dd2-9c60d48c0bab",
+      "seller": {
+        "ext_id": "55f476c0-b3fe-444a-bfab-4dc92bbd42f3",
+        "internal_id": 3521,
+        "marketing_name": {
+          "id": 3521,
+          "name": "SASA  ACCESSORIES"
+        },
+        "logo": {
+          "thumbnail": "https://storage.umico.az/cpcustomerprod01/c5b2e18cbd180f3d3ca4b11a32ca0354.jpg"
+        },
+        "vat_payer": false,
+        "rating": 100,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "allow_qty": 0
+    }
+  ],
+  "variations": [
+    {
+      "id": 549614,
+      "name": "Şəhər bel çantası KDML narıncı",
+      "slugged_name": "sheher-bel-chantasi-kdml-narinci",
+      "custom_fields": [
+        {
+          "master_field_id": 638,
+          "values": [
+            "Naxışsız və printsiz"
+          ]
+        },
+        {
+          "master_field_id": 625,
+          "values": [
+            "Narıncı"
+          ]
+        }
+      ],
+      "main_img": {
+        "big": "https://strgimgr.umico.az/sized/1680/549614-75bd40c406717b93de5063ef76fdfb0c.jpg",
+        "medium": "https://strgimgr.umico.az/sized/840/549614-75bd40c406717b93de5063ef76fdfb0c.jpg",
+        "small": "https://strgimgr.umico.az/sized/280/549614-75bd40c406717b93de5063ef76fdfb0c.jpg"
+      },
+      "status": "active"
+    }
+  ],
+  "size_chart": {},
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "sku": 549614,
+    "mpn": "KDML_ID_crrt",
+    "url": "https://birmarket.az/product/549614-sheher-bel-chantasi-kdml-narinci",
+    "name": "Şəhər bel çantası KDML narıncı",
+    "image": [
+      "https://strgimgr.umico.az/sized/1680/549614-75bd40c406717b93de5063ef76fdfb0c.jpg",
+      "https://strgimgr.umico.az/sized/1680/549614-0b06b1aee04c56eb157e2977be641938.jpg"
+    ],
+    "description": "Şəhər bel çantası KDML narıncı - KREDİTLƏ ayda ◉ 1.74₼-dən ♢Birmarket-dən Bakı və Azərbaycan üzrə çatdırılma",
+    "itemCondition": "https://schema.org/NewCondition",
+    "offers": {
+      "@type": "Offer",
+      "availability": "https://schema.org/InStock",
+      "url": "https://birmarket.az/product/549614-sheher-bel-chantasi-kdml-narinci",
+      "price": 34,
+      "priceCurrency": "AZN",
+      "priceValidUntil": "2026-12-03T09:19:18+04:00Z",
+      "hasMerchantReturnPolicy": {
+        "applicableCountry": "AZ",
+        "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+        "returnMethod": "https://schema.org/ReturnInStore",
+        "returnFees": "https://schema.org/FreeReturn",
+        "merchantReturnDays": 14
+      },
+      "shippingDetails": {
+        "@type": "OfferShippingDetails",
+        "shippingDestination": {
+          "@type": "DefinedRegion",
+          "addressCountry": "AZ"
+        },
+        "deliveryTime": {
+          "@type": "ShippingDeliveryTime",
+          "handlingTime": {
+            "@type": "QuantitativeValue",
+            "minValue": 0,
+            "maxValue": 1,
+            "unitCode": "DAY"
+          },
+          "transitTime": {
+            "@type": "QuantitativeValue",
+            "minValue": 0,
+            "maxValue": 1,
+            "unitCode": "DAY"
+          },
+          "businessDays": {
+            "@type": "OpeningHoursSpecification",
+            "dayOfWeek": [
+              "https://schema.org/Monday",
+              "https://schema.org/Tuesday",
+              "https://schema.org/Wednesday",
+              "https://schema.org/Thursday",
+              "https://schema.org/Friday",
+              "https://schema.org/Saturday",
+              "https://schema.org/Sunday"
+            ]
+          }
+        },
+        "shippingRate": {
+          "@type": "MonetaryAmount",
+          "value": 0,
+          "currency": "AZN"
+        }
+      }
+    },
+    "brand": {
+      "@type": "Brand",
+      "name": "No Brand",
+      "url": "https://birmarket.az/brands/No%20Brand"
+    }
+  }
+}

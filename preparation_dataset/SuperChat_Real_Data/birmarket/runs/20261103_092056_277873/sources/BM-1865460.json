@@ -1,0 +1,539 @@
+{
+  "product": {
+    "id": 1865460,
+    "gtin": "",
+    "mpn": "AA-777-032",
+    "name": "Kapsul qəhvə maşını Kumtel AA-777-032",
+    "slugged_name_az": "kapsul-qehve-mashini-kumtel-1400-vatt-900-ml-su-cheni-aa-777-032",
+    "slugged_name_ru": "kapsulnaya-kofemashina-kumtel-1400-vt-rezervuar-dlya-vody-900-ml-aa-777-032",
+    "description": "Güc: 1400 Vatt / Gərginlik: 220–240V~, 50/60 Hz / Su çəninin tutumu: 900 ml / Müxtəlif Kapsul Ölçülərinə uyğun / Həddindən artıq istiləşmə və Təzyiqdən Mühafizə / Su Səviyyəsi Göstərici / Güc Göstərici / Davamlı və Möhkəm Tutacaq / Çıxarıla bilən Su Çəninə / Avtomatik İdarəetmə Sistemi / Avtomatik Panel / Elektrik Şnurunun Uzunluğu: 1,3 metr",
+    "description_outlet": "",
+    "status": "active",
+    "uuid": "0a2db254-c69a-4f20-8215-8c5cd04df8d3",
+    "variant_code": "VC_1865460",
+    "default_offer": {
+      "uuid": "c19b680a-0dd1-4531-a742-7c2f0d2948f9",
+      "installment_enabled": true,
+      "max_installment_months": 18,
+      "product_offer_labels": [],
+      "old_price": 300,
+      "retail_price": 169.97,
+      "supplier_id": "78c9b501-2ea7-4944-9037-3c8ad26dcd06",
+      "qty": 0,
+      "seller": {
+        "ext_id": "78c9b501-2ea7-4944-9037-3c8ad26dcd06",
+        "marketing_name": {
+          "id": 4917,
+          "name": "Mega Store"
+        },
+        "logo": {
+          "thumbnail": "https://storage.umico.az/cpcustomerprod01/e04ab0d4ea67bf84233fa045a60ebfa6.jpg"
+        },
+        "vat_payer": false,
+        "rating": 90,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "discount_effective_start_date": "",
+      "discount_effective_end_date": ""
+    },
+    "category_id": 143,
+    "category": {
+      "id": 143,
+      "name": "Qəhvəbişirənlər və qəhvə maşınları"
+    },
+    "brand": {
+      "name": "Kumtel"
+    },
+    "custom_fields": [
+      {
+        "master_field_id": 973,
+        "values": [
+          "Kapsullar"
+        ]
+      },
+      {
+        "master_field_id": 798,
+        "values": [
+          "1400"
+        ]
+      },
+      {
+        "master_field_id": 908,
+        "values": [
+          "0.9"
+        ]
+      },
+      {
+        "master_field_id": 817,
+        "values": [
+          "Qara"
+        ]
+      },
+      {
+        "master_field_id": 974,
+        "values": [
+          "Kapsullar"
+        ]
+      },
+      {
+        "master_field_id": 875,
+        "values": [
+          "Elektron-mexaniki"
+        ]
+      }
+    ],
+    "main_img": {
+      "big": "https://strgimgr.umico.az/img/product/1680/d33ee409-d2aa-4851-ae82-666780be8aab.jpeg",
+      "medium": "https://strgimgr.umico.az/img/product/840/d33ee409-d2aa-4851-ae82-666780be8aab.jpeg",
+      "small": "https://strgimgr.umico.az/img/product/280/d33ee409-d2aa-4851-ae82-666780be8aab.jpeg"
+    },
+    "img_url_thumbnail": "https://strgimgr.umico.az/img/product/280/d33ee409-d2aa-4851-ae82-666780be8aab.jpeg",
+    "main_video": "",
+    "imgs": [
+      {
+        "big": "https://strgimgr.umico.az/img/product/1680/d33ee409-d2aa-4851-ae82-666780be8aab.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/d33ee409-d2aa-4851-ae82-666780be8aab.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/d33ee409-d2aa-4851-ae82-666780be8aab.jpeg"
+      },
+      {
+        "big": "https://strgimgr.umico.az/img/product/1680/4b4645b5-cd36-428b-8a40-16dc0d600890.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/4b4645b5-cd36-428b-8a40-16dc0d600890.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/4b4645b5-cd36-428b-8a40-16dc0d600890.jpeg"
+      }
+    ],
+    "videos": [],
+    "min_qty": 1,
+    "preorder_available": false,
+    "is_assortment": false,
+    "is_bulk_heavy": false,
+    "is_refurbished": false,
+    "is_refundable": true,
+    "is_dangerous": false,
+    "show_tech_description": false,
+    "use_external_content": true,
+    "product_labels": [],
+    "ratings": {
+      "rating_value": 0,
+      "assessment_id": 0,
+      "session_count": 0
+    },
+    "default_show_stock_qty_threshold": 0,
+    "card_type": "public"
+  },
+  "category": {
+    "id": 143,
+    "name": "Qəhvəbişirənlər və qəhvə maşınları",
+    "slugged_name_az": "qehvedanlar-qehve-mashinlari",
+    "slugged_name_ru": "kofevarki-kofemashiny",
+    "view_mode": "products",
+    "mobile_visual_mode": "text",
+    "is_variant": true,
+    "depth": 3,
+    "parent_id": 139,
+    "child_ids": [],
+    "node_type": "NODE",
+    "install_service_needed": false,
+    "fitting_allowed": false,
+    "vat": true,
+    "variations": [
+      {
+        "master_field_id": 817,
+        "name": "Korpusun rəngi",
+        "variation_tool_type": "default",
+        "has_size_chart": false,
+        "display_variant": false
+      }
+    ],
+    "custom_fields": [
+      {
+        "master_field_id": 973,
+        "category_master_field_id": 2227,
+        "name": "Qəhvəbişiricinin növü"
+      },
+      {
+        "master_field_id": 908,
+        "category_master_field_id": 2229,
+        "name": "Həcm, L"
+      },
+      {
+        "master_field_id": 4478,
+        "category_master_field_id": 45468,
+        "name": "Süd köpürdücü"
+      },
+      {
+        "master_field_id": 974,
+        "category_master_field_id": 2228,
+        "name": "İstifadə edilən qəhvə növü"
+      },
+      {
+        "master_field_id": 798,
+        "category_master_field_id": 5135,
+        "name": "Güc, Vt"
+      },
+      {
+        "master_field_id": 817,
+        "category_master_field_id": 9224,
+        "name": "Korpusun rəngi"
+      },
+      {
+        "master_field_id": 2211,
+        "category_master_field_id": 9241,
+        "name": "Zəmanət müddəti"
+      },
+      {
+        "master_field_id": 875,
+        "category_master_field_id": 5139,
+        "name": "İdarəetmə növü"
+      },
+      {
+        "master_field_id": 635,
+        "category_master_field_id": 2226,
+        "name": "Təyinatı"
+      },
+      {
+        "master_field_id": 976,
+        "category_master_field_id": 2231,
+        "name": "Pompanın təzyiqi, bar"
+      },
+      {
+        "master_field_id": 977,
+        "category_master_field_id": 2232,
+        "name": "İki fıncanın eyni vaxtda hazırlanması"
+      },
+      {
+        "master_field_id": 2219,
+        "category_master_field_id": 9221,
+        "name": "Porsiyalar sayı"
+      },
+      {
+        "master_field_id": 2220,
+        "category_master_field_id": 9222,
+        "name": "Qəhvə bölməsi, q"
+      },
+      {
+        "master_field_id": 2221,
+        "category_master_field_id": 9223,
+        "name": "Tullantı bölməsi (porsiyalar)"
+      },
+      {
+        "master_field_id": 2222,
+        "category_master_field_id": 9225,
+        "name": "Filtr növü"
+      },
+      {
+        "master_field_id": 2223,
+        "category_master_field_id": 9226,
+        "name": "Qızdırıcının növü"
+      },
+      {
+        "master_field_id": 2070,
+        "category_master_field_id": 9227,
+        "name": "Əlavə xüsusiyyətlər"
+      },
+      {
+        "master_field_id": 941,
+        "category_master_field_id": 9228,
+        "name": "Taymer"
+      },
+      {
+        "master_field_id": 1914,
+        "category_master_field_id": 9229,
+        "name": "Göstərici"
+      },
+      {
+        "master_field_id": 2224,
+        "category_master_field_id": 9230,
+        "name": "Hazır reseptlər"
+      },
+      {
+        "master_field_id": 708,
+        "category_master_field_id": 5137,
+        "name": "Korpusun materialı"
+      },
+      {
+        "master_field_id": 2225,
+        "category_master_field_id": 9231,
+        "name": "Borunun material"
+      },
+      {
+        "master_field_id": 2226,
+        "category_master_field_id": 9232,
+        "name": "Avtomatik təmizlənmə"
+      },
+      {
+        "master_field_id": 2802,
+        "category_master_field_id": 13800,
+        "name": "Avtomatik söndürülmə"
+      },
+      {
+        "master_field_id": 1044,
+        "category_master_field_id": 9234,
+        "name": "Damlama əleyhinə sistem"
+      },
+      {
+        "master_field_id": 975,
+        "category_master_field_id": 2230,
+        "name": "Quraşdırılan texnika"
+      },
+      {
+        "master_field_id": 1205,
+        "category_master_field_id": 9235,
+        "name": "Hündürlüyü, sm"
+      },
+      {
+        "master_field_id": 1206,
+        "category_master_field_id": 9236,
+        "name": "Eni, sm"
+      },
+      {
+        "master_field_id": 1448,
+        "category_master_field_id": 9237,
+        "name": "Dərinliyi, sm"
+      },
+      {
+        "master_field_id": 656,
+        "category_master_field_id": 9238,
+        "name": "Çəki, kq"
+      },
+      {
+        "master_field_id": 618,
+        "category_master_field_id": 5136,
+        "name": "İstehsalçı ölkə"
+      },
+      {
+        "master_field_id": 2210,
+        "category_master_field_id": 9239,
+        "name": "Brendin ölkəsi"
+      },
+      {
+        "master_field_id": 697,
+        "category_master_field_id": 9240,
+        "name": "Komplektasiya"
+      }
+    ],
+    "parent": {
+      "id": 139,
+      "node_type": "NODE",
+      "name": "Mətbəx üçün kiçik məişət texnikası",
+      "slugged_name": "metbex-uchun-kichik-meishet-texnikasi",
+      "parent": {
+        "id": 106,
+        "node_type": "NODE",
+        "name": "Məişət texnikası",
+        "slugged_name": "meishet-texnikasi",
+        "parent": {
+          "id": 1,
+          "node_type": "NODE",
+          "name": "Elektronika və məişət texnikası",
+          "slugged_name": "elektronika-ve-meishet-texnikasi",
+          "parent": null
+        }
+      }
+    },
+    "is_refundable": true,
+    "is_adult": false,
+    "icons": {
+      "thumbnail": "https://strgimgr.umico.az/img/category/188/1ee8150e-cd76-4de2-a3e4-7b86b0ce7740.jpeg",
+      "original": "https://strgimgr.umico.az/img/category/original/1ee8150e-cd76-4de2-a3e4-7b86b0ce7740.jpeg"
+    },
+    "is_active": true
+  },
+  "offers": [
+    {
+      "uuid": "c19b680a-0dd1-4531-a742-7c2f0d2948f9",
+      "installment_enabled": true,
+      "max_installment_months": 18,
+      "product_offer_labels": [],
+      "old_price": 300,
+      "retail_price": 169.97,
+      "supplier_id": "78c9b501-2ea7-4944-9037-3c8ad26dcd06",
+      "seller": {
+        "ext_id": "ea4116f9-d2af-446d-b4f5-b8c7bf83d94d",
+        "internal_id": 4917,
+        "marketing_name": {
+          "id": 4917,
+          "name": "Mega Store"
+        },
+        "logo": {
+          "thumbnail": "https://storage.umico.az/cpcustomerprod01/e04ab0d4ea67bf84233fa045a60ebfa6.jpg"
+        },
+        "vat_payer": false,
+        "rating": 90,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "allow_qty": 0
+    },
+    {
+      "uuid": "44700dde-9de0-46f6-9561-40bedc86afe7",
+      "installment_enabled": true,
+      "max_installment_months": 18,
+      "product_offer_labels": [],
+      "old_price": 300,
+      "retail_price": 179.99,
+      "supplier_id": "f1ff38f5-f374-4801-a6fc-9bcbaa4ecbf2",
+      "seller": {
+        "ext_id": "af86e40f-4a0c-4fab-8493-1b167ec0f8c5",
+        "internal_id": 4698,
+        "marketing_name": {
+          "id": 4698,
+          "name": "Big Home"
+        },
+        "logo": {
+          "thumbnail": "https://storage.umico.az/cpcustomerprod01/6937ad8da481ddf4276f9066672cb8c9.jpg"
+        },
+        "vat_payer": false,
+        "rating": 77,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "allow_qty": 0
+    },
+    {
+      "uuid": "e0eba801-16ff-4f4a-a1e4-30dfac99da34",
+      "installment_enabled": true,
+      "max_installment_months": 18,
+      "product_offer_labels": [],
+      "old_price": 300,
+      "retail_price": 169.99,
+      "supplier_id": "acdf618d-01ba-4c2d-a22f-4692a98d34fb",
+      "seller": {
+        "ext_id": "73796c9a-9213-4232-afb7-3d18d14f20dc",
+        "internal_id": 5232,
+        "marketing_name": {
+          "id": 5232,
+          "name": "ZE SHOP"
+        },
+        "logo": {
+          "thumbnail": "https://storage.umico.az/cpcustomerprod01/6ce88fbf4dbe3eb0fcaf0aab6c232f76.jpg"
+        },
+        "vat_payer": false,
+        "rating": 100,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "allow_qty": 0
+    },
+    {
+      "uuid": "850af802-be98-4105-8bc9-d931163ee6d5",
+      "installment_enabled": true,
+      "max_installment_months": 18,
+      "product_offer_labels": [],
+      "old_price": 300,
+      "retail_price": 179.99,
+      "supplier_id": "02643f34-e9c4-4e17-9cac-4e52a658b503",
+      "seller": {
+        "ext_id": "68d3596e-4f6f-4e91-b7d8-9e01707067f8",
+        "internal_id": 5151,
+        "marketing_name": {
+          "id": 5151,
+          "name": "LUX HOME"
+        },
+        "logo": {
+          "thumbnail": "https://storage.umico.az/cpcustomerprod01/293672a307ae12d0cc16de178967b8ed.jpeg"
+        },
+        "vat_payer": false,
+        "rating": 92,
+        "role_name": "3P"
+      },
+      "comment": "",
+      "allow_qty": 0
+    }
+  ],
+  "variations": [
+    {
+      "id": 1865460,
+      "name": "Kapsul qəhvə maşını Kumtel AA-777-032",
+      "slugged_name": "kapsul-qehve-mashini-kumtel-1400-vatt-900-ml-su-cheni-aa-777-032",
+      "custom_fields": [
+        {
+          "master_field_id": 817,
+          "values": [
+            "Qara"
+          ]
+        }
+      ],
+      "main_img": {
+        "big": "https://strgimgr.umico.az/img/product/1680/d33ee409-d2aa-4851-ae82-666780be8aab.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/d33ee409-d2aa-4851-ae82-666780be8aab.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/d33ee409-d2aa-4851-ae82-666780be8aab.jpeg"
+      },
+      "status": "active"
+    }
+  ],
+  "size_chart": {},
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "sku": 1865460,
+    "mpn": "AA-777-032",
+    "url": "https://birmarket.az/product/1865460-kapsul-qehve-mashini-kumtel-1400-vatt-900-ml-su-cheni-aa-777-032",
+    "name": "Kapsul qəhvə maşını Kumtel AA-777-032",
+    "image": [
+      "https://strgimgr.umico.az/img/product/1680/d33ee409-d2aa-4851-ae82-666780be8aab.jpeg",
+      "https://strgimgr.umico.az/img/product/1680/4b4645b5-cd36-428b-8a40-16dc0d600890.jpeg"
+    ],
+    "description": "Güc: 1400 Vatt / Gərginlik: 220–240V~, 50/60 Hz / Su çəninin tutumu: 900 ml / Müxtəlif Kapsul Ölçülərinə uyğun / Həddindən artıq istiləşmə və Təzyiqdən Mühafizə / Su Səviyyəsi Göstərici / Güc Göstərici / Davamlı və Möhkəm Tutacaq / Çıxarıla bilən Su Çəninə / Avtomatik İdarəetmə Sistemi / Avtomatik Panel / Elektrik Şnurunun Uzunluğu: 1,3 metr",
+    "itemCondition": "https://schema.org/NewCondition",
+    "offers": {
+      "@type": "AggregateOffer",
+      "availability": "https://schema.org/InStock",
+      "offerCount": 4,
+      "highPrice": 179.99,
+      "lowPrice": 169.97,
+      "priceCurrency": "AZN",
+      "hasMerchantReturnPolicy": {
+        "applicableCountry": "AZ",
+        "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+        "returnMethod": "https://schema.org/ReturnInStore",
+        "returnFees": "https://schema.org/FreeReturn",
+        "merchantReturnDays": 14
+      },
+      "shippingDetails": {
+        "@type": "OfferShippingDetails",
+        "shippingDestination": {
+          "@type": "DefinedRegion",
+          "addressCountry": "AZ"
+        },
+        "deliveryTime": {
+          "@type": "ShippingDeliveryTime",
+          "handlingTime": {
+            "@type": "QuantitativeValue",
+            "minValue": 0,
+            "maxValue": 1,
+            "unitCode": "DAY"
+          },
+          "transitTime": {
+            "@type": "QuantitativeValue",
+            "minValue": 0,
+            "maxValue": 1,
+            "unitCode": "DAY"
+          },
+          "businessDays": {
+            "@type": "OpeningHoursSpecification",
+            "dayOfWeek": [
+              "https://schema.org/Monday",
+              "https://schema.org/Tuesday",
+              "https://schema.org/Wednesday",
+              "https://schema.org/Thursday",
+              "https://schema.org/Friday",
+              "https://schema.org/Saturday",
+              "https://schema.org/Sunday"
+            ]
+          }
+        },
+        "shippingRate": {
+          "@type": "MonetaryAmount",
+          "value": 0,
+          "currency": "AZN"
+        }
+      }
+    },
+    "brand": {
+      "@type": "Brand",
+      "name": "Kumtel",
+      "url": "https://birmarket.az/brands/Kumtel"
+    }
+  }
+}

@@ -8,7 +8,7 @@ from .config import REFERENCE_DATE
 PRODUCTS = {
     "headphones": ["headphone", "qulaqliq", "наушник"],
     "earbuds": ["earbud", "qulaqciq", "вкладыш"],
-    "laptop": ["laptop", "notebook", "noutbuk", "ноутбук"],
+    "laptop": ["laptop", "notebook", "noutbuk", "notbuk", "ноутбук"],
     "smartphone": ["smartphone", "phone", "smartfon", "telefon", "смартфон", "телефон"],
     "smartwatch": ["smartwatch", "watch", "saat", "часы"],
     "speaker": ["speaker", "dinamik", "колонк"],
@@ -16,6 +16,8 @@ PRODUCTS = {
     "backpack": ["backpack", "canta", "рюкзак"],
     "coffee machine": ["coffee machine", "espresso", "qehve", "кофемашин"],
     "board game": ["board game", "stolustu", "настольн"],
+    "pencil": ["pencil", "karandas", "карандаш"],
+    "pen": ["pen", "qelem", "ручк"],
 }
 CATEGORY = {
     "audio": ["audio", "аудио"],
@@ -71,10 +73,105 @@ MOVIE_TITLES = [
     "Spring in Baku",
     "Deep Signal",
 ]
+DOMAIN_WORDS = {
+    "flights": [
+        "flight", "fly", "airline", "baggage", "airport", "aviasales",
+        "ucus", "teyyare", "baqaj", "рейс", "авиабилет", "полет",
+        "багаж", "авиакомпан",
+    ],
+    "shopping": [
+        "shop", "product", "cart", "buy", "stock", "mehsul", "sebet",
+        "alis", "товар", "корзин", "купить", "наличии",
+        "sonivo", "nexar", "veltra", "stridex", "brewa", "playo",
+    ],
+    "cinema": [
+        "cinema", "movie", "film", "showtime", "playing", "kino", "seans",
+        "кино", "фильм", "сеанс",
+    ],
+}
+
+# This is a conservative fallback for bare keyword lists, not a semantic model.
+PRODUCT_MODEL = re.compile(
+    r'(?<!\w)(?P<family>iphone|ipad|galaxy|redmi|pixel)\s+'
+    r'(?:note\s+)?'
+    r'[a-z]?\d{1,3}[a-z]?(?:\s+(?:pro|max|plus|mini|ultra|fe)(?!\w))*'
+    r'(?:\s+\d{1,4}\s*(?:gb|tb)(?!\w))?(?!\w)'
+)
+
+
+def malformed_request(text):
+    """Reject unexplained long numeric/operator fragments, not normal model IDs.
+
+    Product IDs (BM-...), dates, prices, capacities and alphanumeric model numbers
+    are retained. A dangling calculation such as 339383994848+ must not silently
+    disappear while its remaining travel words produce results.
+    """
+    return bool(re.search(r'(?<![\w-])\d{8,}\s*[+*/=]', normalize(text)))
+
+
+# Reuse the router vocabulary so an unfamiliar topic list cannot become a search
+# merely because it contains one catalogue word. Do not blacklist topics such as
+# exams or depression: they can be perfectly valid context in a clear request.
+_FRAGMENT_TERMS = [
+    term
+    for group in (
+        list(DOMAIN_WORDS.values()) + list(PRODUCTS.values())
+        + list(CATEGORY.values()) + list(GENRES.values())
+        + list(CITIES.values()) + WEEKDAYS + [MOVIE_TITLES]
+    )
+    for term in group
+] + """ticket seat price cheap cheapest direct nonstop wireless black white blue
+silver grey english russian azerbaijani tonight today tomorrow morning evening
+rating rated available availability budget economy business azn manat
+show find please book reserve save saved plan compare add remove clear details first second third
+the a an and or two three four one all any bilet yer qiymet ucuz birbasa simsiz
+qara ag mavi ingilis rus reytinq sabah bu gun axsam seher goster tap bron muqayise
+elave sil birinci ikinci ucuncu iki uc ve билет мест цен дешев прям беспровод
+черн бел син английск русск азербайджан сегодня завтра утром вечер рейтинг
+покажи найди пожалуйста заброниру сохрани сохран планы мои сравни добав удали перв втор трет два три и или
+""".split()
+_FRAGMENT_KNOWN = re.compile(
+    r"(?<!\w)(?:"
+    + "|".join(re.escape(normalize(term)) for term in sorted(set(_FRAGMENT_TERMS), key=len, reverse=True))
+    + r")\w*"
+)
+
+
+def unclear_keyword_fragment(text):
+    """Ask about unsupported word lists while allowing normal prose and filters."""
+    t = normalize(text)
+    from .search_text import result_request
+    for domain in ['cinema', 'shopping', 'flights']:
+        _, _, t = result_request(t, domain)
+    # Possessives such as today's/today’s must not leave an unknown "s" token.
+    t = re.sub(r"(?<=\w)['’]s\b", "", t)
+    # A quoted title/name is one explicit entity, even if absent from the catalogue.
+    t = re.sub(r"\b(?:bm-\d+|av-[a-f0-9]{16}|cm-[msc]-[a-f0-9]{16})\b", "", t)
+    t = re.sub(r'"[^"\n]+"|“[^”\n]+”|«[^»\n]+»', "", t)
+    t = re.sub(
+        r"^(?:(?:please|(?:show|find|give|gives|list|recommend|suggest)(?: me)?|can you|could you|i want|i need|"
+        r"mene|zehmet olmasa|покажи мне|найди мне|мне нужен|мне нужна)\s+)+",
+        "", t,
+    )
+    # Relationships distinguish prose ('a comedy after my exam') from a bag of
+    # nouns. The hosted planner handles broader semantic ambiguity separately.
+    if re.search(
+        r"\b(?:i|my|because|after|before|about|for|with|without|from|to|at|on|in|"
+        r"under|over|above|below|is|are|have|has|what|which|how|called|named|"
+        r"ucun|sonra|evvel|haqqinda|men|menim|var|nedir|nece|"
+        r"я|мой|мне|после|перед|про|для|из|в|на|до|выше|есть|что|как)\b", t,
+    ):
+        return False
+    tokens = re.findall(r"[^\W\d_]+", t)
+    remainder = re.sub(r"\b[fpmcs]\d{3}\b", "", t)
+    remainder = PRODUCT_MODEL.sub('', remainder)
+    remainder = _FRAGMENT_KNOWN.sub("", remainder)
+    unknown = re.findall(r"[^\W\d_]+", remainder)
+    return len(unknown) >= 3 and len(unknown) / max(len(tokens), 1) >= 0.4
 
 
 def has(text, variants):
-    return any(re.search(r"(?<!\w)" + re.escape(normalize(w)), text) for w in variants)
+    return any(re.search(r"(?<!\w)" + re.escape(normalize(w)) + (r'(?!\w)' if len(w) <= 3 and w.isalnum() else ''), text) for w in variants)
 
 
 def language(text, previous="en"):
@@ -135,7 +232,8 @@ def language(text, previous="en"):
     return previous
 
 
-def parse_date(text):
+def parse_date(text, reference_date=None):
+    reference_date = reference_date or REFERENCE_DATE
     t = normalize(text)
     iso = re.search(r"\b(20\d{2}-\d{2}-\d{2})\b", t)
     if iso:
@@ -144,20 +242,20 @@ def parse_date(text):
         except ValueError:
             return "invalid"
     if has(t, ["day after tomorrow", "birisi gun", "послезавтра"]):
-        return (REFERENCE_DATE + timedelta(days=2)).isoformat()
+        return (reference_date + timedelta(days=2)).isoformat()
     if has(t, ["tomorrow", "sabah", "завтра"]):
-        return (REFERENCE_DATE + timedelta(days=1)).isoformat()
+        return (reference_date + timedelta(days=1)).isoformat()
     if has(t, ["today", "tonight", "bu gun", "bugun", "bu axsam", "сегодня"]):
-        return REFERENCE_DATE.isoformat()
+        return reference_date.isoformat()
     # Long weekday names must win before their shorter substrings.
     for name, index in sorted(
         [(n, i) for i, ns in enumerate(WEEKDAYS) for n in ns], key=lambda x: -len(x[0])
     ):
         if has(t, [name]):
-            offset = (index - REFERENCE_DATE.weekday()) % 7
+            offset = (index - reference_date.weekday()) % 7
             if has(t, ["next", "gelecek", "следующ"]):
                 offset = offset or 7
-            return (REFERENCE_DATE + timedelta(days=offset)).isoformat()
+            return (reference_date + timedelta(days=offset)).isoformat()
     months = [
         ("january", "yanvar", "январ"),
         ("february", "fevral", "феврал"),
@@ -181,7 +279,7 @@ def parse_date(text):
                 year = re.search(r"\b(20\d{2})\b", t)
                 try:
                     return date(
-                        int(year[1]) if year else REFERENCE_DATE.year, i, int(match[1])
+                        int(year[1]) if year else reference_date.year, i, int(match[1])
                     ).isoformat()
                 except ValueError:
                     return "invalid"
@@ -190,73 +288,30 @@ def parse_date(text):
 
 def route(text, state):
     t = normalize(text)
+    if malformed_request(t):
+        return {'category': 'ambiguous', 'domains': [], 'reason': 'malformed numeric fragment', 'engine': 'rules'}
+    if unsupported_request(t):
+        return {'category': 'out_of_scope', 'domains': [], 'reason': 'unsupported request', 'engine': 'rules'}
     domains = []
-    flight = has(
-        t,
-        [
-            "flight",
-            "fly",
-            "airline",
-            "baggage",
-            "airport",
-            "aviasales",
-            "ucus",
-            "teyyare",
-            "baqaj",
-            "рейс",
-            "авиабилет",
-            "полет",
-            "багаж",
-            "авиакомпан",
-        ],
-    ) or re.search(r"\bf\d{3}\b", t)
+    flight = has(t, DOMAIN_WORDS["flights"]) or re.search(r"\b(?:f\d{3}|av-[a-f0-9]{16})\b", t)
     shopping = (
-        has(
-            t,
-            [
-                "shop",
-                "product",
-                "cart",
-                "buy",
-                "stock",
-                "mehsul",
-                "sebet",
-                "alis",
-                "товар",
-                "корзин",
-                "купить",
-                "наличии",
-            ],
-        )
+        has(t, DOMAIN_WORDS["shopping"])
+        or PRODUCT_MODEL.search(t)
         or any(has(t, v) for v in list(PRODUCTS.values()) + list(CATEGORY.values()))
-        or has(t, ["sonivo", "nexar", "veltra", "stridex", "brewa", "playo"])
-        or re.search(r"\bp\d{3}\b", t)
+        or re.search(r"\b(?:p\d{3}|bm-\d+)\b", t)
     )
     cinema = (
-        has(
-            t,
-            [
-                "cinema",
-                "movie",
-                "film",
-                "showtime",
-                "playing",
-                "kino",
-                "seans",
-                "кино",
-                "фильм",
-                "сеанс",
-            ],
-        )
+        has(t, DOMAIN_WORDS["cinema"])
         or any(has(t, v) for v in GENRES.values())
         or any(normalize(n) in t for n in MOVIE_TITLES)
-        or re.search(r"\b[msc]\d{3}\b", t)
+        or re.search(r"\bcm-[msc]-[a-f0-9]{16}\b", t)
+        or (not shopping and re.search(r"\b[msc]\d{3}\b", t))
     )
     # A city on its own is a flight request only with directional/travel language.
     if (
         not cinema
         and any(has(t, v) for v in CITIES.values())
-        and has(t, ["to ", "from ", " ucun", "ged", "bilet", " в ", "из ", "лет"])
+        and has(t, ["to ", "from ", " ucun", "ged", "bilet", "ticket", "билет", " в ", "из ", "лет"])
     ):
         flight = True
     if flight:
@@ -265,6 +320,13 @@ def route(text, state):
         domains.append("shopping")
     if cinema:
         domains.append("cinema")
+    if (domains or state["active_domains"]) and unclear_keyword_fragment(t):
+        return {
+            "category": "ambiguous",
+            "domains": [],
+            "reason": "unclear keyword fragment",
+            "engine": "rules",
+        }
     if domains:
         return {
             "category": "mixed" if len(domains) > 1 else domains[0],
@@ -272,6 +334,9 @@ def route(text, state):
             "reason": "explicit domain vocabulary",
             "engine": "rules",
         }
+    if has(t, ['ticket', 'bilet', 'билет']) and len(state['active_domains']) == 1 and state['active_domains'][0] in ['flights', 'cinema']:
+        return {'category': 'follow_up', 'domains': state['active_domains'][:],
+                'reason': 'ticket refers to active travel/cinema topic', 'engine': 'rules'}
     if has(
         t,
         [
@@ -339,11 +404,20 @@ def route(text, state):
                 "direct",
                 "book",
                 "reserv",
+                "save",
+                "unsave",
+                "saxla",
+                "сохран",
                 "seat",
                 "add",
                 "remove",
                 "clear",
                 "more",
+                "next page",
+                "daha cox",
+                "novbeti sehife",
+                "еще результаты",
+                "следующая страница",
                 "yes",
                 "no",
                 "back",
@@ -410,6 +484,13 @@ def route(text, state):
         "reason": "no confident single domain",
         "engine": "rules",
     }
+
+
+def unsupported_request(t):
+    # These actions ask for content/advice rather than a catalogue lookup.
+    return bool(re.search(r'\b(?:write|compose|solve|explain|translate)\b.{0,40}\b(?:essay|poem|code|homework|equation|politics)\b|'
+                          r'\b(?:напиши|реши|объясни)\w*\s+(?:эссе|стих|код|задач)|'
+                          r'\b(?:esse|seir|kod)\s+yaz', t))
 
 
 def clauses(text, domains):
@@ -481,6 +562,7 @@ def action(text, domain):
             "не добав",
             "не покуп",
             "не удал",
+            "do not save", "don't save", "saxlama", "не сохраня",
         ],
     ):
         return "details"
@@ -493,8 +575,12 @@ def action(text, domain):
             return "add"
         if has(t, ["cart", "sebet", "корзин"]):
             return "cart"
-    if has(t, ["my reservation", "my booking", "bronlarim", "мои брон"]):
+    if domain != 'shopping' and has(t, ['unsave', 'remove saved', 'saxlanilmis plani sil', 'удали сохран']):
+        return 'unsave'
+    if has(t, ["my reservation", "my booking", "my saved", "bronlarim", "saxlanilmis plan", "мои брон", "мои сохран"]):
         return "reservations"
+    if domain != 'shopping' and has(t, ['save', 'saxla', 'сохран']):
+        return 'save'
     if domain != "shopping" and has(t, ["book", "reserve", "bron", "брон"]):
         return "reserve"
     if has(t, ["compare", "muqayise", "сравн"]):
@@ -531,10 +617,10 @@ def action(text, domain):
     return "search"
 
 
-def parse_filters(text, domain):
+def parse_filters(text, domain, reference_date=None):
     t = normalize(text)
     f = {}
-    dt = parse_date(t)
+    dt = parse_date(t, reference_date)
     if dt and domain != "shopping":
         f["date"] = dt
     max_p = re.search(
@@ -656,6 +742,11 @@ def parse_filters(text, domain):
             if has(t, variants):
                 f["query"] = query
                 break
+        model = PRODUCT_MODEL.search(t)
+        if model:
+            f['query'] = model.group()
+            if model['family'] != 'ipad':
+                f['category'] = 'phones'
         for cat, variants in CATEGORY.items():
             if has(t, variants):
                 f["category"] = cat
@@ -669,6 +760,7 @@ def parse_filters(text, domain):
             "silver": ["silver", "gumus", "серебр"],
             "grey": ["grey", "gray", "boz", "серый", "серые"],
             "blue": ["blue", "mavi", "син"],
+            "red": ["red", "qirmizi", "красн"],
             "multicolor": ["multicolor", "rengli", "разноцвет"],
         }.items():
             if has(t, variants):
@@ -739,7 +831,8 @@ def parse_filters(text, domain):
 def selected_ids(text, domain, result_ids, repository):
     t = normalize(text)
     prefix = {"flights": "f", "shopping": "p", "cinema": "s"}[domain]
-    ids = [i.upper() for i in re.findall(r"\b" + prefix + r"\d{3}\b", t)]
+    real_pattern = {"flights": r"av-[a-f0-9]{16}", "shopping": r"bm-\d+", "cinema": r"cm-s-[a-f0-9]{16}"}[domain]
+    ids = [i.upper() for i in re.findall(r"\b(?:" + prefix + r"\d{3}|" + real_pattern + r")\b", t)]
     if ids:
         return list(dict.fromkeys(ids))
     ordinals = [
@@ -757,7 +850,7 @@ def selected_ids(text, domain, result_ids, repository):
         return ids
     if has(t, ["cheaper", "cheapest", "ucuz", "дешев"]) and result_ids:
         rows = [repository.get(i) for i in result_ids]
-        rows = [r for r in rows if r]
+        rows = [r for r in rows if r and r.get("price_azn") is not None]
         if rows:
             return [min(rows, key=lambda r: r["price_azn"])["id"]]
     return []

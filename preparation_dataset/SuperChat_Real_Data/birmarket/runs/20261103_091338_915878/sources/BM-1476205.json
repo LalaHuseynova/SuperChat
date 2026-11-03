@@ -1,0 +1,1602 @@
+{
+  "product": {
+    "id": 1476205,
+    "gtin": "195950638967",
+    "mpn": "MFYN4HX/A",
+    "name": "Smartfon Apple iPhone 17 Pro Max 256GB Cosmic Orange MFYN4HX/A (Rəsmi zəmanət)",
+    "slugged_name_az": "smartfon-apple-iphone-17-pro-max-256gb-cosmic-orange-mfyn4hx-a-resmi-zemanet",
+    "slugged_name_ru": "smartfon-apple-iphone-17-pro-max-256gb-cosmic-orange-mfyn4hx-a-ofitsialnaya-garantiya",
+    "description": "<p>Qarşınızda iPhone 17 Pro Max, ən güclü iPhone modelləri olmaq üçün hazırlanıb. Konstruksiyanın əsasında maksimal məhsuldarlıq, batareya tutumu və davamlılıq təmin edən bütöv alüminium korpus dayanır.</p><img src=\"https://strgimgr.umico.az/img/product/1680/2aeaa149-2f88-48fd-bcde-c37435d80638.jpeg\" alt=\"1\"><p><br>iPhone 17 Pro Max kamera sistemində isə adət olunmuşun çox-çox fövqünə çıxan yeniliklər var. Buraya iPhone tarixində ən böyük teleobyektiv daxildir — 200 mm-ə qədər fokus məsafəsi, tetraprizma quruluşu və 56% böyüdülmüş sensor sayəsində. Bu, daha geniş yaradıcılıq imkanları açır və 16 qat optik zoom ilə çəkiliş məsafəsini artırmağa imkan verir. Zəif işıqda möhtəşəm fotolar və inanılmaz videolar çəkin.</p><img src=\"https://strgimgr.umico.az/img/product/1680/0926b42c-bf07-4acf-9093-29fb58a282cb.jpeg\" alt=\"3\"><p><br>Ön kamera foto və video üçün çevik kadrlama imkanları yaradır — və daha çoxunu. Sadəcə toxunun, baxış bucağını genişləndirin və iPhone-u hərəkət etdirmədən portret orientasiyasından landşaft orientasiyasına çevirin. Dostlar kadra qoşulduqda isə baxış bucağı böyüyür və selfilərinizə daha çox dost sığır. Ev filmlərindən tutmuş Hollivud istehsalına qədər — iPhone 17 Pro Max istənilən işin öhdəsindən gəlir. İndiyə qədər olduğundan daha çox peşəkar video funksiyaları — məsələn, təkmilləşdirilmiş video sabitləşməsi, kinoteatr səviyyəli göstəricilər və sənaye standartlarına uyğunluq — iPhone 17 Pro Max-ı kino istehsalı üçün lazım olan güclü alətlərə çevirir.</p><img src=\"https://strgimgr.umico.az/img/product/1680/7b656ccd-ea4c-4b75-8acc-85f4a48732c4.jpeg\" alt=\"4\"><p><br>İstər resurs tələb edən qrafika, istərsə də böyük media faylları ilə işləyin, iPhone 17 Pro Max qabaqcıl soyutma texnologiyası sayəsində inanılmaz yüksək performans təmin edir. Apple tərəfindən hazırlanmış lazer qaynaqlı buxar kamerası bütöv alüminium korpusla birlikdə A19 Pro çipindən istiliyi effektiv şəkildə uzaqlaşdırır və daha yüksək, sabit məhsuldarlıq yaradır.</p>",
+    "description_outlet": "",
+    "status": "active",
+    "uuid": "8230e0cd-3fe9-4929-8258-8e0b0ca9f793",
+    "variant_code": "iPhone 17 Pro Max",
+    "default_offer": {
+      "uuid": "2011ffb2-56cd-4283-b74c-47c177646697",
+      "installment_enabled": true,
+      "max_installment_months": 3,
+      "product_offer_labels": [],
+      "old_price": 3899,
+      "retail_price": 2879,
+      "supplier_id": "17ad8e10-e5ca-48a3-9149-38ba971698a2",
+      "qty": 0,
+      "seller": {
+        "ext_id": "17ad8e10-e5ca-48a3-9149-38ba971698a2",
+        "marketing_name": {
+          "id": 16496,
+          "name": "Birmarket Offers"
+        },
+        "logo": {
+          "thumbnail": "https://storage.umico.az/cpcustomerprod01/cbc373abf4a73b17ed1a4a945468d783.png"
+        },
+        "vat_payer": true,
+        "rating": 99,
+        "role_name": "FBU"
+      },
+      "comment": "",
+      "discount_effective_start_date": "",
+      "discount_effective_end_date": ""
+    },
+    "category_id": 3,
+    "category": {
+      "id": 3,
+      "name": "Mobil telefonlar və smartfonlar"
+    },
+    "brand": {
+      "name": "Apple"
+    },
+    "custom_fields": [
+      {
+        "master_field_id": 1476,
+        "values": [
+          "Apple iPhone 17 Pro Max"
+        ]
+      },
+      {
+        "master_field_id": 1815,
+        "values": [
+          "12 Gb"
+        ]
+      },
+      {
+        "master_field_id": 1816,
+        "values": [
+          "256 Gb"
+        ]
+      },
+      {
+        "master_field_id": 625,
+        "values": [
+          "Narıncı"
+        ]
+      },
+      {
+        "master_field_id": 616,
+        "values": [
+          "iOS"
+        ]
+      },
+      {
+        "master_field_id": 617,
+        "values": [
+          "6.9"
+        ]
+      },
+      {
+        "master_field_id": 619,
+        "values": [
+          "2868 x 1320"
+        ]
+      },
+      {
+        "master_field_id": 1813,
+        "values": [
+          "OLED"
+        ]
+      },
+      {
+        "master_field_id": 613,
+        "values": [
+          "2G",
+          "3G",
+          "LTE",
+          "5G"
+        ]
+      },
+      {
+        "master_field_id": 615,
+        "values": [
+          "1"
+        ]
+      },
+      {
+        "master_field_id": 1812,
+        "values": [
+          "Nano",
+          "eSIM"
+        ]
+      },
+      {
+        "master_field_id": 1533,
+        "values": [
+          "48"
+        ]
+      },
+      {
+        "master_field_id": 1505,
+        "values": [
+          "18"
+        ]
+      },
+      {
+        "master_field_id": 6038,
+        "values": [
+          "Bəli"
+        ]
+      },
+      {
+        "master_field_id": 6334,
+        "values": [
+          "Yeni"
+        ]
+      },
+      {
+        "master_field_id": 2211,
+        "values": [
+          "12 ay"
+        ]
+      },
+      {
+        "master_field_id": 612,
+        "values": [
+          "Smartfon"
+        ]
+      },
+      {
+        "master_field_id": 614,
+        "values": [
+          "Monoblok"
+        ]
+      },
+      {
+        "master_field_id": 1739,
+        "values": [
+          "Bəli"
+        ]
+      },
+      {
+        "master_field_id": 1534,
+        "values": [
+          "Apple A19 Pro"
+        ]
+      },
+      {
+        "master_field_id": 664,
+        "values": [
+          "6"
+        ]
+      },
+      {
+        "master_field_id": 1554,
+        "values": [
+          "Xeyr"
+        ]
+      },
+      {
+        "master_field_id": 830,
+        "values": [
+          "Yoxdur"
+        ]
+      },
+      {
+        "master_field_id": 5086,
+        "values": [
+          "48 + 48 + 48"
+        ]
+      },
+      {
+        "master_field_id": 5087,
+        "values": [
+          "18"
+        ]
+      },
+      {
+        "master_field_id": 1811,
+        "values": [
+          "Bəli"
+        ]
+      },
+      {
+        "master_field_id": 777,
+        "values": [
+          "6.0"
+        ]
+      },
+      {
+        "master_field_id": 1810,
+        "values": [
+          "USB Type-C"
+        ]
+      },
+      {
+        "master_field_id": 1809,
+        "values": [
+          "Xeyr"
+        ]
+      },
+      {
+        "master_field_id": 1808,
+        "values": [
+          "Çıxarılmayan"
+        ]
+      },
+      {
+        "master_field_id": 1807,
+        "values": [
+          "Bəli"
+        ]
+      },
+      {
+        "master_field_id": 2552,
+        "values": [
+          "Nəmə davamlı",
+          "Toza davamlı"
+        ]
+      },
+      {
+        "master_field_id": 1740,
+        "values": [
+          "Üz skaneri",
+          "İşıqlandırma göstəricisi",
+          "Yaxınlaşma göstəricisi",
+          "Kompas",
+          "Qiroskop",
+          "LIDAR skaneri",
+          "Barometr",
+          "Akselerometr"
+        ]
+      },
+      {
+        "master_field_id": 2635,
+        "values": [
+          "2025"
+        ]
+      },
+      {
+        "master_field_id": 708,
+        "values": [
+          "Alüminium",
+          "Şüşə"
+        ]
+      },
+      {
+        "master_field_id": 641,
+        "values": [
+          "163.4"
+        ]
+      },
+      {
+        "master_field_id": 776,
+        "values": [
+          "78"
+        ]
+      },
+      {
+        "master_field_id": 1637,
+        "values": [
+          "8.75"
+        ]
+      },
+      {
+        "master_field_id": 870,
+        "values": [
+          "233"
+        ]
+      },
+      {
+        "master_field_id": 697,
+        "values": [
+          "Smartfon",
+          "Təlimat"
+        ]
+      },
+      {
+        "master_field_id": 2210,
+        "values": [
+          "ABŞ"
+        ]
+      }
+    ],
+    "main_img": {
+      "big": "https://strgimgr.umico.az/img/product/1680/4b1ce8e8-cd40-448c-be5d-648aa419439f.jpeg",
+      "medium": "https://strgimgr.umico.az/img/product/840/4b1ce8e8-cd40-448c-be5d-648aa419439f.jpeg",
+      "small": "https://strgimgr.umico.az/img/product/280/4b1ce8e8-cd40-448c-be5d-648aa419439f.jpeg"
+    },
+    "img_url_thumbnail": "https://strgimgr.umico.az/img/product/280/4b1ce8e8-cd40-448c-be5d-648aa419439f.jpeg",
+    "main_video": "",
+    "imgs": [
+      {
+        "big": "https://strgimgr.umico.az/img/product/1680/4b1ce8e8-cd40-448c-be5d-648aa419439f.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/4b1ce8e8-cd40-448c-be5d-648aa419439f.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/4b1ce8e8-cd40-448c-be5d-648aa419439f.jpeg"
+      },
+      {
+        "big": "https://strgimgr.umico.az/img/product/1680/93d87cd9-55ed-4edd-8d06-d549177fe425.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/93d87cd9-55ed-4edd-8d06-d549177fe425.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/93d87cd9-55ed-4edd-8d06-d549177fe425.jpeg"
+      },
+      {
+        "big": "https://strgimgr.umico.az/img/product/1680/3dec2e89-235a-471f-b369-994ff630f323.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/3dec2e89-235a-471f-b369-994ff630f323.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/3dec2e89-235a-471f-b369-994ff630f323.jpeg"
+      },
+      {
+        "big": "https://strgimgr.umico.az/img/product/1680/bbcdcc77-4af4-4d05-9301-7d4c7dd8925a.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/bbcdcc77-4af4-4d05-9301-7d4c7dd8925a.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/bbcdcc77-4af4-4d05-9301-7d4c7dd8925a.jpeg"
+      },
+      {
+        "big": "https://strgimgr.umico.az/img/product/1680/8def61ac-6c10-45c8-a204-64fe3c029b47.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/8def61ac-6c10-45c8-a204-64fe3c029b47.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/8def61ac-6c10-45c8-a204-64fe3c029b47.jpeg"
+      },
+      {
+        "big": "https://strgimgr.umico.az/img/product/1680/0a729f1e-4995-4b31-a5fd-4f6183d63544.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/0a729f1e-4995-4b31-a5fd-4f6183d63544.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/0a729f1e-4995-4b31-a5fd-4f6183d63544.jpeg"
+      },
+      {
+        "big": "https://strgimgr.umico.az/img/product/1680/bc828125-3bbb-45fd-9e0b-20195c7c8bac.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/bc828125-3bbb-45fd-9e0b-20195c7c8bac.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/bc828125-3bbb-45fd-9e0b-20195c7c8bac.jpeg"
+      },
+      {
+        "big": "https://strgimgr.umico.az/img/product/1680/f2a86882-7679-4fbd-a555-82710a331461.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/f2a86882-7679-4fbd-a555-82710a331461.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/f2a86882-7679-4fbd-a555-82710a331461.jpeg"
+      },
+      {
+        "big": "https://strgimgr.umico.az/img/product/1680/4388d983-e996-4141-a46c-48f892cb9884.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/4388d983-e996-4141-a46c-48f892cb9884.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/4388d983-e996-4141-a46c-48f892cb9884.jpeg"
+      },
+      {
+        "big": "https://strgimgr.umico.az/img/product/1680/61782a78-42ab-4746-9faa-e9a7924bb708.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/61782a78-42ab-4746-9faa-e9a7924bb708.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/61782a78-42ab-4746-9faa-e9a7924bb708.jpeg"
+      },
+      {
+        "big": "https://strgimgr.umico.az/img/product/1680/95c3e603-046d-4dca-8a46-bd6348522db0.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/95c3e603-046d-4dca-8a46-bd6348522db0.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/95c3e603-046d-4dca-8a46-bd6348522db0.jpeg"
+      }
+    ],
+    "videos": [
+      ""
+    ],
+    "min_qty": 1,
+    "preorder_available": false,
+    "is_assortment": false,
+    "is_bulk_heavy": false,
+    "is_refurbished": false,
+    "is_refundable": true,
+    "is_dangerous": false,
+    "show_tech_description": false,
+    "use_external_content": false,
+    "product_labels": [
+      {
+        "color": "40C4FF",
+        "id": 43382818,
+        "image_url": "",
+        "label_id": 1,
+        "name": "Новинка",
+        "position": 1,
+        "rule_type": "parameters",
+        "show_in_see_also_products": false,
+        "text": "Yenilik"
+      }
+    ],
+    "ratings": {
+      "rating_value": 5,
+      "assessment_id": 0,
+      "session_count": 10,
+      "score_count": 4,
+      "review_count": 6
+    },
+    "default_show_stock_qty_threshold": 0,
+    "card_type": "private"
+  },
+  "category": {
+    "id": 3,
+    "name": "Mobil telefonlar və smartfonlar",
+    "slugged_name_az": "mobil-telefonlar-ve-smartfonlar",
+    "slugged_name_ru": "mobilnye-telefony-i-smartfony",
+    "view_mode": "products",
+    "mobile_visual_mode": "text",
+    "is_variant": true,
+    "depth": 2,
+    "parent_id": 2,
+    "child_ids": [],
+    "node_type": "NODE",
+    "install_service_needed": false,
+    "fitting_allowed": false,
+    "vat": true,
+    "variations": [
+      {
+        "master_field_id": 625,
+        "name": "Rəng",
+        "variation_tool_type": "image",
+        "has_size_chart": false,
+        "display_variant": true
+      },
+      {
+        "master_field_id": 1812,
+        "name": "SİM kartının növü",
+        "variation_tool_type": "button",
+        "has_size_chart": false,
+        "display_variant": false
+      },
+      {
+        "master_field_id": 1816,
+        "name": "Daxili yaddaş həcmi",
+        "variation_tool_type": "button",
+        "has_size_chart": false,
+        "display_variant": false
+      }
+    ],
+    "custom_fields": [
+      {
+        "master_field_id": 1476,
+        "category_master_field_id": 15459,
+        "name": "Seriya"
+      },
+      {
+        "master_field_id": 616,
+        "category_master_field_id": 1440,
+        "name": "Əməliyyat sistemi"
+      },
+      {
+        "master_field_id": 1815,
+        "category_master_field_id": 5520,
+        "name": "Operativ yaddaşın həcmi"
+      },
+      {
+        "master_field_id": 1816,
+        "category_master_field_id": 5521,
+        "name": "Daxili yaddaş həcmi"
+      },
+      {
+        "master_field_id": 617,
+        "category_master_field_id": 1441,
+        "name": "Ekranın diaqonalı, düym"
+      },
+      {
+        "master_field_id": 619,
+        "category_master_field_id": 1443,
+        "name": "Ekranın qətnaməsi"
+      },
+      {
+        "master_field_id": 1813,
+        "category_master_field_id": 5517,
+        "name": "Ekran texnologiyası"
+      },
+      {
+        "master_field_id": 826,
+        "category_master_field_id": 4575,
+        "name": "Akkumulyatorun həcmi, mA/saat"
+      },
+      {
+        "master_field_id": 613,
+        "category_master_field_id": 1437,
+        "name": "Rabitə standartları"
+      },
+      {
+        "master_field_id": 615,
+        "category_master_field_id": 1439,
+        "name": "SİM kartların sayı"
+      },
+      {
+        "master_field_id": 1812,
+        "category_master_field_id": 5516,
+        "name": "SİM kartının növü"
+      },
+      {
+        "master_field_id": 1533,
+        "category_master_field_id": 4577,
+        "name": "Əsas kamera, Mp"
+      },
+      {
+        "master_field_id": 1505,
+        "category_master_field_id": 4578,
+        "name": "Ön kamera, Mp"
+      },
+      {
+        "master_field_id": 625,
+        "category_master_field_id": 4484,
+        "name": "Rəng"
+      },
+      {
+        "master_field_id": 6038,
+        "category_master_field_id": 38184,
+        "name": "NFC"
+      },
+      {
+        "master_field_id": 6334,
+        "category_master_field_id": 42680,
+        "name": "Vəziyyət"
+      },
+      {
+        "master_field_id": 2211,
+        "category_master_field_id": 15463,
+        "name": "Zəmanət müddəti"
+      },
+      {
+        "master_field_id": 5086,
+        "category_master_field_id": 27201,
+        "name": "Əsas kamera dəsti, Mp"
+      },
+      {
+        "master_field_id": 5087,
+        "category_master_field_id": 27202,
+        "name": "Ön kamera dəsti, Mp"
+      },
+      {
+        "master_field_id": 612,
+        "category_master_field_id": 1436,
+        "name": "Qurğunun növü"
+      },
+      {
+        "master_field_id": 1554,
+        "category_master_field_id": 4613,
+        "name": "Yaddaş kartlarının dəstəklənməsi"
+      },
+      {
+        "master_field_id": 708,
+        "category_master_field_id": 4585,
+        "name": "Korpusun materialı"
+      },
+      {
+        "master_field_id": 2552,
+        "category_master_field_id": 15460,
+        "name": "Korpusun qorunması"
+      },
+      {
+        "master_field_id": 614,
+        "category_master_field_id": 1438,
+        "name": "Form-faktor"
+      },
+      {
+        "master_field_id": 1739,
+        "category_master_field_id": 5309,
+        "name": "Sensor ekran"
+      },
+      {
+        "master_field_id": 1534,
+        "category_master_field_id": 15461,
+        "name": "Prosessor"
+      },
+      {
+        "master_field_id": 664,
+        "category_master_field_id": 4579,
+        "name": "Prosessorun nüvələr sayı"
+      },
+      {
+        "master_field_id": 830,
+        "category_master_field_id": 5518,
+        "name": "Yaddaş kartları üçün yuvalar"
+      },
+      {
+        "master_field_id": 1811,
+        "category_master_field_id": 5515,
+        "name": "Wi-Fi standartı"
+      },
+      {
+        "master_field_id": 777,
+        "category_master_field_id": 5313,
+        "name": "Bluetooth standartı"
+      },
+      {
+        "master_field_id": 1810,
+        "category_master_field_id": 5514,
+        "name": "Qoşulma portu"
+      },
+      {
+        "master_field_id": 1809,
+        "category_master_field_id": 5513,
+        "name": "Audio çıxış"
+      },
+      {
+        "master_field_id": 1808,
+        "category_master_field_id": 5512,
+        "name": "Akkumulyatorun bərkitməsi"
+      },
+      {
+        "master_field_id": 1807,
+        "category_master_field_id": 5511,
+        "name": "Simsiz enerji toplama"
+      },
+      {
+        "master_field_id": 1740,
+        "category_master_field_id": 5311,
+        "name": "Digər funksiyalar və xüsusiyyətlər"
+      },
+      {
+        "master_field_id": 2635,
+        "category_master_field_id": 10939,
+        "name": "Bazarın başlanğıc ili"
+      },
+      {
+        "master_field_id": 641,
+        "category_master_field_id": 5507,
+        "name": "Hündürlüyü, mm"
+      },
+      {
+        "master_field_id": 776,
+        "category_master_field_id": 5508,
+        "name": "Eni, mm"
+      },
+      {
+        "master_field_id": 1637,
+        "category_master_field_id": 5509,
+        "name": "Qalınlığı, mm"
+      },
+      {
+        "master_field_id": 870,
+        "category_master_field_id": 4587,
+        "name": "Çəki, q"
+      },
+      {
+        "master_field_id": 618,
+        "category_master_field_id": 1442,
+        "name": "İstehsalçı ölkə"
+      },
+      {
+        "master_field_id": 2210,
+        "category_master_field_id": 15458,
+        "name": "Brendin ölkəsi"
+      },
+      {
+        "master_field_id": 697,
+        "category_master_field_id": 15462,
+        "name": "Komplektasiya"
+      },
+      {
+        "master_field_id": 6541,
+        "category_master_field_id": 44302,
+        "name": "İstehsalçı rəngi"
+      }
+    ],
+    "parent": {
+      "id": 2,
+      "node_type": "NODE",
+      "name": "Telefonlar, Smart cihazlar və telefon aksessuarları",
+      "slugged_name": "telefonlar-ve-aksessuarlar",
+      "parent": {
+        "id": 1,
+        "node_type": "NODE",
+        "name": "Elektronika və məişət texnikası",
+        "slugged_name": "elektronika-ve-meishet-texnikasi",
+        "parent": null
+      }
+    },
+    "is_refundable": true,
+    "is_adult": false,
+    "icons": {
+      "thumbnail": "https://strgimgr.umico.az/img/category/188/6eda4927-c28e-4785-a432-8e63a69439f5.jpeg",
+      "original": "https://strgimgr.umico.az/img/category/original/6eda4927-c28e-4785-a432-8e63a69439f5.jpeg"
+    },
+    "is_active": true
+  },
+  "offers": [
+    {
+      "uuid": "2011ffb2-56cd-4283-b74c-47c177646697",
+      "installment_enabled": true,
+      "max_installment_months": 3,
+      "product_offer_labels": [],
+      "old_price": 3899,
+      "retail_price": 2879,
+      "supplier_id": "17ad8e10-e5ca-48a3-9149-38ba971698a2",
+      "seller": {
+        "ext_id": "4a1c22ba-ad50-4812-be9e-3eee21c017ff",
+        "internal_id": 16496,
+        "marketing_name": {
+          "id": 16496,
+          "name": "Birmarket Offers"
+        },
+        "logo": {
+          "thumbnail": "https://storage.umico.az/cpcustomerprod01/cbc373abf4a73b17ed1a4a945468d783.png"
+        },
+        "vat_payer": true,
+        "rating": 99,
+        "role_name": "FBU"
+      },
+      "comment": "",
+      "allow_qty": 0
+    }
+  ],
+  "variations": [
+    {
+      "id": 1383017,
+      "name": "Smartfon Apple iPhone 17 Pro Max 512GB Cosmic Orange MFYT4AF/A (Rəsmi zəmanət)",
+      "slugged_name": "smartfon-apple-iphone-17-pro-max-512gb-cosmic-orange-resmi-zemanet",
+      "custom_fields": [
+        {
+          "master_field_id": 625,
+          "values": [
+            "Narıncı"
+          ]
+        },
+        {
+          "master_field_id": 1816,
+          "values": [
+            "512 Gb"
+          ]
+        }
+      ],
+      "main_img": {
+        "big": "https://strgimgr.umico.az/img/product/1680/70c951b7-7bb9-41a8-b677-d8b2040d9260.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/70c951b7-7bb9-41a8-b677-d8b2040d9260.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/70c951b7-7bb9-41a8-b677-d8b2040d9260.jpeg"
+      },
+      "status": "active"
+    },
+    {
+      "id": 1434351,
+      "name": "Smartfon Apple iPhone 17 Pro Max 256GB Deep Blue MFXJ4LL/A",
+      "slugged_name": "smartfon-apple-iphone-17-pro-max-256gb-deep-blue-mfxj4ll-a",
+      "custom_fields": [
+        {
+          "master_field_id": 625,
+          "values": [
+            "Göy"
+          ]
+        },
+        {
+          "master_field_id": 1812,
+          "values": [
+            "eSIM"
+          ]
+        },
+        {
+          "master_field_id": 1816,
+          "values": [
+            "256 Gb"
+          ]
+        }
+      ],
+      "main_img": {
+        "big": "https://strgimgr.umico.az/img/product/1680/ced16e0d-55e0-4bea-81e1-6e2deb8c4fef.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/ced16e0d-55e0-4bea-81e1-6e2deb8c4fef.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/ced16e0d-55e0-4bea-81e1-6e2deb8c4fef.jpeg"
+      },
+      "status": "active"
+    },
+    {
+      "id": 1473457,
+      "name": "Smartfon Apple iPhone 17 Pro Max Dual Sim 256GB Silver MG034CH/A",
+      "slugged_name": "smartfon-apple-iphone-17-pro-max-256gb-silver-mg034ch-a",
+      "custom_fields": [
+        {
+          "master_field_id": 625,
+          "values": [
+            "Gümüşü"
+          ]
+        },
+        {
+          "master_field_id": 1812,
+          "values": [
+            "Nano"
+          ]
+        },
+        {
+          "master_field_id": 1816,
+          "values": [
+            "256 Gb"
+          ]
+        }
+      ],
+      "main_img": {
+        "big": "https://strgimgr.umico.az/img/product/1680/00446304-7499-46bf-8bf9-98f6c8f63d4e.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/00446304-7499-46bf-8bf9-98f6c8f63d4e.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/00446304-7499-46bf-8bf9-98f6c8f63d4e.jpeg"
+      },
+      "status": "active"
+    },
+    {
+      "id": 1431704,
+      "name": "Smartfon Apple iPhone 17 Pro Max 256GB Silver MFY84J/A",
+      "slugged_name": "smartfon-apple-iphone-17-pro-max-256gb-silver-mfy84ja",
+      "custom_fields": [
+        {
+          "master_field_id": 625,
+          "values": [
+            "Gümüşü"
+          ]
+        },
+        {
+          "master_field_id": 1812,
+          "values": [
+            "eSIM"
+          ]
+        },
+        {
+          "master_field_id": 1816,
+          "values": [
+            "256 Gb"
+          ]
+        }
+      ],
+      "main_img": {
+        "big": "https://strgimgr.umico.az/img/product/1680/508e5069-59b7-4d3e-8628-00f4aefd4d41.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/508e5069-59b7-4d3e-8628-00f4aefd4d41.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/508e5069-59b7-4d3e-8628-00f4aefd4d41.jpeg"
+      },
+      "status": "active"
+    },
+    {
+      "id": 1382975,
+      "name": "Smartfon Apple iPhone 17 Pro Max 256GB Deep Blue MFYP4AF/A (Rəsmi zəmanət)",
+      "slugged_name": "smartfon-apple-iphone-17-pro-max-256gb-deep-blue-resmi-zemanet",
+      "custom_fields": [
+        {
+          "master_field_id": 625,
+          "values": [
+            "Göy"
+          ]
+        },
+        {
+          "master_field_id": 1812,
+          "values": [
+            "Nano"
+          ]
+        },
+        {
+          "master_field_id": 1816,
+          "values": [
+            "256 Gb"
+          ]
+        }
+      ],
+      "main_img": {
+        "big": "https://strgimgr.umico.az/img/product/1680/0ad09d24-4b1d-4efe-9656-cfedd81797b7.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/0ad09d24-4b1d-4efe-9656-cfedd81797b7.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/0ad09d24-4b1d-4efe-9656-cfedd81797b7.jpeg"
+      },
+      "status": "active"
+    },
+    {
+      "id": 1478442,
+      "name": "Smartfon Apple iPhone 17 Pro Max 256GB Deep Blue MFYP4ZD/A (Rəsmi zəmanət)",
+      "slugged_name": "smartfon-apple-iphone-17-pro-max-256gb-deep-blue-mfyp4zd-a-resmi-zemanet",
+      "custom_fields": [
+        {
+          "master_field_id": 625,
+          "values": [
+            "Göy"
+          ]
+        },
+        {
+          "master_field_id": 1812,
+          "values": []
+        },
+        {
+          "master_field_id": 1816,
+          "values": [
+            "256 Gb"
+          ]
+        }
+      ],
+      "main_img": {
+        "big": "https://strgimgr.umico.az/img/product/1680/ced16e0d-55e0-4bea-81e1-6e2deb8c4fef.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/ced16e0d-55e0-4bea-81e1-6e2deb8c4fef.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/ced16e0d-55e0-4bea-81e1-6e2deb8c4fef.jpeg"
+      },
+      "status": "active"
+    },
+    {
+      "id": 1476236,
+      "name": "Smartfon Apple iPhone 17 Pro Max 256GB Deep Blue MFYP4HX/A (Rəsmi zəmanət)",
+      "slugged_name": "smartfon-apple-iphone-17-pro-max-256gb-deep-blue-mfyp4hx-a-resmi-zemanet",
+      "custom_fields": [
+        {
+          "master_field_id": 625,
+          "values": [
+            "Göy"
+          ]
+        },
+        {
+          "master_field_id": 1812,
+          "values": []
+        },
+        {
+          "master_field_id": 1816,
+          "values": [
+            "256 Gb"
+          ]
+        }
+      ],
+      "main_img": {
+        "big": "https://strgimgr.umico.az/img/product/1680/ced16e0d-55e0-4bea-81e1-6e2deb8c4fef.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/ced16e0d-55e0-4bea-81e1-6e2deb8c4fef.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/ced16e0d-55e0-4bea-81e1-6e2deb8c4fef.jpeg"
+      },
+      "status": "active"
+    },
+    {
+      "id": 1382961,
+      "name": "Smartfon Apple iPhone 17 Pro Max 1TB Silver",
+      "slugged_name": "smartfon-apple-iphone-17-pro-max-1tb-silver",
+      "custom_fields": [
+        {
+          "master_field_id": 625,
+          "values": [
+            "Gümüşü"
+          ]
+        },
+        {
+          "master_field_id": 1812,
+          "values": [
+            "Nano",
+            "eSIM"
+          ]
+        },
+        {
+          "master_field_id": 1816,
+          "values": [
+            "1 Tb"
+          ]
+        }
+      ],
+      "main_img": {
+        "big": "https://strgimgr.umico.az/img/product/1680/05ded21f-77cd-4e3b-8aa2-5c38d4a4e900.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/05ded21f-77cd-4e3b-8aa2-5c38d4a4e900.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/05ded21f-77cd-4e3b-8aa2-5c38d4a4e900.jpeg"
+      },
+      "status": "active"
+    },
+    {
+      "id": 1431695,
+      "name": "Smartfon Apple iPhone 17 Pro Max 256GB Cosmic Orange MFY94J/A",
+      "slugged_name": "smartfon-apple-iphone-17-pro-max-256gb-cosmic-orange-mfy94ja",
+      "custom_fields": [
+        {
+          "master_field_id": 625,
+          "values": [
+            "Narıncı"
+          ]
+        },
+        {
+          "master_field_id": 1812,
+          "values": [
+            "eSIM"
+          ]
+        },
+        {
+          "master_field_id": 1816,
+          "values": [
+            "256 Gb"
+          ]
+        }
+      ],
+      "main_img": {
+        "big": "https://strgimgr.umico.az/img/product/1680/4b1ce8e8-cd40-448c-be5d-648aa419439f.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/4b1ce8e8-cd40-448c-be5d-648aa419439f.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/4b1ce8e8-cd40-448c-be5d-648aa419439f.jpeg"
+      },
+      "status": "active"
+    },
+    {
+      "id": 1434357,
+      "name": "Smartfon Apple iPhone 17 Pro Max 256GB Cosmic Orange MFXH4LL/A",
+      "slugged_name": "smartfon-apple-iphone-17-pro-max-256gb-cosmic-orange-mfxh4ll-a",
+      "custom_fields": [
+        {
+          "master_field_id": 625,
+          "values": [
+            "Narıncı"
+          ]
+        },
+        {
+          "master_field_id": 1812,
+          "values": [
+            "eSIM"
+          ]
+        },
+        {
+          "master_field_id": 1816,
+          "values": [
+            "256 Gb"
+          ]
+        }
+      ],
+      "main_img": {
+        "big": "https://strgimgr.umico.az/img/product/1680/4b1ce8e8-cd40-448c-be5d-648aa419439f.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/4b1ce8e8-cd40-448c-be5d-648aa419439f.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/4b1ce8e8-cd40-448c-be5d-648aa419439f.jpeg"
+      },
+      "status": "active"
+    },
+    {
+      "id": 1382958,
+      "name": "Smartfon Apple iPhone 17 Pro Max 1TB Deep Blue",
+      "slugged_name": "smartfon-apple-iphone-17-pro-max-1tb-deep-blue",
+      "custom_fields": [
+        {
+          "master_field_id": 625,
+          "values": [
+            "Göy"
+          ]
+        },
+        {
+          "master_field_id": 1812,
+          "values": [
+            "Nano",
+            "eSIM"
+          ]
+        },
+        {
+          "master_field_id": 1816,
+          "values": [
+            "1 Tb"
+          ]
+        }
+      ],
+      "main_img": {
+        "big": "https://strgimgr.umico.az/img/product/1680/5396016f-818e-4abd-a3b3-292e74fcec44.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/5396016f-818e-4abd-a3b3-292e74fcec44.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/5396016f-818e-4abd-a3b3-292e74fcec44.jpeg"
+      },
+      "status": "active"
+    },
+    {
+      "id": 1432095,
+      "name": "Smartfon Apple iPhone 17 Pro Max 256GB Deep Blue MFYA4AH/A",
+      "slugged_name": "smartfon-apple-iphone-17-pro-max-256gb-deep-blue-mfya4ah-a",
+      "custom_fields": [
+        {
+          "master_field_id": 625,
+          "values": [
+            "Göy"
+          ]
+        },
+        {
+          "master_field_id": 1812,
+          "values": [
+            "eSIM"
+          ]
+        },
+        {
+          "master_field_id": 1816,
+          "values": [
+            "256 Gb"
+          ]
+        }
+      ],
+      "main_img": {
+        "big": "https://strgimgr.umico.az/img/product/1680/ced16e0d-55e0-4bea-81e1-6e2deb8c4fef.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/ced16e0d-55e0-4bea-81e1-6e2deb8c4fef.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/ced16e0d-55e0-4bea-81e1-6e2deb8c4fef.jpeg"
+      },
+      "status": "active"
+    },
+    {
+      "id": 1493693,
+      "name": "Smartfon Apple iPhone 17 Pro Max 256GB Silver MFYM4HN/A",
+      "slugged_name": "smartfon-apple-iphone-17-pro-max-256gb-silver-mfym4hn-a",
+      "custom_fields": [
+        {
+          "master_field_id": 625,
+          "values": [
+            "Gümüşü"
+          ]
+        },
+        {
+          "master_field_id": 1812,
+          "values": [
+            "Nano",
+            "eSIM"
+          ]
+        },
+        {
+          "master_field_id": 1816,
+          "values": [
+            "256 Gb"
+          ]
+        }
+      ],
+      "main_img": {
+        "big": "https://strgimgr.umico.az/img/product/1680/508e5069-59b7-4d3e-8628-00f4aefd4d41.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/508e5069-59b7-4d3e-8628-00f4aefd4d41.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/508e5069-59b7-4d3e-8628-00f4aefd4d41.jpeg"
+      },
+      "status": "active"
+    },
+    {
+      "id": 1382973,
+      "name": "Smartfon Apple iPhone 17 Pro Max 256GB Deep Blue",
+      "slugged_name": "smartfon-apple-iphone-17-pro-max-256gb-deep-blue",
+      "custom_fields": [
+        {
+          "master_field_id": 625,
+          "values": [
+            "Göy"
+          ]
+        },
+        {
+          "master_field_id": 1812,
+          "values": [
+            "Nano",
+            "eSIM"
+          ]
+        },
+        {
+          "master_field_id": 1816,
+          "values": [
+            "256 Gb"
+          ]
+        }
+      ],
+      "main_img": {
+        "big": "https://strgimgr.umico.az/img/product/1680/ced16e0d-55e0-4bea-81e1-6e2deb8c4fef.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/ced16e0d-55e0-4bea-81e1-6e2deb8c4fef.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/ced16e0d-55e0-4bea-81e1-6e2deb8c4fef.jpeg"
+      },
+      "status": "active"
+    },
+    {
+      "id": 1395039,
+      "name": "Smartfon Apple iPhone 17 Pro Max 512GB Deep Blue MFYU4AF/A (Rəsmi zəmanət)",
+      "slugged_name": "smartfon-apple-iphone-17-pro-max-512gb-deep-blue-resmi-zemanet",
+      "custom_fields": [
+        {
+          "master_field_id": 625,
+          "values": [
+            "Göy"
+          ]
+        },
+        {
+          "master_field_id": 1816,
+          "values": [
+            "512 Gb"
+          ]
+        }
+      ],
+      "main_img": {
+        "big": "https://strgimgr.umico.az/img/product/1680/16ef0dfc-aedd-4065-a821-e797e33ac31c.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/16ef0dfc-aedd-4065-a821-e797e33ac31c.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/16ef0dfc-aedd-4065-a821-e797e33ac31c.jpeg"
+      },
+      "status": "active"
+    },
+    {
+      "id": 1476205,
+      "name": "Smartfon Apple iPhone 17 Pro Max 256GB Cosmic Orange MFYN4HX/A (Rəsmi zəmanət)",
+      "slugged_name": "smartfon-apple-iphone-17-pro-max-256gb-cosmic-orange-mfyn4hx-a-resmi-zemanet",
+      "custom_fields": [
+        {
+          "master_field_id": 625,
+          "values": [
+            "Narıncı"
+          ]
+        },
+        {
+          "master_field_id": 1812,
+          "values": [
+            "Nano",
+            "eSIM"
+          ]
+        },
+        {
+          "master_field_id": 1816,
+          "values": [
+            "256 Gb"
+          ]
+        }
+      ],
+      "main_img": {
+        "big": "https://strgimgr.umico.az/img/product/1680/4b1ce8e8-cd40-448c-be5d-648aa419439f.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/4b1ce8e8-cd40-448c-be5d-648aa419439f.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/4b1ce8e8-cd40-448c-be5d-648aa419439f.jpeg"
+      },
+      "status": "active"
+    },
+    {
+      "id": 1383022,
+      "name": "Smartfon Apple iPhone 17 Pro Max 512GB Deep Blue",
+      "slugged_name": "smartfon-apple-iphone-17-pro-max-512gb-deep-blue-resmi-zemanet",
+      "custom_fields": [
+        {
+          "master_field_id": 625,
+          "values": [
+            "Göy"
+          ]
+        },
+        {
+          "master_field_id": 1812,
+          "values": [
+            "Nano",
+            "eSIM"
+          ]
+        },
+        {
+          "master_field_id": 1816,
+          "values": [
+            "512 Gb"
+          ]
+        }
+      ],
+      "main_img": {
+        "big": "https://strgimgr.umico.az/img/product/1680/5f61ac0b-178a-4604-964c-9955613d5204.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/5f61ac0b-178a-4604-964c-9955613d5204.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/5f61ac0b-178a-4604-964c-9955613d5204.jpeg"
+      },
+      "status": "active"
+    },
+    {
+      "id": 1431698,
+      "name": "Smartfon Apple iPhone 17 Pro Max 256GB Deep Blue MFYA4J/A",
+      "slugged_name": "smartfon-apple-iphone-17-pro-max-256gb-deep-blue-mfya4ja",
+      "custom_fields": [
+        {
+          "master_field_id": 625,
+          "values": [
+            "Göy"
+          ]
+        },
+        {
+          "master_field_id": 1812,
+          "values": [
+            "eSIM"
+          ]
+        },
+        {
+          "master_field_id": 1816,
+          "values": [
+            "256 Gb"
+          ]
+        }
+      ],
+      "main_img": {
+        "big": "https://strgimgr.umico.az/img/product/1680/ced16e0d-55e0-4bea-81e1-6e2deb8c4fef.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/ced16e0d-55e0-4bea-81e1-6e2deb8c4fef.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/ced16e0d-55e0-4bea-81e1-6e2deb8c4fef.jpeg"
+      },
+      "status": "active"
+    },
+    {
+      "id": 1382967,
+      "name": "Smartfon Apple iPhone 17 Pro Max 256GB Cosmic Orange MFYN4AF/A (Rəsmi zəmanət)",
+      "slugged_name": "smartfon-apple-iphone-17-pro-max-256gb-cosmic-orange-resmi-zemanet",
+      "custom_fields": [
+        {
+          "master_field_id": 625,
+          "values": [
+            "Narıncı"
+          ]
+        },
+        {
+          "master_field_id": 1812,
+          "values": []
+        },
+        {
+          "master_field_id": 1816,
+          "values": [
+            "256 Gb"
+          ]
+        }
+      ],
+      "main_img": {
+        "big": "https://strgimgr.umico.az/img/product/1680/2c739f8c-833f-4b54-9df7-debd00250424.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/2c739f8c-833f-4b54-9df7-debd00250424.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/2c739f8c-833f-4b54-9df7-debd00250424.jpeg"
+      },
+      "status": "active"
+    },
+    {
+      "id": 1382966,
+      "name": "Smartfon Apple iPhone 17 Pro Max 256GB Cosmic Orange",
+      "slugged_name": "smartfon-apple-iphone-17-pro-max-256gb-cosmic-orange",
+      "custom_fields": [
+        {
+          "master_field_id": 625,
+          "values": [
+            "Narıncı"
+          ]
+        },
+        {
+          "master_field_id": 1812,
+          "values": [
+            "Nano",
+            "eSIM"
+          ]
+        },
+        {
+          "master_field_id": 1816,
+          "values": [
+            "256 Gb"
+          ]
+        }
+      ],
+      "main_img": {
+        "big": "https://strgimgr.umico.az/img/product/1680/4b1ce8e8-cd40-448c-be5d-648aa419439f.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/4b1ce8e8-cd40-448c-be5d-648aa419439f.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/4b1ce8e8-cd40-448c-be5d-648aa419439f.jpeg"
+      },
+      "status": "active"
+    },
+    {
+      "id": 1434347,
+      "name": "Smartfon Apple iPhone 17 Pro Max 256GB Silver MFXG4LL/A",
+      "slugged_name": "smartfon-apple-iphone-17-pro-max-256gb-silver-mfxg4ll-a",
+      "custom_fields": [
+        {
+          "master_field_id": 625,
+          "values": [
+            "Gümüşü"
+          ]
+        },
+        {
+          "master_field_id": 1812,
+          "values": [
+            "eSIM"
+          ]
+        },
+        {
+          "master_field_id": 1816,
+          "values": [
+            "256 Gb"
+          ]
+        }
+      ],
+      "main_img": {
+        "big": "https://strgimgr.umico.az/img/product/1680/508e5069-59b7-4d3e-8628-00f4aefd4d41.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/508e5069-59b7-4d3e-8628-00f4aefd4d41.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/508e5069-59b7-4d3e-8628-00f4aefd4d41.jpeg"
+      },
+      "status": "active"
+    },
+    {
+      "id": 1383014,
+      "name": "Smartfon Apple iPhone 17 Pro Max 512GB Cosmic Orange",
+      "slugged_name": "smartfon-apple-iphone-17-pro-max-512gb-cosmic-orange",
+      "custom_fields": [
+        {
+          "master_field_id": 625,
+          "values": [
+            "Narıncı"
+          ]
+        },
+        {
+          "master_field_id": 1812,
+          "values": [
+            "Nano",
+            "eSIM"
+          ]
+        },
+        {
+          "master_field_id": 1816,
+          "values": [
+            "512 Gb"
+          ]
+        }
+      ],
+      "main_img": {
+        "big": "https://strgimgr.umico.az/img/product/1680/66547136-6e7f-481a-a95d-02ef0d4d6833.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/66547136-6e7f-481a-a95d-02ef0d4d6833.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/66547136-6e7f-481a-a95d-02ef0d4d6833.jpeg"
+      },
+      "status": "active"
+    },
+    {
+      "id": 1431779,
+      "name": "Smartfon Apple iPhone 17 Pro Max 512GB Silver MFYC4J/A",
+      "slugged_name": "smartfon-apple-iphone-17-pro-max-512gb-silver-mfyc4ja",
+      "custom_fields": [
+        {
+          "master_field_id": 625,
+          "values": [
+            "Gümüşü"
+          ]
+        },
+        {
+          "master_field_id": 1812,
+          "values": [
+            "eSIM"
+          ]
+        },
+        {
+          "master_field_id": 1816,
+          "values": [
+            "512 Gb"
+          ]
+        }
+      ],
+      "main_img": {
+        "big": "https://strgimgr.umico.az/img/product/1680/84e44241-8342-42c2-837b-b58e6a28d816.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/84e44241-8342-42c2-837b-b58e6a28d816.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/84e44241-8342-42c2-837b-b58e6a28d816.jpeg"
+      },
+      "status": "active"
+    },
+    {
+      "id": 1476318,
+      "name": "Smartfon Apple iPhone 17 Pro Max 512GB Deep Blue MFYU4HX/A (Rəsmi zəmanət)",
+      "slugged_name": "smartfon-apple-iphone-17-pro-max-512gb-deep-blue-mfyu4hx-a-resmi-zemanet",
+      "custom_fields": [
+        {
+          "master_field_id": 625,
+          "values": [
+            "Göy"
+          ]
+        },
+        {
+          "master_field_id": 1812,
+          "values": []
+        },
+        {
+          "master_field_id": 1816,
+          "values": [
+            "512 Gb"
+          ]
+        }
+      ],
+      "main_img": {
+        "big": "https://strgimgr.umico.az/img/product/1680/5f61ac0b-178a-4604-964c-9955613d5204.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/5f61ac0b-178a-4604-964c-9955613d5204.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/5f61ac0b-178a-4604-964c-9955613d5204.jpeg"
+      },
+      "status": "active"
+    },
+    {
+      "id": 1432097,
+      "name": "Smartfon Apple iPhone 17 Pro Max 256GB Silver MFY84AH/A",
+      "slugged_name": "smartfon-apple-iphone-17-pro-max-256gb-silver-mfy84ah-a",
+      "custom_fields": [
+        {
+          "master_field_id": 625,
+          "values": [
+            "Gümüşü"
+          ]
+        },
+        {
+          "master_field_id": 1812,
+          "values": [
+            "eSIM"
+          ]
+        },
+        {
+          "master_field_id": 1816,
+          "values": [
+            "256 Gb"
+          ]
+        }
+      ],
+      "main_img": {
+        "big": "https://strgimgr.umico.az/img/product/1680/508e5069-59b7-4d3e-8628-00f4aefd4d41.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/508e5069-59b7-4d3e-8628-00f4aefd4d41.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/508e5069-59b7-4d3e-8628-00f4aefd4d41.jpeg"
+      },
+      "status": "active"
+    },
+    {
+      "id": 1382980,
+      "name": "Smartfon Apple iPhone 17 Pro Max 256GB Silver",
+      "slugged_name": "smartfon-apple-iphone-17-pro-max-256gb-silver",
+      "custom_fields": [
+        {
+          "master_field_id": 625,
+          "values": [
+            "Gümüşü"
+          ]
+        },
+        {
+          "master_field_id": 1812,
+          "values": [
+            "Nano",
+            "eSIM"
+          ]
+        },
+        {
+          "master_field_id": 1816,
+          "values": [
+            "256 Gb"
+          ]
+        }
+      ],
+      "main_img": {
+        "big": "https://strgimgr.umico.az/img/product/1680/508e5069-59b7-4d3e-8628-00f4aefd4d41.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/508e5069-59b7-4d3e-8628-00f4aefd4d41.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/508e5069-59b7-4d3e-8628-00f4aefd4d41.jpeg"
+      },
+      "status": "active"
+    }
+  ],
+  "size_chart": {},
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "sku": 1476205,
+    "mpn": "MFYN4HX/A",
+    "url": "https://birmarket.az/product/1476205-smartfon-apple-iphone-17-pro-max-256gb-cosmic-orange-mfyn4hx-a-resmi-zemanet",
+    "name": "Smartfon Apple iPhone 17 Pro Max 256GB Cosmic Orange MFYN4HX/A (Rəsmi zəmanət)",
+    "image": [
+      "https://strgimgr.umico.az/img/product/1680/4b1ce8e8-cd40-448c-be5d-648aa419439f.jpeg",
+      "https://strgimgr.umico.az/img/product/1680/93d87cd9-55ed-4edd-8d06-d549177fe425.jpeg",
+      "https://strgimgr.umico.az/img/product/1680/3dec2e89-235a-471f-b369-994ff630f323.jpeg",
+      "https://strgimgr.umico.az/img/product/1680/bbcdcc77-4af4-4d05-9301-7d4c7dd8925a.jpeg",
+      "https://strgimgr.umico.az/img/product/1680/8def61ac-6c10-45c8-a204-64fe3c029b47.jpeg",
+      "https://strgimgr.umico.az/img/product/1680/0a729f1e-4995-4b31-a5fd-4f6183d63544.jpeg",
+      "https://strgimgr.umico.az/img/product/1680/bc828125-3bbb-45fd-9e0b-20195c7c8bac.jpeg",
+      "https://strgimgr.umico.az/img/product/1680/f2a86882-7679-4fbd-a555-82710a331461.jpeg",
+      "https://strgimgr.umico.az/img/product/1680/4388d983-e996-4141-a46c-48f892cb9884.jpeg",
+      "https://strgimgr.umico.az/img/product/1680/61782a78-42ab-4746-9faa-e9a7924bb708.jpeg",
+      "https://strgimgr.umico.az/img/product/1680/95c3e603-046d-4dca-8a46-bd6348522db0.jpeg"
+    ],
+    "description": "&lt;p&gt;Qarşınızda iPhone 17 Pro Max, ən güclü iPhone modelləri olmaq üçün hazırlanıb. Konstruksiyanın əsasında maksimal məhsuldarlıq, batareya tutumu və davamlılıq təmin edən bütöv alüminium korpus dayanır.&lt;/p&gt;&lt;img src=&quot;https://strgimgr.umico.az/img/product/1680/2aeaa149-2f88-48fd-bcde-c37435d80638.jpeg&quot; alt=&quot;1&quot;&gt;&lt;p&gt;&lt;br&gt;iPhone 17 Pro Max kamera sistemində isə adət olunmuşun çox-çox fövqünə çıxan yeniliklər var. Buraya iPhone tarixində ən böyük teleobyektiv daxildir — 200 mm-ə qədər fokus məsafəsi, tetraprizma quruluşu və 56% böyüdülmüş sensor sayəsində. Bu, daha geniş yaradıcılıq imkanları açır və 16 qat optik zoom ilə çəkiliş məsafəsini artırmağa imkan verir. Zəif işıqda möhtəşəm fotolar və inanılmaz videolar çəkin.&lt;/p&gt;&lt;img src=&quot;https://strgimgr.umico.az/img/product/1680/0926b42c-bf07-4acf-9093-29fb58a282cb.jpeg&quot; alt=&quot;3&quot;&gt;&lt;p&gt;&lt;br&gt;Ön kamera foto və video üçün çevik kadrlama imkanları yaradır — və daha çoxunu. Sadəcə toxunun, baxış bucağını genişləndirin və iPhone-u hərəkət etdirmədən portret orientasiyasından landşaft orientasiyasına çevirin. Dostlar kadra qoşulduqda isə baxış bucağı böyüyür və selfilərinizə daha çox dost sığır. Ev filmlərindən tutmuş Hollivud istehsalına qədər — iPhone 17 Pro Max istənilən işin öhdəsindən gəlir. İndiyə qədər olduğundan daha çox peşəkar video funksiyaları — məsələn, təkmilləşdirilmiş video sabitləşməsi, kinoteatr səviyyəli göstəricilər və sənaye standartlarına uyğunluq — iPhone 17 Pro Max-ı kino istehsalı üçün lazım olan güclü alətlərə çevirir.&lt;/p&gt;&lt;img src=&quot;https://strgimgr.umico.az/img/product/1680/7b656ccd-ea4c-4b75-8acc-85f4a48732c4.jpeg&quot; alt=&quot;4&quot;&gt;&lt;p&gt;&lt;br&gt;İstər resurs tələb edən qrafika, istərsə də böyük media faylları ilə işləyin, iPhone 17 Pro Max qabaqcıl soyutma texnologiyası sayəsində inanılmaz yüksək performans təmin edir. Apple tərəfindən hazırlanmış lazer qaynaqlı buxar kamerası bütöv alüminium korpusla birlikdə A19 Pro çipindən istiliyi effektiv şəkildə uzaqlaşdırır və daha yüksək, sabit məhsuldarlıq yaradır.&lt;/p&gt;",
+    "itemCondition": "https://schema.org/NewCondition",
+    "offers": {
+      "@type": "Offer",
+      "availability": "https://schema.org/InStock",
+      "url": "https://birmarket.az/product/1476205-smartfon-apple-iphone-17-pro-max-256gb-cosmic-orange-mfyn4hx-a-resmi-zemanet",
+      "price": 2879,
+      "priceCurrency": "AZN",
+      "priceValidUntil": "2026-12-03T05:13:50+00:00Z",
+      "hasMerchantReturnPolicy": {
+        "applicableCountry": "AZ",
+        "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+        "returnMethod": "https://schema.org/ReturnInStore",
+        "returnFees": "https://schema.org/FreeReturn",
+        "merchantReturnDays": 14
+      },
+      "shippingDetails": {
+        "@type": "OfferShippingDetails",
+        "shippingDestination": {
+          "@type": "DefinedRegion",
+          "addressCountry": "AZ"
+        },
+        "deliveryTime": {
+          "@type": "ShippingDeliveryTime",
+          "handlingTime": {
+            "@type": "QuantitativeValue",
+            "minValue": 0,
+            "maxValue": 1,
+            "unitCode": "DAY"
+          },
+          "transitTime": {
+            "@type": "QuantitativeValue",
+            "minValue": 0,
+            "maxValue": 1,
+            "unitCode": "DAY"
+          },
+          "businessDays": {
+            "@type": "OpeningHoursSpecification",
+            "dayOfWeek": [
+              "https://schema.org/Monday",
+              "https://schema.org/Tuesday",
+              "https://schema.org/Wednesday",
+              "https://schema.org/Thursday",
+              "https://schema.org/Friday",
+              "https://schema.org/Saturday",
+              "https://schema.org/Sunday"
+            ]
+          }
+        },
+        "shippingRate": {
+          "@type": "MonetaryAmount",
+          "value": 0,
+          "currency": "AZN"
+        }
+      }
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": 5,
+      "reviewCount": 6
+    },
+    "brand": {
+      "@type": "Brand",
+      "name": "Apple",
+      "url": "https://birmarket.az/brands/Apple"
+    }
+  }
+}
