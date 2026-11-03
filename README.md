@@ -134,18 +134,87 @@ Use `./run.sh --mock` for the original competition data and mock bookings.
 Use `./run.sh --snapshot --vision` for the older, frozen snapshot mode. Its descriptor
 can still be published with `scripts/publish_snapshot.py` and requires a restart.
 
-For deployment set `SUPERCHAT_DATA_MODE=database`, install the scraper extra and
-provide persistent storage for the database, archives/images and session logs.
-Local CLIP needs substantially more resources than a tiny free hosting instance.
-This remains a single-user demonstration: shared public use still needs visitor
-isolation/authentication and durable deployment storage.
+For deployment, see the Render setup below. This remains a single-user
+demonstration: shared public use still needs visitor isolation/authentication.
 
 This implements the agreed real-data approach. Birmarket/CinemaPlus are **our API
 backends over collected public listings**, not official partner APIs. Full Phase 2
 under the original brief still needs acceptance of that substitution or official
 provider contracts and a sandbox. See [the implementation log](docs/PHASE2_LOG.md).
 
-## Run
+## Deploy on Render
+
+Create a **Web Service** connected to this repository and select the branch you
+want to deploy. The repository must include `pyproject.toml`, `uv.lock`,
+`superchat/`, `SuperChat_Mock_Data/`, and `preparation_dataset/` with its collected
+data. Use these settings when the project is at the repository root:
+
+| Render field | Value |
+| --- | --- |
+| Language | Python 3 |
+| Root Directory | Leave empty |
+| Build Command | `uv sync --frozen --extra scraper && uv cache prune --ci` |
+| Start Command | `uv run --frozen --extra scraper uvicorn superchat.app:app --host 0.0.0.0 --port $PORT` |
+
+If the project is inside a repository subfolder, set **Root Directory** to that
+folder instead. `superchat.app:app` is this project's FastAPI entry point.
+Render supplies `PORT`; `0.0.0.0` makes the server reachable by Render. See
+[Render's FastAPI guide](https://render.com/docs/deploy-fastapi).
+
+Add these **Environment Variables** before deploying:
+
+```dotenv
+PYTHON_VERSION=3.13.5
+SUPERCHAT_DATA_MODE=database
+```
+
+The project requires Python 3.11–3.13. Explicitly select a compatible version;
+Render's default may be newer. The `PYTHON_VERSION` setting requires a complete
+version number; see [Render's Python version guide](https://render.com/docs/python-version).
+
+For AI responses, copy your configured `AI_BASE_URL`, `AI_MODEL`, and provider key
+(`AI_API_KEY` or `OPENROUTER_API_KEY`) from your local `.env` into Render's
+environment settings. Add `TRAVELPAYOUTS_API_TOKEN` if using the Aviasales Data API.
+Render does not receive your local `.env` automatically. Never commit credentials.
+Without those keys, the offline chat router and archived flight listings remain
+available.
+
+The commands above install the core app and HTTP scrapers. They exclude local
+CLIP image search and browser collection. Local CLIP needs the `vision` extra,
+model files, and substantially more memory than a 512 MB instance. Browser
+collection uses local Chrome and is not part of this Render setup.
+
+### Persistent data
+
+Without a disk, saved chats and catalogue updates are lost on service restarts
+or redeploys. For durable storage, attach a
+[Render persistent disk](https://render.com/docs/disks) to a paid service at
+`/var/data` and add:
+
+```dotenv
+SUPERCHAT_CATALOGUE_DB=/var/data/catalogue/catalogue.sqlite3
+SUPERCHAT_LOG_DIR=/var/data/sessions
+SUPERCHAT_REAL_DATA_DIR=/var/data/SuperChat_Real_Data
+```
+
+With those disk settings, replace the **Start Command** with this single line.
+It copies the bundled catalogue to the disk on first startup, then starts the app:
+
+```bash
+bash -c 'set -e; if [ ! -d /var/data/SuperChat_Real_Data ]; then cp -a preparation_dataset/SuperChat_Real_Data /var/data/SuperChat_Real_Data; fi; exec uv run --frozen --extra scraper uvicorn superchat.app:app --host 0.0.0.0 --port "$PORT"'
+```
+
+Disk initialization belongs in the start command because Render disks are only
+available at runtime. Existing disk data is retained on subsequent deployments.
+The database seeds from the copied catalogue; local uncommitted database changes
+are not uploaded automatically. Automatic HTTP refreshes run by default, subject
+to provider access; set `SUPERCHAT_AUTO_REFRESH=false` to disable them.
+
+Click **Deploy Web Service**. After the deploy succeeds, open the service URL and
+check `/api/config` and `/api/catalogue/status` to confirm database mode and the
+loaded catalogue.
+
+## Run locally
 
 Requires Python 3.11–3.13 and [uv](https://docs.astral.sh/uv/getting-started/installation/). From this folder:
 
@@ -157,7 +226,7 @@ Open **http://localhost:8000**. The command installs the locked dependencies and
 
 For a different port: `PORT=8001 ./run.sh --vision`. Stop with Ctrl+C. To develop with automatic reload: `uv run --extra vision uvicorn superchat.app:app --reload`.
 
-The app binds to your computer's loopback interface. It is a single-user competition demo, not a public multi-user service. The PDF brief and official data remain unchanged.
+The local `run.sh` command binds to your computer's loopback interface. It is a single-user competition demo, not a public multi-user service. The PDF brief and official data remain unchanged.
 
 ## Chat AI (optional, for flexible natural language)
 
